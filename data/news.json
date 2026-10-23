@@ -1,18 +1,20 @@
 {
-  "generated_at": "2026-10-23T05:07:17+00:00",
-  "total": 247,
-  "source_count": 18,
-  "error_count": 2,
+  "title": "AI 日报",
+  "subtitle": "大模型 · 智能体 · 具身智能",
+  "description": "每天自动聚合大模型、智能体与具身智能领域的AI资讯",
+  "generated_at": "2026-10-23T06:05:31+00:00",
+  "total": 248,
+  "source_count": 17,
+  "error_count": 1,
   "errors": [
-    "VentureBeat AI: <HTTPError 429: 'Too Many Requests'>",
-    "Indie Hackers: <HTTPError 403: 'Forbidden'>"
+    "VentureBeat AI: <HTTPError 429: 'Too Many Requests'>"
   ],
   "categories": [
     {
       "key": "llm",
       "label": "大模型",
       "color": "#2563eb",
-      "count": 40,
+      "count": 34,
       "items": [
         {
           "title": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
@@ -26,7 +28,7 @@
         {
           "title": "Canva的首个AI图像模型在生成设计之前对其进行规划",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-          "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an […]",
+          "summary": "通过推出与OpenAI、微软和谷歌直接竞争的图像生成模型， Canva正在更深入地研究人工智能。这个名为Canva Craft的模型使用两阶段架构，允许它在生成图像之前规划设计，从而实现“更高的精度，一致性和控制性” ，根据[…]",
           "source": "The Verge AI",
           "published": "2026-10-22T21:53:22+00:00",
           "published_ts": 1792706002.0,
@@ -35,7 +37,7 @@
         {
           "title": "设计一款经久耐用的AI服务线束",
           "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-          "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
+          "summary": "企业人工智能的下一个竞争优势与其说与您选择哪种模式有关，不如说与您围绕它构建的内容有关。这是一个重要的转变。在过去的几年里，人工智能的大部分对话都集中在模型能力上：更大的模型、更好的推理、更大的上下文窗口、更高的基准分数。这些进步已经……",
           "source": "MIT Tech Review AI",
           "published": "2026-10-22T21:17:29+00:00",
           "published_ts": 1792703849.0,
@@ -44,7 +46,7 @@
         {
           "title": "法律专家表示， Meta的人工智能仍然可以抓取新闻网站",
           "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-          "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape […]",
+          "summary": "Meta已经调整了其业务条款，删除了表明它可以在新闻网站（如The Verge ）上自由训练其人工智能模型的语言，但法律专家表示，这些变化不足以解决他们的担忧。“这并没有限制'与您的产品或服务相关联'的[语言] ，这会让Meta抓取[…]",
           "source": "The Verge AI",
           "published": "2026-10-22T20:32:05+00:00",
           "published_ts": 1792701125.0,
@@ -53,7 +55,7 @@
         {
           "title": "随着决策模型竞争的加剧， OpenAI使其JEV竞争对手广泛可用",
           "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-          "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+          "summary": "OpenAI正在向全世界推出其决策模型。它能与原来的Jev竞争吗？",
           "source": "TechCrunch AI",
           "published": "2026-10-22T19:00:00+00:00",
           "published_ts": 1792695600.0,
@@ -62,7 +64,7 @@
         {
           "title": "Canva发布首个图像生成模型",
           "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-          "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+          "summary": "Canva正在向所有用户提供新的图像模型，承诺以更低的成本提供更好、更可定制的性能。",
           "source": "TechCrunch AI",
           "published": "2026-10-22T19:00:00+00:00",
           "published_ts": 1792695600.0,
@@ -71,34 +73,16 @@
         {
           "title": "微软的穆斯塔法·苏莱曼（ Mustafa Suleyman ）表示，在追求“医学超级智能”的过程中，其人工智能在困难病例上的表现优于医生",
           "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-          "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+          "summary": "根据《科学》杂志的一项研究，微软的新人工智能诊断系统在困难病例上击败了多面手医生。但大部分改进似乎来自下面的人工智能模型，而不是来自微软的系统本身。",
           "source": "TechCrunch AI",
           "published": "2026-10-22T18:43:53+00:00",
           "published_ts": 1792694633.0,
           "category": "llm"
         },
         {
-          "title": "Liquid AI推出适用于Sub-50 ms LFM的实时推理引擎RIPL",
-          "link": "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/",
-          "summary": "Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM. The post Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs appeared first on MarkTechPost .",
-          "source": "MarkTechPost",
-          "published": "2026-10-22T17:33:25+00:00",
-          "published_ts": 1792690405.0,
-          "category": "llm"
-        },
-        {
-          "title": "Gradium开源Phonon ， Apache 2.0下的31M参数On-Device TTS模型",
-          "link": "https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/",
-          "summary": "Gradium has open-sourced Phonon, a family of on-device text-to-speech models. The English Phonon 31m ships under Apache 2.0, fits in 64.5 MB, and starts speaking in about 7 ms on a laptop CPU. The post Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0 appeared first on MarkTechPost .",
-          "source": "MarkTechPost",
-          "published": "2026-10-22T16:56:12+00:00",
-          "published_ts": 1792688172.0,
-          "category": "llm"
-        },
-        {
           "title": "OmniParseBench开发人员指南：排行榜基准和OCR测试",
           "link": "https://www.marktechpost.com/2026/10/22/omniparsebench-document-parsing-leaderboard-guide/",
-          "summary": "Explore how to audit and rebuild Datalab's OmniParseBench, test parser ranking certainty with document-level bootstrapping, and evaluate Tesseract and Indra OCR performance on a custom sample. The post A Developer’s Guide to OmniParseBench: Leaderboard Benchmarks and OCR Testing appeared first on MarkTechPost .",
+          "summary": "",
           "source": "MarkTechPost",
           "published": "2026-10-22T16:11:52+00:00",
           "published_ts": 1792685512.0,
@@ -107,7 +91,7 @@
         {
           "title": "优步让所有30,000名员工都加入ChatGPT Work",
           "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-          "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+          "summary": "这家拼车巨头以前为ChatGPT Work部署了一个规模小得多的试点，但现在正在全公司范围内采用企业代理。",
           "source": "TechCrunch AI",
           "published": "2026-10-22T16:00:00+00:00",
           "published_ts": 1792684800.0,
@@ -134,7 +118,7 @@
         {
           "title": "为情境感知AI提供案例",
           "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-          "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead…",
+          "summary": "企业人工智能可以生成建议、自动化任务并帮助组织更快地做出决策。但是，如果不了解企业的实际运作方式，即使是强大的模型也可能会错过决定决策是否正确的约束和关系。随着公司希望将人工智能从实验转向日常运营，未来的挑战……",
           "source": "MIT Tech Review AI",
           "published": "2026-10-22T10:00:00+00:00",
           "published_ts": 1792663200.0,
@@ -143,7 +127,7 @@
         {
           "title": "人工智能隐藏的存储账单：推断留下了什么",
           "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-          "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…",
+          "summary": "要求大多数高管想象一下人工智能的成本，他们可能会看到GPU （具有千兆瓦功率的加速器的机架）和硅的等待名单。但这张照片遗漏了一些东西：数据存储成本。模型响应后数据会发生什么？从每天数十亿条提示、图像和视频中生成的大部分后端数据都需要……",
           "source": "MIT Tech Review AI",
           "published": "2026-10-22T08:41:18+00:00",
           "published_ts": 1792658478.0,
@@ -170,25 +154,16 @@
         {
           "title": "IBM AI发布用于多语言转录和翻译的Granite Speech 5.0 2B",
           "link": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
-          "summary": "IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models. The post IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation appeared first on MarkTechPost .",
+          "summary": "IBM发布了Granite Speech 5.0 2B ，这是一种Apache 2.0语音识别和翻译模型。它在Open ASR排行榜上排名第二，平均英语水平为5.68% ，与更新的Turbo CTC和4.1 2B Plus型号并列。IBM AI发布用于多语言转录和翻译的Granite Speech 5.0 2B文章首次出现在MarkTechPost上。",
           "source": "MarkTechPost",
           "published": "2026-10-22T07:00:56+00:00",
           "published_ts": 1792652456.0,
           "category": "llm"
         },
         {
-          "title": "OpenAI将其模型和Codex引入Google Cloud",
-          "link": "https://analyticsindiamag.com/ai-news/openai-brings-its-models-and-codex-to-google-cloud",
-          "summary": "Google Cloud said OpenAI models would run with its enterprise security and governance controls.",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-22T05:03:00+00:00",
-          "published_ts": 1792645380.0,
-          "category": "llm"
-        },
-        {
           "title": "困惑与英伟达研究人员推出JOLT ：教师-学生联合强化学习方法",
           "link": "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/",
-          "summary": "Perplexity and NVIDIA introduced JOLT, a post-training method that trains one model as both teacher and student. On MATH it matched GRPO’s accuracy with 6.5x fewer processed training tokens. The post Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method appeared first on MarkTechPost .",
+          "summary": "",
           "source": "MarkTechPost",
           "published": "2026-10-22T04:56:31+00:00",
           "published_ts": 1792644991.0,
@@ -206,25 +181,16 @@
         {
           "title": "仙人掌口哨编码指南： 16.9 MB的语音模型能抵抗低语基础吗？ CPU上的文字错误率、速度、流式传输、时间戳、关键字和语音转换工具调用",
           "link": "https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/",
-          "summary": "Explore a comprehensive coding guide benchmarking Cactus Compute's 16.9 MB speech model against Whisper base. Learn about word error rates, CPU speed, streaming latency, and speech-to-tool integration. The post A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU appear",
+          "summary": "探索全面的编码指南，将Cactus Compute的16.9 MB语音模型与Whisper基础进行基准测试。了解单词错误率、CPU速度、流式传输延迟和语音到工具集成。The post仙人掌口哨编码指南： 16.9 MB的语音模型能抵抗低语基础吗？出现CPU上的文字错误率、速度、流式传输、时间戳、关键字和语音转换工具调用",
           "source": "MarkTechPost",
           "published": "2026-10-22T04:17:37+00:00",
           "published_ts": 1792642657.0,
           "category": "llm"
         },
         {
-          "title": "优步通过OpenAI为所有员工提供ChatGPT Work",
-          "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-          "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-          "source": "OpenAI Blog",
-          "published": "2026-10-22T00:00:00+00:00",
-          "published_ts": 1792627200.0,
-          "category": "llm"
-        },
-        {
           "title": "Meta希望通过新创建的股票类别为其广泛的人工智能构建付费",
           "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-          "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+          "summary": "这家社交媒体巨头正在计划一项新的股票策略，以帮助其对人工智能模型和服务进行广泛的投资。",
           "source": "TechCrunch AI",
           "published": "2026-10-21T22:45:34+00:00",
           "published_ts": 1792622734.0,
@@ -233,7 +199,7 @@
         {
           "title": "递归发布Flint ，一种适用于具有2.5B活动参数的Agent的开放式40B MoE本地编码模型",
           "link": "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/",
-          "summary": "Recursive has released Flint, an Apache 2.0 local coding model with 40B total and 2.5B active parameters. It reports 74.2% on SWE-bench Verified and 125+ tokens per second on an M4 Pro MacBook Pro. The post Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params appeared first on MarkTechPost .",
+          "summary": "Recursive发布了Flint ，这是一个Apache 2.0本地编码模型，总共有40B个活动参数和2.5B个活动参数。它在SWE-bench Verified上报告了74.2 ％ ，在M4 Pro MacBook Pro上报告了每秒125个以上的代币。POST递归发布Flint ，这是一种适用于具有2.5B活动参数的代理的开放式40B MoE本地编码模型，首次出现在MarkTechPost上。",
           "source": "MarkTechPost",
           "published": "2026-10-21T22:39:41+00:00",
           "published_ts": 1792622381.0,
@@ -242,19 +208,10 @@
         {
           "title": "递归推出Flint ，这是一种笔记本电脑编码模型，据称主要由人工智能构建",
           "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-          "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+          "summary": "Startup Recursive发布了Flint ，这是一种免费的笔记本电脑大小的编码模型，主要由其自己的人工智能研究系统构建，作为对自我改进的人工智能的早期测试。",
           "source": "TechCrunch AI",
           "published": "2026-10-21T20:27:41+00:00",
           "published_ts": 1792614461.0,
-          "category": "llm"
-        },
-        {
-          "title": "OpenAI最新的人工智能模型即将登陆Google Cloud和Antigravity",
-          "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-          "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
-          "source": "Ars Technica AI",
-          "published": "2026-10-21T18:51:42+00:00",
-          "published_ts": 1792608702.0,
           "category": "llm"
         },
         {
@@ -278,19 +235,10 @@
         {
           "title": "ChatGPT Ads已扩展到26个新国家/地区，超过10万名广告客户使用了该平台",
           "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-          "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+          "summary": "从本地企业到全球品牌，更多的广告客户现在可以在ChatGPT中探索、比较和决定购买内容时接触到人们。",
           "source": "OpenAI Blog",
           "published": "2026-10-21T13:00:00+00:00",
           "published_ts": 1792587600.0,
-          "category": "llm"
-        },
-        {
-          "title": "OpenAI模型即将加入Google Cloud",
-          "link": "https://openai.com/index/openai-models-google-cloud",
-          "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-          "source": "OpenAI Blog",
-          "published": "2026-10-21T12:00:00+00:00",
-          "published_ts": 1792584000.0,
           "category": "llm"
         },
         {
@@ -323,7 +271,7 @@
         {
           "title": "我们如何构建ChatGPT的新型广告堆栈，以获得用户的信任和相关性",
           "link": "https://openai.com/index/building-chatgpt-ad-stack",
-          "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+          "summary": "了解OpenAI如何构建ChatGPT基于LLM的广告堆栈，以了解对话意图，将广告与答案分开，并大规模投放相关广告。",
           "source": "OpenAI Blog",
           "published": "2026-10-21T07:00:00+00:00",
           "published_ts": 1792566000.0,
@@ -332,7 +280,7 @@
         {
           "title": "ElevenLabs推出语音推理准确率高达98.8%的实时语音AI模型",
           "link": "https://analyticsindiamag.com/ai-news/elevenlabs-launches-real-time-voice-ai-models-with-up-to-988-speech-reasoning-accuracy",
-          "summary": "ElevenLabs’ new models combine speech recognition, turn-taking, and speech generation into a single system for building voice agents.",
+          "summary": "ElevenLabs的新型号将语音识别、轮换和语音生成结合到一个用于构建语音代理的单一系统中。",
           "source": "Analytics India Magazine",
           "published": "2026-10-21T04:46:38+00:00",
           "published_ts": 1792557998.0,
@@ -350,7 +298,7 @@
         {
           "title": "为什么企业人工智能原型在生产中中断",
           "link": "https://analyticsindiamag.com/ai-features/why-enterprise-ai-prototypes-break-in-production",
-          "summary": "At Cypher 2026, Tiger Analytics executives explained why moving generative AI from a working prototype to production requires more than getting the model to produce the right answer.",
+          "summary": "在Cypher 2026上， Tiger Analytics高管解释了为什么将生成式人工智能从工作原型转移到生产需要的不仅仅是让模型产生正确的答案。",
           "source": "Analytics India Magazine",
           "published": "2026-10-20T10:30:00+00:00",
           "published_ts": 1792492200.0,
@@ -359,7 +307,7 @@
         {
           "title": "加盟商使用ChatGPT Work调节现金的时间缩短了94%",
           "link": "https://openai.com/index/ted-taylor-restaurant",
-          "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+          "summary": "独立的Schlotzsky's和Cinnabon加盟商将菜单重新定价时间缩短了95% ，并建立了一个可以释放10万美元现金流的工作流程。",
           "source": "OpenAI Blog",
           "published": "2026-10-20T10:00:00+00:00",
           "published_ts": 1792490400.0,
@@ -368,7 +316,7 @@
         {
           "title": "参观三星庞大的新半导体中心",
           "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-          "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction…",
+          "summary": "生成AI模型运行在称为GPU的强大芯片上， GPU依赖于与处理器一起封装的专用内存芯片堆栈。为了满足不断增长的内存需求，三星正在韩国平泽建造一个庞大的新半导体制造综合体。三个晶圆厂已经全天候运营，第四个晶圆厂即将上线。施工……",
           "source": "MIT Tech Review AI",
           "published": "2026-10-20T09:00:00+00:00",
           "published_ts": 1792486800.0,
@@ -380,7 +328,7 @@
       "key": "agent",
       "label": "智能体",
       "color": "#7c3aed",
-      "count": 37,
+      "count": 31,
       "items": [
         {
           "title": "「千问Go!」上线“我的应用”，支持搭建长期、可分享的专属应用",
@@ -439,7 +387,7 @@
         {
           "title": "可扩展AI的基础",
           "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-          "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic…",
+          "summary": "可扩展的人工智能系统需要强大的基础。数据、工程、平台、运营模式和治理必须融为一体。麻省理工学院技术评论EmTech Future会议的这次会议探讨了在高度监管的环境中建立基础所需的条件，以及负责任、值得信赖的实施如何转变新兴能力，包括代理……",
           "source": "MIT Tech Review AI",
           "published": "2026-10-22T18:48:04+00:00",
           "published_ts": 1792694884.0,
@@ -448,7 +396,7 @@
         {
           "title": "中国黑客在入侵IT巨头ConnectWise后监视了数千家公司",
           "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-          "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+          "summary": "微软将ConnectWise的入侵归咎于一名与中国结盟的黑客，该黑客依靠人工智能代理迅速入侵其数千名客户。",
           "source": "TechCrunch AI",
           "published": "2026-10-22T16:47:17+00:00",
           "published_ts": 1792687637.0,
@@ -457,19 +405,10 @@
         {
           "title": "Spotify目前的人工智能赌注是成为代理商选择的音乐服务",
           "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-          "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+          "summary": "Spotify联合首席执行官Gustav Söderström解释了为什么人工智能代理的崛起可能是音乐服务的好消息。",
           "source": "TechCrunch AI",
           "published": "2026-10-22T15:03:58+00:00",
           "published_ts": 1792681438.0,
-          "category": "agent"
-        },
-        {
-          "title": "Claude Duet应用程序是Anthropic对代理商的押注",
-          "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-          "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-          "source": "TechCrunch AI",
-          "published": "2026-10-22T13:53:26+00:00",
-          "published_ts": 1792677206.0,
           "category": "agent"
         },
         {
@@ -493,7 +432,7 @@
         {
           "title": "HCLTech推出基于NVIDIA的软件定义车辆验证产品",
           "link": "https://analyticsindiamag.com/ai-news/hcltech-launches-nvidia-powered-validation-offering-for-software-defined-vehicles",
-          "summary": "The offering uses AI agents and virtual simulations to test automotive software, including rare and safety-critical scenarios, before release.",
+          "summary": "该产品在发布前使用人工智能代理和虚拟模拟来测试汽车软件，包括罕见和安全关键场景。",
           "source": "Analytics India Magazine",
           "published": "2026-10-22T11:03:57+00:00",
           "published_ts": 1792667037.0,
@@ -511,7 +450,7 @@
         {
           "title": "人工智能代理正在将人性化客户服务作为一项专业工作",
           "link": "https://analyticsindiamag.com/ai-features/ai-agents-are-making-human-customer-service-a-specialist-job",
-          "summary": "Per Twilio, AI will handle routine customer queries, while people step in for complex cases where judgement, context, and specialised expertise matter most.",
+          "summary": "根据Twilio的说法，人工智能将处理日常客户查询，而人们将介入判断力、背景和专业知识最重要的复杂案例。",
           "source": "Analytics India Magazine",
           "published": "2026-10-22T09:27:46+00:00",
           "published_ts": 1792661266.0,
@@ -527,15 +466,6 @@
           "category": "agent"
         },
         {
-          "title": "Anthropic为美国Pro和Max订阅用户打开Claude Duet AI Agent预览版",
-          "link": "https://analyticsindiamag.com/ai-news/anthropic-opens-claude-duet-ai-agent-preview-for-us-pro-and-max-subscribers",
-          "summary": "Discover how Claude Duet AI can streamline your business tasks. Join the waitlist today for exclusive access!",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-22T08:53:22+00:00",
-          "published_ts": 1792659202.0,
-          "category": "agent"
-        },
-        {
           "title": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心",
           "link": "https://www.leiphone.com/category/weiwu/ft2h4iM9MlbukXOj.html",
           "summary": "一副44g的眼镜能做什么？会议开始前自动录音，骑行时根据心率提醒你调整呼吸，在咖啡店看一眼外文菜单就知道你想问哪道菜，甚至点头就能完成支付。 这是千问日前发布的AI眼镜N1 Pro给出的答案。同一天，它还发布了一款1099元起的AI耳夹式耳机。三款硬件同日开售，眼镜到手价2218元起，耳机1099元起。 价格本身已经足够有信号意义。但真正值得讨论的，不是价格，而是千问想通过这些硬件做什么，以及这条路究竟能不能走通。 01 跨过工具与助手的距离 过去几年AI眼镜留给消费者的印象并不好。它像一个需要不停被唤醒的语音助手，戴在脸上，但存在感全靠你主动去喊它。用户买回去的新鲜感过去之后，大多数产品的长期使用率低得惊人。雷鸟创新CEO李宏伟曾公开表示，2025年各类AI眼镜上线了超过200个新功能，但用户长期使用比例连6%都不到。 千问这次选择了一条不同的路。N1 Pro搭载了一套全天候视觉感知系统",
@@ -547,7 +477,7 @@
         {
           "title": "Vercel开源耐用性-适用于防撞编码代理",
           "link": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
-          "summary": "Vercel released durable-harness, an open-source package that logs every model and tool call so Pi, OpenCode, Claude Code and Codex sessions resume after crashes, timeouts and redeploys on Vercel, Postgres or a laptop. The post Vercel Open-Sources durable-harness for Crash-Proof Coding Agents appeared first on MarkTechPost .",
+          "summary": "Vercel发布了durable-harness ，这是一个开源软件包，可记录每个模型和工具调用，因此Pi、OpenCode、Claude Code和Codex会话在Vercel、Postgres或笔记本电脑上发生崩溃、超时和重新部署后恢复。针对防撞编码代理的Vercel开源耐用性文章首次出现在MarkTechPost上。",
           "source": "MarkTechPost",
           "published": "2026-10-21T22:15:39+00:00",
           "published_ts": 1792620939.0,
@@ -556,7 +486,7 @@
         {
           "title": "虽然亚马逊阻止人工智能代理，但沃尔玛推出了欢迎垫",
           "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-          "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+          "summary": "由于亚马逊阻止人工智能代理在其网站上购物，沃尔玛采取了相反的方法，引入了新技术，允许人工智能代理代表客户进行购买，并控制支出和交易审批。",
           "source": "TechCrunch AI",
           "published": "2026-10-21T19:30:00+00:00",
           "published_ts": 1792611000.0,
@@ -565,28 +495,10 @@
         {
           "title": "43%的印度企业难以控制人工智能成本： Splunk报告",
           "link": "https://analyticsindiamag.com/ai-news/43-of-indian-enterprises-struggle-to-control-ai-costs-splunk-report",
-          "summary": "Despite prioritising AI monitoring, Indian organisations face challenges measuring model quality, controlling AI costs, and managing security risks as agentic AI adoption grows.",
+          "summary": "尽管优先考虑人工智能监控，但随着代理人工智能采用的增加，印度组织面临着衡量模型质量、控制人工智能成本和管理安全风险的挑战。",
           "source": "Analytics India Magazine",
           "published": "2026-10-21T12:06:55+00:00",
           "published_ts": 1792584415.0,
-          "category": "agent"
-        },
-        {
-          "title": "微软建议Guardian Agent保护企业AI",
-          "link": "https://analyticsindiamag.com/ai-news/microsoft-proposes-guardian-agents-to-secure-enterprise-ai",
-          "summary": "The approach would assess risks in real-time and adjust an agent’s ability to act based on its behaviour and permissions.",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-21T11:54:32+00:00",
-          "published_ts": 1792583672.0,
-          "category": "agent"
-        },
-        {
-          "title": "OpenAI收购Pharma Co Orchestra Bio ，为药物开发打造人工智能药剂",
-          "link": "https://analyticsindiamag.com/ai-news/openai-acquires-pharma-co-orchestra-bio-to-build-ai-agents-for-drug-development",
-          "summary": "The companies plan to develop AI agents that connect scientific findings with the studies, decisions, and workflows to advance drug candidates.",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-21T11:51:35+00:00",
-          "published_ts": 1792583495.0,
           "category": "agent"
         },
         {
@@ -599,18 +511,9 @@
           "category": "agent"
         },
         {
-          "title": "Hugging Face首席执行官批评Netflix关于OpenAI Agent网络攻击的纪录片",
-          "link": "https://analyticsindiamag.com/ai-news/hugging-face-ceo-criticises-netflix-documentary-on-openai-agent-cyberattack",
-          "summary": "The Netflix documentary examines a July 2026 incident in which OpenAI agents escaped their testing environment and accessed Hugging Face’s systems",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-21T09:21:11+00:00",
-          "published_ts": 1792574471.0,
-          "category": "agent"
-        },
-        {
           "title": "Patch the Planet ：客服代表发现关键漏洞时进行全球响应协调",
           "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+          "summary": "Patch the Planet将安全研究人员、维护人员和事件响应者联系起来，以帮助解决开源领域的关键漏洞。",
           "source": "OpenAI Blog",
           "published": "2026-10-21T07:00:00+00:00",
           "published_ts": 1792566000.0,
@@ -619,7 +522,7 @@
         {
           "title": "使用成千上万的人工智能代理来发现生物数据中的新线索",
           "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+          "summary": "了解OpenAI、PerturbAI和Scripps Research如何使用分布式人工智能代理，从数百万个脑细胞的数据中发现有前途的研究线索。",
           "source": "OpenAI Blog",
           "published": "2026-10-21T04:50:00+00:00",
           "published_ts": 1792558200.0,
@@ -628,7 +531,7 @@
         {
           "title": "让人工智能代理的互联网变得更好，可能会让其他人变得更糟",
           "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+          "summary": "这个故事最初出现在我们的人工智能每周通讯《算法》上。要先在收件箱中获取此类故事，请在此处注册。直到最近，您可以将互联网用户分为两类：机器人和人。网站长期以来一直允许机器人执行自动任务，例如捕获网页内容，但规则...",
           "source": "MIT Tech Review AI",
           "published": "2026-10-19T18:22:47+00:00",
           "published_ts": 1792434167.0,
@@ -637,7 +540,7 @@
         {
           "title": "人工智能研究人员将克劳德困在一个虚拟的荒岛上。它开始“玩耍”。",
           "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-          "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+          "summary": "如果你不告诉他们做什么，人工智能代理会怎么做？答案看起来很像游戏。在一项让人想起电影《抛弃》或《独自在家》的实验中，研究人员多次将他们单独困在一个虚拟的荒岛上30个小时。特工--绰号为Eko的Claude Opus 4.7的副本--能够……",
           "source": "MIT Tech Review AI",
           "published": "2026-10-19T09:08:05+00:00",
           "published_ts": 1792400885.0,
@@ -646,7 +549,7 @@
         {
           "title": "人工智能代理漏洞暴露了印度自治系统防御中的缺陷",
           "link": "https://analyticsindiamag.com/ai-features/ai-agent-breach-exposes-flaws-in-indias-autonomous-system-defences",
-          "summary": "The CERT-In disclosure has renewed concerns about AI agents interacting iwith sensitive systems such as government portals and financial institutions.",
+          "summary": "CERT-In披露再次引发了人们对人工智能代理与政府门户网站和金融机构等敏感系统进行交互的担忧。",
           "source": "Analytics India Magazine",
           "published": "2026-10-19T07:52:00+00:00",
           "published_ts": 1792396320.0,
@@ -655,25 +558,16 @@
         {
           "title": "NetApp选择五家AI初创公司作为其第15个优秀人才队列",
           "link": "https://analyticsindiamag.com/ai-news/netapp-selects-five-ai-startups-for-its-15th-excellerator-cohort",
-          "summary": "NetApp’s latest Excellerator cohort focuses on AI software engineering, cybersecurity, workflow automation and enterprise data intelligence.",
+          "summary": "NetApp最新的Excellerator团队专注于人工智能软件工程、网络安全、工作流程自动化和企业数据智能。",
           "source": "Analytics India Magazine",
           "published": "2026-10-16T06:40:29+00:00",
           "published_ts": 1792132829.0,
           "category": "agent"
         },
         {
-          "title": "Stack Overflow for Agents使用ChatGPT插件将注册增加三倍",
-          "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-          "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-          "source": "OpenAI Blog",
-          "published": "2026-10-16T00:00:00+00:00",
-          "published_ts": 1792108800.0,
-          "category": "agent"
-        },
-        {
           "title": "Third Moment Research如何在超过36小时的时间内运行10,000名客服代表",
           "link": "https://openai.com/index/third-moment-research",
-          "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+          "summary": "借助用于网络安全的GPT-6 Astra和GPT-6.1 Sol、Codex和Daybreak ，该人工智能实验室构建了专注于数天并随着使用而改进的代理。",
           "source": "OpenAI Blog",
           "published": "2026-10-14T07:00:00+00:00",
           "published_ts": 1791961200.0,
@@ -682,7 +576,7 @@
         {
           "title": "欧盟在人工智能领域的下一篇章是代理",
           "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-          "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+          "summary": "新的分析显示，在欧盟企业和小企业中，代理人工智能的采用正在增长，而更深入的使用可以释放更多的价值。",
           "source": "OpenAI Blog",
           "published": "2026-10-14T00:00:00+00:00",
           "published_ts": 1791936000.0,
@@ -700,7 +594,7 @@
         {
           "title": "使用Ironclad推进计算机使用",
           "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-          "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+          "summary": "了解OpenAI和Ironclad如何在复杂的合同工作流程中培训和评估AI代理，以推进计算机用于专业工作。",
           "source": "OpenAI Blog",
           "published": "2026-10-06T10:00:00+00:00",
           "published_ts": 1791280800.0,
@@ -780,7 +674,7 @@
         {
           "title": "从人形机器人到电信试验， NVIDIA GTC Berlin 2026的12项重大公告",
           "link": "https://analyticsindiamag.com/deep-tech/from-humanoid-robots-to-telecom-trials-12-major-announcements-at-nvidia-gtc-berlin-2026",
-          "summary": "The company outlined plans to expand AI infrastructure, strengthen chip manufacturing, develop autonomous networks and advance physical AI.",
+          "summary": "该公司概述了扩大人工智能基础设施、加强芯片制造、开发自主网络和推进物理人工智能的计划。",
           "source": "Analytics India Magazine",
           "published": "2026-10-21T12:21:23+00:00",
           "published_ts": 1792585283.0,
@@ -789,7 +683,7 @@
         {
           "title": "印度需要为机器人技术建立人工智能“大脑” ，而不仅仅是进口硬件",
           "link": "https://analyticsindiamag.com/ai-features/india-needs-to-build-the-ai-brain-for-robotics-not-just-import-hardware",
-          "summary": "The purpose of Avathon’s collaboration with IIT Roorkee is to work on problems that require long-term research.",
+          "summary": "Avathon与IIT Roorkee合作的目的是解决需要长期研究的问题。",
           "source": "Analytics India Magazine",
           "published": "2026-10-21T11:00:00+00:00",
           "published_ts": 1792580400.0,
@@ -798,7 +692,7 @@
         {
           "title": "Meta在人工智能反弹后从其商业TOS中删除了“火车”一词",
           "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-          "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
+          "summary": "Meta更改了AI抓取策略，但不会添加有关robots.txt的语言。",
           "source": "Ars Technica AI",
           "published": "2026-10-20T20:07:58+00:00",
           "published_ts": 1792526878.0,
@@ -807,7 +701,7 @@
         {
           "title": "乌克兰无人机救援受伤士兵将大肆吹捧的想法付诸实践",
           "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-          "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
+          "summary": "乌克兰最新的无人机创新可能会增加疏散伤亡人员的惨淡可能性。",
           "source": "Ars Technica AI",
           "published": "2026-10-20T18:22:54+00:00",
           "published_ts": 1792520574.0,
@@ -816,7 +710,7 @@
         {
           "title": "任何人都可以移动机器人，很少有人可以阻止它",
           "link": "https://analyticsindiamag.com/deep-tech/anyone-can-make-a-robot-move-few-can-make-it-stop",
-          "summary": "Robotic companies are building safeguards for AI-powered robots, but unpredictable environments still challenge industrial deployment.",
+          "summary": "机器人公司正在为人工智能机器人建立保障措施，但不可预测的环境仍然对工业部署构成挑战。",
           "source": "Analytics India Magazine",
           "published": "2026-10-20T03:30:00+00:00",
           "published_ts": 1792467000.0,
@@ -834,27 +728,10 @@
       ]
     },
     {
-      "key": "solopreneur",
-      "label": "一人公司",
-      "color": "#ea580c",
-      "count": 1,
-      "items": [
-        {
-          "title": "人工智能游戏克隆让独立开发者害怕展示他们的作品",
-          "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-          "summary": "延迟的Steam Next Fest演示标志着独立开发者面临的问题日益严重。",
-          "source": "Ars Technica AI",
-          "published": "2026-10-19T16:59:22+00:00",
-          "published_ts": 1792429162.0,
-          "category": "solopreneur"
-        }
-      ]
-    },
-    {
       "key": "general",
       "label": "综合",
       "color": "#64748b",
-      "count": 40,
+      "count": 34,
       "items": [
         {
           "title": "破与立：设计视角下的 iPhone Duo",
@@ -902,9 +779,18 @@
           "category": "general"
         },
         {
+          "title": "OpenAI与波兰NASK合作推进人工智能安全保障",
+          "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "summary": "OpenAI和波兰的NASK正在人工智能安全、安保和技术研究方面开展合作，以加强保障措施并支持更具弹性的数字生态系统。",
+          "source": "OpenAI Blog",
+          "published": "2026-10-23T00:00:00+00:00",
+          "published_ts": 1792713600.0,
+          "category": "general"
+        },
+        {
           "title": "OpenAI在IPO之前以$ 1.25 T的估值进行新的$ 300亿加息",
           "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-          "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+          "summary": "如果OpenAI在这轮融资中获得超过1万亿美元的估值，它将打破有史以来估值最高的私人公司的纪录。",
           "source": "TechCrunch AI",
           "published": "2026-10-22T22:08:24+00:00",
           "published_ts": 1792706904.0,
@@ -913,7 +799,7 @@
         {
           "title": "当然，让我们把SpaceX和特斯拉放在一起，谁在乎",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-          "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which […]",
+          "summary": "哦，当然， SpaceX的信用风险相当高，因为它即将再借400亿美元用于Nvidia芯片，但谁在乎呢？ SpaceX和特斯拉已经成立了专门的委员会来讨论合并！您认为此次合并具有吸引力的程度可能与[…]的程度有关",
           "source": "The Verge AI",
           "published": "2026-10-22T21:14:26+00:00",
           "published_ts": 1792703666.0,
@@ -922,7 +808,7 @@
         {
           "title": "Meta重新启用Muse共享",
           "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-          "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web […]",
+          "summary": "在安全研究人员报告说公共对话链接很容易找到之后， Meta重新启用了Muse共享。研究人员表示，他们已经能够找到Muse页面，如营销公司的内部收入审查和小企业主的贷款申请。Claroc的研究人员本周早些时候报告说， Muse the web […]",
           "source": "The Verge AI",
           "published": "2026-10-22T20:33:38+00:00",
           "published_ts": 1792701218.0,
@@ -931,7 +817,7 @@
         {
           "title": "微软称其人工智能工具在诊断疾病方面优于医生",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-          "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human […]",
+          "summary": "多年来，人工智能领导者一直将医疗保健吹捧为他们的技术将改善生活的最明显例子之一。微软人工智能首席执行官穆斯塔法·苏莱曼（ Mustafa Suleyman ）告诉The Verge ，现在“终于来了”。该公司声称已经开发出一种人工智能工具，它可以比人类更准确地诊断病情[…]",
           "source": "The Verge AI",
           "published": "2026-10-22T19:48:37+00:00",
           "published_ts": 1792698517.0,
@@ -940,7 +826,7 @@
         {
           "title": "使用Decisions API构建响应速度更快的应用程序",
           "link": "https://openai.com/index/decisions-api",
-          "summary": "Fast, focused, low-cost decisions for any application.",
+          "summary": "适用于任何应用程序的快速、专注、低成本决策。",
           "source": "OpenAI Blog",
           "published": "2026-10-22T19:00:00+00:00",
           "published_ts": 1792695600.0,
@@ -949,41 +835,32 @@
         {
           "title": "怀尔德伍德的导演说，人工智能“与我们在这个工作室的一切背道而驰”",
           "link": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-          "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a […]",
+          "summary": "怀尔德伍德（ Wildwood ）是莱卡（ Laika ）迄今为止最雄心勃勃的电影，莱卡是以卡洛琳（ Coraline ）和帕拉诺曼（ ParaNorman ）等人而闻名的定这是一场庞大的梦幻冒险，花了五年时间才完成。这个过程涉及230多个木偶，其中包括36个主角Prue ，这些木偶是由[…]",
           "source": "The Verge AI",
           "published": "2026-10-22T18:12:48+00:00",
           "published_ts": 1792692768.0,
           "category": "general"
         },
         {
-          "title": "OpenAI、Anthropic和Nvidia拥有创纪录的游说季度",
-          "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-          "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, […]",
-          "source": "The Verge AI",
-          "published": "2026-10-22T17:36:30+00:00",
-          "published_ts": 1792690590.0,
-          "category": "general"
-        },
-        {
           "title": "有人用旧游戏和人工智能入侵了Switch 2",
           "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-          "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this \"ns2jb\" jailbreak, according to Sammy Hajhamid, aka \"pepsipu.\" It's a […]",
+          "summary": "任天堂Switch 2显然已经越狱，一个改装者已经展示了运行马里奥卡丁车世界定制版本的控制台，其中包含新的可玩角色，如Cinnamoroll ，红色愤怒的小鸟，彼得格里芬和来自Minecraft的史蒂夫。根据Sammy Hajhamid （又名“pepsipu” ）的说法， OpenAI的Codex帮助完成了这次“ns2jb”越狱。“这是一个[…]",
           "source": "The Verge AI",
           "published": "2026-10-22T17:21:31+00:00",
           "published_ts": 1792689691.0,
           "category": "general"
         },
         {
-          "title": "Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores",
+          "title": "Cohere发布了具有通道级上下文焦点和校准分数的Rerank 5",
           "link": "https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus/",
-          "summary": "Cohere Rerank 5 ships in Pro and Fast tiers with a 32K context window, Context Focus passage extraction and calibrated relevance scores. Pro scores 82.2 on BRIGHT and costs $0.05 per 1M tokens. The post Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores appeared first on MarkTechPost .",
+          "summary": "",
           "source": "MarkTechPost",
           "published": "2026-10-22T16:31:31+00:00",
           "published_ts": 1792686691.0,
           "category": "general"
         },
         {
-          "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "title": "OlmoEarth v1.3 ：最先进的全球嵌入式系统",
           "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
           "summary": "",
           "source": "Hugging Face Blog",
@@ -992,27 +869,27 @@
           "category": "general"
         },
         {
-          "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+          "title": "黑客在史诗级的PHP2Shell漏洞上领先四天",
           "link": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
-          "summary": "Hackers were already probing the bug before defenders were told it existed.",
+          "summary": "",
           "source": "Ars Technica AI",
           "published": "2026-10-22T15:25:02+00:00",
           "published_ts": 1792682702.0,
           "category": "general"
         },
         {
-          "title": "Nirva raises $33M for a pendant that only listens to you",
+          "title": "Nirva筹集了$ 3300万只听你的吊坠",
           "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-          "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+          "summary": "",
           "source": "TechCrunch AI",
           "published": "2026-10-22T13:26:52+00:00",
           "published_ts": 1792675612.0,
           "category": "general"
         },
         {
-          "title": "DeepSeek reportedly raises $15B days after US restrictions",
+          "title": "据报道， DeepSeek在美国限制后筹集了150亿美元$",
           "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-          "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+          "summary": "",
           "source": "TechCrunch AI",
           "published": "2026-10-22T13:11:13+00:00",
           "published_ts": 1792674673.0,
@@ -1028,30 +905,12 @@
           "category": "general"
         },
         {
-          "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
-          "link": "https://analyticsindiamag.com/ai-news/emudhra-to-exit-global-ssltls-certificate-business",
-          "summary": "This follows the discovery of eight eMudhra certificate authorities with weak private keys that could potentially have allowed attackers to create fake website certificates and impersonate legitimate websites.",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-22T12:16:39+00:00",
-          "published_ts": 1792671399.0,
-          "category": "general"
-        },
-        {
-          "title": "Unicorn India Ventures Launches US Operations To Back Indian Deep-Tech Startups",
+          "title": "Unicorn India Ventures启动美国业务以支持印度深度科技创业公司",
           "link": "https://analyticsindiamag.com/ai-news/unicorn-india-ventures-launches-us-operations-to-back-indian-deep-tech-startups",
-          "summary": "The VC firm has appointed former Google executive Kishore Kanakamedala as Venture Partner to lead its US expansion and help portfolio companies enter the market.",
+          "summary": "",
           "source": "Analytics India Magazine",
           "published": "2026-10-22T11:44:08+00:00",
           "published_ts": 1792669448.0,
-          "category": "general"
-        },
-        {
-          "title": "Nutanix announces AI infrastructure tie-ups with NVIDIA, Supermicro and Netris",
-          "link": "https://analyticsindiamag.com/ai-news/nutanix-announces-ai-infrastructure-tie-ups-with-nvidia-supermicro-and-netris",
-          "summary": "Nutanix plans to work with NVIDIA, Supermicro and Netris to help enterprises and AI cloud providers deploy production AI faster and cheaper.",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-22T11:24:17+00:00",
-          "published_ts": 1792668257.0,
           "category": "general"
         },
         {
@@ -1073,36 +932,27 @@
           "category": "general"
         },
         {
-          "title": "JanAI Partners With Four Universities To Expand AI Access In Rural India",
+          "title": "JanAI与四所大学合作，扩大印度农村的人工智能接入",
           "link": "https://analyticsindiamag.com/ai-news/janai-partners-with-four-universities-to-expand-ai-access-in-rural-india",
-          "summary": "The partnerships aim to connect AI education and university research with rural challenges, helping young people explore entrepreneurship and develop local solutions.",
+          "summary": "",
           "source": "Analytics India Magazine",
           "published": "2026-10-22T11:13:22+00:00",
           "published_ts": 1792667602.0,
           "category": "general"
         },
         {
-          "title": "Cognizant to Acquire DyFlex Solutions to Expand SAP Capabilities",
-          "link": "https://analyticsindiamag.com/ai-news/cognizant-to-acquire-dyflex-solutions-to-expand-sap-capabilities",
-          "summary": "The Australian SAP partner has more than 300 employees and a delivery presence in the Philippines. The deal is expected to close in Q1 2027.",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-22T10:53:15+00:00",
-          "published_ts": 1792666395.0,
-          "category": "general"
-        },
-        {
-          "title": "Karta AI Raises $3 Million in Seed Funding to Automate Complex Banking Calls",
+          "title": "Karta AI筹集了300万美元的种子资金，以实现复杂银行业务的自动化",
           "link": "https://analyticsindiamag.com/ai-news/karta-ai-raises-3-million-in-seed-funding-to-automate-complex-banking-calls",
-          "summary": "Discover how Karta AI's funding will innovate banking communication. Learn more about their impact on financial services!",
+          "summary": "",
           "source": "Analytics India Magazine",
           "published": "2026-10-22T10:26:19+00:00",
           "published_ts": 1792664779.0,
           "category": "general"
         },
         {
-          "title": "Internet on Alert as AI Uncovers Critical Flaws in PHP Used by 70% of Websites",
+          "title": "警报中的互联网，因为人工智能发现了70 ％的网站使用的PHP中的关键缺陷",
           "link": "https://analyticsindiamag.com/ai-trends/internet-on-alert-as-ai-uncovers-critical-flaws-in-php-used-by-70-of-websites",
-          "summary": "According to Wiz, the vulnerabilities affect PHP releases dating back to version 5.4.",
+          "summary": "",
           "source": "Analytics India Magazine",
           "published": "2026-10-22T10:09:38+00:00",
           "published_ts": 1792663778.0,
@@ -1136,15 +986,6 @@
           "category": "general"
         },
         {
-          "title": "Premji Invest, Norwest and Lok Capital Plan Up to ₹1,000 Crore Investment in Vegafin: Report",
-          "link": "https://analyticsindiamag.com/ai-news/premji-invest-norwest-and-lok-capital-plan-up-to-1000-crore-investment-in-vegafin-report",
-          "summary": "Discover how Premji Invest, Norwest, and Lok Capital's ₹1,000 crore investment will transform MSME lending with AI. Learn more!",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-22T08:49:23+00:00",
-          "published_ts": 1792658963.0,
-          "category": "general"
-        },
-        {
           "title": "劳斯莱斯同款对开门！仰望旗舰轿车即将发布，还会有固态电池？",
           "link": "https://www.ifanr.com/1685489?utm_source=rss&utm_medium=rss&utm_campaign=",
           "summary": "仰望正在打造属于自己的「古斯特」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -1172,9 +1013,9 @@
           "category": "general"
         },
         {
-          "title": "What FDE means at OpenAI",
+          "title": "FDE在OpenAI意味着什么",
           "link": "https://openai.com/index/forward-deployed-engineering-means",
-          "summary": "What forward deployed engineering means at OpenAI",
+          "summary": "",
           "source": "OpenAI Blog",
           "published": "2026-10-22T06:00:00+00:00",
           "published_ts": 1792648800.0,
@@ -1190,30 +1031,12 @@
           "category": "general"
         },
         {
-          "title": "NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels",
-          "link": "https://www.marktechpost.com/2026/10/21/nvidia-nsight-python-tutorial-how-to-profile-gpu-kernels/",
-          "summary": "Discover NVIDIA Nsight Python, an open-source interface that allows developers to profile GPU kernels, analyze hardware metrics, evaluate cache and clock controls, and measure kernel fusion directly from Python code. The post NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels appeared first on MarkTechPost .",
-          "source": "MarkTechPost",
-          "published": "2026-10-22T03:59:12+00:00",
-          "published_ts": 1792641552.0,
-          "category": "general"
-        },
-        {
-          "title": "Why Nandan Nilekani-Backed F2A Believes India's Investment Opportunity Lies in Edge AI",
+          "title": "为什么Nandan Nilekani-支持的F2A认为印度的投资机会在于边缘AI",
           "link": "https://analyticsindiamag.com/ai-features/why-nandan-nilekani-backed-f2a-believes-indias-investment-opportunity-lies-in-edge-ai",
-          "summary": "Fundamentum Frontier Advisors plans to invest across physical AI, AI-enabled consumer businesses, and enterprise software.",
+          "summary": "",
           "source": "Analytics India Magazine",
           "published": "2026-10-22T03:39:30+00:00",
           "published_ts": 1792640370.0,
-          "category": "general"
-        },
-        {
-          "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
-          "link": "https://sspai.com/post/115090",
-          "summary": "药物不能解决所有问题，这是是我学到的重要一课。 查看全文",
-          "source": "少数派",
-          "published": "2026-10-22T03:36:57+00:00",
-          "published_ts": 1792640217.0,
           "category": "general"
         }
       ]

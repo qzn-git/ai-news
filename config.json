@@ -12,6 +12,8 @@
     {"name": "机器之心", "url": "https://www.jiqizhixin.com/rss", "lang": "zh"},
     {"name": "36氪", "url": "https://36kr.com/feed", "lang": "zh"},
     {"name": "少数派", "url": "https://sspai.com/feed", "lang": "zh"},
+    {"name": "爱范儿", "url": "https://www.ifanr.com/feed", "lang": "zh"},
+    {"name": "雷峰网", "url": "https://www.leiphone.com/feed", "lang": "zh"},
     {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "lang": "en"},
     {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "lang": "en"},
     {"name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "lang": "en"},
@@ -20,9 +22,10 @@
     {"name": "MIT Tech Review AI", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed", "lang": "en"},
     {"name": "OpenAI Blog", "url": "https://openai.com/blog/rss.xml", "lang": "en"},
     {"name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/", "lang": "en"},
-    {"name": "Indie Hackers", "url": "https://www.indiehackers.com/feed", "lang": "en"},
-    {"name": "arXiv cs.CL", "url": "http://export.arxiv.org/rss/cs.CL", "lang": "en"},
-    {"name": "arXiv cs.RO", "url": "http://export.arxiv.org/rss/cs.RO", "lang": "en"}
+    {"name": "MarkTechPost", "url": "https://www.marktechpost.com/feed/", "lang": "en"},
+    {"name": "Analytics India Magazine", "url": "https://analyticsindiamag.com/feed/", "lang": "en"},
+    {"name": "Synced Review", "url": "https://syncedreview.com/feed/", "lang": "en"},
+    {"name": "Indie Hackers", "url": "https://www.indiehackers.com/feed", "lang": "en"}
   ],
   "categories": {
     "llm": {

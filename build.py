@@ -109,6 +109,8 @@ def parse_feed(raw, source_name):
     """解析 RSS 2.0 或 Atom，返回条目列表。"""
     items = []
     try:
+        # 清洗 XML 1.0 不允许的控制字符，兼容个别源（如雷峰网）
+        raw = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]", "", raw)
         root = ET.fromstring(raw)
     except ET.ParseError as e:
         log(f"  ! 解析失败 [{source_name}]: {e}")

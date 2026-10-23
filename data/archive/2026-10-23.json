@@ -1,12 +1,10 @@
 {
-  "generated_at": "2026-10-23T11:37:19+08:00",
-  "total": 465,
+  "generated_at": "2026-10-23T03:48:21+00:00",
+  "total": 489,
   "source_count": 15,
-  "error_count": 4,
+  "error_count": 2,
   "errors": [
-    "Hugging Face Blog: URLError(TimeoutError('timed out'))",
     "VentureBeat AI: <HTTPError 429: 'Too Many Requests'>",
-    "Google AI Blog: URLError(TimeoutError('_ssl.c:1015: The handshake operation timed out'))",
     "Indie Hackers: <HTTPError 403: 'Forbidden'>"
   ],
   "categories": [
@@ -44,18 +42,18 @@
           "category": "llm"
         },
         {
-          "title": "Canva releases its first image generation model",
-          "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-          "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+          "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+          "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+          "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
           "source": "TechCrunch AI",
           "published": "2026-10-22T19:00:00+00:00",
           "published_ts": 1792695600.0,
           "category": "llm"
         },
         {
-          "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-          "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-          "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+          "title": "Canva releases its first image generation model",
+          "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+          "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
           "source": "TechCrunch AI",
           "published": "2026-10-22T19:00:00+00:00",
           "published_ts": 1792695600.0,
@@ -95,6 +93,15 @@
           "source": "MIT Tech Review AI",
           "published": "2026-10-22T08:41:18+00:00",
           "published_ts": 1792658478.0,
+          "category": "llm"
+        },
+        {
+          "title": "Ensemble forecasting with IBM Granite time-series models",
+          "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+          "summary": "",
+          "source": "Hugging Face Blog",
+          "published": "2026-10-22T07:51:31+00:00",
+          "published_ts": 1792655491.0,
           "category": "llm"
         },
         {
@@ -366,15 +373,6 @@
           "published": "2026-10-22T04:00:00+00:00",
           "published_ts": 1792641600.0,
           "category": "llm"
-        },
-        {
-          "title": "Don't Stop Long-Context Continual Pre-Training Too Early: An Empirical Scaling Law",
-          "link": "https://arxiv.org/abs/2610.29352",
-          "summary": "arXiv:2610.29352v1 Announce Type: new Abstract: Long-context continual pre-training (LCCP) is widely used to improve long-context capability, but how its benefits scale with the number of tokens used for LCCP remains unclear. We investigate this question through modeling, monitoring, and validating the benefits of scaling LCCP. First, we establish an empirical additive power law relating long-cont",
-          "source": "arXiv cs.CL",
-          "published": "2026-10-22T04:00:00+00:00",
-          "published_ts": 1792641600.0,
-          "category": "llm"
         }
       ]
     },
@@ -391,6 +389,15 @@
           "source": "TechCrunch AI",
           "published": "2026-10-23T00:45:37+00:00",
           "published_ts": 1792716337.0,
+          "category": "agent"
+        },
+        {
+          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+          "summary": "",
+          "source": "Hugging Face Blog",
+          "published": "2026-10-22T22:24:34+00:00",
+          "published_ts": 1792707874.0,
           "category": "agent"
         },
         {
@@ -730,15 +737,6 @@
           "title": "WaveCommitments: Private and Verifiable Speech-Agent Marketplaces",
           "link": "https://arxiv.org/abs/2610.26867",
           "summary": "arXiv:2610.26867v2 Announce Type: replace Abstract: Modern speech systems are evolving into ecosystems of autonomous speech agents that interact, negotiate, and trade assets such as embeddings, spectrograms, or raw data. In such markets, sellers cannot reveal assets for evaluation due to privacy constraints, and buyers cannot price what they cannot test. Thus, we introduce WaveCommitments, an end-",
-          "source": "arXiv cs.CL",
-          "published": "2026-10-22T04:00:00+00:00",
-          "published_ts": 1792641600.0,
-          "category": "agent"
-        },
-        {
-          "title": "Replayable Financial Agents: A Determinism-Faithfulness Assurance Harness for Tool-Using LLM Agents",
-          "link": "https://arxiv.org/abs/2601.15322",
-          "summary": "arXiv:2601.15322v4 Announce Type: replace-cross Abstract: Replaying a financial agent requires specifying the conditions of a rerun, preserving its execution record, and deciding which parts of its behavior to compare. We introduce the Determinism-Faithfulness Assurance Harness (DFAH), a framework and practical protocol for organizing these choices. The framework distinguishes comparisons of final",
           "source": "arXiv cs.CL",
           "published": "2026-10-22T04:00:00+00:00",
           "published_ts": 1792641600.0,
@@ -1219,6 +1217,15 @@
           "category": "general"
         },
         {
+          "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+          "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+          "summary": "",
+          "source": "Hugging Face Blog",
+          "published": "2026-10-22T16:11:31+00:00",
+          "published_ts": 1792685491.0,
+          "category": "general"
+        },
+        {
           "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
           "link": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
           "summary": "Hackers were already probing the bug before defenders were told it existed.",
@@ -1484,15 +1491,6 @@
           "link": "https://arxiv.org/abs/2610.07226",
           "summary": "arXiv:2610.07226v3 Announce Type: replace-cross Abstract: ``What are the irreducible conditions that are sufficient to produce an outcome?'' is one of the most common questions that recur across computation and science. Its answers, the minimal sufficient witnesses, are what we mean by explanations, mechanisms and reasons. These problems usually ask for multiple minimal witnesses, yet standard RL ",
           "source": "arXiv cs.CL",
-          "published": "2026-10-22T04:00:00+00:00",
-          "published_ts": 1792641600.0,
-          "category": "general"
-        },
-        {
-          "title": "VeriCalib: Verifiable Target-Based LiDAR-Camera Calibration",
-          "link": "https://arxiv.org/abs/2610.28791",
-          "summary": "arXiv:2610.28791v1 Announce Type: new Abstract: Target-based extrinsic calibration estimates the rigid transform between sensors from a few observations of a known target, and its result is commonly assessed by the root-mean-square error of the fitted residuals. However, this scalar error is computed on the same observations and therefore cannot indicate whether to accept the result, re-extract, r",
-          "source": "arXiv cs.RO",
           "published": "2026-10-22T04:00:00+00:00",
           "published_ts": 1792641600.0,
           "category": "general"

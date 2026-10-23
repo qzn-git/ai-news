@@ -1,8 +1,8 @@
 {
   "site": {
     "title": "AI 日报",
-    "subtitle": "大模型 · 智能体 · 具身智能 · 一人公司",
-    "description": "每天自动聚合大模型、智能体、具身智能与一人公司领域的AI资讯",
+    "subtitle": "大模型 · 智能体 · 具身智能",
+    "description": "每天自动聚合大模型、智能体与具身智能领域的AI资讯",
     "max_items_per_category": 40,
     "days_back": 21,
     "translate_to_zh": true
@@ -24,8 +24,7 @@
     {"name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/", "lang": "en"},
     {"name": "MarkTechPost", "url": "https://www.marktechpost.com/feed/", "lang": "en"},
     {"name": "Analytics India Magazine", "url": "https://analyticsindiamag.com/feed/", "lang": "en"},
-    {"name": "Synced Review", "url": "https://syncedreview.com/feed/", "lang": "en"},
-    {"name": "Indie Hackers", "url": "https://www.indiehackers.com/feed", "lang": "en"}
+    {"name": "Synced Review", "url": "https://syncedreview.com/feed/", "lang": "en"}
   ],
   "categories": {
     "llm": {
@@ -42,11 +41,6 @@
       "label": "具身智能",
       "color": "#059669",
       "keywords": ["具身","embodied","机器人","robot","robotics","humanoid","人形","机械臂","manipulation","自动驾驶","autonomous driving","无人机","drone","仿生","四足","双臂","灵巧手"]
-    },
-    "solopreneur": {
-      "label": "一人公司",
-      "color": "#ea580c",
-      "keywords": ["一人公司","独立开发","独立开发者","solopreneur","indie hacker","副业","侧项目","side project","bootstrapped","个人开发","数字游民","nomad","小团队","indie","个人创业","一人团队"]
     },
     "general": {
       "label": "综合",

@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>AI 日报 · 大模型 / 智能体 / 具身智能 / 一人公司</title>
-<meta name="description" content="每天自动聚合大模型、智能体、具身智能与一人公司领域的 AI 资讯" />
+<title>AI 日报 · 大模型 / 智能体 / 具身智能</title>
+    <meta name="description" content="每天自动聚合大模型、智能体与具身智能领域的 AI 资讯" />
 <style>
   :root {
     --bg: #f7f8fa;
@@ -79,6 +79,7 @@
   .card h3 a { color: var(--text); text-decoration: none; }
   .card h3 a:hover { color: var(--accent); text-decoration: underline; }
   .card .summary { color: var(--muted); font-size: 13.5px; margin: 0 0 14px; flex: 1; }
+  .card .summary:empty { display: none; }
   .card .foot { display: flex; align-items: center; justify-content: space-between; gap: 8px; font-size: 12px; }
   .tag { padding: 3px 10px; border-radius: 999px; color: #fff; font-weight: 600; font-size: 12px; }
   .src { color: var(--muted); }
@@ -95,7 +96,7 @@
   <div class="wrap">
     <header>
       <h1 id="siteTitle">AI 日报</h1>
-      <p class="subtitle" id="siteSubtitle">大模型 · 智能体 · 具身智能 · 一人公司</p>
+      <p class="subtitle" id="siteSubtitle">大模型 · 智能体 · 具身智能</p>
       <p class="meta" id="meta">加载中…</p>
     </header>
 
@@ -174,7 +175,7 @@
     box.innerHTML = `<div class="grid">${items.map(i => `
       <div class="card">
         <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
-        <p class="summary">${esc(i.summary)}</p>
+        <p class="summary">${i.summary ? esc(i.summary) : ""}</p>
         <div class="foot">
           <span class="tag" style="background:${i._cat.color}">${esc(i._cat.label)}</span>
           <span class="src">${esc(i.source)}</span>

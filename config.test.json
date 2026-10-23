@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "AI 日报（本地验证）",
-    "subtitle": "大模型 · 智能体 · 具身智能 · 一人公司",
+    "subtitle": "大模型 · 智能体 · 具身智能",
     "description": "本地样例验证专用配置，feed 指向 samples/ 下的本地文件",
     "max_items_per_category": 40,
     "days_back": 21
@@ -26,11 +26,6 @@
       "label": "具身智能",
       "color": "#059669",
       "keywords": ["具身","embodied","机器人","robot","robotics","humanoid","人形","机械臂","manipulation","自动驾驶","autonomous driving","无人机","drone","仿生","四足","双臂","灵巧手"]
-    },
-    "solopreneur": {
-      "label": "一人公司",
-      "color": "#ea580c",
-      "keywords": ["一人公司","独立开发","独立开发者","solopreneur","indie hacker","副业","侧项目","side project","bootstrapped","个人开发","数字游民","nomad","小团队","indie","个人创业","一人团队"]
     },
     "general": {
       "label": "综合",

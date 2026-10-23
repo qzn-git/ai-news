@@ -6,7 +6,7 @@ AI 日报构建脚本（纯标准库，无需任何第三方依赖）
 功能：
   1. 抓取 config.json 中配置的 RSS / Atom 源
   2. 解析条目（标题、链接、摘要、发布时间、来源）
-  3. 按关键词把每条新闻归类到：大模型 / 智能体 / 具身智能 / 一人公司 / 综合
+  3. 按关键词把每条新闻归类到：大模型 / 智能体 / 具身智能 / 综合
   4. 去重、按时间排序、按 days_back 过滤
   5. 输出 data/news.json（供前端 index.html 加载）
 
@@ -35,7 +35,7 @@ from xml.etree import ElementTree as ET
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 # 分类优先级（命中数相同时靠前者胜出）
-CATEGORY_PRIORITY = ["llm", "agent", "embodied", "solopreneur", "general"]
+CATEGORY_PRIORITY = ["llm", "agent", "embodied", "general"]
 
 
 def log(msg):
@@ -241,32 +241,35 @@ PROVIDER_FAIL_LIMIT = 3
 _provider_fails = {}  # provider -> 连续失败次数（会话内 fail-fast）
 
 
-def translate_text(text, cache, target="zh-CN"):
-    """依次尝试多个免费翻译接口（无需 key），带缓存；全部失败返回原文。"""
-    if not text or cjk_ratio(text) >= 0.4:
-        return text  # 已基本是中文（或空），跳过
+def translate_text(text, cache, target="zh-CN", aggressive=False):
+    """依次尝试多个免费翻译接口（无需 key），带缓存；失败返回空串。"""
+    if not text:
+        return ""
+    if cjk_ratio(text) >= 0.4:
+        return text  # 已是中文
     key = hashlib.sha1(text.encode("utf-8")).hexdigest()
     if key in cache:
         return cache[key]
     out = ""
     for provider in TRANSLATE_PROVIDERS:
-        if _provider_fails.get(provider, 0) >= PROVIDER_FAIL_LIMIT:
+        if not aggressive and _provider_fails.get(provider, 0) >= PROVIDER_FAIL_LIMIT:
             continue  # 本轮该接口已连续失败多次，跳过
         try:
             if provider == "google":
                 out = _translate_google(text, target)
             elif provider == "mymemory":
                 out = _translate_mymemory(text, target)
-            if out:
+            if out and cjk_ratio(out) >= 0.15:
                 _provider_fails[provider] = 0
                 break
+            out = ""
         except Exception as e:
             _provider_fails[provider] = _provider_fails.get(provider, 0) + 1
             log(f"  ! [{provider}] 翻译失败({_provider_fails[provider]}): {repr(e)[:60]}")
     if out:
         cache[key] = out
         return out
-    return text  # 全部失败时保留原文
+    return ""  # 失败：交给调用方处理（不留英文）
 
 
 def translate_items(items, cache_path):
@@ -279,29 +282,51 @@ def translate_items(items, cache_path):
         except Exception:
             cache = {}
 
-    # 标题优先：先全部标题，再摘要（配额不足时保住标题的中文）
-    need = 0
+    # 第一轮：标题优先（配额紧张时先保住标题），再摘要
     for e in items:
-        before = len(cache)
-        e["title"] = translate_text(e["title"], cache)
-        need += len(cache) - before
-        time.sleep(0.5)
+        e["title"] = translate_text(e["title"], cache) or e["title"]
+        time.sleep(0.4)
     for e in items:
         if e.get("summary"):
-            before = len(cache)
-            e["summary"] = translate_text(e["summary"], cache)
-            need += len(cache) - before
-            time.sleep(0.5)
+            e["summary"] = translate_text(e["summary"], cache) or e["summary"]
+            time.sleep(0.4)
 
-    if need:
-        try:
-            with open(cache_path, "w", encoding="utf-8") as f:
-                json.dump(cache, f, ensure_ascii=False)
-            log(f"翻译完成：新翻译 {need} 段，缓存 {len(cache)} 段 -> {cache_path}")
-        except Exception as e:
-            log(f"  ! 缓存写出失败: {repr(e)[:80]}")
-    else:
-        log(f"翻译完成：全部命中缓存（{len(cache)} 段）")
+    # 第二轮（扫尾）：对仍未中文化的标题/摘要强制重试，忽略 fail-fast 限制
+    pending = [e for e in items
+               if cjk_ratio(e["title"]) < 0.4
+               or (e.get("summary") and cjk_ratio(e["summary"]) < 0.4)]
+    if pending:
+        log(f"扫尾重试 {len(pending)} 条未中文化内容...")
+        time.sleep(5)
+        for e in pending:
+            if cjk_ratio(e["title"]) < 0.4:
+                t = translate_text(e["title"], cache, aggressive=True)
+                if t:
+                    e["title"] = t
+                time.sleep(0.6)
+            if e.get("summary") and cjk_ratio(e["summary"]) < 0.4:
+                s = translate_text(e["summary"], cache, aggressive=True)
+                if s:
+                    e["summary"] = s
+                time.sleep(0.6)
+
+    # 清理：标题未中文化的条目整条移除；摘要未中文化的清空摘要
+    dropped = 0
+    for e in items:
+        if cjk_ratio(e["title"]) < 0.4:
+            e["_keep"] = False
+            dropped += 1
+        elif e.get("summary") and cjk_ratio(e["summary"]) < 0.4:
+            e["summary"] = ""
+    if dropped:
+        log(f"移除 {dropped} 条标题未翻译的条目（明天自动重试）")
+
+    try:
+        with open(cache_path, "w", encoding="utf-8") as f:
+            json.dump(cache, f, ensure_ascii=False)
+        log(f"翻译完成：缓存 {len(cache)} 段 -> {cache_path}")
+    except Exception as e:
+        log(f"  ! 缓存写出失败: {repr(e)[:80]}")
 
 
 def build(config, out_path, archive=True):
@@ -363,8 +388,20 @@ def build(config, out_path, archive=True):
         cache_path = os.path.join(os.path.dirname(out_path), "translate_cache.json")
         log(f"开始翻译 {len(kept)} 条（标题+摘要）...")
         translate_items(kept, cache_path)
+        # 移除标题未翻译成功的条目，保证站点 100% 中文
+        for k, b in buckets.items():
+            before = len(b["items"])
+            b["items"] = [i for i in b["items"] if i.get("_keep", True)]
+            b["count"] = len(b["items"])
+            if before != b["count"]:
+                log(f"  分类 {b['label']}：移除 {before - b['count']} 条未翻译条目")
+        for i in kept:
+            i.pop("_keep", None)
 
     output = {
+        "title": site.get("title", "AI 日报"),
+        "subtitle": site.get("subtitle", ""),
+        "description": site.get("description", ""),
         "generated_at": now.astimezone().isoformat(timespec="seconds"),
         "total": total,
         "source_count": len(feeds),

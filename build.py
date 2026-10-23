@@ -18,11 +18,14 @@ AI 日报构建脚本（纯标准库，无需任何第三方依赖）
 """
 
 import argparse
+import hashlib
 import json
 import os
 import re
 import sys
 import html
+import time
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
@@ -176,6 +179,115 @@ def classify(text, categories):
     return best
 
 
+# ---------------- 中文翻译 ----------------
+
+TRANSLATE_PROVIDERS = ["google", "mymemory"]
+
+TRANSLATE_URLS = {
+    "google": "https://translate.googleapis.com/translate_a/single",
+    "mymemory": "https://api.mymemory.translated.net/get",
+}
+
+
+def cjk_ratio(text):
+    """中文字符占全部字母类字符的比例。"""
+    if not text:
+        return 1.0
+    cjk = len(re.findall(r"[\u4e00-\u9fff]", text))
+    letters = len(re.findall(r"[A-Za-z\u4e00-\u9fff]", text))
+    return cjk / letters if letters else 1.0
+
+
+def _translate_google(text, target):
+    params = urllib.parse.urlencode(
+        {"client": "gtx", "sl": "auto", "tl": target, "dt": "t", "q": text}
+    )
+    req = urllib.request.Request(
+        TRANSLATE_URLS["google"] + "?" + params,
+        headers={"User-Agent": "Mozilla/5.0 (compatible; AINewsBot/1.0)"},
+    )
+    with urllib.request.urlopen(req, timeout=10) as resp:
+        data = json.loads(resp.read().decode("utf-8"))
+    out = "".join(seg[0] for seg in data[0] if seg and seg[0])
+    return out.strip()
+
+
+def _translate_mymemory(text, target):
+    # mymemory 单次上限 500 字符
+    text = text[:500]
+    langpair = "en|zh-CN" if target == "zh-CN" else f"en|{target}"
+    params = urllib.parse.urlencode({"q": text, "langpair": langpair})
+    req = urllib.request.Request(
+        TRANSLATE_URLS["mymemory"] + "?" + params,
+        headers={"User-Agent": "Mozilla/5.0 (compatible; AINewsBot/1.0)"},
+    )
+    with urllib.request.urlopen(req, timeout=10) as resp:
+        data = json.loads(resp.read().decode("utf-8"))
+    return (data.get("responseData") or {}).get("translatedText", "").strip()
+
+
+PROVIDER_FAIL_LIMIT = 3
+_provider_fails = {}  # provider -> 连续失败次数（会话内 fail-fast）
+
+
+def translate_text(text, cache, target="zh-CN"):
+    """依次尝试多个免费翻译接口（无需 key），带缓存；全部失败返回原文。"""
+    if not text or cjk_ratio(text) >= 0.4:
+        return text  # 已基本是中文（或空），跳过
+    key = hashlib.sha1(text.encode("utf-8")).hexdigest()
+    if key in cache:
+        return cache[key]
+    out = ""
+    for provider in TRANSLATE_PROVIDERS:
+        if _provider_fails.get(provider, 0) >= PROVIDER_FAIL_LIMIT:
+            continue  # 本轮该接口已连续失败多次，跳过
+        try:
+            if provider == "google":
+                out = _translate_google(text, target)
+            elif provider == "mymemory":
+                out = _translate_mymemory(text, target)
+            if out:
+                _provider_fails[provider] = 0
+                break
+        except Exception as e:
+            _provider_fails[provider] = _provider_fails.get(provider, 0) + 1
+            log(f"  ! [{provider}] 翻译失败({_provider_fails[provider]}): {repr(e)[:60]}")
+    if out:
+        cache[key] = out
+        return out
+    return text  # 全部失败时保留原文
+
+
+def translate_items(items, cache_path):
+    """把条目的 title/summary 翻译成中文（带持久缓存）。"""
+    cache = {}
+    if os.path.exists(cache_path):
+        try:
+            with open(cache_path, "r", encoding="utf-8") as f:
+                cache = json.load(f)
+        except Exception:
+            cache = {}
+
+    need = 0
+    for e in items:
+        before = len(cache)
+        e["title"] = translate_text(e["title"], cache)
+        if e.get("summary"):
+            e["summary"] = translate_text(e["summary"], cache)
+        need += len(cache) - before
+        time.sleep(0.15)  # 轻微限速，避免被限流
+
+    if need:
+        try:
+            with open(cache_path, "w", encoding="utf-8") as f:
+                json.dump(cache, f, ensure_ascii=False)
+            log(f"翻译完成：新翻译 {need} 段，缓存 {len(cache)} 段 -> {cache_path}")
+        except Exception as e:
+            log(f"  ! 缓存写出失败: {repr(e)[:80]}")
+    else:
+        log(f"翻译完成：全部命中缓存（{len(cache)} 段）")
+
+
 def build(config, out_path, archive=True):
     site = config.get("site", {})
     categories = config.get("categories", {})
@@ -223,10 +335,18 @@ def build(config, out_path, archive=True):
             total += 1
 
     # 每个分类按时间倒序 + 截断
+    kept = []
     for k, b in buckets.items():
         b["items"].sort(key=lambda x: x["published_ts"], reverse=True)
         b["items"] = b["items"][:max_per]
         b["count"] = len(b["items"])
+        kept.extend(b["items"])
+
+    # 翻译成中文（仅最终保留的条目，带缓存）
+    if site.get("translate_to_zh", True):
+        cache_path = os.path.join(os.path.dirname(out_path), "translate_cache.json")
+        log(f"开始翻译 {len(kept)} 条（标题+摘要）...")
+        translate_items(kept, cache_path)
 
     output = {
         "generated_at": now.astimezone().isoformat(timespec="seconds"),

@@ -4,7 +4,8 @@
     "subtitle": "大模型 · 智能体 · 具身智能 · 一人公司",
     "description": "每天自动聚合大模型、智能体、具身智能与一人公司领域的AI资讯",
     "max_items_per_category": 40,
-    "days_back": 21
+    "days_back": 21,
+    "translate_to_zh": true
   },
   "feeds": [
     {"name": "量子位", "url": "https://www.qbitai.com/feed", "lang": "zh"},

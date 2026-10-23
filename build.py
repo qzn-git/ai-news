@@ -25,6 +25,7 @@ import re
 import sys
 import html
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timezone, timedelta
@@ -206,10 +207,18 @@ def _translate_google(text, target):
         TRANSLATE_URLS["google"] + "?" + params,
         headers={"User-Agent": "Mozilla/5.0 (compatible; AINewsBot/1.0)"},
     )
-    with urllib.request.urlopen(req, timeout=10) as resp:
-        data = json.loads(resp.read().decode("utf-8"))
-    out = "".join(seg[0] for seg in data[0] if seg and seg[0])
-    return out.strip()
+    delays = [2, 5, 10, 20]  # 429 退避重试
+    for attempt in range(len(delays) + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+            out = "".join(seg[0] for seg in data[0] if seg and seg[0])
+            return out.strip()
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < len(delays):
+                time.sleep(delays[attempt])
+                continue
+            raise
 
 
 def _translate_mymemory(text, target):
@@ -268,14 +277,19 @@ def translate_items(items, cache_path):
         except Exception:
             cache = {}
 
+    # 标题优先：先全部标题，再摘要（配额不足时保住标题的中文）
     need = 0
     for e in items:
         before = len(cache)
         e["title"] = translate_text(e["title"], cache)
-        if e.get("summary"):
-            e["summary"] = translate_text(e["summary"], cache)
         need += len(cache) - before
-        time.sleep(0.15)  # 轻微限速，避免被限流
+        time.sleep(0.5)
+    for e in items:
+        if e.get("summary"):
+            before = len(cache)
+            e["summary"] = translate_text(e["summary"], cache)
+            need += len(cache) - before
+            time.sleep(0.5)
 
     if need:
         try:

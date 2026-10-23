@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-10-23T04:23:35+00:00",
-  "total": 437,
+  "generated_at": "2026-10-23T04:33:32+00:00",
+  "total": 427,
   "source_count": 15,
-  "error_count": 2,
+  "error_count": 3,
   "errors": [
+    "量子位: URLError(TimeoutError('timed out'))",
     "VentureBeat AI: <HTTPError 429: 'Too Many Requests'>",
     "Indie Hackers: <HTTPError 403: 'Forbidden'>"
   ],
@@ -691,7 +692,7 @@
         {
           "title": "超级智能体和混杂因素：周围智能体对车辆轨迹预测的影响",
           "link": "https://arxiv.org/abs/2604.03463",
-          "summary": "arXiv:2604.03463v2 Announce Type: replace-cross Abstract: In highly interactive driving scenes, trajectory prediction is conditioned on information from surrounding traffic participants such as cars and pedestrians. Our main contribution is a comprehensive analysis of state-of-the-art trajectory predictors, which reveals a surprising and critical flaw: many surrounding agents degrade prediction ac",
+          "summary": "arXiv: 2604.03463v2公告类型： replace-cross摘要：在高度互动的驾驶场景中，轨迹预测取决于周围交通参与者（如汽车和行人）的信息。我们的主要贡献是对最先进的轨迹预测器进行了全面的分析，这揭示了一个令人惊讶的关键缺陷：许多周围的因素会降低预测精度",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -700,7 +701,7 @@
         {
           "title": "独自一人无事可做，人工智能特工开始玩",
           "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-          "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+          "summary": "麻省理工学院的研究人员在一个虚拟岛屿上放逐了13个人工智能，他们通过发明游戏，哀悼丢失的戒指，最终在工作中变得更好。",
           "source": "TechCrunch AI",
           "published": "2026-10-23T00:45:37+00:00",
           "published_ts": 1792716337.0,
@@ -718,7 +719,7 @@
         {
           "title": "在Meta的未来版本中，我会让我的Muse打电话给你的Muse",
           "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-          "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? […]",
+          "summary": "马克·扎克伯格（ Mark Zuckerberg ）正在努力走向一个未来，在这个未来中，人工智能代理的自主网络将主宰我们的生活--为我们购物、为我们工作、为我们与他人的人工智能代理交谈。人类是否已经准备好迎接这种非常具体和不屈不挠的生活愿景，在这种生活中，我们主要通过机器人代理进行沟通？ […]",
           "source": "The Verge AI",
           "published": "2026-10-22T20:30:41+00:00",
           "published_ts": 1792701041.0,
@@ -727,7 +728,7 @@
         {
           "title": "1Password为AI代理推出了一种无需查看密码即可代您登录的方式",
           "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-          "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+          "summary": "新功能允许客服代表登录客户的个人账号，同时保护用于保护这些账号的私人凭据。",
           "source": "TechCrunch AI",
           "published": "2026-10-22T19:07:09+00:00",
           "published_ts": 1792696029.0,
@@ -736,7 +737,7 @@
         {
           "title": "Discord现在将Markdown预览格式化为右侧",
           "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-          "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects […]",
+          "summary": "据该公司称，今天发布的Discord最新更新对Markdown预览有了很大的改进：它们现在应该能够正确渲染，而不是使用“一堆符号”。LLM和人工智能代理通常依赖Markdown文件来获取说明和上下文，因此这些改进的预览有助于人们分享有关人工智能项目的信息[…]",
           "source": "The Verge AI",
           "published": "2026-10-22T18:58:19+00:00",
           "published_ts": 1792695499.0,
@@ -751,9 +752,18 @@
       "count": 40,
       "items": [
         {
+          "title": "优步的竞争对手inDrive eyes 2027与Pony.ai和Nvidia在中亚进行机器人出租车测试",
+          "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+          "summary": "inDrive计划于2027年上半年在哈萨克斯坦首都开始测试Pony.ai的机器人出租车。",
+          "source": "TechCrunch AI",
+          "published": "2026-10-23T04:00:00+00:00",
+          "published_ts": 1792728000.0,
+          "category": "embodied"
+        },
+        {
           "title": "MPBRS ：基于多潜能的奖励塑造，用于人形运动中的统一奖励配置",
           "link": "https://arxiv.org/abs/2610.30334",
-          "summary": "arXiv:2610.30334v1 Announce Type: new Abstract: Designing and tuning reward functions remains one of the main challenges in building effective reinforcement learning (RL) pipelines for humanoid locomotion. While shaping rewards can accelerate learning, naively formulated terms often conflict with the desired behavior, overfit to a specific robot, or become unstable under small weight changes. Pote",
+          "summary": "arXiv: 2610.30334v1 Announce Type: new Abstract:设计和调整奖励函数仍然是构建人形运动的有效强化学习（ RL ）管道的主要挑战之一。虽然塑造奖励可以加速学习，但天真地制定的术语往往与期望的行为相冲突，过度适应特定的机器人，或者在体重变化很小时变得不稳定。Pote",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -762,7 +772,7 @@
         {
           "title": "基于触觉的机器人操纵：从力学驱动到数据驱动的视角",
           "link": "https://arxiv.org/abs/2610.30438",
-          "summary": "arXiv:2610.30438v1 Announce Type: new Abstract: Tactile sensing provides robots with direct access to physical interactions at the contact interface, making it a critical modality for robust and dexterous manipulation. Over the past several decades, tactile-based manipulation research has evolved from mechanics-driven approaches, which explicitly interpret tactile signals through contact mechanics",
+          "summary": "arXiv: 2610.30438v1公告类型：新摘要：触觉传感为机器人提供了对接触界面物理交互的直接访问，使其成为鲁棒和灵巧操作的关键模式。在过去的几十年中，基于触觉的操纵研究已经从力学驱动的方法演变而来，这种方法通过接触力学来明确解释触觉信号",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -771,7 +781,7 @@
         {
           "title": "使用时空偏好进行人形位置操纵的运动重定向",
           "link": "https://arxiv.org/abs/2610.30540",
-          "summary": "arXiv:2610.30540v1 Announce Type: new Abstract: Human motion retargeting bridges the embodiment gap between humans and humanoid robots by converting human demonstrations into reference trajectories for whole-body control and loco-manipulation. For object-interaction tasks, successful execution depends on accurately preserving body--object relations at critical stages. However, uniform per-frame it",
+          "summary": "arXiv: 2610.30540v1公告类型：新摘要：人体运动重定向通过将人体演示转换为全身控制和定位操作的参考轨迹，弥合了人体与类人机器人之间的实施差距。对于对象交互任务，成功执行取决于在关键阶段准确保存主体-对象关系。但是，每帧均匀",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -780,7 +790,7 @@
         {
           "title": "OASIS ：动态环境中开放式词汇检索和导航的在线锚点场景推断系统",
           "link": "https://arxiv.org/abs/2610.30589",
-          "summary": "arXiv:2610.30589v1 Announce Type: new Abstract: Reliable robotic mapping in dynamic real-world environments is essential for embodied intelligence and long-term autonomy. However, existing methods often involve a trade-off: lightweight online mapping is efficient but captures limited semantic context, while dense mapping provides richer semantics at higher computational cost and is more vulnerable",
+          "summary": "arXiv: 2610.30589v1公告类型：新摘要：动态现实环境中的可靠机器人映射对于体现智能和长期自主性至关重要。然而，现有方法通常需要权衡：轻量级在线映射是有效的，但捕获的语义上下文有限，而密集映射以更高的计算成本提供更丰富的语义，并且更容易受到攻击",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -789,7 +799,7 @@
         {
           "title": "路径：越野导航中机器人遥操作的偏好感知可穿越性估计",
           "link": "https://arxiv.org/abs/2610.30605",
-          "summary": "arXiv:2610.30605v1 Announce Type: new Abstract: Traversability estimation is critical for ground vehicle teleoperation, yet existing methods often neglect the human operator's preferences for speed and risk tolerance. To address this gap, we propose PATH-Net, a Preference-Aware Traversability estimation Hierarchical Network that adaptively generates preference-conditioned traversability cost maps ",
+          "summary": "arXiv: 2610.30605v1公告类型：新摘要：可穿越性估计对于地面车辆远程操作至关重要，但现有方法往往忽略了人工操作员对速度和风险承受能力的偏好。为了弥补这一差距，我们提出了PATH-Net ，这是一种自适应生成偏好条件可遍历性成本图的偏好感知可遍历性估计分层网络",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -798,7 +808,7 @@
         {
           "title": "全球融合的连续时间运动规划和转向",
           "link": "https://arxiv.org/abs/2610.30607",
-          "summary": "arXiv:2610.30607v1 Announce Type: new Abstract: Motion planning is central to robotics, and it is increasingly used to correct the motions proposed by learned planners and policies. In both uses, constraints must hold at every instant of the motion, not only at sampled times. To our knowledge, no algorithm provably converges to a globally optimal motion once a smoothness cost is combined with such",
+          "summary": "arXiv: 2610.30607v1公告类型：新摘要：运动规划是机器人技术的核心，越来越多地用于纠正学会规划者和政策提出的运动。在这两种用途中，约束必须在运动的每一刻都保持不变，而不仅仅是在采样时间。据我们所知，一旦平滑度成本与此相结合，没有算法可以证明收敛到全局最优运动。",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -807,7 +817,7 @@
         {
           "title": "Co ^ 2Gen ：协作生成去中心化多机器人和人工协作的任务计划",
           "link": "https://arxiv.org/abs/2610.30671",
-          "summary": "arXiv:2610.30671v1 Announce Type: new Abstract: Visual Language Action (VLA) models are designed to be generalist robot models that can be implemented across embodiments, tasks and environments. However, their ability to collaborate with other robots and humans remains underexplored. In this work, we propose a framework to automate the generation of multi-robot collaborative data for decentralized",
+          "summary": "arXiv: 2610.30671v1公告类型：新摘要：视觉语言动作（ VLA ）模型被设计为通用机器人模型，可以跨实施例、任务和环境实现。然而，它们与其他机器人和人类合作的能力仍未得到充分发掘。在这项工作中，我们提出了一个框架，用于自动生成去中心化的多机器人协作数据",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -816,7 +826,7 @@
         {
           "title": "通过LLM辅助的主动任务生成进行自适应空中定位操纵策略学习",
           "link": "https://arxiv.org/abs/2610.30810",
-          "summary": "arXiv:2610.30810v1 Announce Type: new Abstract: Loco-manipulation extends the workspace of conventional manipulation by combining mobility with physical interaction, while aerial loco-manipulation further expands this capability into three-dimensional space, enabling robots to reach environments inaccessible to ground-based systems. Moving to an aerial platform, however, gives rise to a demanding ",
+          "summary": "arXiv: 2610.30810v1公告类型：新摘要：定位操纵通过将移动性与物理交互相结合，扩展了传统操纵的工作空间，而空中定位操纵进一步将这种能力扩展到三维空间，使机器人能够到达地面系统无法到达的环境。然而，迁移到高空作业平台会带来苛刻的",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -825,7 +835,7 @@
         {
           "title": "具有人体运动先验的机器人运动转换",
           "link": "https://arxiv.org/abs/2610.30817",
-          "summary": "arXiv:2610.30817v1 Announce Type: new Abstract: Humanoid motion-tracking policies can reproduce diverse behaviors, yet connecting independently acquired motions into a continuous sequence remains challenging. Interpolation connects boundary poses without considering whether their relative position, heading, and timing provide suitable conditions for a transition. A generative motion prior can prod",
+          "summary": "arXiv: 2610.30817v1公告类型：新摘要：人形运动跟踪策略可以重现各种行为，但将独立获取的运动连接到连续序列中仍然具有挑战性。插值连接边界姿势，而不考虑其相对位置、航向和时机是否为过渡提供合适的条件。生成运动先于CAN PROD",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -834,7 +844,7 @@
         {
           "title": "TEAR ：机器人操纵的任务证据权限路由",
           "link": "https://arxiv.org/abs/2610.30819",
-          "summary": "arXiv:2610.30819v1 Announce Type: new Abstract: Reliable robotic manipulation in field-deployed settings requires more than executing a capable controller. As the execution conditions change, the system must decide, online and on the robot side, which control source should hold authority. Human teleoperation adapts readily to contact-rich and semantically ambiguous situations but depends on a stab",
+          "summary": "arXiv: 2610.30819v1 Announce Type: new Abstract:在现场部署设置中进行可靠的机器人操作需要的不仅仅是执行功能强大的控制器。随着执行条件的变化，系统必须在线和机器人方面决定哪个控制源应拥有权限。人类远程操作很容易适应接触丰富和语义模棱两可的情况，但取决于",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -843,7 +853,7 @@
         {
           "title": "LocoManiLab ：人形Loco-Manipulation中数据、策略、控制器和部署的统一测试平台",
           "link": "https://arxiv.org/abs/2610.30876",
-          "summary": "arXiv:2610.30876v1 Announce Type: new Abstract: Humanoid robots must coordinate locomotion and manipulation in everyday environments, yet progress is difficult to assess across differing policies, controllers, and task settings. LocoManiLab provides an integrated testbed spanning data collection and generation, policy training, evaluation, and physical deployment. Its task suite covers 234 atomic ",
+          "summary": "arXiv: 2610.30876v1公告类型：新摘要：人形机器人必须在日常环境中协调运动和操纵，但在不同的策略、控制器和任务设置下，很难评估进度。LocoManiLab提供跨越数据收集和生成、策略培训、评估和物理部署的集成测试平台。其任务套件涵盖234个原子",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -852,7 +862,7 @@
         {
           "title": "IORA ：受限致动下的不规则物体固定",
           "link": "https://arxiv.org/abs/2610.30969",
-          "summary": "arXiv:2610.30969v1 Announce Type: new Abstract: Stable grasping under task-specific disturbances is important for robotic manipulation. However, most dexterous grasp synthesis methods are developed for highly actuated hands in free space, and low-DoF hands may not be able to realize the contact topologies required by these grasps. Meanwhile, support surfaces can provide useful contact forces, but ",
+          "summary": "arXiv: 2610.30969v1公告类型：新摘要：在任务特定的干扰下，稳定的抓握对于机器人操作非常重要。然而，大多数灵巧的抓握合成方法都是针对自由空间中的高致动手而开发的，而低自由度手可能无法实现这些抓握所需的接触拓扑。同时，支撑表面可以提供有用的接触力，但",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -861,7 +871,7 @@
         {
           "title": "基于部分观察的机器人双臂柔软服装操纵的上下文学习世界模型",
           "link": "https://arxiv.org/abs/2610.30988",
-          "summary": "arXiv:2610.30988v1 Announce Type: new Abstract: Robust manipulation of soft objects, such as garments, is a critical skill for service and household robots to adopt, but remains challenging due to its high-dimensional state space, and material-dependent deformations. Humans address this challenge by using mental world models that \"imagine\" the shape and material properties from partial observation",
+          "summary": "arXiv: 2610.30988v1公告类型：新摘要：对服装等软物体的强大操作是服务和家用机器人采用的关键技能，但由于其高维状态空间和材料依赖性变形，仍然具有挑战性。人类通过使用从部分观察中“想象”形状和材料特性的心理世界模型来应对这一挑战",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -870,7 +880,7 @@
         {
           "title": "UniFlowWAM ：具有视觉语义和4D几何的统一世界动作模型",
           "link": "https://arxiv.org/abs/2610.30991",
-          "summary": "arXiv:2610.30991v1 Announce Type: new Abstract: Robot demonstrations record what the robot saw and what it did. They do not specify how the 3D world changed in between. Scene-level 3D flow describes it by tracking 3D scene points, providing the world representation with 4D geometry. Prior work has used flow to improve robot policies. Flow served as an intermediate prediction that a separate model ",
+          "summary": "arXiv: 2610.30991v1公告类型：新摘要：机器人演示记录了机器人看到了什么以及它做了什么。他们没有具体说明3D世界在两者之间的变化。场景级3D流程通过跟踪3D场景点来描述它，为世界呈现4D几何体。之前的工作已经使用FLOW来改进机器人策略。流量用作中间预测，即单独的模型",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -879,7 +889,7 @@
         {
           "title": "重新审视腹腔镜机器人操作中状态到视觉策略蒸馏的分布匹配",
           "link": "https://arxiv.org/abs/2610.31010",
-          "summary": "arXiv:2610.31010v1 Announce Type: new Abstract: End-to-end control policies trained via Reinforcement Learning (RL) have emerged as an alternative to conventional surgical robotic control approaches, with recent studies exploring state-based policies trained on privileged state observations. However, such approaches rely on precise physical states that are difficult to obtain reliably in surgical ",
+          "summary": "arXiv: 2610.31010v1公告类型：新摘要：通过强化学习（ RL ）训练的端到端控制策略已成为传统手术机器人控制方法的替代方案，最近的研究探索了基于特权状态观察训练的状态策略。然而，这种方法依赖于手术中难以可靠获得的精确物理状态",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -888,7 +898,7 @@
         {
           "title": "机器人系统的多工具选择：语义检索与LLM的比较",
           "link": "https://arxiv.org/abs/2610.31013",
-          "summary": "arXiv:2610.31013v1 Announce Type: new Abstract: Natural-language interfaces allow users to command robotic systems without interacting directly with mission planners or robotics middleware. Their reliable use depends on robot tool routing, defined here as the selection of the smallest complete subset of predefined executable capabilities required to satisfy a request. This task is particularly dif",
+          "summary": "arXiv: 2610.31013v1 Announce Type: new Abstract:自然语言界面使用户无需与任务规划者或机器人中间件直接交互即可命令机器人系统。它们的可靠使用取决于机器人工具路由，在此定义为选择满足请求所需的预定义可执行功能的最小完整子集。这个任务特别不同",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -897,7 +907,7 @@
         {
           "title": "使用动态运动原语的基于演示的机器人进给",
           "link": "https://arxiv.org/abs/2610.31020",
-          "summary": "arXiv:2610.31020v1 Announce Type: new Abstract: This paper presents a demonstration-based robotic feeding framework that integrates human demonstration, Dynamic Movement Primitive-based motion planning, vision-based scene perception, and robot control. A human operator first demonstrates the scooping and feeding motions while the position and Euler-angle orientation of the spoon are recorded using",
+          "summary": "arXiv: 2610.31020v1公告类型：新摘要：本文提出了一种基于演示的机器人进给框架，集成了人体演示、基于动态运动原语的运动规划、基于视觉的场景感知和机器人控制。人类操作员首先演示舀取和喂食运动，同时记录勺子的位置和欧拉角方向，使用",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -906,7 +916,7 @@
         {
           "title": "多模式进展-用于机器人柔性内窥镜中预期导航撤退的残余融合",
           "link": "https://arxiv.org/abs/2610.31028",
-          "summary": "arXiv:2610.31028v1 Announce Type: new Abstract: Flexible robotic endoscopes provide access through tortuous anatomy, where friction, deformation, and wall interaction separate commanded insertion from useful distal progress. Operators interpret this mismatch and retreat to recover a navigable configuration. Recognizing the approach to that decision requires relating motor intent to distal response",
+          "summary": "arXiv: 2610.31028v1公告类型：新摘要：柔性机器人内窥镜通过曲折的解剖结构提供通道，其中摩擦、变形和壁相互作用将命令插入与有用的远端进展分开。操作员解释此不匹配并撤回以恢复可导航配置。认识到做出这一决定的方法需要将运动意图与远端反应相关联",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -915,7 +925,7 @@
         {
           "title": "AstroBench ：自由浮动捕获和空间机器人操纵的基准测试",
           "link": "https://arxiv.org/abs/2610.31064",
-          "summary": "arXiv:2610.31064v1 Announce Type: new Abstract: Capturing a loose object inside a spacecraft requires a robot to approach a target that can translate and rotate, and whose motion changes when contact is made. These conditions motivate evaluation beyond manipulation of supported objects. We introduce AstroBench, an open benchmark for free-floating capture and space robotic manipulation with a fixed",
+          "summary": "arXiv: 2610.31064v1 Announce Type: new Abstract:捕获航天器内部的松散物体需要机器人接近可以平移和旋转的目标，并且当进行接触时其运动会发生变化。这些条件激励着评估，而不仅仅是操纵支持的对象。我们推出了AstroBench ，这是一个用于自由浮动捕获和空间机器人操纵的开放基准，",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -924,7 +934,7 @@
         {
           "title": "RGraph-Eval ：用于评估机器人视频生成的任务接地场景图",
           "link": "https://arxiv.org/abs/2610.31121",
-          "summary": "arXiv:2610.31121v1 Announce Type: new Abstract: Generated robot videos can look convincing while depicting the wrong interac- tion: a different object is moved, a grasp disappears, or a placement ends out- side its destination. We introduce RGraph-Eval, a reference-based framework that makes these discrepancies explicit through task-grounded temporal scene graphs. Unlike approaches that construct ",
+          "summary": "arXiv: 2610.31121v1 Announce Type: new Abstract:生成的机器人视频在描绘错误的交互时看起来令人信服：不同的物体被移动，抓握消失，或者放置结束于目的地之外。我们引入了RGraph-Eval ，这是一个基于参考的框架，通过基于任务的时间场景图来明确这些差异。与构建",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -933,7 +943,7 @@
         {
           "title": "目标前的记忆：史前记忆在人类本地操纵中的作用",
           "link": "https://arxiv.org/abs/2610.31166",
-          "summary": "arXiv:2610.31166v1 Announce Type: new Abstract: Humanoid loco-manipulation in dynamic scenes is non-Markovian: cues vanish as objects change or are hidden, or leave the view as the robot turns and walks, yet whole-body vision-language-action (VLA) policies see only the present. We present WholeBodyMem, an object-guided perceptual memory that keeps the pre-history of object events seen before the r",
+          "summary": "arXiv: 2610.31166v1 Announce Type: new Abstract:动态场景中的Humanoid loco-manipulation是非Markovian ：随着对象的变化或隐藏而消失，或者随着机器人的转动和行走而离开视图，但全身视觉-语言-行动（ VLA ）策略只能看到现在。我们呈现了WholeBodyMem ，这是一种对象引导的感知记忆，它保留了",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1096,15 +1106,6 @@
           "title": "HEX ：人形对齐的跨体全身操作专家",
           "link": "https://arxiv.org/abs/2604.07993",
           "summary": "arXiv:2604.07993v3 Announce Type: replace Abstract: Humans achieve complex manipulation through coordinated whole-body control, whereas most Vision-Language-Action (VLA) models treat robot body parts largely independently, making high-DoF humanoid control challenging and often unstable. We present HEX, a state-centric framework for coordinated manipulation on full-sized bipedal humanoid robots. HE",
-          "source": "arXiv cs.RO",
-          "published": "2026-10-23T04:00:00+00:00",
-          "published_ts": 1792728000.0,
-          "category": "embodied"
-        },
-        {
-          "title": "通过在线惯性估计和凸扳手优化进行双臂箱体操作",
-          "link": "https://arxiv.org/abs/2605.22021",
-          "summary": "arXiv:2605.22021v2 Announce Type: replace Abstract: Dual-arm robotic manipulation often requires lifting and transporting objects whose mass and center of mass are not known in advance. These uncertainties affect the force-moment balance required for stable lifting, and improper regulation of contact wrenches can lead to slip, object drop, orientation deviation, or excessive squeezing. This paper ",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T04:15:46+00:00",
+  "generated_at": "2026-10-23T04:23:35+00:00",
   "total": 437,
   "source_count": 15,
   "error_count": 2,
@@ -547,149 +547,149 @@
         {
           "title": "用自然语言评估理性契约",
           "link": "https://arxiv.org/abs/2608.10475",
-          "summary": "arXiv:2608.10475v2 Announce Type: replace-cross Abstract: The emergence of language-based AI agents promises to transform the scope of machine economic activity. Instead of just proposing bids or following hard-coded protocols, such agents can be used to negotiate and execute agreements in natural language. However, most evaluations of these abilities have focused on one-off exchanges or simple ec",
+          "summary": "arXiv: 2608.10475v2公告类型： replace-cross摘要：基于语言的AI agent的出现有望改变机器经济活动的范围。此类代理可以用于以自然语言协商和执行协议，而不仅仅是提出出价或遵循硬编码协议。然而，对这些能力的大多数评估都集中在一次性交流或简单的EC上",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?",
+          "title": "SpatialScout ： VLM代理能否积极探索和映射3D场景？",
           "link": "https://arxiv.org/abs/2610.26659",
-          "summary": "arXiv:2610.26659v3 Announce Type: replace-cross Abstract: Spatial intelligence requires agents to actively acquire visual evidence and integrate observations into a coherent representation of the three-dimensional world. Yet spatial question answering offers limited evidence of whether models can construct accurate metric maps through autonomous exploration. We introduce SpatialScout, a benchmark ",
+          "summary": "arXiv: 2610.26659v3 Announce Type: replace-cross Abstract:空间智能要求智能体主动获取视觉证据，并将观察结果整合到三维世界的连贯表示中。然而，空间问题回答提供了有限的证据，证明模型是否可以通过自主探索构建准确的度量地图。我们引入了SpatialScout ，这是一个基准",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "Disclosure Begets Disclosure: A Self-Reinforcing Privacy Loop in LLM Agents with Persistent Memory",
+          "title": "披露导致披露：具有持久记忆的LLM代理中的自我强化隐私循环",
           "link": "https://arxiv.org/abs/2610.28315",
-          "summary": "arXiv:2610.28315v2 Announce Type: replace-cross Abstract: Large language model (LLM) agents increasingly use persistent memory to personalize responses, and personal attributes in this memory pose a privacy risk if exposed. We ask how consulting memory during dialogue changes what users go on to say, and thus what the memory comes to reveal. In multi-session simulations, a simulated user with 24 p",
+          "summary": "arXiv: 2610.28315v2公告类型： replace-cross摘要：大型语言模型（ LLM ）代理越来越多地使用持久内存来个性化响应，如果暴露，此内存中的个人属性会构成隐私风险。我们询问在对话过程中咨询记忆如何改变用户所说的话，从而改变记忆所揭示的内容。在多会话模拟中，模拟用户有24页",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "OACap: Caption-Guided Active Observation for Detailed Video Captioning",
+          "title": "OACap ：字幕引导下的详细视频字幕主动观察",
           "link": "https://arxiv.org/abs/2610.29327",
-          "summary": "arXiv:2610.29327v2 Announce Type: replace-cross Abstract: Unlike question answering, where a query specifies a perceptual target, open-ended detailed captioning must determine what evidence to acquire and how to integrate it into a coherent global description. We propose Observation-Adaptive Video Captioner (OACap), a caption-centered agent that turns unsupported or missing information into target",
+          "summary": "arXiv: 2610.29327v2公告类型： replace-cross摘要：与查询指定感知目标的问答不同，开放式详细字幕必须确定要获取的证据以及如何将其集成到一个连贯的全局描述中。我们推荐Observation-Adaptive Video Captioner (OACap) ，这是一种以字幕为中心的代理，可将不受支持或缺失的信息转化为目标",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "Integrated Longitudinal and Lateral Control for High-Speed Platooning of Articulated Vehicles",
+          "title": "用于铰接式车辆高速排队的综合纵向和横向控制",
           "link": "https://arxiv.org/abs/2610.30437",
-          "summary": "arXiv:2610.30437v1 Announce Type: new Abstract: This paper presents an integrated control framework for high-speed platooning of articulated vehicles, combining advanced longitudinal and lateral control strategies to address the challenges of safe and efficient autonomous driving. A novel proof of string stability for the proposed longitudinal control algorithm, based on a PID framework, ensures r",
+          "summary": "arXiv: 2610.30437v1公告类型：新摘要：本文提出了铰接式车辆高速排队的综合控制框架，结合先进的纵向和横向控制策略，以应对安全高效的自动驾驶挑战。基于PID框架的纵向控制算法的串稳定性新证明确保了",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "Integrated Respiratory Sensing and Gated Control for Autonomous Needle Insertion Via CT Bore Robotic Arm",
+          "title": "通过CT孔机器人手臂进行自主插针的集成呼吸传感和门控",
           "link": "https://arxiv.org/abs/2610.30452",
-          "summary": "arXiv:2610.30452v1 Announce Type: new Abstract: Currently, CT-guided lung biopsy is a highly manual procedure requiring patient breath-holding, iterative manual needle insertions, and repeated CT confirmation scans to accurately target a tumor. Automating this process within the CT bore--without relying on manual needle placement or patient breath-holding--has the potential to reduce procedure tim",
+          "summary": "arXiv: 2610.30452v1公告类型：新摘要：目前， CT引导肺活检是一种高度手动的手术，需要患者屏气、迭代手动插针和重复CT确认扫描，以准确靶向肿瘤。在CT孔内自动化此过程-无需依靠手动针头放置或患者屏住呼吸-有可能减少手术时间",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "Externalise the Memory: A Pre-Registered Study of Where an Embodied Agent's Experience Should Live",
+          "title": "外化记忆：一项预先注册的研究，研究具体代理的体验应该存在于何处",
           "link": "https://arxiv.org/abs/2610.30478",
-          "summary": "arXiv:2610.30478v1 Announce Type: new Abstract: Should an embodied agent's experience be baked into its policy weights, or kept external and retrieved at inference? A memory-augmented teacher (a VLM that retrieves lessons, with their episode images, from its own past attempts) produces trajectories on a vision-conditioned reach task; from the same trajectories we distil LoRA student policies and e",
+          "summary": "arXiv: 2610.30478v1公告类型：新摘要：是否应将具体化代理的体验纳入其策略权重，还是保留在外部并在推断时检索？记忆增强的老师（从自己过去的尝试中检索课程及其情节图像的VLM ）在视力调节的REACH任务中产生轨迹；从相同的轨迹中，我们提取LoRA学生政策和",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "Decision Making and Ride Comfort Evaluation Based on Lane-Change Prediction for Autonomous Vehicles",
+          "title": "基于自动驾驶车辆变道预测的决策和乘坐舒适度评估",
           "link": "https://arxiv.org/abs/2610.30528",
-          "summary": "arXiv:2610.30528v1 Announce Type: new Abstract: Predicting surrounding vehicles' lane-change intentions enables autonomous vehicles to anticipate potential hazards and respond proactively rather than relying solely on reactive maneuvers. This study investigates the benefits of integrating lane-change prediction, based on knowledge graph embeddings and Bayesian inference, into autonomous vehicle de",
+          "summary": "arXiv: 2610.30528v1公告类型：新摘要：预测周围车辆的变道意图使自动驾驶车辆能够预测潜在的危险并主动做出反应，而不是仅仅依靠被动操作。本研究调查了将基于知识图嵌入和贝叶斯推断的车道变化预测集成到自动驾驶汽车设计中的好处。",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "Know When to Escalate: Critic-Guided Adaptive Execution for Cloud-Local Embodied Agents",
+          "title": "了解何时升级：针对云本地具体化客服代表的批评者引导的自适应执行",
           "link": "https://arxiv.org/abs/2610.30587",
-          "summary": "arXiv:2610.30587v1 Announce Type: new Abstract: Recent advances in foundation-model agents have enabled increasingly capable embodied systems for long-horizon planning and interaction. However, embodied agents require fast, closed-loop decisions as they continuously perceive and act on a changing environment. Deploying strong cloud agents leaves the platform idle for seconds between consecutive ac",
+          "summary": "arXiv: 2610.30587v1公告类型：新摘要：基础模型代理的最新进展使越来越强大的嵌入式系统能够进行长期规划和交互。然而，具体的代理人需要快速、闭环的决策，因为他们不断感知不断变化的环境并采取行动。部署强大的云代理使平台在连续的交流之间闲置几秒钟",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "Live Thread Reconstruction for Autonomous Manipulation",
+          "title": "用于自主操纵的实时线程重建",
           "link": "https://arxiv.org/abs/2610.30694",
-          "summary": "arXiv:2610.30694v1 Announce Type: new Abstract: Autonomous robotic surgery has drawn increased attention in recent years due to its potential to relieve surgeons of time-consuming, mentally straining, and tedious tasks, particularly during prolonged operations. One suitable task for automation is suturing, which involves tracking the thread as it deforms during needle retrieval, de-tangling, knot ",
+          "summary": "arXiv: 2610.30694v1公告类型：新摘要：自主机器人手术近年来引起了越来越多的关注，因为它有可能缓解外科医生耗时、精神紧张和繁琐的任务，特别是在长期手术期间。自动化的一个合适任务是缝合，它涉及跟踪线在取针、解缠结、打结过程中的变形",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "Causal Analysis of Failures of Cyber-Physical Systems with Continuous Inputs",
+          "title": "连续输入网络物理系统故障原因分析",
           "link": "https://arxiv.org/abs/2610.30737",
-          "summary": "arXiv:2610.30737v1 Announce Type: new Abstract: Modern autonomous Cyber-Physical Systems (CPSs), such as self-driving cars, operate in increasingly complex environments while expected to maintain high reliability. The black-box nature of many of these systems makes it impossible to fully verify their behavior prior to deployment. When a failure occurs, it is important to analyze it to guide improv",
+          "summary": "arXiv: 2610.30737v1公告类型：新摘要：现代自主网络物理系统（ CPS ） ，如自动驾驶汽车，在日益复杂的环境中运行，同时有望保持高可靠性。许多这些系统的黑盒性质使得在部署之前不可能完全验证它们的行为。发生故障时，重要的是对其进行分析以指导即兴表演",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "ProTrav: Probabilistic Traversability with Elevation Uncertainty Propagation for Risk-aware Off-road Navigation",
+          "title": "ProTrav ：具有高程不确定性传播的概率可穿越性，用于风险感知的越野导航",
           "link": "https://arxiv.org/abs/2610.30839",
-          "summary": "arXiv:2610.30839v1 Announce Type: new Abstract: Reliable traversability estimation is essential for autonomous navigation on unstructured terrain. State-of-the-art approaches typically evaluate traversability from deterministic terrain elevation, thereby overlooking spatial correlations in the terrain and failing to account for how elevation uncertainty propagates through nonlinear traversability ",
+          "summary": "arXiv: 2610.30839v1公告类型： new摘要：可靠的遍历性估计对于非结构化地形上的自主导航至关重要。最先进的方法通常从确定性地形高程评估可穿越性，从而忽略地形中的空间相关性，无法解释高程不确定性如何通过非线性可穿越性传播",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "AlignDrive: Aligned Lateral-Longitudinal Planning for End-to-End Autonomous Driving",
+          "title": "AlignDrive ：端到端自动驾驶的横向纵向规划",
           "link": "https://arxiv.org/abs/2601.01762",
-          "summary": "arXiv:2601.01762v5 Announce Type: replace Abstract: Practical autonomous driving requires models that generalize by reasoning through spatial-temporal possibilities to exclude unsafe outcomes. While state-of-the-art (SOTA) methods use parallel planning architectures, they fail to explicitly couple speed decisions with agent behavior along the driving path, leading to suboptimal coordination. To ad",
+          "summary": "arXiv: 2601.01762v5公告类型：替换摘要：实用自动驾驶需要通过时空可能性推理来概括的模型，以排除不安全的结果。虽然最先进的（ SOTA ）方法使用并行规划架构，但它们未能将速度决策与驾驶路径上的座席行为明确耦合，导致次优协调。",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "Robustness Verification of an Autonomous Underwater Vehicle-based Plankton Classifier",
+          "title": "基于自主水下航行的浮游生物分类器的鲁棒性验证",
           "link": "https://arxiv.org/abs/2607.04453",
-          "summary": "arXiv:2607.04453v2 Announce Type: replace Abstract: The assessment of planktonic standing stocks and microorganism structures is critical for understanding upper ocean biological processes. Currently, autonomous underwater vehicles (AUVs) equipped with in-situ optical imaging and artificial intelligence (AI) methods offer a promising solution for persistent surveillance, mapping and monitoring of ",
+          "summary": "arXiv: 2607.04453v2公告类型：替换摘要：浮游生物常备种群和微生物结构的评估对于了解上层海洋生物过程至关重要。目前，配备原位光学成像和人工智能（ AI ）方法的自主水下航行器（ AUV ）为",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "Scale and Selection: What Makes Automatic Harness Evolution Work for Visual-Interface Robot Agents",
+          "title": "规模和选择：是什么让自动线束演进适用于视觉界面机器人代理",
           "link": "https://arxiv.org/abs/2609.39304",
-          "summary": "arXiv:2609.39304v4 Announce Type: replace Abstract: When an off-the-shelf coding agent is used directly as a robot policy, observing a browser-based 3D interface through screenshots and acting by posing a virtual target gripper through a few tools, the agent's harness, its prompts, tools, and control rules, largely determines success, and until now it has been written by hand. We show that this ha",
+          "summary": "arXiv: 2609.39304v4公告类型：替换摘要：当现成的编码代理直接用作机器人策略时，通过屏幕截图观察基于浏览器的3D界面，并通过几个工具冒充虚拟目标抓手，代理的线束、提示、工具和控制规则在很大程度上决定了成功，直到现在都是手工编写的。我们证明这个哈",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics",
+          "title": "AgenticRoboRL ：将编码代理后期培训引入Agentic Robotics",
           "link": "https://arxiv.org/abs/2610.28589",
-          "summary": "arXiv:2610.28589v2 Announce Type: replace Abstract: Agentic robotics systems combine planners with robot harnesses to perform complex manipulation tasks. Recent work improves these systems through better harnesses and external memory, but relies on powerful closed-source models as planners and does not improve the planners' own capabilities. In contrast, coding agents have improved substantially b",
+          "summary": "arXiv: 2610.28589v2公告类型：替换摘要： Agentic机器人系统将规划器与机器人线束相结合，以执行复杂的操作任务。最近的工作通过更好的利用和外部记忆来改进这些系统，但依赖于强大的闭源模型作为规划者，并没有提高规划者自己的能力。相比之下，编码剂已显著改善b",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
           "category": "agent"
         },
         {
-          "title": "Super Agents and Confounders: Influence of surrounding agents on vehicle trajectory prediction",
+          "title": "超级智能体和混杂因素：周围智能体对车辆轨迹预测的影响",
           "link": "https://arxiv.org/abs/2604.03463",
           "summary": "arXiv:2604.03463v2 Announce Type: replace-cross Abstract: In highly interactive driving scenes, trajectory prediction is conditioned on information from surrounding traffic participants such as cars and pedestrians. Our main contribution is a comprehensive analysis of state-of-the-art trajectory predictors, which reveals a surprising and critical flaw: many surrounding agents degrade prediction ac",
           "source": "arXiv cs.RO",
@@ -698,7 +698,7 @@
           "category": "agent"
         },
         {
-          "title": "Left alone with nothing to do, AI agents started playing",
+          "title": "独自一人无事可做，人工智能特工开始玩",
           "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
           "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
           "source": "TechCrunch AI",
@@ -707,7 +707,7 @@
           "category": "agent"
         },
         {
-          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "title": "将数据库评分转化为RL奖励：使用ThinkingBox进行培训后座席",
           "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
           "summary": "",
           "source": "Hugging Face Blog",
@@ -716,7 +716,7 @@
           "category": "agent"
         },
         {
-          "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+          "title": "在Meta的未来版本中，我会让我的Muse打电话给你的Muse",
           "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
           "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? […]",
           "source": "The Verge AI",
@@ -725,7 +725,7 @@
           "category": "agent"
         },
         {
-          "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+          "title": "1Password为AI代理推出了一种无需查看密码即可代您登录的方式",
           "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
           "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
           "source": "TechCrunch AI",
@@ -734,7 +734,7 @@
           "category": "agent"
         },
         {
-          "title": "Discord now formats Markdown previews right",
+          "title": "Discord现在将Markdown预览格式化为右侧",
           "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
           "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects […]",
           "source": "The Verge AI",
@@ -751,7 +751,7 @@
       "count": 40,
       "items": [
         {
-          "title": "MPBRS: Multi-Potential-Based Reward Shaping for Unified Reward Configuration in Humanoid Locomotion",
+          "title": "MPBRS ：基于多潜能的奖励塑造，用于人形运动中的统一奖励配置",
           "link": "https://arxiv.org/abs/2610.30334",
           "summary": "arXiv:2610.30334v1 Announce Type: new Abstract: Designing and tuning reward functions remains one of the main challenges in building effective reinforcement learning (RL) pipelines for humanoid locomotion. While shaping rewards can accelerate learning, naively formulated terms often conflict with the desired behavior, overfit to a specific robot, or become unstable under small weight changes. Pote",
           "source": "arXiv cs.RO",
@@ -760,7 +760,7 @@
           "category": "embodied"
         },
         {
-          "title": "Tactile-Based Robotic Manipulation: From Mechanics-Driven to Data-Driven Perspectives",
+          "title": "基于触觉的机器人操纵：从力学驱动到数据驱动的视角",
           "link": "https://arxiv.org/abs/2610.30438",
           "summary": "arXiv:2610.30438v1 Announce Type: new Abstract: Tactile sensing provides robots with direct access to physical interactions at the contact interface, making it a critical modality for robust and dexterous manipulation. Over the past several decades, tactile-based manipulation research has evolved from mechanics-driven approaches, which explicitly interpret tactile signals through contact mechanics",
           "source": "arXiv cs.RO",
@@ -769,7 +769,7 @@
           "category": "embodied"
         },
         {
-          "title": "Motion Retargeting with Spatiotemporal Preferences for Humanoid Loco-Manipulation",
+          "title": "使用时空偏好进行人形位置操纵的运动重定向",
           "link": "https://arxiv.org/abs/2610.30540",
           "summary": "arXiv:2610.30540v1 Announce Type: new Abstract: Human motion retargeting bridges the embodiment gap between humans and humanoid robots by converting human demonstrations into reference trajectories for whole-body control and loco-manipulation. For object-interaction tasks, successful execution depends on accurately preserving body--object relations at critical stages. However, uniform per-frame it",
           "source": "arXiv cs.RO",
@@ -778,7 +778,7 @@
           "category": "embodied"
         },
         {
-          "title": "OASIS: Online Anchor-centric Scene Inference System for Open-Vocabulary Retrieval and Navigation in Dynamic Environments",
+          "title": "OASIS ：动态环境中开放式词汇检索和导航的在线锚点场景推断系统",
           "link": "https://arxiv.org/abs/2610.30589",
           "summary": "arXiv:2610.30589v1 Announce Type: new Abstract: Reliable robotic mapping in dynamic real-world environments is essential for embodied intelligence and long-term autonomy. However, existing methods often involve a trade-off: lightweight online mapping is efficient but captures limited semantic context, while dense mapping provides richer semantics at higher computational cost and is more vulnerable",
           "source": "arXiv cs.RO",
@@ -787,7 +787,7 @@
           "category": "embodied"
         },
         {
-          "title": "PATH: Preference-Aware Traversability Estimation for Robotic Teleoperation in Off-Road Navigation",
+          "title": "路径：越野导航中机器人遥操作的偏好感知可穿越性估计",
           "link": "https://arxiv.org/abs/2610.30605",
           "summary": "arXiv:2610.30605v1 Announce Type: new Abstract: Traversability estimation is critical for ground vehicle teleoperation, yet existing methods often neglect the human operator's preferences for speed and risk tolerance. To address this gap, we propose PATH-Net, a Preference-Aware Traversability estimation Hierarchical Network that adaptively generates preference-conditioned traversability cost maps ",
           "source": "arXiv cs.RO",
@@ -796,7 +796,7 @@
           "category": "embodied"
         },
         {
-          "title": "Continuous-Time Motion Planning and Steering with Global Convergence",
+          "title": "全球融合的连续时间运动规划和转向",
           "link": "https://arxiv.org/abs/2610.30607",
           "summary": "arXiv:2610.30607v1 Announce Type: new Abstract: Motion planning is central to robotics, and it is increasingly used to correct the motions proposed by learned planners and policies. In both uses, constraints must hold at every instant of the motion, not only at sampled times. To our knowledge, no algorithm provably converges to a globally optimal motion once a smoothness cost is combined with such",
           "source": "arXiv cs.RO",
@@ -805,7 +805,7 @@
           "category": "embodied"
         },
         {
-          "title": "Co^2Gen: Collaboratively Generating Task Plans for Decentralized Multi-Robot and Human Collaboration",
+          "title": "Co ^ 2Gen ：协作生成去中心化多机器人和人工协作的任务计划",
           "link": "https://arxiv.org/abs/2610.30671",
           "summary": "arXiv:2610.30671v1 Announce Type: new Abstract: Visual Language Action (VLA) models are designed to be generalist robot models that can be implemented across embodiments, tasks and environments. However, their ability to collaborate with other robots and humans remains underexplored. In this work, we propose a framework to automate the generation of multi-robot collaborative data for decentralized",
           "source": "arXiv cs.RO",
@@ -814,7 +814,7 @@
           "category": "embodied"
         },
         {
-          "title": "Adaptive Aerial Loco-Manipulation Policy Learning via LLM-Assisted Proactive Task Generation",
+          "title": "通过LLM辅助的主动任务生成进行自适应空中定位操纵策略学习",
           "link": "https://arxiv.org/abs/2610.30810",
           "summary": "arXiv:2610.30810v1 Announce Type: new Abstract: Loco-manipulation extends the workspace of conventional manipulation by combining mobility with physical interaction, while aerial loco-manipulation further expands this capability into three-dimensional space, enabling robots to reach environments inaccessible to ground-based systems. Moving to an aerial platform, however, gives rise to a demanding ",
           "source": "arXiv cs.RO",
@@ -823,7 +823,7 @@
           "category": "embodied"
         },
         {
-          "title": "Robot Motion Transition with Human Motion Prior",
+          "title": "具有人体运动先验的机器人运动转换",
           "link": "https://arxiv.org/abs/2610.30817",
           "summary": "arXiv:2610.30817v1 Announce Type: new Abstract: Humanoid motion-tracking policies can reproduce diverse behaviors, yet connecting independently acquired motions into a continuous sequence remains challenging. Interpolation connects boundary poses without considering whether their relative position, heading, and timing provide suitable conditions for a transition. A generative motion prior can prod",
           "source": "arXiv cs.RO",
@@ -832,7 +832,7 @@
           "category": "embodied"
         },
         {
-          "title": "TEAR: Task-Evidence Authority Routing for Robotic Manipulation",
+          "title": "TEAR ：机器人操纵的任务证据权限路由",
           "link": "https://arxiv.org/abs/2610.30819",
           "summary": "arXiv:2610.30819v1 Announce Type: new Abstract: Reliable robotic manipulation in field-deployed settings requires more than executing a capable controller. As the execution conditions change, the system must decide, online and on the robot side, which control source should hold authority. Human teleoperation adapts readily to contact-rich and semantically ambiguous situations but depends on a stab",
           "source": "arXiv cs.RO",
@@ -841,7 +841,7 @@
           "category": "embodied"
         },
         {
-          "title": "LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation",
+          "title": "LocoManiLab ：人形Loco-Manipulation中数据、策略、控制器和部署的统一测试平台",
           "link": "https://arxiv.org/abs/2610.30876",
           "summary": "arXiv:2610.30876v1 Announce Type: new Abstract: Humanoid robots must coordinate locomotion and manipulation in everyday environments, yet progress is difficult to assess across differing policies, controllers, and task settings. LocoManiLab provides an integrated testbed spanning data collection and generation, policy training, evaluation, and physical deployment. Its task suite covers 234 atomic ",
           "source": "arXiv cs.RO",
@@ -850,7 +850,7 @@
           "category": "embodied"
         },
         {
-          "title": "IORA: Irregular Object Immobilization under Restricted Actuation",
+          "title": "IORA ：受限致动下的不规则物体固定",
           "link": "https://arxiv.org/abs/2610.30969",
           "summary": "arXiv:2610.30969v1 Announce Type: new Abstract: Stable grasping under task-specific disturbances is important for robotic manipulation. However, most dexterous grasp synthesis methods are developed for highly actuated hands in free space, and low-DoF hands may not be able to realize the contact topologies required by these grasps. Meanwhile, support surfaces can provide useful contact forces, but ",
           "source": "arXiv cs.RO",
@@ -859,7 +859,7 @@
           "category": "embodied"
         },
         {
-          "title": "In-Context Learning World Models for Robot Dual-Arm Manipulation of Soft Garment with Partial Observations",
+          "title": "基于部分观察的机器人双臂柔软服装操纵的上下文学习世界模型",
           "link": "https://arxiv.org/abs/2610.30988",
           "summary": "arXiv:2610.30988v1 Announce Type: new Abstract: Robust manipulation of soft objects, such as garments, is a critical skill for service and household robots to adopt, but remains challenging due to its high-dimensional state space, and material-dependent deformations. Humans address this challenge by using mental world models that \"imagine\" the shape and material properties from partial observation",
           "source": "arXiv cs.RO",
@@ -868,7 +868,7 @@
           "category": "embodied"
         },
         {
-          "title": "UniFlowWAM: A Unified World-Action Model with Visual Semantics and 4D Geometry",
+          "title": "UniFlowWAM ：具有视觉语义和4D几何的统一世界动作模型",
           "link": "https://arxiv.org/abs/2610.30991",
           "summary": "arXiv:2610.30991v1 Announce Type: new Abstract: Robot demonstrations record what the robot saw and what it did. They do not specify how the 3D world changed in between. Scene-level 3D flow describes it by tracking 3D scene points, providing the world representation with 4D geometry. Prior work has used flow to improve robot policies. Flow served as an intermediate prediction that a separate model ",
           "source": "arXiv cs.RO",
@@ -877,7 +877,7 @@
           "category": "embodied"
         },
         {
-          "title": "Revisiting Distribution Matching for State-to-Vision Policy Distillation in Laparoscopic Robotic Manipulation",
+          "title": "重新审视腹腔镜机器人操作中状态到视觉策略蒸馏的分布匹配",
           "link": "https://arxiv.org/abs/2610.31010",
           "summary": "arXiv:2610.31010v1 Announce Type: new Abstract: End-to-end control policies trained via Reinforcement Learning (RL) have emerged as an alternative to conventional surgical robotic control approaches, with recent studies exploring state-based policies trained on privileged state observations. However, such approaches rely on precise physical states that are difficult to obtain reliably in surgical ",
           "source": "arXiv cs.RO",
@@ -886,7 +886,7 @@
           "category": "embodied"
         },
         {
-          "title": "Multi-Tool Selection for Robotic Systems: Comparing Semantic Retrieval and LLM",
+          "title": "机器人系统的多工具选择：语义检索与LLM的比较",
           "link": "https://arxiv.org/abs/2610.31013",
           "summary": "arXiv:2610.31013v1 Announce Type: new Abstract: Natural-language interfaces allow users to command robotic systems without interacting directly with mission planners or robotics middleware. Their reliable use depends on robot tool routing, defined here as the selection of the smallest complete subset of predefined executable capabilities required to satisfy a request. This task is particularly dif",
           "source": "arXiv cs.RO",
@@ -895,7 +895,7 @@
           "category": "embodied"
         },
         {
-          "title": "Demonstration-Based Robotic Feeding Using Dynamic Movement Primitives",
+          "title": "使用动态运动原语的基于演示的机器人进给",
           "link": "https://arxiv.org/abs/2610.31020",
           "summary": "arXiv:2610.31020v1 Announce Type: new Abstract: This paper presents a demonstration-based robotic feeding framework that integrates human demonstration, Dynamic Movement Primitive-based motion planning, vision-based scene perception, and robot control. A human operator first demonstrates the scooping and feeding motions while the position and Euler-angle orientation of the spoon are recorded using",
           "source": "arXiv cs.RO",
@@ -904,7 +904,7 @@
           "category": "embodied"
         },
         {
-          "title": "Multimodal Progress-Residual Fusion for Anticipating Navigation Retreat in Robotic Flexible Endoscopy",
+          "title": "多模式进展-用于机器人柔性内窥镜中预期导航撤退的残余融合",
           "link": "https://arxiv.org/abs/2610.31028",
           "summary": "arXiv:2610.31028v1 Announce Type: new Abstract: Flexible robotic endoscopes provide access through tortuous anatomy, where friction, deformation, and wall interaction separate commanded insertion from useful distal progress. Operators interpret this mismatch and retreat to recover a navigable configuration. Recognizing the approach to that decision requires relating motor intent to distal response",
           "source": "arXiv cs.RO",
@@ -913,7 +913,7 @@
           "category": "embodied"
         },
         {
-          "title": "AstroBench: Benchmarking Free-Floating Capture and Space Robotic Manipulation",
+          "title": "AstroBench ：自由浮动捕获和空间机器人操纵的基准测试",
           "link": "https://arxiv.org/abs/2610.31064",
           "summary": "arXiv:2610.31064v1 Announce Type: new Abstract: Capturing a loose object inside a spacecraft requires a robot to approach a target that can translate and rotate, and whose motion changes when contact is made. These conditions motivate evaluation beyond manipulation of supported objects. We introduce AstroBench, an open benchmark for free-floating capture and space robotic manipulation with a fixed",
           "source": "arXiv cs.RO",
@@ -922,7 +922,7 @@
           "category": "embodied"
         },
         {
-          "title": "RGraph-Eval: Task-Grounded Scene Graphs for Evaluating Robot Video Generation",
+          "title": "RGraph-Eval ：用于评估机器人视频生成的任务接地场景图",
           "link": "https://arxiv.org/abs/2610.31121",
           "summary": "arXiv:2610.31121v1 Announce Type: new Abstract: Generated robot videos can look convincing while depicting the wrong interac- tion: a different object is moved, a grasp disappears, or a placement ends out- side its destination. We introduce RGraph-Eval, a reference-based framework that makes these discrepancies explicit through task-grounded temporal scene graphs. Unlike approaches that construct ",
           "source": "arXiv cs.RO",
@@ -931,7 +931,7 @@
           "category": "embodied"
         },
         {
-          "title": "Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation",
+          "title": "目标前的记忆：史前记忆在人类本地操纵中的作用",
           "link": "https://arxiv.org/abs/2610.31166",
           "summary": "arXiv:2610.31166v1 Announce Type: new Abstract: Humanoid loco-manipulation in dynamic scenes is non-Markovian: cues vanish as objects change or are hidden, or leave the view as the robot turns and walks, yet whole-body vision-language-action (VLA) policies see only the present. We present WholeBodyMem, an object-guided perceptual memory that keeps the pre-history of object events seen before the r",
           "source": "arXiv cs.RO",
@@ -940,7 +940,7 @@
           "category": "embodied"
         },
         {
-          "title": "Consistent Distributed Invariant EKF SLAM with Point and Object Features",
+          "title": "具有点和对象特征的一致分布式不变EKF SLAM",
           "link": "https://arxiv.org/abs/2610.31221",
           "summary": "arXiv:2610.31221v1 Announce Type: new Abstract: Multi-robot SLAM allows robots to improve their estimates by exchanging map information, but repeated exchanges create unknown correlations between local estimators. Covariance intersection (CI) can fuse estimates without tracking these correlations. In right-invariant extended Kalman filter (RI-EKF) SLAM, however, point features obtain their invaria",
           "source": "arXiv cs.RO",
@@ -949,7 +949,7 @@
           "category": "embodied"
         },
         {
-          "title": "FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models",
+          "title": "FocusVLA ：视觉-语言-动作模型的未来意图引导动态视图路由",
           "link": "https://arxiv.org/abs/2610.31423",
           "summary": "arXiv:2610.31423v1 Announce Type: new Abstract: Vision-language-action (VLA) models have become an important paradigm for robotic manipulation by unifying visual perception, language understanding, and action generation. Since reliable manipulation requires sufficient observation of objects, end-effectors, and their spatial relationships, multi-view inputs are widely used to provide complementary ",
           "source": "arXiv cs.RO",
@@ -958,7 +958,7 @@
           "category": "embodied"
         },
         {
-          "title": "VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing",
+          "title": "VecTile ：用于3自由度力传感的低成本灵活触觉阵列",
           "link": "https://arxiv.org/abs/2610.31472",
           "summary": "arXiv:2610.31472v1 Announce Type: new Abstract: Tactile sensing provides robots with contact information difficult to obtain from vision alone. Shear force is particularly important for understanding tangential contact, guiding corrective motions, and maintaining grasp stability, yet flexible and low-cost tactile arrays often measure only normal force. We introduce VecTile, a low-cost, 6 mm thin, ",
           "source": "arXiv cs.RO",
@@ -967,7 +967,7 @@
           "category": "embodied"
         },
         {
-          "title": "Skeleton-Grounded Latent Action Model for Robot World Models",
+          "title": "机器人世界模型的骨架接地潜伏动作模型",
           "link": "https://arxiv.org/abs/2610.31474",
           "summary": "arXiv:2610.31474v1 Announce Type: new Abstract: Robot world models simulate how environments evolve in response to robot actions. Latent action models enable learning dynamics from videos by encoding visual transitions as proxy actions. However, reconstruction-driven latent actions mix robot motion with object responses and other scene changes, complicating their correspondence with robot controls",
           "source": "arXiv cs.RO",
@@ -976,7 +976,7 @@
           "category": "embodied"
         },
         {
-          "title": "Point-Level Refinable Semantic Mapping for Spatial Understanding",
+          "title": "用于空间理解的点级可细化语义映射",
           "link": "https://arxiv.org/abs/2610.31476",
           "summary": "arXiv:2610.31476v1 Announce Type: new Abstract: Open-vocabulary 3D semantic maps have emerged as a key spatial memory representation for long-horizon robot autonomy, enabling robots to reason about objects, their spatial relationships, and past observations across time. However, existing object-centric semantic maps are primarily designed for static environments and rely on an append-only point in",
           "source": "arXiv cs.RO",
@@ -985,7 +985,7 @@
           "category": "embodied"
         },
         {
-          "title": "Dispersive Tree Agreements for Multi-Robot Coordination",
+          "title": "用于多机器人协调的离散树协议",
           "link": "https://arxiv.org/abs/2610.31540",
           "summary": "arXiv:2610.31540v1 Announce Type: new Abstract: Multi-robot coordination of nonlinear systems is naturally formulated as joint-space optimal control subject to constraints over groups of robots. Existing methods that approach joint optimality remain largely centralized, offline, and confined to collision-free motion planning, while decentralized, real-time counterparts target safe navigation witho",
           "source": "arXiv cs.RO",
@@ -994,7 +994,7 @@
           "category": "embodied"
         },
         {
-          "title": "Humanoid Mobility via Attention-based Contacts",
+          "title": "通过基于注意力的联系人实现人形移动",
           "link": "https://arxiv.org/abs/2610.31608",
           "summary": "arXiv:2610.31608v1 Announce Type: new Abstract: Humanoid mobility over complex terrain requires accurate foot placement and coordinated whole-body motion capable of robust adaptation. Reinforcement learning (RL) policies trained without motion references generalize well across terrains, yet eliciting effective whole-body coordination through reward design and exploration alone remains challenging.",
           "source": "arXiv cs.RO",
@@ -1003,7 +1003,7 @@
           "category": "embodied"
         },
         {
-          "title": "Extending Harmonic Function Methods via Root Locus for Coordinated Path Generation",
+          "title": "通过根轨迹扩展谐波函数方法以实现协调路径生成",
           "link": "https://arxiv.org/abs/2610.31625",
           "summary": "arXiv:2610.31625v1 Announce Type: new Abstract: We consider the offline generation of coordinated paths for N interchangeable robots and N goals in planar environments with polygonal obstacles. After a conformal map to a circular domain, starts and goals become the poles and zeros of a rational function R, and the paths are the branches of its Generalized Root Locus (GRL), i.e. the streamlines of ",
           "source": "arXiv cs.RO",
@@ -1012,7 +1012,7 @@
           "category": "embodied"
         },
         {
-          "title": "OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing",
+          "title": "OpenTac ：可定制、可扩展和可转移3D触觉传感的开放生态系统",
           "link": "https://arxiv.org/abs/2610.31661",
           "summary": "arXiv:2610.31661v1 Announce Type: new Abstract: We present OpenTac, a novel sensor and a full-stack ecosystem for tactile skins that are highly customizable, scalable, and readily deployed in downstream robot control and learning applications. Our core contribution is twofold. First, we develop a scalable resistive tactile skin with a structured deformable overlay that converts tangential loading ",
           "source": "arXiv cs.RO",
@@ -1021,7 +1021,7 @@
           "category": "embodied"
         },
         {
-          "title": "Sensitive dependence of the motion of a legged robot on granular media",
+          "title": "有腿机器人的运动对颗粒介质的敏感依赖性",
           "link": "https://arxiv.org/abs/0905.4950",
           "summary": "arXiv:0905.4950v2 Announce Type: cross Abstract: Legged locomotion on flowing ground ({\\em e.g.} granular media) is unlike locomotion on hard ground because feet experience both solid- and fluid-like forces during surface penetration. Recent bio-inspired legged robots display speed relative to body size on hard ground comparable to high performing organisms like cockroaches but suffer significant ",
           "source": "arXiv cs.RO",
@@ -1030,7 +1030,7 @@
           "category": "embodied"
         },
         {
-          "title": "Navigating human-robot interaction challenges in private and residential aged care homes",
+          "title": "在私人和住宅养老院中应对人机交互挑战",
           "link": "https://arxiv.org/abs/2610.31149",
           "summary": "arXiv:2610.31149v1 Announce Type: cross Abstract: This chapter explores how robotic systems and ambient intelligence can enhance care for older adults in residential aged care (RAC) homes and private homes. Although these settings differ, we frame both as extreme and challenging environments for human-robot interaction (HRI), characterised by cluttered and dynamic layouts, diverse resident needs, ",
           "source": "arXiv cs.RO",
@@ -1039,7 +1039,7 @@
           "category": "embodied"
         },
         {
-          "title": "Hearing the shape of an arena with spectral swarm robotics",
+          "title": "通过频谱群机器人技术聆听竞技场的形状",
           "link": "https://arxiv.org/abs/2403.17147",
           "summary": "arXiv:2403.17147v2 Announce Type: replace Abstract: Swarm robotics relies on robots with minimal sensing and computation that achieve self-organization at the level of the collective to address a variety of tasks. Yet swarm robotics still struggles with global tasks that require understanding the broader spatial context in which robots operate, such as identifying the shape of the arena in which t",
           "source": "arXiv cs.RO",
@@ -1048,7 +1048,7 @@
           "category": "embodied"
         },
         {
-          "title": "CENIC: Convex Error-controlled Numerical Integration for Contact",
+          "title": "CENIC ：联系人的凸错误控制数值积分",
           "link": "https://arxiv.org/abs/2511.08771",
           "summary": "arXiv:2511.08771v2 Announce Type: replace Abstract: State-of-the-art robotics simulators operate in discrete time. This requires users to choose a time step, which is both critical and challenging: large steps can produce non-physical artifacts, while small steps force the simulation to run slowly. Continuous-time error-controlled integration avoids such issues by automatically adjusting the time ",
           "source": "arXiv cs.RO",
@@ -1057,7 +1057,7 @@
           "category": "embodied"
         },
         {
-          "title": "Multilaminate piezoelectric polymer actuators for insect-scale softrobots",
+          "title": "用于昆虫尺度软机器人的多层压电聚合物执行器",
           "link": "https://arxiv.org/abs/2511.12380",
           "summary": "arXiv:2511.12380v2 Announce Type: replace Abstract: Piezoelectric ceramics enable fast, precise, and powerful actuation with integrated sensing in insect-scale robots. However, they are brittle, failing at low strains limiting its applications involving high impacts, unexpected loading, or soft robotics. To address this limitation, we investigate polyvinylidene fluoride (PVDF) as a compliant alter",
           "source": "arXiv cs.RO",
@@ -1066,7 +1066,7 @@
           "category": "embodied"
         },
         {
-          "title": "Proprioceptive Safe Active Navigation and Exploration for Planetary Environments",
+          "title": "行星环境的本体感受安全主动导航和探索",
           "link": "https://arxiv.org/abs/2603.08905",
           "summary": "arXiv:2603.08905v2 Announce Type: replace Abstract: Deformable granular terrains introduce significant locomotion and immobilization risks in planetary exploration and are difficult to detect via remote sensing (e.g., vision). Legged robots can sense terrain properties through leg-terrain interactions during locomotion, offering a direct means to assess traversability in deformable environments. H",
           "source": "arXiv cs.RO",
@@ -1075,7 +1075,7 @@
           "category": "embodied"
         },
         {
-          "title": "ThermoAct:Thermal-Aware Vision-Language-Action Models for Robotic Perception and Decision-Making",
+          "title": "ThermoAct ：用于机器人感知和决策的热感知视觉-语言-行动模型",
           "link": "https://arxiv.org/abs/2603.25044",
           "summary": "arXiv:2603.25044v3 Announce Type: replace Abstract: In recent human-robot collaboration environments, there is a growing focus on integrating diverse sensor data beyond visual information to enable safer and more intelligent task execution. Although thermal data can be crucial for enhancing robot safety and operational efficiency, its integration has been relatively overlooked in prior research. T",
           "source": "arXiv cs.RO",
@@ -1084,7 +1084,7 @@
           "category": "embodied"
         },
         {
-          "title": "Full 3D Radiation Pattern Approximation in Multi-Rotor UAVs",
+          "title": "多旋翼无人机中的全3D辐射模式近似",
           "link": "https://arxiv.org/abs/2604.02827",
           "summary": "arXiv:2604.02827v3 Announce Type: replace Abstract: In-flight outdoor approximation of full 3D Radiation Patterns (RPs) in non-holonomic multi-rotor Uncrewed Aerial Vehicles (UAVs) enables efficient communication-aware robotic missions. Our method identifies the Spherical Harmonics series coefficients, decoupling the observed signal power gains into respective RPs. The proposed calibration traject",
           "source": "arXiv cs.RO",
@@ -1093,7 +1093,7 @@
           "category": "embodied"
         },
         {
-          "title": "HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation",
+          "title": "HEX ：人形对齐的跨体全身操作专家",
           "link": "https://arxiv.org/abs/2604.07993",
           "summary": "arXiv:2604.07993v3 Announce Type: replace Abstract: Humans achieve complex manipulation through coordinated whole-body control, whereas most Vision-Language-Action (VLA) models treat robot body parts largely independently, making high-DoF humanoid control challenging and often unstable. We present HEX, a state-centric framework for coordinated manipulation on full-sized bipedal humanoid robots. HE",
           "source": "arXiv cs.RO",
@@ -1102,7 +1102,7 @@
           "category": "embodied"
         },
         {
-          "title": "Dual-Arm Box Manipulation via Online Inertial Estimation and Convex Wrench Optimization",
+          "title": "通过在线惯性估计和凸扳手优化进行双臂箱体操作",
           "link": "https://arxiv.org/abs/2605.22021",
           "summary": "arXiv:2605.22021v2 Announce Type: replace Abstract: Dual-arm robotic manipulation often requires lifting and transporting objects whose mass and center of mass are not known in advance. These uncertainties affect the force-moment balance required for stable lifting, and improper regulation of contact wrenches can lead to slip, object drop, orientation deviation, or excessive squeezing. This paper ",
           "source": "arXiv cs.RO",
@@ -1119,7 +1119,7 @@
       "count": 1,
       "items": [
         {
-          "title": "AI game clones are making indie developers afraid to show their work",
+          "title": "人工智能游戏克隆让独立开发者害怕展示他们的作品",
           "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
           "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
           "source": "Ars Technica AI",
@@ -1136,7 +1136,7 @@
       "count": 40,
       "items": [
         {
-          "title": "CiteAnchor: Source-Aware Grounding for Hallucinated Citation Detection and Resolution",
+          "title": "CiteAnchor ：用于幻觉引文检测和解决的源感知接地",
           "link": "https://arxiv.org/abs/2610.30355",
           "summary": "arXiv:2610.30355v1 Announce Type: new Abstract: Hallucinated citations make it harder to trace sources and verify the evidence behind scientific claims. Detecting them is difficult because bibliographic records can be incomplete or differ across source types and publication versions. A plausible match alone neither validates the citation nor establishes its underlying source. We introduce CiteReso",
           "source": "arXiv cs.CL",
@@ -1145,7 +1145,7 @@
           "category": "general"
         },
         {
-          "title": "Climbing the Ladder: Automating Data Pipelines and Reproducing Baselines in Low-Resource Settings",
+          "title": "攀登阶梯：在低资源设置中自动化数据管道和重现基线",
           "link": "https://arxiv.org/abs/2610.30374",
           "summary": "arXiv:2610.30374v1 Announce Type: new Abstract: The massively multilingual translation systems that now include Sicilian learned it from noisy, non-standardised web text. To obtain better translation quality, we redevelop the small neural machine translation (NMT) system that Wdowiak customized for Sicilian. We rebuild on maintained software the extraction of the parallel text from the PDFs of the",
           "source": "arXiv cs.CL",
@@ -1154,7 +1154,7 @@
           "category": "general"
         },
         {
-          "title": "WikiOriginQA: Automated Construction of a QA Dataset with Knowledge Origins for Analyzing Cultural Bias",
+          "title": "WikiOriginQA ：具有知识来源的QA数据集的自动构建，用于分析文化偏见",
           "link": "https://arxiv.org/abs/2610.30677",
           "summary": "arXiv:2610.30677v1 Announce Type: new Abstract: Existing datasets on cultural knowledge have been typically created by human annotators familiar with each culture. However, the process requires considerable human effort, presenting a significant challenge to scalability. To address this challenge, we introduce WikiOriginQA, a QA dataset automatically constructed by objectively representing the ori",
           "source": "arXiv cs.CL",
@@ -1163,7 +1163,7 @@
           "category": "general"
         },
         {
-          "title": "Direct cueing of word identity through word duration: evidence from Mandarin homophones",
+          "title": "通过单词持续时间直接提示单词身份：来自普通话同音的证据",
           "link": "https://arxiv.org/abs/2610.30682",
           "summary": "arXiv:2610.30682v1 Announce Type: new Abstract: While there is increasing evidence that words are stored in the mental lexicon with some phonetic detail, there are open questions about exactly which phonetic details are stored and whether they are functionally relevant for spoken word recognition. Word-level phonetic cues, such as word duration, provide an appropriate test case. Across languages, ",
           "source": "arXiv cs.CL",
@@ -1172,7 +1172,7 @@
           "category": "general"
         },
         {
-          "title": "Where meanings converge and diverge: Revisiting linguistic relativity across 81 languages",
+          "title": "意义趋同与分歧的地方：重新审视81种语言的语言相对性",
           "link": "https://arxiv.org/abs/2610.30778",
           "summary": "arXiv:2610.30778v1 Announce Type: new Abstract: Do people who speak different languages organize concepts in similar ways? This question lies at the heart of the Sapir--Whorf hypothesis and debates about linguistic relativity. Shared basic meanings, however, need not imply shared relations among them. We compared relations among 196 basic concepts across 81 languages, using word embeddings from tw",
           "source": "arXiv cs.CL",
@@ -1181,7 +1181,7 @@
           "category": "general"
         },
         {
-          "title": "Interpretive Variation and Discourse Structure in Detecting Enthymemes in Controversial Political Discourse",
+          "title": "解读变异与话语结构在探索争议性政治话语中的韵律",
           "link": "https://arxiv.org/abs/2610.30987",
           "summary": "arXiv:2610.30987v1 Announce Type: new Abstract: Enthymemes are arguments that leave a premise or conclusion unstated, and they are a common persuasion device on social media. Because readers must fill in the missing part themselves, they often disagree on whether a text contains one. This paper asks how to detect and evaluate enthymemes when such disagreement is part of the task. On tweets about v",
           "source": "arXiv cs.CL",
@@ -1190,7 +1190,7 @@
           "category": "general"
         },
         {
-          "title": "Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking",
+          "title": "Real Document Revisions下的区块重新计算：测量固定、递归和内容定义区块的更新成本和检索质量",
           "link": "https://arxiv.org/abs/2610.31019",
           "summary": "arXiv:2610.31019v1 Announce Type: new Abstract: Chunking strategies for retrieval-augmented generation are almost always evaluated on a static snapshot, yet the documents underlying a knowledge base continue to change. Because chunks are embedded independently, a boundary that moves after an edit forces unchanged text to be re-embedded. We measure this update cost on 120 pairs of adjacent Chinese ",
           "source": "arXiv cs.CL",
@@ -1199,7 +1199,7 @@
           "category": "general"
         },
         {
-          "title": "A Grammar of French Civil Cassation: A Ground-Level Dataset and Tool",
+          "title": "法国民事翻案语法：基础数据集和工具",
           "link": "https://arxiv.org/abs/2610.31116",
           "summary": "arXiv:2610.31116v1 Announce Type: new Abstract: This paper presents a dataset of 121,536 ground-reasons pairs across 86,464 rulings of the five civil chambers of the French Court of Cassation (2016-2025). An appeal on points of law cannot itself be appealed and often decides a case for good. Understanding how the Court rules is thus crucial and can help lawyers who draft those appeals. Inside a ru",
           "source": "arXiv cs.CL",
@@ -1208,7 +1208,7 @@
           "category": "general"
         },
         {
-          "title": "SurveyGraph: Generating Academic Surveys via Methods-Entity Knowledge Graphs",
+          "title": "SurveyGraph ：通过方法-实体知识图生成学术调查",
           "link": "https://arxiv.org/abs/2610.31317",
           "summary": "arXiv:2610.31317v1 Announce Type: new Abstract: Most automated survey generation systems retrieve papers as flat documents, limiting their ability to capture research structure. We present SurveyGraph, a framework built around a Methods-Entity Knowledge Graph (MEKG) encoding method-level follow-on, competition, and shared-resource relations. The graph supports core-paper discovery, retrieval, hybr",
           "source": "arXiv cs.CL",
@@ -1217,7 +1217,7 @@
           "category": "general"
         },
         {
-          "title": "SyRA-CS: Synthetic-to-Real Adaptation for Code-Switched ASR with Meta-Learning",
+          "title": "SyRA-CS ：基于元学习的码切换ASR合成到真实适应",
           "link": "https://arxiv.org/abs/2610.31415",
           "summary": "arXiv:2610.31415v1 Announce Type: new Abstract: Code-switched (CS) automatic speech recognition (ASR) remains difficult because real CS speech is scarce and synthetic speech does not fully match it. We investigate whether synthetic CS speech is more useful for learning an adaptation-friendly initialization than for ordinary continual fine-tuning. We propose SyRA-CS, a pair-specific synthetic-to-re",
           "source": "arXiv cs.CL",
@@ -1226,7 +1226,7 @@
           "category": "general"
         },
         {
-          "title": "Finitely Verifiable Segmentation: Decidability for Every Tokenizer with a Finite-State Verifier",
+          "title": "有限可验证分段：具有有限状态验证器的每个令牌的可决定性",
           "link": "https://arxiv.org/abs/2610.30168",
           "summary": "arXiv:2610.30168v1 Announce Type: cross Abstract: A segmentation policy assigns to each byte string at most one segmentation into tokens. Call it finitely verifiable when a finite automaton over marked strings, bytes paired with boundary bits, accepts exactly the policy's own segmentations. The automaton judges a proposed segmentation and need not compute one. The paper shows what that hypothesis ",
           "source": "arXiv cs.CL",
@@ -1235,7 +1235,7 @@
           "category": "general"
         },
         {
-          "title": "X-pressing Intimacy: Mental Health Disclosure After Twitter Acquisition",
+          "title": "X-pressing亲密关系： Twitter收购后的心理健康披露",
           "link": "https://arxiv.org/abs/2610.30413",
           "summary": "arXiv:2610.30413v1 Announce Type: cross Abstract: Social media platforms provide spaces for individuals to disclose mental health experiences and seek support, yet how these disclosures evolve during major shifts in platform governance remains unclear. We examine mental health self-disclosure surrounding Elon Musk's October 2022 acquisition of Twitter, analyzing approximately 824K tweets across an",
           "source": "arXiv cs.CL",
@@ -1244,7 +1244,7 @@
           "category": "general"
         },
         {
-          "title": "Rethinking SAE Evaluation: An Atomic Interpretable Unit Framework Reveals Hidden Polysemanticity and Redundancy",
+          "title": "重新思考SAE评估：原子可解释单元框架揭示隐藏的多义性和冗余性",
           "link": "https://arxiv.org/abs/2610.30474",
           "summary": "arXiv:2610.30474v1 Announce Type: cross Abstract: Sparse autoencoders (SAEs) were originally motivated by discovering monosemantic features, a property that characterizes individual features but does not specify what the learned feature set should look like as a whole. As SAEs have increasingly been adopted for attribution, circuit discovery, and intervention, researchers have begun evaluating met",
           "source": "arXiv cs.CL",
@@ -1253,7 +1253,7 @@
           "category": "general"
         },
         {
-          "title": "TT-SAX: A Two-Track Time Series Symbolization for Natural Language Shape Querying",
+          "title": "TT-SAX ：自然语言形状查询的双轨时间序列符号化",
           "link": "https://arxiv.org/abs/2610.30593",
           "summary": "arXiv:2610.30593v1 Announce Type: cross Abstract: Natural language querying for time series databases aims to let users find what they need in long histories of data by asking in plain language. Shape queries ask how a series moves. They are the main challenge of this task. Recent work makes them feasible by using symbolization as a bridge between the query and the long history. However, existing ",
           "source": "arXiv cs.CL",
@@ -1262,7 +1262,7 @@
           "category": "general"
         },
         {
-          "title": "The Fusion Tax: A Diagnostic Analysis of When Hybrid Retrieval Hurts",
+          "title": "融合税：混合检索伤害时的诊断分析",
           "link": "https://arxiv.org/abs/2610.30612",
           "summary": "arXiv:2610.30612v1 Announce Type: cross Abstract: Hybrid retrieval, which fuses a sparse lexical retriever with a dense neural one, is widely recommended in the software documentation surveyed in September 2026, usually with reciprocal rank fusion (RRF), on the strength of aggregate gains. We ask what fusion costs on individual queries, treating \"do not fuse\" as a first-class outcome, in the setti",
           "source": "arXiv cs.CL",
@@ -1271,7 +1271,7 @@
           "category": "general"
         },
         {
-          "title": "A Task-Centric Survey of Long-Document Visual Question Answering: Taxonomy, Evolution, and Future Directions",
+          "title": "以任务为中心的长文档可视化问答调查：分类、演变和未来方向",
           "link": "https://arxiv.org/abs/2610.31385",
           "summary": "arXiv:2610.31385v1 Announce Type: cross Abstract: Visual document understanding is essential for acquiring knowledge from visually rich documents and is attracting growing research interest. Existing surveys emphasize architectures or technical approaches, with limited attention to how task bottlenecks shape technical choices and research priorities. We present a task-centric survey that decompose",
           "source": "arXiv cs.CL",
@@ -1280,7 +1280,7 @@
           "category": "general"
         },
         {
-          "title": "How Different, or Different How? Stance Granularity in Viewpoint Selection for Dialog Systems that Engage Users with Alternative Views",
+          "title": "差别有多大，差别有多大？使用替代视图吸引用户的对话系统视点选择中的立场粒度",
           "link": "https://arxiv.org/abs/2610.31459",
           "summary": "arXiv:2610.31459v1 Announce Type: cross Abstract: Systems that aim to help a user engage with viewpoints other than their own have to decide how different those viewpoints should be. Viewpoints are mainly represented on a scalar scale, too coarse to distinguish viewpoints that disagree with the user about different things. We introduce a selection policy in which a bandit sets how far viewpoints m",
           "source": "arXiv cs.CL",
@@ -1289,7 +1289,7 @@
           "category": "general"
         },
         {
-          "title": "Measuring the Verifier's Floor: How Much Apparent Rare-Word Text-to-Speech Error Is ASR Error?",
+          "title": "测量验证者的地板： ASR错误有多少明显的罕见词语文本转语音错误？",
           "link": "https://arxiv.org/abs/2610.31470",
           "summary": "arXiv:2610.31470v1 Announce Type: cross Abstract: Text-to-speech (TTS) is usually evaluated by transcribing its output with an automatic speech recognition (ASR) system, so the word error rate also counts recognizer errors. We measure these errors on human recordings of the test sentences. On LibriSpeech and FLEURS, the evaluation recognizer misses 33-67% of very rare words even in human speech, a",
           "source": "arXiv cs.CL",
@@ -1298,7 +1298,7 @@
           "category": "general"
         },
         {
-          "title": "Social Life Simulation for Non-Cognitive Skills Learning",
+          "title": "非认知技能学习的社交生活模拟",
           "link": "https://arxiv.org/abs/2405.00273",
           "summary": "arXiv:2405.00273v4 Announce Type: replace Abstract: Non-cognitive skills are crucial for personal and social life well-being, and such skill development can be supported by narrative-based (e.g., storytelling) technologies. While generative AI enables interactive and role-playing storytelling, little is known about how users engage with and perceive the use of AI in social life simulation for non-",
           "source": "arXiv cs.CL",
@@ -1307,7 +1307,7 @@
           "category": "general"
         },
         {
-          "title": "MoVoC: Morphology-Aware Subword Construction for Geez Script Languages Corrected version",
+          "title": "MoVoC ： Geez脚本语言的形态感知子词构造更正版",
           "link": "https://arxiv.org/abs/2509.08812",
           "summary": "arXiv:2509.08812v2 Announce Type: replace Abstract: Subword-based tokenization methods often fail to preserve morphological boundaries, a limitation especially pronounced in low-resource, morphologically complex languages such as those written in the Ge'ez script. To address this, we present Morpheme-aware Subword Vocabulary Construction (MoVoC) and train MoVoC-Tok, a tokenizer that integrates sup",
           "source": "arXiv cs.CL",
@@ -1316,7 +1316,7 @@
           "category": "general"
         },
         {
-          "title": "Sharp Degree Bounds for Putinar Certificates in Terms of the Positivity Margin via Analytic Sums of Squares",
+          "title": "通过平方解析和计算正向边际的Putinar证书的尖锐程度界限",
           "link": "https://arxiv.org/abs/2610.26976",
           "summary": "arXiv:2610.26976v2 Announce Type: replace Abstract: We establish sharp degree bounds for Putinar sum-of-squares (SOS) certificates in terms of the positivity margin $\\delta$. For any fixed Archimedean quadratic module with prescribed generators and any fixed degree bound on the objective, normalized polynomial objectives admit a uniform certificate-degree upper bound of $O(\\delta^{-1/2}\\log^2(2/\\d",
           "source": "arXiv cs.CL",
@@ -1325,7 +1325,7 @@
           "category": "general"
         },
         {
-          "title": "Overview of CHIP 2026 Shared Task 1: Patient-Specific Phenotype Concept Recognition in Full-Text Biomedical Literature",
+          "title": "CHIP 2026共同任务1概述：全文生物医学文献中的患者特异性表型概念识别",
           "link": "https://arxiv.org/abs/2610.29606",
           "summary": "arXiv:2610.29606v2 Announce Type: replace Abstract: Automatic phenotype information extraction plays an important role in rare disease diagnosis, genotype-phenotype analysis, and precision medicine. However, accurately identifying phenotype concepts and determining their associations with specific patients remain challenging, particularly in full-text biomedical articles involving multiple patient",
           "source": "arXiv cs.CL",
@@ -1334,7 +1334,7 @@
           "category": "general"
         },
         {
-          "title": "Artificial intelligence is creating a new global linguistic hierarchy",
+          "title": "人工智能正在创造一个新的全球语言层次结构",
           "link": "https://arxiv.org/abs/2602.12018",
           "summary": "arXiv:2602.12018v2 Announce Type: replace-cross Abstract: Artificial intelligence (AI) has the potential to transform healthcare, education, governance and socioeconomic equity, but its benefits remain concentrated in a small number of languages (Bender, 2019; Blasi et al., 2022; Joshi et al., 2020; Ranathunga and de Silva, 2022; Young, 2015). Language AI - the technologies that underpin widely-us",
           "source": "arXiv cs.CL",
@@ -1343,7 +1343,7 @@
           "category": "general"
         },
         {
-          "title": "Poisoning-Based Backdoors Are Not Cryptographic",
+          "title": "基于中毒的后门不是加密的",
           "link": "https://arxiv.org/abs/2610.28045",
           "summary": "arXiv:2610.28045v2 Announce Type: replace-cross Abstract: Defending against a backdoor requires recovering the verifier that decides whether an input is a trigger, since blocking individual triggers fails against an attacker who can generate new ones. If a verifier could be installed with the asymmetry of cryptographic authentication, where only the attacker can produce triggers and the defender c",
           "source": "arXiv cs.CL",
@@ -1352,7 +1352,7 @@
           "category": "general"
         },
         {
-          "title": "EBV-CAN: Vision--Language Grounding for Contact-Aided Endoscope Navigation",
+          "title": "EBV-CAN ：视觉--接触辅助内窥镜导航的语言基础",
           "link": "https://arxiv.org/abs/2610.30786",
           "summary": "arXiv:2610.30786v1 Announce Type: new Abstract: Flexible endoscopes exploit structural compliance to traverse narrow lumens, pipes, and cavities, where navigation involves distributed environmental contact. This compliance makes tip motion depend on the evolving support configuration. We present external bird's-eye-view contact-aided navigation (EBV-CAN), a vision-language policy that combines one",
           "source": "arXiv cs.RO",
@@ -1361,7 +1361,7 @@
           "category": "general"
         },
         {
-          "title": "A Transparent 3-DoF Assistive Device for Upper-Limb Tremor and Ataxia Compensation: Design and Experimental Validation",
+          "title": "用于上肢震颤和共济失调补偿的透明3自由度辅助装置：设计和实验验证",
           "link": "https://arxiv.org/abs/2610.30955",
           "summary": "arXiv:2610.30955v1 Announce Type: new Abstract: Assistive devices for patients with neurodegenerative movement disorders must combine high mechanical transparency with the ability to generate corrective interaction forces. Achieving both properties simultaneously remains challenging. This paper presents the completed iAssistADL platform, a 3-DoF assistive device for future tremor and ataxia compen",
           "source": "arXiv cs.RO",
@@ -1370,7 +1370,7 @@
           "category": "general"
         },
         {
-          "title": "LAST-V2X: Language-Driven Adaptive Scenario Synthesis and Testing for Communication-Induced Failures in V2X Safety Applications",
+          "title": "LAST-V2X ： V2X安全应用中通信故障的语言驱动自适应场景合成和测试",
           "link": "https://arxiv.org/abs/2610.30979",
           "summary": "arXiv:2610.30979v1 Announce Type: new Abstract: Vehicle-to-everything (V2X) communication enables connected vehicles to make safety-critical decisions, but delayed, missing, or incorrect information can compromise driving safety. Systematically testing such failures is challenging because traffic interactions, communication conditions, and application responses must be jointly configured to produc",
           "source": "arXiv cs.RO",
@@ -1379,7 +1379,7 @@
           "category": "general"
         },
         {
-          "title": "GelSlim 5.0: Unifying Vision and Touch with a Single Fingertip Camera",
+          "title": "GelSlim 5.0 ：使用单指尖相机统一视觉和触觉",
           "link": "https://arxiv.org/abs/2610.31334",
           "summary": "arXiv:2610.31334v1 Announce Type: new Abstract: Vision and touch provide complementary cues for object pose and local contact geometry, but external cameras are often occluded at the contact site. We present GelSlim 5.0, a fingertip sensor that acquires visual and tactile observations with one fixed camera and a continuous UV-responsive contact layer. By switching illumination, the camera sequenti",
           "source": "arXiv cs.RO",
@@ -1388,7 +1388,7 @@
           "category": "general"
         },
         {
-          "title": "CoHelix: Event-Based Multi-Propeller Rotation-Rate Tracking with Shared Projective Geometry",
+          "title": "CoHelix ：基于共享投影几何的基于事件的多螺旋桨旋转速率跟踪",
           "link": "https://arxiv.org/abs/2610.31384",
           "summary": "arXiv:2610.31384v1 Announce Type: new Abstract: Estimating propeller rates from a moving event camera requires separating blade rotation from the changing image geometry. Background activity mixes with blade events, while repeated blade appearances admit half- and double-rate ambiguities. We propose CoHelix, a recursive filter that estimates one shared homography and separate rotation states for f",
           "source": "arXiv cs.RO",
@@ -1397,7 +1397,7 @@
           "category": "general"
         },
         {
-          "title": "Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery",
+          "title": "物理交联的PPy-PVA水凝胶的几何依赖性能实现可调节的离子电泳药物输送",
           "link": "https://arxiv.org/abs/2610.31567",
           "summary": "arXiv:2610.31567v1 Announce Type: new Abstract: Objective: Iontophoretic drug delivery has primarily relied on current modulation to regulate drug transport. Here, we investigate hydrogel geometry, microstructure, and local electric fields as alternative mechanisms for controlling transdermal delivery. Methods: Bovine serum albumin (BSA) was encapsulated in polypyrrole-polyvinyl alcohol (PPy-PVA) ",
           "source": "arXiv cs.RO",
@@ -1406,7 +1406,7 @@
           "category": "general"
         },
         {
-          "title": "Decentralized Bi-Level Optimization for Cooperative Orbital Transportation of a Rigid Payload",
+          "title": "刚性载荷协同轨道运输的分散双水平优化",
           "link": "https://arxiv.org/abs/2610.31562",
           "summary": "arXiv:2610.31562v1 Announce Type: cross Abstract: The rapid growth of the space economy, alongside increasing orbital congestion and debris, is driving demand for reliable on-orbit transportation of large and non-cooperative objects. Performing such transportation with a swarm of small spacecraft distributes risk and removes the single point of failure inherent to monolithic architectures, but req",
           "source": "arXiv cs.RO",
@@ -1415,7 +1415,7 @@
           "category": "general"
         },
         {
-          "title": "Initialization-Free LEO Doppler Positioning via Semidefinite Relaxation: A Cold-Start Approach",
+          "title": "通过半定松弛进行无初始化狮子座多普勒定位：一种冷启动方法",
           "link": "https://arxiv.org/abs/2509.17198",
           "summary": "arXiv:2509.17198v2 Announce Type: replace Abstract: Low Earth Orbit (LEO) satellite Doppler measurements offer an alternative source of positioning information for Internet of Things devices when Global Navigation Satellite System signals are unavailable. Conventional local optimisation methods depend on an accurate initial position and can fail during a complete cold start. We propose an initiali",
           "source": "arXiv cs.RO",
@@ -1424,7 +1424,7 @@
           "category": "general"
         },
         {
-          "title": "Reflection-Based Relative Localization for Cooperative UAV Teams Using Active Markers",
+          "title": "使用主动标记的合作无人机团队的基于反射的相对定位",
           "link": "https://arxiv.org/abs/2511.17166",
           "summary": "arXiv:2511.17166v3 Announce Type: replace Abstract: Reflections of active markers in the environment are a common source of ambiguity in onboard visual relative localization. This work presents a novel approach that exploits these typically unwanted reflections for onboard relative localization in heterogeneous multi-UAV teams operating over specular, near-planar surfaces such as calm water and fl",
           "source": "arXiv cs.RO",
@@ -1442,7 +1442,7 @@
           "category": "general"
         },
         {
-          "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+          "title": "派早报： Insta360 发布 Insta360麦克风，人文推出克劳德二重奏 等",
           "link": "https://sspai.com/post/117104",
           "summary": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ... 查看全文",
           "source": "少数派",
@@ -1451,7 +1451,7 @@
           "category": "general"
         },
         {
-          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "title": "OpenAI在IPO之前以$ 1.25 T的估值进行新的$ 300亿加息",
           "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
           "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
           "source": "TechCrunch AI",
@@ -1460,7 +1460,7 @@
           "category": "general"
         },
         {
-          "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+          "title": "当然，让我们把SpaceX和特斯拉放在一起，谁在乎",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
           "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which […]",
           "source": "The Verge AI",
@@ -1469,7 +1469,7 @@
           "category": "general"
         },
         {
-          "title": "Meta turns Muse sharing back on",
+          "title": "Meta重新启用Muse共享",
           "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
           "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web […]",
           "source": "The Verge AI",
@@ -1478,7 +1478,7 @@
           "category": "general"
         },
         {
-          "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+          "title": "微软称其人工智能工具在诊断疾病方面优于医生",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
           "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human […]",
           "source": "The Verge AI",
@@ -1487,7 +1487,7 @@
           "category": "general"
         },
         {
-          "title": "Build more responsive apps with the Decisions API",
+          "title": "使用Decisions API构建响应速度更快的应用程序",
           "link": "https://openai.com/index/decisions-api",
           "summary": "Fast, focused, low-cost decisions for any application.",
           "source": "OpenAI Blog",

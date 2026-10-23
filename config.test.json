@@ -1,0 +1,41 @@
+{
+  "site": {
+    "title": "AI 日报（本地验证）",
+    "subtitle": "大模型 · 智能体 · 具身智能 · 一人公司",
+    "description": "本地样例验证专用配置，feed 指向 samples/ 下的本地文件",
+    "max_items_per_category": 40,
+    "days_back": 21
+  },
+  "feeds": [
+    {"name": "样例中文媒体", "url": "samples/feed_zh.xml", "lang": "zh"},
+    {"name": "Sample Tech News", "url": "samples/feed_en.xml", "lang": "en"},
+    {"name": "arXiv 样例", "url": "samples/feed_arxiv.xml", "lang": "en"}
+  ],
+  "categories": {
+    "llm": {
+      "label": "大模型",
+      "color": "#2563eb",
+      "keywords": ["大模型","大语言模型","llm","gpt","语言模型","模型","model","训练","training","推理","inference","foundation model","预训练","pretrain","pretraining","transformer","多模态","multimodal","扩散模型","diffusion","benchmark","开源模型","参数","parameter","对齐","alignment","rag"]
+    },
+    "agent": {
+      "label": "智能体",
+      "color": "#7c3aed",
+      "keywords": ["智能体","agent","agents","agentic","自主","autonomous","工作流","workflow","mcp","tool use","工具调用","multi-agent","多智能体","编排","orchestration","copilot","助手","assistant"]
+    },
+    "embodied": {
+      "label": "具身智能",
+      "color": "#059669",
+      "keywords": ["具身","embodied","机器人","robot","robotics","humanoid","人形","机械臂","manipulation","自动驾驶","autonomous driving","无人机","drone","仿生","四足","双臂","灵巧手"]
+    },
+    "solopreneur": {
+      "label": "一人公司",
+      "color": "#ea580c",
+      "keywords": ["一人公司","独立开发","独立开发者","solopreneur","indie hacker","副业","侧项目","side project","bootstrapped","个人开发","数字游民","nomad","小团队","indie","个人创业","一人团队"]
+    },
+    "general": {
+      "label": "综合",
+      "color": "#64748b",
+      "keywords": []
+    }
+  }
+}

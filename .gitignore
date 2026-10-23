@@ -1,0 +1,10 @@
+# WorkBuddy 项目私有数据（含记忆，勿提交）
+.workbuddy/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db

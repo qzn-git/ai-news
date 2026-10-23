@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sample Tech News (EN)</title>
+    <link>https://example.com/en</link>
+    <description>Sample English RSS</description>
+    <item>
+      <title>New open-source LLM beats GPT-4 on major benchmark</title>
+      <link>https://example.com/en/1</link>
+      <description>A new foundation model shows strong reasoning and inference performance after large-scale training.</description>
+      <pubDate>Tue, 21 Oct 2026 15:00:00 GMT</pubDate>
+      <guid>https://example.com/en/1</guid>
+    </item>
+    <item>
+      <title>AI agents are replacing SaaS workflows for small teams</title>
+      <link>https://example.com/en/2</link>
+      <description>Autonomous agents with tool use and multi-agent orchestration are gaining traction as copilots.</description>
+      <pubDate>Tue, 21 Oct 2026 16:00:00 GMT</pubDate>
+      <guid>https://example.com/en/2</guid>
+    </item>
+    <item>
+      <title>Tesla unveils new humanoid robot for factory work</title>
+      <link>https://example.com/en/3</link>
+      <description>The robotics division shows a humanoid that can manipulate objects with dexterous hands.</description>
+      <pubDate>Tue, 21 Oct 2026 17:00:00 GMT</pubDate>
+      <guid>https://example.com/en/3</guid>
+    </item>
+    <item>
+      <title>How one developer built a $1M company solo</title>
+      <link>https://example.com/en/4</link>
+      <description>A solopreneur shares how indie hacking and bootstrapped side projects grew into a real business.</description>
+      <pubDate>Tue, 21 Oct 2026 18:00:00 GMT</pubDate>
+      <guid>https://example.com/en/4</guid>
+    </item>
+  </channel>
+</rss>

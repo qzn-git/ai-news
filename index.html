@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AI 日报 · 大模型 / 智能体 / 具身智能 / 一人公司</title>
+<meta name="description" content="每天自动聚合大模型、智能体、具身智能与一人公司领域的 AI 资讯" />
+<style>
+  :root {
+    --bg: #f7f8fa;
+    --card: #ffffff;
+    --text: #1f2430;
+    --muted: #6b7280;
+    --border: #e6e8ec;
+    --accent: #2563eb;
+    --shadow: 0 1px 3px rgba(16,24,40,.06), 0 1px 2px rgba(16,24,40,.04);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1115;
+      --card: #171a21;
+      --text: #e7eaf0;
+      --muted: #9aa3b2;
+      --border: #262b35;
+      --accent: #5b8dff;
+      --shadow: 0 1px 3px rgba(0,0,0,.4);
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    line-height: 1.6;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px 60px; }
+  header {
+    padding: 40px 0 20px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 24px;
+  }
+  h1 { margin: 0 0 6px; font-size: 30px; letter-spacing: -.5px; }
+  .subtitle { color: var(--muted); font-size: 15px; margin: 0; }
+  .meta { color: var(--muted); font-size: 13px; margin-top: 10px; }
+  .meta b { color: var(--text); font-weight: 600; }
+
+  .toolbar {
+    display: flex; flex-wrap: wrap; gap: 12px; align-items: center;
+    justify-content: space-between; margin-bottom: 18px;
+  }
+  .tabs { display: flex; flex-wrap: wrap; gap: 8px; }
+  .tab {
+    border: 1px solid var(--border); background: var(--card);
+    color: var(--text); padding: 7px 14px; border-radius: 999px;
+    font-size: 14px; cursor: pointer; transition: .15s; user-select: none;
+    display: inline-flex; align-items: center; gap: 7px;
+  }
+  .tab:hover { border-color: var(--accent); }
+  .tab.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .tab .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+  .tab .cnt { font-size: 12px; opacity: .75; }
+
+  .search {
+    flex: 1; min-width: 200px; max-width: 320px;
+    border: 1px solid var(--border); background: var(--card); color: var(--text);
+    padding: 9px 14px; border-radius: 10px; font-size: 14px; outline: none;
+  }
+  .search:focus { border-color: var(--accent); }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; }
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: 14px;
+    padding: 18px; box-shadow: var(--shadow); display: flex; flex-direction: column;
+    transition: .15s;
+  }
+  .card:hover { transform: translateY(-2px); border-color: var(--accent); }
+  .card h3 { margin: 0 0 8px; font-size: 16px; line-height: 1.45; }
+  .card h3 a { color: var(--text); text-decoration: none; }
+  .card h3 a:hover { color: var(--accent); text-decoration: underline; }
+  .card .summary { color: var(--muted); font-size: 13.5px; margin: 0 0 14px; flex: 1; }
+  .card .foot { display: flex; align-items: center; justify-content: space-between; gap: 8px; font-size: 12px; }
+  .tag { padding: 3px 10px; border-radius: 999px; color: #fff; font-weight: 600; font-size: 12px; }
+  .src { color: var(--muted); }
+  .date { color: var(--muted); }
+
+  .status { color: var(--muted); font-size: 14px; padding: 40px 0; text-align: center; }
+  .err { color: #dc2626; }
+
+  footer { margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--border); color: var(--muted); font-size: 13px; }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1 id="siteTitle">AI 日报</h1>
+      <p class="subtitle" id="siteSubtitle">大模型 · 智能体 · 具身智能 · 一人公司</p>
+      <p class="meta" id="meta">加载中…</p>
+    </header>
+
+    <div class="toolbar">
+      <div class="tabs" id="tabs"></div>
+      <input class="search" id="search" type="search" placeholder="搜索标题或摘要…" />
+    </div>
+
+    <div id="content">
+      <div class="status">正在加载今日资讯…</div>
+    </div>
+
+    <footer>
+      <span id="footInfo"></span> · 数据来自公开 RSS 源，每天自动聚合更新。内容版权归原媒体所有。
+    </footer>
+  </div>
+
+<script>
+  const DATA_URL = "./data/news.json";
+  let DATA = null;
+  let activeCat = "all";
+  let query = "";
+
+  function fmtDate(iso) {
+    if (!iso) return "";
+    const d = new Date(iso);
+    if (isNaN(d)) return "";
+    const p = n => String(n).padStart(2, "0");
+    return `${d.getFullYear()}-${p(d.getMonth()+1)}-${p(d.getDate())} ${p(d.getHours())}:${p(d.getMinutes())}`;
+  }
+
+  function esc(s) {
+    return String(s == null ? "" : s)
+      .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+  }
+
+  function allItems() {
+    const items = [];
+    (DATA.categories || []).forEach(c => {
+      (c.items || []).forEach(it => items.push({ ...it, _cat: c }));
+    });
+    return items;
+  }
+
+  function renderTabs() {
+    const tabs = document.getElementById("tabs");
+    const cats = DATA.categories || [];
+    const total = DATA.total || allItems().length;
+    const list = [{ key: "all", label: "全部", color: "var(--accent)", count: total }]
+      .concat(cats.map(c => ({ key: c.key, label: c.label, color: c.color, count: c.count })));
+    tabs.innerHTML = list.map(t => `
+      <span class="tab ${t.key === activeCat ? "active" : ""}" data-cat="${t.key}">
+        <span class="dot" style="background:${t.color}"></span>${esc(t.label)}
+        <span class="cnt">${t.count || 0}</span>
+      </span>`).join("");
+    tabs.querySelectorAll(".tab").forEach(el => {
+      el.addEventListener("click", () => { activeCat = el.dataset.cat; renderTabs(); renderCards(); });
+    });
+  }
+
+  function renderCards() {
+    const box = document.getElementById("content");
+    let items = allItems();
+    if (activeCat !== "all") items = items.filter(i => i._cat.key === activeCat);
+    if (query) {
+      const q = query.toLowerCase();
+      items = items.filter(i =>
+        (i.title || "").toLowerCase().includes(q) ||
+        (i.summary || "").toLowerCase().includes(q));
+    }
+    if (!items.length) {
+      box.innerHTML = `<div class="status">没有匹配的内容。</div>`;
+      return;
+    }
+    box.innerHTML = `<div class="grid">${items.map(i => `
+      <div class="card">
+        <h3><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
+        <p class="summary">${esc(i.summary)}</p>
+        <div class="foot">
+          <span class="tag" style="background:${i._cat.color}">${esc(i._cat.label)}</span>
+          <span class="src">${esc(i.source)}</span>
+          <span class="date">${fmtDate(i.published)}</span>
+        </div>
+      </div>`).join("")}</div>`;
+  }
+
+  function renderMeta() {
+    const m = document.getElementById("meta");
+    const gen = DATA.generated_at ? fmtDate(DATA.generated_at) : "—";
+    m.innerHTML = `更新于 <b>${esc(gen)}</b> · 本次聚合 <b>${DATA.total || 0}</b> 条 · 来源 ${DATA.source_count || 0} 个` +
+      (DATA.error_count ? ` · <span style="color:#dc2626">${DATA.error_count} 个源抓取失败</span>` : "");
+    document.getElementById("footInfo").textContent =
+      `共 ${DATA.total || 0} 条 · ${DATA.source_count || 0} 个源`;
+  }
+
+  async function init() {
+    try {
+      const res = await fetch(DATA_URL, { cache: "no-store" });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      DATA = await res.json();
+      document.getElementById("siteTitle").textContent = (DATA.title || "AI 日报");
+      document.getElementById("siteSubtitle").textContent = (DATA.subtitle || "");
+      renderMeta();
+      renderTabs();
+      renderCards();
+    } catch (e) {
+      document.getElementById("content").innerHTML =
+        `<div class="status err">加载失败：${esc(e.message)}<br/>请确认已通过本地服务器访问（而非直接双击打开文件），且 data/news.json 已生成。</div>`;
+    }
+  }
+
+  document.getElementById("search").addEventListener("input", e => {
+    query = e.target.value.trim();
+    renderCards();
+  });
+
+  init();
+</script>
+</body>
+</html>

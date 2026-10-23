@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>arXiv cs.RO / cs.CL Sample</title>
+  <link href="https://example.com/arxiv"/>
+  <id>https://example.com/arxiv</id>
+  <entry>
+    <title>Learning Dexterous Manipulation with Diffusion Policies</title>
+    <link href="https://example.com/arxiv/1" rel="alternate"/>
+    <id>https://example.com/arxiv/1</id>
+    <summary>We propose a robotics method for embodied manipulation using diffusion models and a humanoid with two arms.</summary>
+    <updated>2026-10-20T10:00:00Z</updated>
+    <published>2026-10-20T10:00:00Z</published>
+  </entry>
+  <entry>
+    <title>Vision-Language Models Improve Robot Navigation</title>
+    <link href="https://example.com/arxiv/2" rel="alternate"/>
+    <id>https://example.com/arxiv/2</id>
+    <summary>A large multimodal model boosts embodied AI perception for autonomous drones and quadruped robots.</summary>
+    <updated>2026-10-20T11:00:00Z</updated>
+    <published>2026-10-20T11:00:00Z</published>
+  </entry>
+  <entry>
+    <title>Efficient Pretraining of a 7B Language Model</title>
+    <link href="https://example.com/arxiv/3" rel="alternate"/>
+    <id>https://example.com/arxiv/3</id>
+    <summary>We study training and alignment of an open-source LLM with reduced compute via better transformer design.</summary>
+    <updated>2026-10-20T12:00:00Z</updated>
+    <published>2026-10-20T12:00:00Z</published>
+  </entry>
+</feed>

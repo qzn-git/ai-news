@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>样例中文科技媒体</title>
+    <link>https://example.com/zh</link>
+    <description>样例 RSS</description>
+    <item>
+      <title>GPT-5 发布：推理能力大幅提升，支持百万字长上下文</title>
+      <link>https://example.com/zh/1</link>
+      <description>新一代大语言模型在多个 benchmark 上刷新纪录，训练采用更高效的预训练方法。</description>
+      <pubDate>Wed, 22 Oct 2026 09:00:00 GMT</pubDate>
+      <guid>https://example.com/zh/1</guid>
+    </item>
+    <item>
+      <title>阿里开源通义千问大模型新版本，参数达千亿级</title>
+      <link>https://example.com/zh/2</link>
+      <description>开源模型支持多模态输入，开发者可免费商用。</description>
+      <pubDate>Wed, 22 Oct 2026 10:30:00 GMT</pubDate>
+      <guid>https://example.com/zh/2</guid>
+    </item>
+    <item>
+      <title>智能体框架爆火，开发者争相接入 MCP 工具调用协议</title>
+      <link>https://example.com/zh/3</link>
+      <description>自主智能体工作流正在替代传统 SaaS，多智能体编排成为新热点。</description>
+      <pubDate>Wed, 22 Oct 2026 11:00:00 GMT</pubDate>
+      <guid>https://example.com/zh/3</guid>
+    </item>
+    <item>
+      <title>人形机器人公司获新一轮融资，具身智能赛道再升温</title>
+      <link>https://example.com/zh/4</link>
+      <description>该公司展示的双臂机械臂可实现灵巧手操作，定位家庭服务场景。</description>
+      <pubDate>Wed, 22 Oct 2026 12:00:00 GMT</pubDate>
+      <guid>https://example.com/zh/4</guid>
+    </item>
+    <item>
+      <title>股票市场对 AI 概念股反应平淡，资金转向稳健标的</title>
+      <link>https://example.com/zh/5</link>
+      <description>本文与前四类关键词均不匹配，用于验证"综合"分类兜底。</description>
+      <pubDate>Wed, 22 Oct 2026 13:00:00 GMT</pubDate>
+      <guid>https://example.com/zh/5</guid>
+    </item>
+  </channel>
+</rss>

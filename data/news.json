@@ -1,0 +1,157 @@
+{
+  "generated_at": "2026-10-23T10:42:56+08:00",
+  "total": 12,
+  "source_count": 3,
+  "error_count": 0,
+  "errors": [],
+  "categories": [
+    {
+      "key": "llm",
+      "label": "大模型",
+      "color": "#2563eb",
+      "count": 4,
+      "items": [
+        {
+          "title": "阿里开源通义千问大模型新版本，参数达千亿级",
+          "link": "https://example.com/zh/2",
+          "summary": "开源模型支持多模态输入，开发者可免费商用。",
+          "source": "样例中文媒体",
+          "published": "2026-10-22T10:30:00+00:00",
+          "published_ts": 1792665000.0,
+          "category": "llm"
+        },
+        {
+          "title": "GPT-5 发布：推理能力大幅提升，支持百万字长上下文",
+          "link": "https://example.com/zh/1",
+          "summary": "新一代大语言模型在多个 benchmark 上刷新纪录，训练采用更高效的预训练方法。",
+          "source": "样例中文媒体",
+          "published": "2026-10-22T09:00:00+00:00",
+          "published_ts": 1792659600.0,
+          "category": "llm"
+        },
+        {
+          "title": "New open-source LLM beats GPT-4 on major benchmark",
+          "link": "https://example.com/en/1",
+          "summary": "A new foundation model shows strong reasoning and inference performance after large-scale training.",
+          "source": "Sample Tech News",
+          "published": "2026-10-21T15:00:00+00:00",
+          "published_ts": 1792594800.0,
+          "category": "llm"
+        },
+        {
+          "title": "Efficient Pretraining of a 7B Language Model",
+          "link": "https://example.com/arxiv/3",
+          "summary": "We study training and alignment of an open-source LLM with reduced compute via better transformer design.",
+          "source": "arXiv 样例",
+          "published": "2026-10-20T12:00:00+00:00",
+          "published_ts": 1792497600.0,
+          "category": "llm"
+        }
+      ]
+    },
+    {
+      "key": "agent",
+      "label": "智能体",
+      "color": "#7c3aed",
+      "count": 2,
+      "items": [
+        {
+          "title": "智能体框架爆火，开发者争相接入 MCP 工具调用协议",
+          "link": "https://example.com/zh/3",
+          "summary": "自主智能体工作流正在替代传统 SaaS，多智能体编排成为新热点。",
+          "source": "样例中文媒体",
+          "published": "2026-10-22T11:00:00+00:00",
+          "published_ts": 1792666800.0,
+          "category": "agent"
+        },
+        {
+          "title": "AI agents are replacing SaaS workflows for small teams",
+          "link": "https://example.com/en/2",
+          "summary": "Autonomous agents with tool use and multi-agent orchestration are gaining traction as copilots.",
+          "source": "Sample Tech News",
+          "published": "2026-10-21T16:00:00+00:00",
+          "published_ts": 1792598400.0,
+          "category": "agent"
+        }
+      ]
+    },
+    {
+      "key": "embodied",
+      "label": "具身智能",
+      "color": "#059669",
+      "count": 4,
+      "items": [
+        {
+          "title": "人形机器人公司获新一轮融资，具身智能赛道再升温",
+          "link": "https://example.com/zh/4",
+          "summary": "该公司展示的双臂机械臂可实现灵巧手操作，定位家庭服务场景。",
+          "source": "样例中文媒体",
+          "published": "2026-10-22T12:00:00+00:00",
+          "published_ts": 1792670400.0,
+          "category": "embodied"
+        },
+        {
+          "title": "Tesla unveils new humanoid robot for factory work",
+          "link": "https://example.com/en/3",
+          "summary": "The robotics division shows a humanoid that can manipulate objects with dexterous hands.",
+          "source": "Sample Tech News",
+          "published": "2026-10-21T17:00:00+00:00",
+          "published_ts": 1792602000.0,
+          "category": "embodied"
+        },
+        {
+          "title": "Vision-Language Models Improve Robot Navigation",
+          "link": "https://example.com/arxiv/2",
+          "summary": "A large multimodal model boosts embodied AI perception for autonomous drones and quadruped robots.",
+          "source": "arXiv 样例",
+          "published": "2026-10-20T11:00:00+00:00",
+          "published_ts": 1792494000.0,
+          "category": "embodied"
+        },
+        {
+          "title": "Learning Dexterous Manipulation with Diffusion Policies",
+          "link": "https://example.com/arxiv/1",
+          "summary": "We propose a robotics method for embodied manipulation using diffusion models and a humanoid with two arms.",
+          "source": "arXiv 样例",
+          "published": "2026-10-20T10:00:00+00:00",
+          "published_ts": 1792490400.0,
+          "category": "embodied"
+        }
+      ]
+    },
+    {
+      "key": "solopreneur",
+      "label": "一人公司",
+      "color": "#ea580c",
+      "count": 1,
+      "items": [
+        {
+          "title": "How one developer built a $1M company solo",
+          "link": "https://example.com/en/4",
+          "summary": "A solopreneur shares how indie hacking and bootstrapped side projects grew into a real business.",
+          "source": "Sample Tech News",
+          "published": "2026-10-21T18:00:00+00:00",
+          "published_ts": 1792605600.0,
+          "category": "solopreneur"
+        }
+      ]
+    },
+    {
+      "key": "general",
+      "label": "综合",
+      "color": "#64748b",
+      "count": 1,
+      "items": [
+        {
+          "title": "股票市场对 AI 概念股反应平淡，资金转向稳健标的",
+          "link": "https://example.com/zh/5",
+          "summary": "本文与前四类关键词均不匹配，用于验证\"综合\"分类兜底。",
+          "source": "样例中文媒体",
+          "published": "2026-10-22T13:00:00+00:00",
+          "published_ts": 1792674000.0,
+          "category": "general"
+        }
+      ]
+    }
+  ]
+}

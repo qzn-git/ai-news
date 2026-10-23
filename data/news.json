@@ -1,10 +1,9 @@
 {
-  "generated_at": "2026-10-23T04:33:32+00:00",
-  "total": 427,
+  "generated_at": "2026-10-23T04:50:25+00:00",
+  "total": 437,
   "source_count": 15,
-  "error_count": 3,
+  "error_count": 2,
   "errors": [
-    "量子位: URLError(TimeoutError('timed out'))",
     "VentureBeat AI: <HTTPError 429: 'Too Many Requests'>",
     "Indie Hackers: <HTTPError 403: 'Forbidden'>"
   ],
@@ -952,7 +951,7 @@
         {
           "title": "具有点和对象特征的一致分布式不变EKF SLAM",
           "link": "https://arxiv.org/abs/2610.31221",
-          "summary": "arXiv:2610.31221v1 Announce Type: new Abstract: Multi-robot SLAM allows robots to improve their estimates by exchanging map information, but repeated exchanges create unknown correlations between local estimators. Covariance intersection (CI) can fuse estimates without tracking these correlations. In right-invariant extended Kalman filter (RI-EKF) SLAM, however, point features obtain their invaria",
+          "summary": "arXiv: 2610.31221v1 Announce Type: new Abstract:多机器人SLAM允许机器人通过交换地图信息来提高估计值，但重复交换会在本地估计值之间产生未知的相关性。协方差交集（ CI ）可以在不跟踪这些相关性的情况下融合估计值。然而，在右不变扩展卡尔曼滤波器（ RI-EKF ） SLAM中，点特征获得它们的",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -961,7 +960,7 @@
         {
           "title": "FocusVLA ：视觉-语言-动作模型的未来意图引导动态视图路由",
           "link": "https://arxiv.org/abs/2610.31423",
-          "summary": "arXiv:2610.31423v1 Announce Type: new Abstract: Vision-language-action (VLA) models have become an important paradigm for robotic manipulation by unifying visual perception, language understanding, and action generation. Since reliable manipulation requires sufficient observation of objects, end-effectors, and their spatial relationships, multi-view inputs are widely used to provide complementary ",
+          "summary": "arXiv: 2610.31423v1公告类型：新摘要：视觉-语言-行动（ VLA ）模型通过统一视觉感知、语言理解和行动生成，已成为机器人操作的重要范例。由于可靠的操作需要对物体、末端执行器及其空间关系进行充分的观察，因此多视图输入被广泛用于提供互补的",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -970,7 +969,7 @@
         {
           "title": "VecTile ：用于3自由度力传感的低成本灵活触觉阵列",
           "link": "https://arxiv.org/abs/2610.31472",
-          "summary": "arXiv:2610.31472v1 Announce Type: new Abstract: Tactile sensing provides robots with contact information difficult to obtain from vision alone. Shear force is particularly important for understanding tangential contact, guiding corrective motions, and maintaining grasp stability, yet flexible and low-cost tactile arrays often measure only normal force. We introduce VecTile, a low-cost, 6 mm thin, ",
+          "summary": "arXiv: 2610.31472v1公告类型：新摘要：触觉传感为机器人提供了仅靠视觉难以获得的联系信息。剪切力对于理解切向接触、引导纠正运动和保持抓握稳定性特别重要，但灵活和低成本的触觉阵列通常仅测量法向力。我们推出了VecTile ，一种低成本，薄6毫米，",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -979,7 +978,7 @@
         {
           "title": "机器人世界模型的骨架接地潜伏动作模型",
           "link": "https://arxiv.org/abs/2610.31474",
-          "summary": "arXiv:2610.31474v1 Announce Type: new Abstract: Robot world models simulate how environments evolve in response to robot actions. Latent action models enable learning dynamics from videos by encoding visual transitions as proxy actions. However, reconstruction-driven latent actions mix robot motion with object responses and other scene changes, complicating their correspondence with robot controls",
+          "summary": "arXiv: 2610.31474v1公告类型：新摘要：机器人世界模型模拟环境如何响应机器人动作而演变。潜在动作模型通过将视觉转换编码为代理动作，从视频中实现学习动态。然而，重建驱动的潜伏动作将机器人运动与物体响应和其他场景变化相结合，使其与机器人控制的对应复杂化",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -988,7 +987,7 @@
         {
           "title": "用于空间理解的点级可细化语义映射",
           "link": "https://arxiv.org/abs/2610.31476",
-          "summary": "arXiv:2610.31476v1 Announce Type: new Abstract: Open-vocabulary 3D semantic maps have emerged as a key spatial memory representation for long-horizon robot autonomy, enabling robots to reason about objects, their spatial relationships, and past observations across time. However, existing object-centric semantic maps are primarily designed for static environments and rely on an append-only point in",
+          "summary": "arXiv: 2610.31476v1公告类型：新摘要：开放式词汇3D语义地图已成为长视野机器人自主性的关键空间记忆表示，使机器人能够推理物体及其空间关系，以及跨时间的过去观测。然而，现有的以对象为中心的语义映射主要是为静态环境设计的，并依赖于",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -997,7 +996,7 @@
         {
           "title": "用于多机器人协调的离散树协议",
           "link": "https://arxiv.org/abs/2610.31540",
-          "summary": "arXiv:2610.31540v1 Announce Type: new Abstract: Multi-robot coordination of nonlinear systems is naturally formulated as joint-space optimal control subject to constraints over groups of robots. Existing methods that approach joint optimality remain largely centralized, offline, and confined to collision-free motion planning, while decentralized, real-time counterparts target safe navigation witho",
+          "summary": "arXiv: 2610.31540v1公告类型：新摘要：非线性系统的多机器人协调自然被公式化为受机器人组约束的联合空间最优控制。接近联合优化的现有方法在很大程度上仍然是集中的、离线的，并且仅限于无碰撞的运动规划，而去中心化的、实时的对应方法则以安全导航为目标，",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1006,7 +1005,7 @@
         {
           "title": "通过基于注意力的联系人实现人形移动",
           "link": "https://arxiv.org/abs/2610.31608",
-          "summary": "arXiv:2610.31608v1 Announce Type: new Abstract: Humanoid mobility over complex terrain requires accurate foot placement and coordinated whole-body motion capable of robust adaptation. Reinforcement learning (RL) policies trained without motion references generalize well across terrains, yet eliciting effective whole-body coordination through reward design and exploration alone remains challenging.",
+          "summary": "arXiv: 2610.31608v1公告类型：新摘要：在复杂地形上的人形移动需要精确的脚部放置和协调的全身运动，能够进行强有力的适应。在没有运动参考的情况下训练的强化学习（ RL ）策略在整个地形中得到了很好的推广，但仅通过奖励设计和探索来引发有效的全身协调仍然具有挑战性。",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1015,7 +1014,7 @@
         {
           "title": "通过根轨迹扩展谐波函数方法以实现协调路径生成",
           "link": "https://arxiv.org/abs/2610.31625",
-          "summary": "arXiv:2610.31625v1 Announce Type: new Abstract: We consider the offline generation of coordinated paths for N interchangeable robots and N goals in planar environments with polygonal obstacles. After a conformal map to a circular domain, starts and goals become the poles and zeros of a rational function R, and the paths are the branches of its Generalized Root Locus (GRL), i.e. the streamlines of ",
+          "summary": "arXiv: 2610.31625v1公告类型：新摘要：我们考虑在具有多边形障碍物的平面环境中离线生成N个可互换机器人和N个目标的协调路径。在到圆形域的共形映射之后，开始和目标成为有理函数R的极点和零点，路径是其广义根轨迹（ GRL ）的分支，即",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1024,7 +1023,7 @@
         {
           "title": "OpenTac ：可定制、可扩展和可转移3D触觉传感的开放生态系统",
           "link": "https://arxiv.org/abs/2610.31661",
-          "summary": "arXiv:2610.31661v1 Announce Type: new Abstract: We present OpenTac, a novel sensor and a full-stack ecosystem for tactile skins that are highly customizable, scalable, and readily deployed in downstream robot control and learning applications. Our core contribution is twofold. First, we develop a scalable resistive tactile skin with a structured deformable overlay that converts tangential loading ",
+          "summary": "arXiv: 2610.31661v1发布类型：新摘要：我们推出了OpenTac ，这是一种新颖的传感器和全栈生态系统，适用于高度可定制、可扩展且易于部署在下游机器人控制和学习应用程序中的触觉皮肤。我们的核心贡献是双重的。首先，我们开发了一种可扩展的电阻式触觉蒙皮，具有结构化的可变形叠加层，可转换切向载荷",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1033,7 +1032,7 @@
         {
           "title": "有腿机器人的运动对颗粒介质的敏感依赖性",
           "link": "https://arxiv.org/abs/0905.4950",
-          "summary": "arXiv:0905.4950v2 Announce Type: cross Abstract: Legged locomotion on flowing ground ({\\em e.g.} granular media) is unlike locomotion on hard ground because feet experience both solid- and fluid-like forces during surface penetration. Recent bio-inspired legged robots display speed relative to body size on hard ground comparable to high performing organisms like cockroaches but suffer significant ",
+          "summary": "arXiv: 0905.4950v2公告类型：交叉摘要：在流动地面（ {\\ em例如}粒状介质）上的腿部运动与在坚硬地面上的运动不同，因为脚在表面穿透期间同时经历固体和流体状力。最近的生物启发腿式机器人在坚硬的地面上显示相对于身体大小的速度，与蟑螂等高性能生物相当，但遭受了重大损失",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1042,7 +1041,7 @@
         {
           "title": "在私人和住宅养老院中应对人机交互挑战",
           "link": "https://arxiv.org/abs/2610.31149",
-          "summary": "arXiv:2610.31149v1 Announce Type: cross Abstract: This chapter explores how robotic systems and ambient intelligence can enhance care for older adults in residential aged care (RAC) homes and private homes. Although these settings differ, we frame both as extreme and challenging environments for human-robot interaction (HRI), characterised by cluttered and dynamic layouts, diverse resident needs, ",
+          "summary": "arXiv: 2610.31149v1公告类型： CROSS摘要：本章探讨机器人系统和环境智能如何加强老年人在住宅养老院（ RAC ）和私人住宅中的护理。虽然这些设置不同，但我们将人机交互（ HRI ）视为极端和具有挑战性的环境，其特点是布局混乱和动态，居民需求多样化，",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1051,7 +1050,7 @@
         {
           "title": "通过频谱群机器人技术聆听竞技场的形状",
           "link": "https://arxiv.org/abs/2403.17147",
-          "summary": "arXiv:2403.17147v2 Announce Type: replace Abstract: Swarm robotics relies on robots with minimal sensing and computation that achieve self-organization at the level of the collective to address a variety of tasks. Yet swarm robotics still struggles with global tasks that require understanding the broader spatial context in which robots operate, such as identifying the shape of the arena in which t",
+          "summary": "arXiv: 2403.17147v2公告类型：替换摘要： Swarm机器人依赖于具有最小感知和计算的机器人，这些机器人在集体层面实现自组织，以解决各种任务。然而， SWARM机器人仍在努力完成全球任务，这些任务需要了解机器人运行的更广阔的空间背景，例如识别",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1060,7 +1059,7 @@
         {
           "title": "CENIC ：联系人的凸错误控制数值积分",
           "link": "https://arxiv.org/abs/2511.08771",
-          "summary": "arXiv:2511.08771v2 Announce Type: replace Abstract: State-of-the-art robotics simulators operate in discrete time. This requires users to choose a time step, which is both critical and challenging: large steps can produce non-physical artifacts, while small steps force the simulation to run slowly. Continuous-time error-controlled integration avoids such issues by automatically adjusting the time ",
+          "summary": "arXiv: 2511.08771v2公告类型：替换摘要：最先进的机器人模拟器在离散时间运行。这需要用户选择一个时间步长，这既关键又具有挑战性：大步长可以产生非物理伪影，而小步长则迫使模拟运行缓慢。连续时间误差控制集成通过自动调整时间来避免此类问题",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1069,7 +1068,7 @@
         {
           "title": "用于昆虫尺度软机器人的多层压电聚合物执行器",
           "link": "https://arxiv.org/abs/2511.12380",
-          "summary": "arXiv:2511.12380v2 Announce Type: replace Abstract: Piezoelectric ceramics enable fast, precise, and powerful actuation with integrated sensing in insect-scale robots. However, they are brittle, failing at low strains limiting its applications involving high impacts, unexpected loading, or soft robotics. To address this limitation, we investigate polyvinylidene fluoride (PVDF) as a compliant alter",
+          "summary": "arXiv: 2511.12380v2发布类型：替换摘要：压电陶瓷在昆虫秤机器人中通过集成传感实现快速、精确和强大的驱动。然而，它们是脆性的，在低应变下失效，限制了其涉及高冲击、意外加载或软机器人的应用。为了解决这一局限性，我们研究了聚偏二氟乙烯（ PVDF ）作为",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1078,7 +1077,7 @@
         {
           "title": "行星环境的本体感受安全主动导航和探索",
           "link": "https://arxiv.org/abs/2603.08905",
-          "summary": "arXiv:2603.08905v2 Announce Type: replace Abstract: Deformable granular terrains introduce significant locomotion and immobilization risks in planetary exploration and are difficult to detect via remote sensing (e.g., vision). Legged robots can sense terrain properties through leg-terrain interactions during locomotion, offering a direct means to assess traversability in deformable environments. H",
+          "summary": "arXiv: 2603.08905v2公告类型：替换摘要：可变形的粒状地形在行星探测中引入了显著的运动和固定风险，并且难以通过遥感（例如视觉）进行检测。腿式机器人可以在运动过程中通过腿部-地形相互作用感知地形属性，为评估可变形环境中的可穿越性提供了直接手段。H",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1087,7 +1086,7 @@
         {
           "title": "ThermoAct ：用于机器人感知和决策的热感知视觉-语言-行动模型",
           "link": "https://arxiv.org/abs/2603.25044",
-          "summary": "arXiv:2603.25044v3 Announce Type: replace Abstract: In recent human-robot collaboration environments, there is a growing focus on integrating diverse sensor data beyond visual information to enable safer and more intelligent task execution. Although thermal data can be crucial for enhancing robot safety and operational efficiency, its integration has been relatively overlooked in prior research. T",
+          "summary": "arXiv: 2603.25044v3公告类型：替换摘要：在最近的人机协作环境中，人们越来越关注集成视觉信息以外的多种传感器数据，以实现更安全、更智能的任务执行。虽然热数据对于提高机器人的安全性和操作效率至关重要，但其集成在之前的研究中相对被忽视。",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1096,7 +1095,7 @@
         {
           "title": "多旋翼无人机中的全3D辐射模式近似",
           "link": "https://arxiv.org/abs/2604.02827",
-          "summary": "arXiv:2604.02827v3 Announce Type: replace Abstract: In-flight outdoor approximation of full 3D Radiation Patterns (RPs) in non-holonomic multi-rotor Uncrewed Aerial Vehicles (UAVs) enables efficient communication-aware robotic missions. Our method identifies the Spherical Harmonics series coefficients, decoupling the observed signal power gains into respective RPs. The proposed calibration traject",
+          "summary": "arXiv: 2604.02827v3公告类型：替换摘要：非完整性多旋翼无人机（ UAV ）中全3D辐射模式（ RP ）的飞行中室外近似可实现高效的通信感知机器人任务。我们的方法识别球面谐波级数系数，将观测到的信号功率增益解耦到各自的RP中。建议的校准轨迹",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1105,7 +1104,7 @@
         {
           "title": "HEX ：人形对齐的跨体全身操作专家",
           "link": "https://arxiv.org/abs/2604.07993",
-          "summary": "arXiv:2604.07993v3 Announce Type: replace Abstract: Humans achieve complex manipulation through coordinated whole-body control, whereas most Vision-Language-Action (VLA) models treat robot body parts largely independently, making high-DoF humanoid control challenging and often unstable. We present HEX, a state-centric framework for coordinated manipulation on full-sized bipedal humanoid robots. HE",
+          "summary": "arXiv: 2604.07993v3公告类型：替换摘要：人类通过协调全身控制实现复杂的操作，而大多数视觉-语言-动作（ VLA ）模型在很大程度上独立处理机器人身体部位，使得高自由度人形控制具有挑战性，并且通常不稳定。我们提出了HEX ，这是一个以状态为中心的框架，用于协调全尺寸双足类人机器人的操作。",
           "source": "arXiv cs.RO",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1122,7 +1121,7 @@
         {
           "title": "人工智能游戏克隆让独立开发者害怕展示他们的作品",
           "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-          "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+          "summary": "延迟的Steam Next Fest演示标志着独立开发者面临的问题日益严重。",
           "source": "Ars Technica AI",
           "published": "2026-10-19T16:59:22+00:00",
           "published_ts": 1792429162.0,
@@ -1139,7 +1138,7 @@
         {
           "title": "CiteAnchor ：用于幻觉引文检测和解决的源感知接地",
           "link": "https://arxiv.org/abs/2610.30355",
-          "summary": "arXiv:2610.30355v1 Announce Type: new Abstract: Hallucinated citations make it harder to trace sources and verify the evidence behind scientific claims. Detecting them is difficult because bibliographic records can be incomplete or differ across source types and publication versions. A plausible match alone neither validates the citation nor establishes its underlying source. We introduce CiteReso",
+          "summary": "arXiv: 2610.30355v1公告类型：新摘要：幻觉引用使追踪来源和验证科学声明背后的证据变得更加困难。检测它们很困难，因为书目记录可能不完整，或者在源类型和发布版本之间有所不同。貌似合理的匹配本身既不验证引文，也不确定其基础来源。我们介绍CiteReso",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1148,7 +1147,7 @@
         {
           "title": "攀登阶梯：在低资源设置中自动化数据管道和重现基线",
           "link": "https://arxiv.org/abs/2610.30374",
-          "summary": "arXiv:2610.30374v1 Announce Type: new Abstract: The massively multilingual translation systems that now include Sicilian learned it from noisy, non-standardised web text. To obtain better translation quality, we redevelop the small neural machine translation (NMT) system that Wdowiak customized for Sicilian. We rebuild on maintained software the extraction of the parallel text from the PDFs of the",
+          "summary": "arXiv: 2610.30374v1公告类型：新摘要：现在包括西西里语的大规模多语言翻译系统是从嘈杂、非标准化的网络文本中学习的。为了获得更好的翻译质量，我们重新开发了Wdowiak为西西里岛定制的小型神经机器翻译（ NMT ）系统。我们在维护的软件上重建，从PDF中提取平行文本",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1157,7 +1156,7 @@
         {
           "title": "WikiOriginQA ：具有知识来源的QA数据集的自动构建，用于分析文化偏见",
           "link": "https://arxiv.org/abs/2610.30677",
-          "summary": "arXiv:2610.30677v1 Announce Type: new Abstract: Existing datasets on cultural knowledge have been typically created by human annotators familiar with each culture. However, the process requires considerable human effort, presenting a significant challenge to scalability. To address this challenge, we introduce WikiOriginQA, a QA dataset automatically constructed by objectively representing the ori",
+          "summary": "arXiv: 2610.30677v1公告类型：新摘要：文化知识的现有数据集通常由熟悉每种文化的人工注释器创建。然而，这个过程需要大量的人力，对可扩展性提出了重大挑战。为了应对这一挑战，我们引入了WikiOriginQA ，这是一个QA数据集，通过客观地表示ORI",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1166,7 +1165,7 @@
         {
           "title": "通过单词持续时间直接提示单词身份：来自普通话同音的证据",
           "link": "https://arxiv.org/abs/2610.30682",
-          "summary": "arXiv:2610.30682v1 Announce Type: new Abstract: While there is increasing evidence that words are stored in the mental lexicon with some phonetic detail, there are open questions about exactly which phonetic details are stored and whether they are functionally relevant for spoken word recognition. Word-level phonetic cues, such as word duration, provide an appropriate test case. Across languages, ",
+          "summary": "arXiv: 2610.30682v1公告类型：新摘要：虽然有越来越多的证据表明单词存储在带有一些语音细节的心理词典中，但对于究竟存储了哪些语音细节以及它们是否在功能上与口语单词识别相关，仍存在一些悬而未决的问题。单词级别的语音提示（例如单词持续时间）提供了适当的测试用例。跨语言，",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1175,7 +1174,7 @@
         {
           "title": "意义趋同与分歧的地方：重新审视81种语言的语言相对性",
           "link": "https://arxiv.org/abs/2610.30778",
-          "summary": "arXiv:2610.30778v1 Announce Type: new Abstract: Do people who speak different languages organize concepts in similar ways? This question lies at the heart of the Sapir--Whorf hypothesis and debates about linguistic relativity. Shared basic meanings, however, need not imply shared relations among them. We compared relations among 196 basic concepts across 81 languages, using word embeddings from tw",
+          "summary": "arXiv: 2610.30778v1公告类型： new摘要：讲不同语言的人是否以类似的方式组织概念？这个问题是关于语言相对论的Sapir-Whorf假设和辩论的核心。然而，共同的基本含义不必意味着它们之间的共同关系。我们比较了81种语言的196个基本概念之间的关系，使用了来自tw的词嵌入",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1184,7 +1183,7 @@
         {
           "title": "解读变异与话语结构在探索争议性政治话语中的韵律",
           "link": "https://arxiv.org/abs/2610.30987",
-          "summary": "arXiv:2610.30987v1 Announce Type: new Abstract: Enthymemes are arguments that leave a premise or conclusion unstated, and they are a common persuasion device on social media. Because readers must fill in the missing part themselves, they often disagree on whether a text contains one. This paper asks how to detect and evaluate enthymemes when such disagreement is part of the task. On tweets about v",
+          "summary": "arXiv: 2610.30987v1 Announce Type: new Abstract: Enthymemes是未说明前提或结论的论点，是社交媒体上常见的说服工具。由于读者必须自己填写缺失的部分，因此他们通常不同意文本是否包含缺失的部分。本文探讨了当这种分歧是任务的一部分时，如何检测和评估热情。关于v的推文",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1193,7 +1192,7 @@
         {
           "title": "Real Document Revisions下的区块重新计算：测量固定、递归和内容定义区块的更新成本和检索质量",
           "link": "https://arxiv.org/abs/2610.31019",
-          "summary": "arXiv:2610.31019v1 Announce Type: new Abstract: Chunking strategies for retrieval-augmented generation are almost always evaluated on a static snapshot, yet the documents underlying a knowledge base continue to change. Because chunks are embedded independently, a boundary that moves after an edit forces unchanged text to be re-embedded. We measure this update cost on 120 pairs of adjacent Chinese ",
+          "summary": "arXiv: 2610.31019v1 Announce Type: new Abstract:检索增强生成的分块策略几乎总是在静态快照上进行评估，但知识库底层的文档继续发生变化。由于块是独立嵌入的，因此编辑后移动的边界会强制重新嵌入未更改的文本。我们用120对相邻的中国人来衡量这个更新成本",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1202,7 +1201,7 @@
         {
           "title": "法国民事翻案语法：基础数据集和工具",
           "link": "https://arxiv.org/abs/2610.31116",
-          "summary": "arXiv:2610.31116v1 Announce Type: new Abstract: This paper presents a dataset of 121,536 ground-reasons pairs across 86,464 rulings of the five civil chambers of the French Court of Cassation (2016-2025). An appeal on points of law cannot itself be appealed and often decides a case for good. Understanding how the Court rules is thus crucial and can help lawyers who draft those appeals. Inside a ru",
+          "summary": "arXiv: 2610.31116v1公告类型：新摘要：本文介绍了法国最高法院五个民事法庭（ 2016-2025年）的86,464项裁决中的121,536对地面原因的数据集。就法律问题提出的上诉本身不能上诉，而且往往会对案件做出永久裁决。因此，了解法院规则是如何至关重要，可以帮助起草这些上诉的律师。",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1211,7 +1210,7 @@
         {
           "title": "SurveyGraph ：通过方法-实体知识图生成学术调查",
           "link": "https://arxiv.org/abs/2610.31317",
-          "summary": "arXiv:2610.31317v1 Announce Type: new Abstract: Most automated survey generation systems retrieve papers as flat documents, limiting their ability to capture research structure. We present SurveyGraph, a framework built around a Methods-Entity Knowledge Graph (MEKG) encoding method-level follow-on, competition, and shared-resource relations. The graph supports core-paper discovery, retrieval, hybr",
+          "summary": "arXiv: 2610.31317v1公告类型：新摘要：大多数自动调查生成系统将论文作为平面文档检索，限制了它们捕获研究结构的能力。我们推出了SurveyGraph ，这是一个围绕方法-实体知识图（ MEKG ）编码方法级后续、竞争和共享资源关系构建的框架。该图表支持芯纸发现、检索、混合",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1220,7 +1219,7 @@
         {
           "title": "SyRA-CS ：基于元学习的码切换ASR合成到真实适应",
           "link": "https://arxiv.org/abs/2610.31415",
-          "summary": "arXiv:2610.31415v1 Announce Type: new Abstract: Code-switched (CS) automatic speech recognition (ASR) remains difficult because real CS speech is scarce and synthetic speech does not fully match it. We investigate whether synthetic CS speech is more useful for learning an adaptation-friendly initialization than for ordinary continual fine-tuning. We propose SyRA-CS, a pair-specific synthetic-to-re",
+          "summary": "arXiv: 2610.31415v1公告类型： new摘要：码交换（ CS ）自动语音识别（ ASR ）仍然困难，因为真正的CS语音稀缺，合成语音与之不完全匹配。我们研究合成CS语音是否比普通的连续微调更有助于学习适应友好的初始化。我们提出SyRA-CS ，这是一种配对特异性合成",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1229,7 +1228,7 @@
         {
           "title": "有限可验证分段：具有有限状态验证器的每个令牌的可决定性",
           "link": "https://arxiv.org/abs/2610.30168",
-          "summary": "arXiv:2610.30168v1 Announce Type: cross Abstract: A segmentation policy assigns to each byte string at most one segmentation into tokens. Call it finitely verifiable when a finite automaton over marked strings, bytes paired with boundary bits, accepts exactly the policy's own segmentations. The automaton judges a proposed segmentation and need not compute one. The paper shows what that hypothesis ",
+          "summary": "arXiv: 2610.30168v1 Announce Type: cross Abstract:分段策略最多为每个字节字符串分配一个分段为令牌。当标记字符串（与边界位配对的字节）上的有限自动机完全接受策略自己的分段时，将其称为有限可验证。自动机判断建议的分割，无需计算。这篇论文展示了这个假设",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1238,7 +1237,7 @@
         {
           "title": "X-pressing亲密关系： Twitter收购后的心理健康披露",
           "link": "https://arxiv.org/abs/2610.30413",
-          "summary": "arXiv:2610.30413v1 Announce Type: cross Abstract: Social media platforms provide spaces for individuals to disclose mental health experiences and seek support, yet how these disclosures evolve during major shifts in platform governance remains unclear. We examine mental health self-disclosure surrounding Elon Musk's October 2022 acquisition of Twitter, analyzing approximately 824K tweets across an",
+          "summary": "arXiv: 2610.30413v1公告类型： CROSS摘要：社交媒体平台为个人披露心理健康体验和寻求支持提供了空间，但在平台治理的重大转变期间，这些披露如何演变尚不清楚。我们研究了有关Elon Musk 2022年10月收购Twitter的心理健康自我披露，分析了",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1247,7 +1246,7 @@
         {
           "title": "重新思考SAE评估：原子可解释单元框架揭示隐藏的多义性和冗余性",
           "link": "https://arxiv.org/abs/2610.30474",
-          "summary": "arXiv:2610.30474v1 Announce Type: cross Abstract: Sparse autoencoders (SAEs) were originally motivated by discovering monosemantic features, a property that characterizes individual features but does not specify what the learned feature set should look like as a whole. As SAEs have increasingly been adopted for attribution, circuit discovery, and intervention, researchers have begun evaluating met",
+          "summary": "arXiv: 2610.30474v1通告类型： CROSS摘要：稀疏自动编码器（ SAE ）最初的动机是发现单义特征，该属性表征单个特征，但未指定学习的特征集作为一个整体应该是什么样子。随着SAE越来越多地被用于归因、电路发现和干预，研究人员已经开始评估MET",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1256,7 +1255,7 @@
         {
           "title": "TT-SAX ：自然语言形状查询的双轨时间序列符号化",
           "link": "https://arxiv.org/abs/2610.30593",
-          "summary": "arXiv:2610.30593v1 Announce Type: cross Abstract: Natural language querying for time series databases aims to let users find what they need in long histories of data by asking in plain language. Shape queries ask how a series moves. They are the main challenge of this task. Recent work makes them feasible by using symbolization as a bridge between the query and the long history. However, existing ",
+          "summary": "arXiv: 2610.30593v1公告类型： CROSS摘要：时间序列数据库的自然语言查询旨在让用户通过简单的语言查询，在漫长的数据历史中找到他们需要的东西。形状查询询询问系列如何移动。他们是这项任务的主要挑战。最近的工作通过使用符号化作为查询和悠久历史之间的桥梁，使它们成为可行的。但是，现有的",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1265,7 +1264,7 @@
         {
           "title": "融合税：混合检索伤害时的诊断分析",
           "link": "https://arxiv.org/abs/2610.30612",
-          "summary": "arXiv:2610.30612v1 Announce Type: cross Abstract: Hybrid retrieval, which fuses a sparse lexical retriever with a dense neural one, is widely recommended in the software documentation surveyed in September 2026, usually with reciprocal rank fusion (RRF), on the strength of aggregate gains. We ask what fusion costs on individual queries, treating \"do not fuse\" as a first-class outcome, in the setti",
+          "summary": "arXiv: 2610.30612v1 Announce Type: cross Abstract: Hybrid retrieval ，将稀疏词汇检索器与密集神经检索器融合，在2026年9月调查的软件文档中被广泛推荐，通常采用倒数秩融合（ RRF ） ，以聚合增益为强度。我们询问单个查询的融合成本，在SETI中将“不融合”视为一流的结果",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1274,7 +1273,7 @@
         {
           "title": "以任务为中心的长文档可视化问答调查：分类、演变和未来方向",
           "link": "https://arxiv.org/abs/2610.31385",
-          "summary": "arXiv:2610.31385v1 Announce Type: cross Abstract: Visual document understanding is essential for acquiring knowledge from visually rich documents and is attracting growing research interest. Existing surveys emphasize architectures or technical approaches, with limited attention to how task bottlenecks shape technical choices and research priorities. We present a task-centric survey that decompose",
+          "summary": "arXiv: 2610.31385v1公告类型： CROSS摘要：视觉文档理解对于从视觉丰富的文档中获取知识至关重要，并且正在吸引越来越多的研究兴趣。现有调查强调架构或技术方法，对任务瓶颈如何影响技术选择和研究重点的关注有限。我们提出了一个以任务为中心的调查，",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,
@@ -1283,7 +1282,7 @@
         {
           "title": "差别有多大，差别有多大？使用替代视图吸引用户的对话系统视点选择中的立场粒度",
           "link": "https://arxiv.org/abs/2610.31459",
-          "summary": "arXiv:2610.31459v1 Announce Type: cross Abstract: Systems that aim to help a user engage with viewpoints other than their own have to decide how different those viewpoints should be. Viewpoints are mainly represented on a scalar scale, too coarse to distinguish viewpoints that disagree with the user about different things. We introduce a selection policy in which a bandit sets how far viewpoints m",
+          "summary": "arXiv: 2610.31459v1公告类型： CROSS摘要：旨在帮助用户与自己以外的观点互动的系统必须决定这些观点应该有多大的不同。视点主要以标量尺度表示，过于粗糙，无法区分在不同事情上与用户意见相左的观点。我们引入了一种选择策略，在该策略中，土匪设置了多远的观点",
           "source": "arXiv cs.CL",
           "published": "2026-10-23T04:00:00+00:00",
           "published_ts": 1792728000.0,

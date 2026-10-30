@@ -2,7 +2,7 @@
   "title": "AI 日报",
   "subtitle": "大模型 · 智能体 · 具身智能",
   "description": "每天自动聚合大模型、智能体与具身智能领域的AI资讯",
-  "generated_at": "2026-10-28T04:15:49+00:00",
+  "generated_at": "2026-10-30T04:36:30+00:00",
   "total": 256,
   "source_count": 17,
   "error_count": 1,
@@ -14,339 +14,330 @@
       "key": "llm",
       "label": "大模型",
       "color": "#2563eb",
-      "count": 37,
+      "count": 36,
       "items": [
         {
-          "title": "甲骨文借助NVIDIA、谷歌TPU和 Cerebras扩展 AI计算选项",
-          "link": "https://analyticsindiamag.com/ai-news/oracle-expands-ai-compute-options-with-nvidia-google-tpus-and-cerebras",
-          "summary": "此外，甲骨文正在扩展其AMD和英特尔计算产品，并将SambaNova的人工智能推理系统引入其基础设施。",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-28T03:23:14+00:00",
-          "published_ts": 1793157794.0,
+          "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
+          "link": "https://sspai.com/post/116435",
+          "summary": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。 查看全文",
+          "source": "少数派",
+          "published": "2026-10-30T03:13:40+00:00",
+          "published_ts": 1793330020.0,
           "category": "llm"
         },
         {
-          "title": "微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检",
-          "link": "https://www.leiphone.com/category/zaobao/SXb4aJpFWlpTjfkN.html",
-          "summary": "要闻提示 1.加码AI精简人力！微软向 6 万员工发出自愿离职邀请，补偿至少N+2 2.DeepSeek大举扩充团队！梁文锋2800亿首登富豪榜前十，被曝长期在北京租房 3.iPhone Duo被曝为赶产能放宽质检！苹果客服否认 4.抖音回应中国互联网进入字节时间：极不严谨，纯属瞎扯 5.破案了！腾讯企鹅岛楼上外挂的神秘黄色物体，真面目终于曝光 6.阿里巴巴起诉美国国防部取得初步胜利，法院叫停相关禁令 7.姆巴佩争议言论引众怒！小红书声明：正持续核查并下架姆巴佩相关物料 8.新模型价格砍半！OpenAI发布GPT-6.1 Terra 今日头条 加码AI精简人力！微软向 6 万员工发出自愿离职邀请，补偿至少N+2 北京时间10月27日，微软推出自愿离职计划，涉及约6万名员工，相当于微软全球员工总数的约27%。截至今年6月底，微软约有22.3万名全职员工。该计划适用于美国、加拿大、印度和英国参",
-          "source": "雷峰网",
-          "published": "2026-10-28T01:11:00+00:00",
-          "published_ts": 1793149860.0,
-          "category": "llm"
-        },
-        {
-          "title": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
-          "link": "https://www.ifanr.com/1686109?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "· IDC：中国手机 Q3 出货下滑 15.2%，折叠屏连续四季度下降 · 邓煜：AI 公司应公开证明思路，让用户决定数据是否用于训练 · 研究：豆包引用抖音的权重升至 31.8% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "title": "刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了",
+          "link": "https://www.ifanr.com/1686830?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "Plus 用户：为我发声 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "source": "爱范儿",
-          "published": "2026-10-28T00:07:56+00:00",
-          "published_ts": 1793146076.0,
+          "published": "2026-10-30T00:29:45+00:00",
+          "published_ts": 1793320185.0,
           "category": "llm"
         },
         {
-          "title": "父母起诉OpenAI ，声称GPT-4o指导他们的女儿戒断癫痫药物",
-          "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-          "summary": "一家人正在起诉OpenAI ，称ChatGPT指导他们的女儿在2月份去世前悄悄减少她的癫痫发作药物，并向她的医生隐瞒。",
+          "title": "Baseten以每100万个代币0.01 $的价格发布joey-1 ，这是一个2B决策模型",
+          "link": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
+          "summary": "Baseten发布了joey-1 ，这是一种2B开放权重决策模型，返回校准概率而不是文本。它以20毫秒P50延迟运行，每百万个输入令牌的成本为$ 0.01。Post Baseten Releases joey-1是一个2B决策模型，每100万代币0.01 $ ，首次出现在MarkTechPost上。",
+          "source": "MarkTechPost",
+          "published": "2026-10-29T21:20:29+00:00",
+          "published_ts": 1793308829.0,
+          "category": "llm"
+        },
+        {
+          "title": "Mistral发布针对网络安全的万亿参数AI模型的权重",
+          "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+          "summary": "Mistral表示，其新模型可以让组织对其网络防御进行某种控制，而封闭模型无法做到这一点。",
           "source": "TechCrunch AI",
-          "published": "2026-10-27T23:34:27+00:00",
-          "published_ts": 1793144067.0,
+          "published": "2026-10-29T17:00:00+00:00",
+          "published_ts": 1793293200.0,
           "category": "llm"
         },
         {
-          "title": "认识LEANN ：将6000万块RAG索引从201 GB缩小到6 GB的开源矢量索引",
-          "link": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
-          "summary": "加州大学伯克利分校的LEANN矢量索引存储修剪后的图，并在查询时重新计算嵌入。它以90%的召回率匹配HNSW准确率，使用4 GB而不是188 GB ，代价是秒级搜索。文章Meet LEANN ：将6000万块RAG索引从201 GB缩小到6 GB的开源矢量索引首次出现在MarkTechPost上。",
-          "source": "MarkTechPost",
-          "published": "2026-10-27T21:54:37+00:00",
-          "published_ts": 1793138077.0,
+          "title": "更新的模型规格，以实现更强大、更有益的人工智能",
+          "link": "https://openai.com/index/updated-model-spec",
+          "summary": "OpenAI更新的模型规范概述了五个核心价值观，以引导更有能力的人工智能走向合理的判断、人为代理和对人类意图的忠诚。",
+          "source": "OpenAI Blog",
+          "published": "2026-10-29T17:00:00+00:00",
+          "published_ts": 1793293200.0,
           "category": "llm"
         },
         {
-          "title": "Liquid AI发布LFM3 ： 6款开放式重量2B级多式联运车型",
-          "link": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
-          "summary": "Liquid AI发布了LFM3 ， 6种用于文本、视觉、音频、全方位和决策的开放式权重2B级模型。LFM3-1.7B使用三重混合主干， 256K上下文窗口，在4位时容量约为1 GB。《Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models》一文首次出现在MarkTechPost上。",
-          "source": "MarkTechPost",
-          "published": "2026-10-27T21:08:02+00:00",
-          "published_ts": 1793135282.0,
+          "title": "Palantir前高管以a16z的1700万美元推出Dream ，用于构建建筑AI世界模型",
+          "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+          "summary": "DREAM以真实的物理和建筑标准为基础。正如法学硕士从文本中学习一样， Dream的世界模型是根据从美国各地的许可证档案中收集的超过1亿平方英尺的建筑数据进行培训的。",
+          "source": "TechCrunch AI",
+          "published": "2026-10-29T16:21:00+00:00",
+          "published_ts": 1793290860.0,
           "category": "llm"
         },
         {
-          "title": "使用LFM3构建专门的多式联运模型",
-          "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "title": "别再盯着 800 亿美元亏损了，Anthropic 的 AI 造 AI 已推进到 26%！",
+          "link": "https://www.leiphone.com/category/ai/t2cIBqBZVfpYPhPg.html",
+          "summary": "AI 已接管 90% 代码编写，甚至为了完成任务开始“越狱”。 作者丨 郑佳美 编辑丨岑 峰 刚刚，Anthropic 在 IPO 招股书中披露了四起此前未公开的 Agent 安全事故。 其中一次，模型在网络安全测试中迟迟无法完成任务，便继续寻找其他路径，随后从本应断网的测试环境中找到保存的密码，获得第三方系统的管理员权限，又获取其他凭证、修改系统设置并访问外部数据，整个过程持续了 10 至 34 小时。 同期披露的另一项安排是，下一代前沿基础模型的预训练推迟了一个多月。 除此之外，这份招股书还有一组关于内部研发的数据：2026 年 9 月，Claude 贡献了 Anthropic 内部代码库超过 90% 的代码贡献量，日均代码贡献量达到 2024 年平均水平的 45 倍。 公司此前公布的研发自动化指标显示，截至 8 月，约 26% 的研发任务达到 AL4 自动化等级，意味着 AI 已经能",
+          "source": "雷峰网",
+          "published": "2026-10-29T14:23:00+00:00",
+          "published_ts": 1793283780.0,
+          "category": "llm"
+        },
+        {
+          "title": "拉爆游戏引擎？深度拆解 Genie 4，从视频生成到世界控制，Google 要跨越什么？",
+          "link": "https://www.leiphone.com/category/yanxishe/F3FpQlhpT7u7ekyU.html",
+          "summary": "动态条件注入、因果核验与异步协作的三大技术挑战，暴露出哪些致命的技术死角？ 作者丨 郑佳美 编辑丨岑 峰 刚刚，Google DeepMind 正式发布了新一代世界模型 Genie 4。 除了实时生成可交互环境，这次还有一个有意思的设计：Genie 4 负责生成世界，Gemini 3.8 Flash 负责观察画面、拆解任务，并根据执行情况调整计划。 DeepMind 还展示了 Gemini 4 Argon 与 Genie 4 的组合，让模拟环境中的 Apollo 人形机器人完成跳棋任务。在整个过程中，新的任务指令可以持续加入，并改变后续发生的事件。 这给世界模型带来了新的技术要求。过去，模型主要根据历史画面和用户操作生成后续场景，现在还需要随时接收 Agent 发来的新指令。 当机器人移动一枚棋子后，模型既要保留棋盘已经发生的状态变化，又要理解下一阶段的任务，让后续画面与此前操作保持一致。",
+          "source": "雷峰网",
+          "published": "2026-10-29T14:22:00+00:00",
+          "published_ts": 1793283720.0,
+          "category": "llm"
+        },
+        {
+          "title": "DeepSeek 又一开源重器！深挖 DeepInfer 究竟藏着多少技术狠活？",
+          "link": "https://www.leiphone.com/category/ai/HecXToP0EHbPjPd0.html",
+          "summary": "单集群日处理约 155 万亿 Token，推理优化争夺毫秒。 作者丨 郑佳美 编辑丨岑 峰 昨天，DeepSeek 又在 GitHub 上开源了一个大项目，叫 DeepInfer。 这次没有发布新模型，放出来的是 DeepSeek-V4.1-Flash 背后的推理引擎，包含 MoE 专家并行、异步 Batch 调度、定制 Kernel 和推测解码等核心技术。 DeepSeek 还披露了一组数据：单个集群每天需要处理约 155 万亿个 Token。如此庞大的流量，GPU 哪怕在每轮计算中浪费一点资源，累积起来也相当可观。 目前 DeepInfer 开放的是离线推理能力，线上 KV Cache 存储和跨副本负载均衡等组件尚未完整公开。不过，从已经放出的代码中，可以看到 DeepSeek 如何安排大规模推理中的计算、通信和请求调度。 其中有一套叫 Zero-Overhead Batch Sche",
+          "source": "雷峰网",
+          "published": "2026-10-29T14:14:00+00:00",
+          "published_ts": 1793283240.0,
+          "category": "llm"
+        },
+        {
+          "title": "花岗岩开关4.1.1 —像更新软件一样更新模型",
+          "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
           "summary": "",
           "source": "Hugging Face Blog",
-          "published": "2026-10-27T17:16:52+00:00",
-          "published_ts": 1793121412.0,
+          "published": "2026-10-29T13:37:07+00:00",
+          "published_ts": 1793281027.0,
           "category": "llm"
         },
         {
-          "title": "前沿人工智能实验室表示，他们的模型驳斥了指数时间假说。这是什么意思？",
-          "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-          "summary": "TechCrunch采访了负责解释OpenAI最新发现的麻省理工学院计算机科学家。",
-          "source": "TechCrunch AI",
-          "published": "2026-10-27T17:08:08+00:00",
-          "published_ts": 1793120888.0,
+          "title": "Gnani AI推出适用于10种语言的Prisma V3.0语音识别模型",
+          "link": "https://analyticsindiamag.com/ai-news/gnani-ai-launches-prisma-v30-speech-recognition-model-for-10-languages",
+          "summary": "该公司的Prisma V3.0支持九种印度语言和英语，该公司报告的转录错误率低于",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T12:20:54+00:00",
+          "published_ts": 1793276454.0,
           "category": "llm"
         },
         {
-          "title": "Anthropic让华尔街陷入困境的精心计划",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-          "summary": "Anthropic希望两者兼得。随着即将进行的首次公开募股，它希望利用公共市场的巨大财富，并坚称它不想妥协其安全开发人工智能并造福人类的核心使命。但更大的模型能力会带来更大的风险，渴望回报的股东可能会[…]",
+          "title": "31岁女工程师猝死，其生前按ChatGPT指示减药，还被告知「完全没必要担心」；美国一公司招人遛机器狗：时薪20美元，不用铲屎但得扛狗回来",
+          "link": "https://www.leiphone.com/category/zaobao/ZWf8n2mgF0X5Rkfj.html",
+          "summary": "要闻提示 1.31岁女工程师猝死，其生前按ChatGPT指示减药，还被告知“完全没有必要担心” 2.网友发视频称“医生用豆包开药”，涉事医院回应 3.米哈游通告：游戏泄密人员被判赔100万元 4.三家车企拟入选国家级名单：小米汽车位列第一 5.云鲸智能迎来品牌十周年：定位全球AI智能清洁专家，服务超600万家庭 6.阮瑜轮岗担任小度科技负责人，百度智能云事业群组进行组织调整 7.美国一公司招人遛机器狗：时薪 20 美元，不用铲屎但可能要扛狗回来 8.特朗普：将“正式禁用”AI一词 今日头条 31岁女工程师猝死，其生前按ChatGPT指示减药，还被告知“完全没有必要担心” 10月28日消息，据媒体报道，一名住在西雅图的31岁华人女子，疑因依照ChatGPT提供的逐日减药计划，自行将抗癫痫药物逐步减量至停药后死亡。她的父母当地时间27日向旧金山高等法院提起不当致死诉讼，控告OpenAI及其执行",
+          "source": "雷峰网",
+          "published": "2026-10-29T11:38:00+00:00",
+          "published_ts": 1793273880.0,
+          "category": "llm"
+        },
+        {
+          "title": "人工智能放缓的叙述并未反映企业现实",
+          "link": "https://analyticsindiamag.com/ai-features/the-ai-slowdown-narrative-doesnt-reflect-enterprise-reality",
+          "summary": "行业领导者表示，重点正在从构建日益强大的模型转向企业就绪、治理、可靠的执行和可衡量的回报",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T11:01:36+00:00",
+          "published_ts": 1793271696.0,
+          "category": "llm"
+        },
+        {
+          "title": "NVIDIA推出适用于40种语言的开放式重量转录模型",
+          "link": "https://analyticsindiamag.com/ai-news/nvidia-launches-open-weight-transcription-model-for-40-languages",
+          "summary": "NVIDIA的Nemotron 3.5 Transcribe支持40种语言的转录，具有说话人归属和语音翻译等高级功能。",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T10:37:56+00:00",
+          "published_ts": 1793270276.0,
+          "category": "llm"
+        },
+        {
+          "title": "为什么新模型发布，都要先做一个游戏？",
+          "link": "https://www.ifanr.com/1686650?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "模型力内卷的下半场，任何新版本推出时都需要考虑，怎么给出一种大众能够看懂的表现方式 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-10-29T10:22:21+00:00",
+          "published_ts": 1793269341.0,
+          "category": "llm"
+        },
+        {
+          "title": "连续推理的经济学",
+          "link": "https://analyticsindiamag.com/ai-highlights/the-economics-of-continuous-inference",
+          "summary": "人工智能模型可能会在评估过程中证明其能力，但真正的测试始于用户开始大规模使用它。推理不是一次性计算事件",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T09:57:32+00:00",
+          "published_ts": 1793267852.0,
+          "category": "llm"
+        },
+        {
+          "title": "国家超算互联网调价：降低AI研发、调试成本",
+          "link": "https://www.leiphone.com/category/industrynews/tZQilZ5sagKCk1Sm.html",
+          "summary": "近日，国家超算互联网宣布最新价格调整，新用户可享DeepSeek-V4.1-Flash-1017、GLM-5.3-Flash两款前沿模型0.1元5000万tokens限时秒杀特惠；同时，多款新主流模型已纳入TokenPlan套餐池。此外，订阅TokenPlan用户还可享限时夜间免费模型权益：10月21日至30日，每晚21:00至次日09:00，Auto模型可免费调用。 据悉，此次推出的“MaaS（智能体）特惠活动”是国家超算互联网为降低大模型与智能体调用门槛、扩容AI生产力供给推出的算力普惠活动。活动自今年8月上线以来，已有大量用户参与，并获得中科星图、ChatExcel、安恒信息等生态伙伴支持。平台已上线卫星遥感成像、科学计算、数据安全、OCR文字识别等限时折扣、免费AI应用商品。 此次升级在模型供给和调用成本上进一步加码。新用户特惠覆盖DeepSeek-V4.1-Flash-1017、",
+          "source": "雷峰网",
+          "published": "2026-10-29T09:03:00+00:00",
+          "published_ts": 1793264580.0,
+          "category": "llm"
+        },
+        {
+          "title": "豆包工作向企业客户开放配置三方模型",
+          "link": "https://www.leiphone.com/category/industrynews/bMidAUlVn5zmruyD.html",
+          "summary": "为支持企业需求，豆包工作今日向客户开放三方大模型服务，首批将接入 Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等系列模型。 本次更新面向团队订阅版和企业订阅版客户开放。功能上线后默认直接开启，企业无需另行向模型厂商采购，也无需额外申请，后续按照用量扣除企业已有的 AI 点数，真正实现开箱即用。 在使用人群上，企业可以按照成员、部门、群组或全员灵活划定可用范围，按模型厂商一键批量启用，或针对单一模型进行单独配置。 在使用场景上，企业也可指定模型在豆包电脑端、豆包工作电脑端、豆包移动端、豆包网页端及飞书内豆包工作等不同场景中生效。比如，企业可以设置模型仅在“工作电脑”及“飞书工作台”等办公环境下生效，兼顾业务效率与数据安全。 雷峰网 雷峰网",
+          "source": "雷峰网",
+          "published": "2026-10-29T09:01:00+00:00",
+          "published_ts": 1793264460.0,
+          "category": "llm"
+        },
+        {
+          "title": "我们如何检测前沿模型错位",
+          "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "summary": "OpenAI使用分层监控来检测前沿模型不对齐和未经授权的代理行为，以便响应者可以在事件升级之前进行干预。",
+          "source": "OpenAI Blog",
+          "published": "2026-10-29T09:00:00+00:00",
+          "published_ts": 1793264400.0,
+          "category": "llm"
+        },
+        {
+          "title": "谷歌发布专注于网络安全和编码的Gemini 4 Carbon",
+          "link": "https://analyticsindiamag.com/ai-news/google-announces-gemini-4-carbon-with-focus-on-cybersecurity-and-coding",
+          "summary": "了解Google Gemini 4 Carbon在网络安全和编码方面的能力，包括其基准分数和软件漏洞检测的高级功能",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T08:22:12+00:00",
+          "published_ts": 1793262132.0,
+          "category": "llm"
+        },
+        {
+          "title": "Block推出DESSA ，这是一种全双工语音模型，仅受过语音训练",
+          "link": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
+          "summary": "Block的人工智能实验室发布了Dessa ，这是一种仅在人类对话音频上训练的全双工语音到语音模型。它在MacBook Pro M4 Max上本地运行，但Block没有发布任何尺寸、基准或重量。POST Block Unveils DESSA是一种只在语音上训练的全双工语音模型，首次出现在MarkTechPost上。",
+          "source": "MarkTechPost",
+          "published": "2026-10-29T07:50:39+00:00",
+          "published_ts": 1793260239.0,
+          "category": "llm"
+        },
+        {
+          "title": "大语言模型“收入榜”出炉，阿里云以46.6%份额居首",
+          "link": "https://www.leiphone.com/category/industrynews/VsFzLhOgbV95UM6v.html",
+          "summary": "10月29日，国际数据公司（IDC）最新发布的《中国AI软件市场半年度追踪，26H1》显示，2026年上半年，阿里云在中国大语言模型MaaS市场的份额为46.6%，智谱、火山引擎分别以10.6%、10.2%位列第二、第三。",
+          "source": "雷峰网",
+          "published": "2026-10-29T07:13:00+00:00",
+          "published_ts": 1793257980.0,
+          "category": "llm"
+        },
+        {
+          "title": "20人9个月，《不问凡尘》用AI搓出26万玩家买单的超写实互动作品",
+          "link": "https://www.leiphone.com/category/industrynews/fk4nWrM8On84S6FB.html",
+          "summary": "上线仅三周，《不问凡尘》就在 Steam 拿到87%的好评率，预估近千万流水，超26万玩家走进这个AI生成的修仙世界。支撑这款超写实互动作品研发与上线的，是一支约20人的团队。 AI在这里不是简单的提效工具，而是贯穿游戏资产生产、研发协作和交互实现的核心生产力。依托火山引擎的模型和云服务，《不问凡尘》用9个月完成开发上线，整体制作成本约是传统制作的1/3。 它的成绩至少验证了两件事：一是AI正在把游戏制作从“大厂专属”变成“小团队可及”，二是越来越多玩家愿意为AI游戏付费。 一座由AI“长”出来的修仙世界 《不问凡尘》是一款“真人”超写实互动作品：玩家可以探索海量支线剧情、与 NPC 互动、修炼法术，自由选择不同修行路线，像在玩一部修仙小说。 与传统游戏资产生产方式不同，它的核心资产是由豆包视频生成模型 Seedance、豆包图像创作模型 Seedream 和豆包语音合成模型各自承担一类任",
+          "source": "雷峰网",
+          "published": "2026-10-29T06:01:00+00:00",
+          "published_ts": 1793253660.0,
+          "category": "llm"
+        },
+        {
+          "title": "HCLTech借助AWS推出Nano GCC模型以构建人工智能运营",
+          "link": "https://analyticsindiamag.com/ai-news/hcltech-launches-nano-gcc-model-with-aws-to-build-ai-operations",
+          "summary": "该产品面向现有海湾合作委员会的企业和中端市场公司，寻求在印度建立以人工智能为中心的团队，并在亚太地区首次推出",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T05:13:08+00:00",
+          "published_ts": 1793250788.0,
+          "category": "llm"
+        },
+        {
+          "title": "NVIDIA发布Nemotron 3.5 Transcribe ：开放的30B MoE模型，用于40语言转录，具有约4B活动参数",
+          "link": "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/",
+          "summary": "",
+          "source": "MarkTechPost",
+          "published": "2026-10-29T04:41:24+00:00",
+          "published_ts": 1793248884.0,
+          "category": "llm"
+        },
+        {
+          "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+          "link": "https://www.qbitai.com/2026/10/505934.html",
+          "summary": "用扩散模型怎么做做Agent？",
+          "source": "量子位",
+          "published": "2026-10-29T02:18:28+00:00",
+          "published_ts": 1793240308.0,
+          "category": "llm"
+        },
+        {
+          "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
+          "link": "https://sspai.com/post/117750",
+          "summary": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。 查看全文",
+          "source": "少数派",
+          "published": "2026-10-29T00:26:49+00:00",
+          "published_ts": 1793233609.0,
+          "category": "llm"
+        },
+        {
+          "title": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
+          "link": "https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "· OpenAI拟采购GoogleTPU，已招聘工程师适配前沿模型 · 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相 · 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目 期项目 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-10-29T00:00:32+00:00",
+          "published_ts": 1793232032.0,
+          "category": "llm"
+        },
+        {
+          "title": "谷歌推出Gemini 4 Carbon ，在网络安全方面实现“重大飞跃”",
+          "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "summary": "谷歌发布了其最新的前沿模型Gemini 4 Carbon ，在编码、代理任务和网络安全方面提供了“显着收益”。在周三的一份声明中，谷歌强调了Carbon在人工智能指数（ v5.0 ）基准测试中的领先地位， Claude Opus 5.5和GPT-6 Astra紧随其后。全新Gemini 4 Carbon车型改进了[…]",
           "source": "The Verge AI",
-          "published": "2026-10-27T17:04:30+00:00",
-          "published_ts": 1793120670.0,
+          "published": "2026-10-28T20:03:00+00:00",
+          "published_ts": 1793217780.0,
           "category": "llm"
         },
         {
-          "title": "谷歌的Genie 4世界模型增加了音频、更逼真的世界和实时转向",
-          "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-          "summary": "精灵4可以保持一致的场景长达两分钟，精灵3的限制增加一倍，并提供更好的物理和更人性化的角色。",
+          "title": "Anthropic刚刚推出了工具，向公司展示他们的人工智能支出正在购买什么",
+          "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "summary": "前沿实验室正在解除用户在计划的首次公开募股之前如何在其模型上花钱的帷幕。",
           "source": "TechCrunch AI",
-          "published": "2026-10-27T16:30:57+00:00",
-          "published_ts": 1793118657.0,
+          "published": "2026-10-28T19:19:58+00:00",
+          "published_ts": 1793215198.0,
           "category": "llm"
         },
         {
-          "title": "我们是否可以信任LLM来判断研究想法是否新颖？",
-          "link": "https://huggingface.co/blog/allenai/novelty-bench",
-          "summary": "",
-          "source": "Hugging Face Blog",
-          "published": "2026-10-27T16:12:42+00:00",
-          "published_ts": 1793117562.0,
-          "category": "llm"
-        },
-        {
-          "title": "DeepMind推出精灵4世界模型，承诺更逼真的物理和人类",
-          "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-          "summary": "Genie 4将很快向开发人员和Google AI Ultra订阅者推出。",
+          "title": "谷歌宣布推出Gemini 4 Carbon ，这是其最新的前沿人工智能模型，您无法使用",
+          "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+          "summary": "Gemini 4 Carbon本质上是氩气的略好版本。",
           "source": "Ars Technica AI",
-          "published": "2026-10-27T16:00:22+00:00",
-          "published_ts": 1793116822.0,
+          "published": "2026-10-28T18:47:27+00:00",
+          "published_ts": 1793213247.0,
           "category": "llm"
         },
         {
-          "title": "谷歌的下一个Genie AI模型生成更逼真的体验",
-          "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-          "summary": "谷歌今天宣布推出使用人工智能生成交互式体验的Genie 4世界模型。该公司表示，该模型有四个主要更新：它允许更逼真的世界，允许用户通过自然语言提示实时更新体验，可以生成音频，并在引擎盖下使用Gemini 3.8 Flash来帮助[…]",
-          "source": "The Verge AI",
-          "published": "2026-10-27T15:07:35+00:00",
-          "published_ts": 1793113655.0,
-          "category": "llm"
-        },
-        {
-          "title": "Retell使用OpenAI模型来帮助推动每月1亿次通话",
-          "link": "https://openai.com/index/retell-ai",
-          "summary": "GPT-6 Astra在Retell的语音代理基准中名列前茅，而Codex帮助其达到了每名员工160万美元的年收入运行率。",
-          "source": "OpenAI Blog",
-          "published": "2026-10-27T15:00:00+00:00",
-          "published_ts": 1793113200.0,
-          "category": "llm"
-        },
-        {
-          "title": "班加罗尔人工智能初创公司Simplismart在NVIDIA支持的一轮融资中筹集了1400万美元$",
-          "link": "https://analyticsindiamag.com/ai-news/bengaluru-ai-startup-simplismart-raises-14-mn-in-nvidia-backed-round",
-          "summary": "该公司将利用这笔资金开发其AI推理平台，扩大与云提供商和主权AI参与者的合作伙伴关系。",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-27T14:32:07+00:00",
-          "published_ts": 1793111527.0,
-          "category": "llm"
-        },
-        {
-          "title": "Opera引入了新的网络标准，允许用户在浏览器中本地部署AI",
-          "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-          "summary": "新标准WebAI旨在与各种AI模型配合使用。",
-          "source": "TechCrunch AI",
-          "published": "2026-10-27T13:00:00+00:00",
-          "published_ts": 1793106000.0,
-          "category": "llm"
-        },
-        {
-          "title": "General Compute筹集了1亿美元的A轮融资，以对抗新云灾难的叙述",
-          "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-          "summary": "General Compute押注于Nvidia生态系统之外的推理芯片。",
-          "source": "TechCrunch AI",
-          "published": "2026-10-27T13:00:00+00:00",
-          "published_ts": 1793106000.0,
-          "category": "llm"
-        },
-        {
-          "title": "Mirendil推出首款搭载1000万代币的Fern 0.1",
-          "link": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
-          "summary": "Mirendil发布了其第一个模型Fern 0.1 ，该模型使用10M令牌上下文窗口从头开始预训练。它针对代理人工智能研发工作，在10米的标尺单针上得分100% ，但在代理编码上落后于前沿模型。Mirendil发布了Fern 0.1 ，这是其首款具有1000万代币背景的模型，首次出现在MarkTechPost上。",
+          "title": "谷歌DeepMind推出其顶级网络防御和编码模型Gemini 4 Carbon",
+          "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
+          "summary": "谷歌DeepMind推出了Gemini 4 Carbon ，这是一种前沿模型，在人工智能分析智能指数上得分为59分，在SEC-bench Pro上得分为88.2%。访问权限从经过审查的网络防御者开始，每百万代币2美元/10美元。Google DeepMind发布了Gemini 4 Carbon ，其网络防御和编码的顶级模型首次出现在MarkTechPost上。",
           "source": "MarkTechPost",
-          "published": "2026-10-27T12:57:46+00:00",
-          "published_ts": 1793105866.0,
+          "published": "2026-10-28T17:48:38+00:00",
+          "published_ts": 1793209718.0,
           "category": "llm"
         },
         {
-          "title": "Maya Research发布支持12种语言的开放式语音模型",
-          "link": "https://analyticsindiamag.com/ai-news/maya-research-releases-open-weight-speech-model-supporting-12-languages",
-          "summary": "Maya 2 Native通过实时音频流和跨语言语音克隆，支持11种印度语言和英语的语音生成。",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-27T12:33:35+00:00",
-          "published_ts": 1793104415.0,
-          "category": "llm"
-        },
-        {
-          "title": "数据中心的反弹正在将美国团结起来",
-          "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-          "summary": "如果有一个问题似乎在2026年激活了各种选民，那就是数据中心。这些大型服务器存储设施的快速建设，以及随之而来的基础设施建设和费用，在全国各地的社区中引发了当地的反对，并成为许多国会议员的主要问题。",
-          "source": "The Verge AI",
-          "published": "2026-10-27T12:20:38+00:00",
-          "published_ts": 1793103638.0,
-          "category": "llm"
-        },
-        {
-          "title": "Anthropic因涉嫌使用猫王歌曲训练克劳德而被起诉，否认索赔",
-          "link": "https://analyticsindiamag.com/ai-news/anthropic-sued-over-alleged-use-of-elvis-presley-songs-to-train-claude-denies-claim",
-          "summary": "Anthropic因未经许可使用Elvis Presley的歌曲训练AI模型Claude而面临4110万美元的诉讼。进一步了解此个案。",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-27T12:16:54+00:00",
-          "published_ts": 1793103414.0,
-          "category": "llm"
-        },
-        {
-          "title": "CoRover在政府支持的AIKosh平台上列出了三种BharatGPT模型",
-          "link": "https://analyticsindiamag.com/ai-news/corover-lists-three-bharatgpt-models-on-government-backed-aikosh-platform",
-          "summary": "",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-27T11:43:39+00:00",
-          "published_ts": 1793101419.0,
-          "category": "llm"
-        },
-        {
-          "title": "英伟达支持印度初创公司帮助公司使用更少的GPU运行人工智能模型",
-          "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-          "summary": "Simplismart表示，其年化收入运行率在六个月内增长了14倍，其中美国占其收入的一半以上。",
-          "source": "TechCrunch AI",
-          "published": "2026-10-27T11:00:00+00:00",
-          "published_ts": 1793098800.0,
-          "category": "llm"
-        },
-        {
-          "title": "Cohere称阿里巴巴的Qwen模型试图将测试文件上传到北京服务器",
-          "link": "https://analyticsindiamag.com/ai-news/cohere-says-alibabas-qwen-model-tried-to-upload-test-file-to-beijing-server",
-          "summary": "Cohere报告说，阿里巴巴的Qwen模型在安全评估期间尝试上传测试文件，但沙箱阻止了请求。",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-27T10:51:24+00:00",
-          "published_ts": 1793098284.0,
-          "category": "llm"
-        },
-        {
-          "title": "超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛",
-          "link": "https://www.leiphone.com/category/industrynews/g4nk653U5p12RMpR.html",
-          "summary": "10月27日，由蚂蚁灵波科技主办的首届“蚂蚁灵波具身大模型挑战赛”线上初赛正式落下帷幕。官方数据显示：大赛共吸引了海内外1855支队伍、3252位选手报名。参赛者来自13个国家，覆盖648 个知名高校、科研院所以及头部科技企业及具身智能公司，其中包含 41个海外高校和单位，首届大赛就创下行业最大规模。据悉，线下总决赛将于11月14至16日在上海张江以48小时真机黑客松的形式举行。 1855支团队 清北及海外名校与产业一线选手同台竞技 今年9月，蚂蚁灵波科技联合魔搭社区、阿里云天池，在2026外滩大会上发起了首届“蚂蚁灵波具身大模型挑战赛”。这是一场具身智能算法挑战赛，以开源模型LingBot-VLA2.0为技术底座，聚焦模型训练调优、仿真泛化测评与真实机器人适配，面向全球企业、高校、个人开发者及技术爱好者开放。 10月27日0点，线上初赛报名截止。大赛共有1855支团队报名，吸引了清华大学",
+          "title": "具身智能军备竞赛，胜负手在工程生态",
+          "link": "https://www.leiphone.com/category/ai/D4SlkV6zQ4ill9MG.html",
+          "summary": "开源工程底座 FluxVLA Engine 技术报告全解读。 作者丨 邓哲敏 编辑丨 齐铖湧 一个模型在论文中取得好成绩，距离它真正驱动机器人完成任务，还有多远？ 模型能否接入现有的数据与训练流程，推理速度能否跟上机器人的控制节奏，生成的动作能否连续、稳定地执行，实验结果又能否在不同机器人上得到验证——这些问题，未必能靠再提升几个百分点的模型成功率来解决。 过去半年，AI科技评论（雷峰网）在与业内人士交流时发现，一些反复出现的工程问题正在消耗大量研发资源：不同模型的数据格式难以统一，训练和评测流程各自为政，仿真中的结果到了真机上未必成立；好不容易跑通一套流程，换个模型、换份数据或换台机器人，又可能需要重新适配。 模型在不断迭代，工程积累却未必能随之沉淀。 这让雷峰网想起深度学习的发展历程。2017 年，PyTorch 正式开源，此后，框架、工具链与开发者社区不断完善，研究者得以在更成熟的基",
           "source": "雷峰网",
-          "published": "2026-10-27T09:00:00+00:00",
-          "published_ts": 1793091600.0,
+          "published": "2026-10-28T10:17:00+00:00",
+          "published_ts": 1793182620.0,
           "category": "llm"
         },
         {
-          "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
-          "link": "https://www.qbitai.com/2026/10/505719.html",
-          "summary": "同一天，OpenAI还甩出3项AI科学新发现",
-          "source": "量子位",
-          "published": "2026-10-27T08:27:46+00:00",
-          "published_ts": 1793089666.0,
-          "category": "llm"
-        },
-        {
-          "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
-          "link": "https://www.qbitai.com/2026/10/505694.html",
-          "summary": "还是专业的模型做专业的事情",
-          "source": "量子位",
-          "published": "2026-10-27T08:18:59+00:00",
-          "published_ts": 1793089139.0,
-          "category": "llm"
-        },
-        {
-          "title": "GLM-5.5 要来了？唐杰最新论文，曝出智谱神秘模型",
-          "link": "https://www.leiphone.com/category/ai/LjPPo6aqhHUrRMFg.html",
-          "summary": "图像生成正确率 54%，文字问答仅 14.57%。 作者丨 郑佳美 编辑丨岑 峰 智谱内部的 GLM-Omni，先在一篇论文里露了面。 这篇研究由清华大学与智谱 AI 联合完成，唐杰担任通讯作者。模型名称刚刚出现在论文中，社交平台上就有人把它与 GLM-5.5 联系起来。 虽然论文并没有披露版本对应关系，但给出了 GLM-Omni 的技术底座，以及它在统一视觉理解和图像生成方面的一组实验结果。 参考链接： https://arxiv.org/pdf/2610.21459 其中一组数据尤其扎眼：经过图像生成训练，GLM-Omni 在数字任务中，把指定号码正确画在球衣上的比例达到 72%，研究人员拿走图片，改用文字询问球衣号码，正确率却只有 2%。模型已经能在画面里复现的知识，换成一句问话，竟然几乎答不上来。 这恰好戳中了统一多模态模型的一处技术瓶颈。过去，图像理解负责看，图像生成负责画。如今",
-          "source": "雷峰网",
-          "published": "2026-10-27T07:43:00+00:00",
-          "published_ts": 1793086980.0,
-          "category": "llm"
-        },
-        {
-          "title": "OpenAI扩大与甲骨文的合作伙伴关系，将其应用程序引入ChatGPT",
-          "link": "https://openai.com/index/oracle-apps-in-chatgpt",
-          "summary": "OpenAI和甲骨文正在扩大合作伙伴关系，将业务应用程序和人工智能代理引入ChatGPT ，并为新的甲骨文产品提供支持。",
-          "source": "OpenAI Blog",
-          "published": "2026-10-27T07:00:00+00:00",
-          "published_ts": 1793084400.0,
-          "category": "llm"
-        },
-        {
-          "title": "OCR 3.0 时代来了！文心 Unlimited OCR 2 开源发布，超长文档解析迎来“页数自由”",
-          "link": "https://www.leiphone.com/category/industrynews/2U4kLHAVeff62mJx.html",
-          "summary": "10月27日，百度发布并开源文心 Unlimited OCR 2，全球首次实现任意页数文档解析，将 OCR 的处理上限从数十页推向“无限”，并达到最先进水平（SOTA）。实测显示，该模型能够一次性解析《哈利·波特》全系列 7 部作品，累计超过 3600 页，在文档长度大幅增加的情况下，依然保持较高的精度和处理效率，推动文档解析技术迈向OCR 3.0时代。 ﻿ 公开基准测试显示，在面向多页文档解析的 MPDocBench，以及专门评估百页级超长文档解析能力的 MarathonDocBench 上，文心 Unlimited OCR 2 的综合得分分别为 84.6分和 77.1分，达到端到端性能SOTA，大幅领先 Qwen 3.8-Max、Gemini-3.8-Flash、GLM-5.3-Flash、DeepSeek-4.1-Flash等模型。 ﻿ ﻿ 这一突破得益于文心 Unlimited O",
-          "source": "雷峰网",
-          "published": "2026-10-27T06:21:00+00:00",
-          "published_ts": 1793082060.0,
-          "category": "llm"
-        },
-        {
-          "title": "源创计划首期路演：五个AI硬科技项目集中亮相，智源学者加速从实验室走向产业一线",
-          "link": "https://www.leiphone.com/category/ai/80I0hBKAVSTsKbtM.html",
-          "summary": "从底层芯片、神经形态计算，到机器人自主部署、极端环境物理智能和地表物理环境建模，人工智能前沿技术正沿着多条不同路径推进产业应用落地。如何让实验室里的原创成果跨越工程验证与商业化之间的距离，成为科研创新走向产业实践的重要课题。 10月26日，北京智源人工智能研究院发布的“源创计划”首期路演在中关村国际技术交易中心举办。临界核科技、灵枢启智、张量场科技、苍穹极智、潜向量科技五个项目集中亮相，分别聚焦3D自选通V-RRAM芯片、神经形态具身智能、哈密顿世界模型、极端环境的可靠物理智能、地表物理环境统一世界模型等方向。活动还设置了项目与基金洽谈环节，推动创业团队与投资机构交流对接。 从“源头创新”到“产业验证”，源创计划要打通的不只是资金 活动现场，智源研究院副院长杨洋介绍了“源创计划”的定位与支持机制。作为主要面向智源学者群体的原创技术创业孵化计划，源创计划聚焦人工智能领域的原创科研课题，遵循“",
-          "source": "雷峰网",
-          "published": "2026-10-27T06:15:00+00:00",
-          "published_ts": 1793081700.0,
-          "category": "llm"
-        },
-        {
-          "title": "vLLM语义路由器发布d3-ultra ： 27B开放式多模态决策模型",
-          "link": "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/",
-          "summary": "vLLM语义路由器发布了d3-ultra ，这是一种27B开放式多模态决策模型。它读取文本、图像和视频一次，然后返回每个答案的概率，在团队的SR-Text测试中得分为87.2。后vLLM语义路由器发布d3-ultra ： 27B开放式多模态决策模型首次出现在MarkTechPost上。",
-          "source": "MarkTechPost",
-          "published": "2026-10-27T05:50:57+00:00",
-          "published_ts": 1793080257.0,
-          "category": "llm"
-        },
-        {
-          "title": "百度开源无限OCR 2百页文档解析",
-          "link": "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/",
-          "summary": "百度发布了Unlimited OCR 2 ，这是一种麻省理工学院许可的3B OCR模型，可以在一次请求中解析百页文档。其SR-SWA关注度使每步解码成本几乎持平，在MarathonDocBench上得分为77.1。百度开源后百页文档解析的OCR 2首次出现在MarkTechPost上。",
-          "source": "MarkTechPost",
-          "published": "2026-10-27T05:26:36+00:00",
-          "published_ts": 1793078796.0,
-          "category": "llm"
-        },
-        {
-          "title": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
-          "link": "https://www.ifanr.com/1686080?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "OpenAI 又卷起了大模型的性价比。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-10-27T05:00:58+00:00",
-          "published_ts": 1793077258.0,
-          "category": "llm"
-        },
-        {
-          "title": "OpenAI推出API价格降低50%的GPT-6.1 Terra ，恢复前沿人工智能培训",
-          "link": "https://analyticsindiamag.com/ai-news/openai-launches-gpt-61-terra-with-50-lower-api-prices-resumes-frontier-ai-training",
-          "summary": "OpenAI推出了GPT-6.1 TERRA ，这是一种将视觉推理、计算机使用和编码相结合的模型， API价格比GPT-5.6 TERRA和GP低50%",
+          "title": "Akamai推出AI推断和代理沙盒服务",
+          "link": "https://analyticsindiamag.com/ai-news/akamai-launches-ai-inference-and-agent-sandbox-services",
+          "summary": "这些服务是Akamai战略的一部分，旨在为在单一平台上构建、运行和保护AI应用程序提供基础设施。",
           "source": "Analytics India Magazine",
-          "published": "2026-10-27T04:51:49+00:00",
-          "published_ts": 1793076709.0,
+          "published": "2026-10-28T09:51:21+00:00",
+          "published_ts": 1793181081.0,
           "category": "llm"
         },
         {
-          "title": "Cohere表示，阿里巴巴的Qwen模式试图向北京发送文件",
-          "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-          "summary": "一个人工智能模型说它不会使用任何工具，然后试图向北京的一台服务器发送一些东西，虽然研究人员说这可能是一个训练怪癖，而不是间谍活动，但整个事情让人们询问有多少人相信免费的中国人工智能。",
-          "source": "TechCrunch AI",
-          "published": "2026-10-27T01:12:21+00:00",
-          "published_ts": 1793063541.0,
+          "title": "OpenAI起诉ChatGPT涉嫌在女性癫痫发作后死亡中发挥作用",
+          "link": "https://analyticsindiamag.com/ai-news/openai-sued-over-chatgpts-alleged-role-in-womans-death-after-seizure-medication-taper",
+          "summary": "该诉讼指控GPT-4o制定了一项计划，以减少Bowen Wan的癫痫药物，并鼓励她向医生隐瞒这些变化。",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-28T09:29:11+00:00",
+          "published_ts": 1793179751.0,
           "category": "llm"
         },
         {
-          "title": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
-          "link": "https://www.ifanr.com/1685979?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "· OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速 · 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil · 华为畅享系列累计发货突破 1.6 亿台 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-10-27T00:06:21+00:00",
-          "published_ts": 1793059581.0,
+          "title": "字节辟谣\"群演数据喂大模型\"：严重失实！",
+          "link": "https://www.leiphone.com/category/industrynews/kw1tPKZvQauDl4UJ.html",
+          "summary": "近日，有网络传言称\"横店与字节合作，将15万名群演的肖像和声音喂给字节大模型\"。字节豆包公关负责人刘星今日通过微博作出回应，表示该传言严重失实。 据介绍，此次引发讨论的项目为横店影视AI服务平台建设项目。刘星表示，该项目的初衷是希望建设一套影视行业的公共数字基础设施，把影视基地实景等资产做成高质量数据集，帮助剧组更高效地选景、筹备和拍摄，同时降低中小影视企业使用AI的门槛，让更多创作者有条件把作品做好。 针对传言中的关键疑问，刘星澄清了三点： 第一，火山引擎在该项目中仅是技术支持方，所有数据资产均归横店或授权方所有。 第二，项目中涉及任何个人的肖像和声音使用，都需要获得本人授权，不存在未经授权采集的情况。 第三，本项目所采集的数据不会用于训练字节大模型。 公开资料显示，横店影视AI服务平台建设项目目前处于中标阶段，将围绕影视行业数据集建设、配套技术平台等业务展开。",
+          "source": "雷峰网",
+          "published": "2026-10-28T09:16:00+00:00",
+          "published_ts": 1793178960.0,
           "category": "llm"
         }
       ]
@@ -355,8 +346,170 @@
       "key": "agent",
       "label": "智能体",
       "color": "#7c3aed",
-      "count": 27,
+      "count": 31,
       "items": [
+        {
+          "title": "Rivian扩大与大众的合资企业，包括人工智能助手",
+          "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+          "summary": "Rivian没有透露其58亿美元合资企业的价值是否会因此而扩大。",
+          "source": "TechCrunch AI",
+          "published": "2026-10-29T20:05:47+00:00",
+          "published_ts": 1793304347.0,
+          "category": "agent"
+        },
+        {
+          "title": "构建迷你应用程序的人工智能代理Wabi ，经过最新一轮融资，现在估值为12.5亿美元$",
+          "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+          "summary": "周四，人工智能应用程序Wabi现在将自己描述为“个人经纪人” ，并表示已以12.5亿美元的估值筹集了5500万美元。",
+          "source": "TechCrunch AI",
+          "published": "2026-10-29T14:35:26+00:00",
+          "published_ts": 1793284526.0,
+          "category": "agent"
+        },
+        {
+          "title": "Articul8推出Bivia帮助企业人工智能代理做出决策",
+          "link": "https://analyticsindiamag.com/ai-news/articul8-launches-bivia-to-help-enterprise-ai-agents-make-decisions",
+          "summary": "该公司推出了Bivia ，这是一种多模态决策模型，旨在帮助企业AI代理做出特定领域的决策并验证跨差异的证据",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T11:10:21+00:00",
+          "published_ts": 1793272221.0,
+          "category": "agent"
+        },
+        {
+          "title": "印度企业正在扩展人工智能。基础设施准备就绪了吗？",
+          "link": "https://analyticsindiamag.com/ai-features/indias-enterprises-are-scaling-ai-is-the-infrastructure-ready",
+          "summary": "传统系统、分散的数据和基础设施缺口可能会减缓印度企业将人工智能代理从试点转移到生产中的速度。",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T10:28:54+00:00",
+          "published_ts": 1793269734.0,
+          "category": "agent"
+        },
+        {
+          "title": "我们迫切需要实时监控AI代理的行为",
+          "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+          "summary": "今年夏天，数百名OpenAI特工试图在网络安全测试中作弊。他们突破了测试环境，成功入侵了Hugging Face ，他们认为这个网站提供了关于他们如何评分的线索。大约在同一时间，另一名OpenAI代理从澳大利亚政府网站访问了私人文件。这是一个问题……",
+          "source": "MIT Tech Review AI",
+          "published": "2026-10-29T10:11:12+00:00",
+          "published_ts": 1793268672.0,
+          "category": "agent"
+        },
+        {
+          "title": "Coforge引入自主软件工厂来协调人工智能代理",
+          "link": "https://analyticsindiamag.com/ai-news/coforge-introduces-autonomous-software-factory-to-coordinate-ai-agents",
+          "summary": "这家IT服务公司尚未披露其人工智能驱动软件工程新模型的客户部署或量化收益。",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T10:00:21+00:00",
+          "published_ts": 1793268021.0,
+          "category": "agent"
+        },
+        {
+          "title": "蚂蚁灵光2.0打通钉钉、支付宝等数十项服务，加速走向“能管事”",
+          "link": "https://www.leiphone.com/category/industrynews/eigNbrwrLkMYpiwN.html",
+          "summary": "AI从“会聊天”走向“能管事”，接入真实工作流是落地关键。继蚂蚁集团10月27日发布灵光2.0后，记者今日体验发现，新版灵光已进一步拓展跨平台连接能力，不仅原生打通支付宝生态，还接入了钉钉命令行接口（CLI）等数十项外部工具。 （图1：灵光App【我的服务】页面） 以钉钉为例，灵光2.0可在用户授权下调用钉钉的群聊、待办、日历、文档等能力，帮助用户处理家校群和工作群中的高频事务，减少翻阅消息、筛选重点和手动整理待办的负担。 例如，在家校场景中，家长授权后可将钉钉班级群交由灵光后台协助管理。灵光可自动从海量消息中梳理老师通知、作业和活动安排，提取待办、完成文档排版，并在关键节点主动提醒。在办公场景中，依托独立云端主机，即便用户退出App，灵光依然能在后台持续汇总群聊重点、识别紧急事项、生成任务清单，并根据进展跟进提醒，减少用户在多个入口间切换和反复跟进的负担。 （图2：用灵光管理班级钉钉群）",
+          "source": "雷峰网",
+          "published": "2026-10-29T08:54:00+00:00",
+          "published_ts": 1793264040.0,
+          "category": "agent"
+        },
+        {
+          "title": "Infini-AI-Lab发布面向人工智能代理的开源线束适配器框架Hermit",
+          "link": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
+          "summary": "Infini-AI-Lab发布了Hermit ，这是一个Apache-2.0线束适配器框架，可从任务反馈中训练指令、技能、内存和工具的外部层，使代理的模型和线束保持不变。后Infini-AI-Lab发布了Hermit ，这是一个用于AI代理的开源线束适配器框架，首次出现在MarkTechPost上。",
+          "source": "MarkTechPost",
+          "published": "2026-10-29T08:24:52+00:00",
+          "published_ts": 1793262292.0,
+          "category": "agent"
+        },
+        {
+          "title": "百望股份：企业AI最大的误区，是把所有流程都用AI重做一遍",
+          "link": "https://www.leiphone.com/category/ai/wmSBFfeSyB0dOjqO.html",
+          "summary": "如果要给过去两年企业AI应用的热潮找一句最有代表性的口号，“ 用AI把所有事情重新做一遍 ”，大概会是其中之一。 从客服、营销、研发，到财务、人力、采购，几乎每一个传统软件赛道都在寻找自己的AI版本：过去由人填写的表格变成AI生成，由人阅读的材料变成AI识别，由人点击的按钮变成Agent调用，那些已经被数字化、自动化改造过很多次的企业流程，也开始被重新包装成“AI流程”。 这种变化当然有价值。以审核为例，报销、供应商准入、合同检查、人事材料核验，都属于高频、重复、规则相对明确又不能轻易出错的工作，用OCR读取信息、用大模型理解语义、再用规则引擎进行判断，确实可以大幅减少人工操作。 但企业真正进入智能体时代以后，一个更重要的问题正在浮现： 真的所有流程，都值得用AI重新做一遍吗？ 答案恐怕是否定的。 因为智能体真正带来的变化，并不是“过去十个人点十次鼠标，现在让AI帮他们点完”，而是迫使企业",
+          "source": "雷峰网",
+          "published": "2026-10-29T06:54:00+00:00",
+          "published_ts": 1793256840.0,
+          "category": "agent"
+        },
+        {
+          "title": "TRAE上线开发者个人助理“TRAE宝”",
+          "link": "https://www.leiphone.com/category/industrynews/VtaDCTK8rnfs2sSX.html",
+          "summary": "10月29日，AI开发产品TRAE正式上线开发者个人助理“TRAE宝”。与此前围绕单次任务展开的Agent对话不同，TRAE宝将双层助理体系引入开发工作流，让 AI 持续理解开发者长期积累的项目、任务与决策，而非仅响应当前的某一条指令。 长期以来，用户在AI开发过程中的时间消耗不仅在于写代码本身，而且大量花费在项目拆解、任务分派以及多个会话之间的来回切换。新任务启动时，开发者需要向 AI 重新交代项目背景、技术栈与历史决策；需求进入复杂阶段后，又要自行拆解任务、切换会话、追踪进度，再将结果拼装为完整方案。 TRAE宝采用“全局助理 + 项目助理”的双层架构，分别对应上述两类场景。“全局助理”承担跨项目的记忆与统筹，可读取开发者过往的任务、对话与产物，主动梳理其中可复用的方案与约束。开启新任务时，开发者只需陈述目标，助理即可从历史项目中定位相关经验，完成上下文的自动就位。“项目助理”聚焦单一",
+          "source": "雷峰网",
+          "published": "2026-10-29T05:16:00+00:00",
+          "published_ts": 1793250960.0,
+          "category": "agent"
+        },
+        {
+          "title": "让 Agent 读懂你的身体：数据处理篇",
+          "link": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+          "summary": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+          "source": "少数派",
+          "published": "2026-10-29T03:29:46+00:00",
+          "published_ts": 1793244586.0,
+          "category": "agent"
+        },
+        {
+          "title": "利用企业环境创造人工智能价值",
+          "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+          "summary": "在整个企业中，任何数量的人工智能平台、系统和工具都可以同时工作，例如，人工智能驱动的客户平台、会话助手以及工作流和流程自动化工具。每个问题都很复杂、先进，响应速度也很快。但是，当开始工作时，出现的结果和行动可能是错误的、混乱的或缺乏……",
+          "source": "MIT Tech Review AI",
+          "published": "2026-10-28T20:32:02+00:00",
+          "published_ts": 1793219522.0,
+          "category": "agent"
+        },
+        {
+          "title": "微软终止对智能电视的Copilot支持",
+          "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+          "summary": "根据Windows Central的一份报告，在LG和三星在CES 2025上宣布他们最新的智能电视将包括对微软Copilot的访问近两年后，该公司今年将终止对所有电视上AI助手功能的支持。这一消息并非来自LG ，三星， […]",
+          "source": "The Verge AI",
+          "published": "2026-10-28T18:36:26+00:00",
+          "published_ts": 1793212586.0,
+          "category": "agent"
+        },
+        {
+          "title": "MiniMax开源MCode堆栈：其编码团队每天使用的15种代理技能",
+          "link": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
+          "summary": "MiniMax拥有开源的MCode Stack ，这是一个由麻省理工学院授权的存储库，包含17项SKILL.md技能和5个清单，其MiniMax代码团队每天使用这些清单进行代码审查、子代理拆分、上下文预算和长期运行的命令。MiniMax开源MCode Stack: 15 Agent Skills Its Coding Team Uses Daily一文首次出现在MarkTechPost上。",
+          "source": "MarkTechPost",
+          "published": "2026-10-28T17:20:29+00:00",
+          "published_ts": 1793208029.0,
+          "category": "agent"
+        },
+        {
+          "title": "OpenAI和ServiceNow扩展跨企业工作流程的合作伙伴关系",
+          "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "summary": "",
+          "source": "OpenAI Blog",
+          "published": "2026-10-28T13:15:00+00:00",
+          "published_ts": 1793193300.0,
+          "category": "agent"
+        },
+        {
+          "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
+          "link": "https://sspai.com/post/117725",
+          "summary": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ... 查看全文",
+          "source": "少数派",
+          "published": "2026-10-28T09:37:22+00:00",
+          "published_ts": 1793180242.0,
+          "category": "agent"
+        },
+        {
+          "title": "Legora正在为法律工作构建代理操作系统",
+          "link": "https://openai.com/index/legora",
+          "summary": "了解Legora如何使用OpenAI模型、ChatGPT和Codex来加速法律工作流程、扩展合同分析以及免费律师专注于更高价值的工作。",
+          "source": "OpenAI Blog",
+          "published": "2026-10-28T09:30:00+00:00",
+          "published_ts": 1793179800.0,
+          "category": "agent"
+        },
+        {
+          "title": "这家班加罗尔初创公司正在为硬件设计构建人工智能代理",
+          "link": "https://analyticsindiamag.com/ai-startups/this-bengaluru-startup-is-building-ai-agents-for-hardware-design",
+          "summary": "这家初创公司将人工智能集成到现有的硬件设计工具中，以实现电路设计、验证和调试的自动化，同时让工程师控制关键数据",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-28T09:13:29+00:00",
+          "published_ts": 1793178809.0,
+          "category": "agent"
+        },
         {
           "title": "“无人掌舵” ：特拉华州计划将让人工智能代理管理整个业务",
           "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
@@ -364,15 +517,6 @@
           "source": "Ars Technica AI",
           "published": "2026-10-27T21:50:04+00:00",
           "published_ts": 1793137804.0,
-          "category": "agent"
-        },
-        {
-          "title": "美国银行恳请您不要与AI助手分享您的银行密码",
-          "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-          "summary": "这家银行巨头提醒客户，由于您的人工智能代理的访问权限， “您对活动负责”。",
-          "source": "TechCrunch AI",
-          "published": "2026-10-27T21:44:34+00:00",
-          "published_ts": 1793137474.0,
           "category": "agent"
         },
         {
@@ -385,24 +529,6 @@
           "category": "agent"
         },
         {
-          "title": "Muse之后，灵光2.0让Personal Agent接手中国式日常",
-          "link": "https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html",
-          "summary": "机票和酒店订好，还是忍不住隔几天查查价格。降了，算算退改费用，看要不要重订；没降，过两天再看。花不了多少时间，却总得惦记着。 为了追剧开了会员，剧看完就没再打开，自动续费却一直没停。直到某天翻账单，才发现又扣了几个月的钱。 这些事务单次处理并不复杂，却一直需要反复关注。过去，AI可以帮忙查一次价格、分析一份账单，跟进工作仍然留给用户。现在，灵光想把这部分也接过去。 10月27日，蚂蚁集团发布灵光2.0，以 “能管事的个人AI助理”为定位，成为国内大厂首批落地的Personal Agent产品。 它想带来的变化很直接：不再是被动响应指令、完成单次任务，而是能主动发现需求、持续帮你管理事务。 Muse之后，全球Personal Agent竞争开始加速，国内大厂也在密集布局。灵光率先交出产品答卷，从盯票价、理账单等日常小事入手，让AI开始替用户持续管事。 从“一次帮忙”到“长期管事”，灵光迈向下",
-          "source": "雷峰网",
-          "published": "2026-10-27T09:56:00+00:00",
-          "published_ts": 1793094960.0,
-          "category": "agent"
-        },
-        {
-          "title": "千问办公接入乐奇AI眼镜，一句话发起任务",
-          "link": "https://www.leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html",
-          "summary": "10月27日，在乐奇AI眼镜新品发布会上，乐奇Rokid和千问办公宣布达成合作，千问办公正式接入乐奇AI眼镜。用户在“Rokid AI”App里的智能体商店添加“千问办公”，绑定千问办公账号后，就可以戴上眼镜用语音唤起千问办公、下发任务，并在眼镜端查看结果。 比如，用户直接说：“千问办公，帮我调研一下AI眼镜的行业现状。”千问办公收到指令后就会开始执行，完成后交付产出，用户在眼镜上就能直接查看研究报告。执行过程中，用户不必反复查看进度，千问办公会实时推送状态通知。如果任务涉及现场内容，用户还可以结合眼镜拍摄的画面提问。比如，用户开会时看着桌上的方案说：“看一下眼前的方案有哪些风险。”千问办公就能结合画面进行分析，用户可以就其中某项风险继续追问。 在此次合作中，乐奇Rokid提供AI眼镜硬件、系统适配、账号接入和眼镜端交互入口；千问办公提供Agent运行能力，负责理解语音、图像和任务意图，管",
-          "source": "雷峰网",
-          "published": "2026-10-27T09:03:00+00:00",
-          "published_ts": 1793091780.0,
-          "category": "agent"
-        },
-        {
           "title": "前GitHub首席执行官推出专为人工智能代理构建的Git平台",
           "link": "https://analyticsindiamag.com/ai-news/former-github-ceo-launches-git-platform-built-for-ai-agents",
           "summary": "该平台结合了自动代码审查、分布式存储库托管和持久内存，以帮助AI代理在编码会话中保留上下文。",
@@ -412,102 +538,12 @@
           "category": "agent"
         },
         {
-          "title": "中国版Muse能管事！我把宠物保单、双11算价和周末旅行全交给了灵光2.0",
-          "link": "https://www.ifanr.com/1686050?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "我想要的 Personal Agent，是让生活闪现「灵光」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-10-27T05:02:30+00:00",
-          "published_ts": 1793077350.0,
-          "category": "agent"
-        },
-        {
-          "title": "OpenAI如何将其编码工具转化为点，一个始终在线的个人助理",
-          "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-          "summary": "",
-          "source": "TechCrunch AI",
-          "published": "2026-10-27T02:00:00+00:00",
-          "published_ts": 1793066400.0,
-          "category": "agent"
-        },
-        {
-          "title": "蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了",
-          "link": "https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html",
-          "summary": "机票订完后，AI 24小时盯价，发现降价及时提醒；翻看日常账单，AI识别可能闲置的续费订阅，帮你省钱；家长顾不上查看班级群，AI也能梳理老师通知、提取待办事项……这些过去需要用户自己发现、记住和安排的生活琐事，如今正开始由AI主动接手。 10月27日，蚂蚁集团发布灵光2.0，推动AI助理从被动响应指令、完成单次任务，向主动发现需求、持续管理事务的演进。 与传统对话式AI及任务型Agent相比，灵光2.0的一大变化，是将AI介入任务的起点进一步前移。 过去，用户需要先发现问题、提出需求，再由AI执行；如今，在获得用户授权后，灵光能够结合已接入的信息与服务，主动识别潜在需求，并发起分析、监测和跟进，并在需要用户关注的节点及时提醒。AI不再只是等待指令的工具，而开始成为能够持续管理事务的助手。 这一变化背后，是灵光2.0对跨会话记忆、长程任务调度和工具连接能力的全面升级。依托独立云主机，灵光能够",
-          "source": "雷峰网",
-          "published": "2026-10-27T01:55:00+00:00",
-          "published_ts": 1793066100.0,
-          "category": "agent"
-        },
-        {
-          "title": "RealReal不会让人工智能代理商占用设计师服装",
-          "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-          "summary": "二手奢侈品时尚寄售零售商RealReal表示，它正在更新其机器人防御系统，这实际上使人工智能代理商更难在其网站上购物。这一变化发生在The Verge报道可以使用AI代理来利用The RealReal的物品储备系统的几天之后。在零售商的网站上， […]",
-          "source": "The Verge AI",
-          "published": "2026-10-26T17:30:55+00:00",
-          "published_ts": 1793035855.0,
-          "category": "agent"
-        },
-        {
-          "title": "Nace AI发布用于搜索AI代理的Drex ： BrowseComp-Plus上有92.05 ％的搜索呼叫量为12.6",
-          "link": "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/",
-          "summary": "",
-          "source": "MarkTechPost",
-          "published": "2026-10-26T16:46:09+00:00",
-          "published_ts": 1793033169.0,
-          "category": "agent"
-        },
-        {
-          "title": "清华AI开源AKV ， SGLang上LLM代理的缓存工程服务器",
-          "link": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
-          "summary": "清华大学的研究人员发布了AKV ，这是一种基于SGLang的缓存工程服务系统。LLM代理丢弃并重新定位KV缓存，而不是总结历史记录，在4个代理基准上降低了27.7%的平均成本。后清华AI开源AKV ， SGLang上LLM代理的缓存工程服务器首次出现在MarkTechPost上。",
-          "source": "MarkTechPost",
-          "published": "2026-10-26T07:56:45+00:00",
-          "published_ts": 1793001405.0,
-          "category": "agent"
-        },
-        {
           "title": "超快如何将OpenAI的事件调查时间从几小时缩短到几分钟",
           "link": "https://openai.com/index/openai-cut-incident-investigation",
           "summary": "了解OpenAI工程师如何使用Codex Ultrafast在几分钟内调查事件。探索更快的安全分析、代码重构和日常工作流程。",
           "source": "OpenAI Blog",
           "published": "2026-10-26T07:00:00+00:00",
           "published_ts": 1792998000.0,
-          "category": "agent"
-        },
-        {
-          "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
-          "link": "https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html",
-          "summary": "从 Vibe Coding 到 Skill、Agent，AI 正打开新一轮创业窗口：一个人也能打造应用，一项技能也能成为产品。随着创作与开发门槛降低，新的机会正在浮现——让自己做出的 AI 产品，成为用户愿意付费的生意。 面向这股浪潮，10月24日，支付宝AI支付联合观猹发起“PAYATHON 2026”年度黑客松，邀请开发者带着应用、Skill 或 Agent 参赛：接入支付，把创意推向真实市场，争夺 20 万元总奖池。报名截至12月1日，线下决赛将于12月26日举行。 这场黑客松不只比创意与技术，更看产品在真实交易中的价值。这也是支付宝AI支付“开发者为先”产品战略的重要举措：通过持续降低AI产品的商业化门槛，让开发者更少为收款、交付与定价发愁，让好项目更快变成好生意。 五大赛道，把作品推向市场 一个独立应用、一项 Agent 技能，都可以成为参赛的起点。本次大赛面向个人开发者与团队，",
-          "source": "雷峰网",
-          "published": "2026-10-24T08:49:00+00:00",
-          "published_ts": 1792831740.0,
-          "category": "agent"
-        },
-        {
-          "title": "“更懂你、会办事”，支付宝携手科大讯飞升级智能座舱服务",
-          "link": "https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html",
-          "summary": "10月21日，支付宝车载助手亮相科大讯飞智能汽车产品技术发布会，宣布与讯飞星火智慧座舱战略合作升级，正式启动「讯宝计划」，推动智能座舱从信息交互向生活服务延伸，让车主在车内即可办理更多日常事物。 四大生活服务场景将落地，覆盖出行高频需求 发布会上，支付宝车载助手接入星火智慧座舱3.0的合作成果正式亮相。依托讯飞汽车 Master Agent 的统一调度，双方围绕车主出行生活需求，将推出四大服务场景： 高速无感通行： 用户授权后，可通过支付宝无感扣费，实现快速通行，无需扫码。 停车无感支付： 用户授权后，车辆离场即可完成免密支付。 顺路取快递： 结合回家路线，主动提醒用户顺路取件。 智能点单： 根据预计到店时间、用户口味及优惠信息，支持提前下单、到店取餐。 从理解需求到调用服务、完成支付，双方希望让智能座舱不止能回应用户，更能帮助用户办成事。支付宝的支付能力、生态网络及信用体系，也为车载AI",
-          "source": "雷峰网",
-          "published": "2026-10-24T08:43:00+00:00",
-          "published_ts": 1792831380.0,
-          "category": "agent"
-        },
-        {
-          "title": "AMD服务器CPU业务面临新的AI热潮",
-          "link": "https://analyticsindiamag.com/ai-features/amds-server-cpu-business-faces-a-new-ai-boom",
-          "summary": "在多年来被GPU相对黯然失色之后，人工智能代理已经将CPU重新置于聚光灯下。",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-23T09:35:11+00:00",
-          "published_ts": 1792748111.0,
-          "category": "agent"
-        },
-        {
-          "title": "林肯科技在学生招生运营中部署LeadSquared AI代理",
-          "link": "https://analyticsindiamag.com/ai-news/lincoln-tech-deploys-leadsquared-ai-agents-across-student-enrolment-operations",
-          "summary": "人工智能代理将处理潜在客户的优先排序、申请检查和跟进，并对关键的录取决定进行人工监督。",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-23T06:06:51+00:00",
-          "published_ts": 1792735611.0,
           "category": "agent"
         },
         {
@@ -529,15 +565,6 @@
           "category": "agent"
         },
         {
-          "title": "HCLTech推出基于NVIDIA的软件定义车辆验证产品",
-          "link": "https://analyticsindiamag.com/ai-news/hcltech-launches-nvidia-powered-validation-offering-for-software-defined-vehicles",
-          "summary": "该产品在发布前使用人工智能代理和虚拟模拟来测试汽车软件，包括罕见和安全关键场景。",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-22T11:03:57+00:00",
-          "published_ts": 1792667037.0,
-          "category": "agent"
-        },
-        {
           "title": "Patch the Planet ：客服代表发现关键漏洞时进行全球响应协调",
           "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
           "summary": "Patch the Planet将安全研究人员、维护人员和事件响应者联系起来，以帮助解决开源领域的关键漏洞。",
@@ -556,18 +583,18 @@
           "category": "agent"
         },
         {
-          "title": "Localiza如何围绕生成式人工智能进行重组",
-          "link": "https://openai.com/index/localiza-generative-ai",
-          "summary": "了解Localiza如何使用 ChatGPT企业、OpenAI API、 Codex和 60多个专业代理来重组工作和构建 AI原生移动体验。",
+          "title": "Grupo Boticário如何利用人工智能加强人际关系",
+          "link": "https://openai.com/index/grupo-boticario",
+          "summary": "在巴拉那的一家复合药房成立近50年后，该集团运营着一个专有的代理平台，可自主解决高达80%的经销商运营请求，使销售人员能够承担咨询角色。",
           "source": "OpenAI Blog",
           "published": "2026-10-16T00:00:00+00:00",
           "published_ts": 1792108800.0,
           "category": "agent"
         },
         {
-          "title": "Grupo Boticário如何利用人工智能加强人际关系",
-          "link": "https://openai.com/index/grupo-boticario",
-          "summary": "在巴拉那的一家复合药房成立近50年后，该集团运营着一个专有的代理平台，可自主解决高达80%的经销商运营请求，使销售人员能够承担咨询角色。",
+          "title": "Localiza如何围绕生成式人工智能进行重组",
+          "link": "https://openai.com/index/localiza-generative-ai",
+          "summary": "了解Localiza如何使用 ChatGPT企业、OpenAI API、 Codex和 60多个专业代理来重组工作和构建 AI原生移动体验。",
           "source": "OpenAI Blog",
           "published": "2026-10-16T00:00:00+00:00",
           "published_ts": 1792108800.0,
@@ -606,42 +633,51 @@
       "key": "embodied",
       "label": "具身智能",
       "color": "#059669",
-      "count": 10,
+      "count": 8,
       "items": [
         {
-          "title": "VisionQuest是当人工智能真正变成流氓时会发生什么",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-          "summary": "在漫威的VisionQuest中，一个超级强大的机器人试图通过迷失在精心制作的数字白日梦中来更好地了解人类，在这些白日梦中，他和其他人工智能驱动的生物一起生活在一个家中。该系列具有深刻的幻想性，但它结合了一些已经主导了有关现实世界生成人工[…]的对话的想法。",
-          "source": "The Verge AI",
-          "published": "2026-10-27T17:31:36+00:00",
-          "published_ts": 1793122296.0,
+          "title": "特朗普宣布机器人进口对国家安全构成威胁",
+          "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+          "summary": "总统下令就外国制造的工厂机器人进行贸易谈判，威胁要征收关税。",
+          "source": "Ars Technica AI",
+          "published": "2026-10-29T19:07:53+00:00",
+          "published_ts": 1793300873.0,
           "category": "embodied"
         },
         {
-          "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
-          "link": "https://www.qbitai.com/2026/10/505865.html",
-          "summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
+          "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+          "link": "https://www.qbitai.com/2026/10/506273.html",
+          "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
           "source": "量子位",
-          "published": "2026-10-27T12:57:51+00:00",
-          "published_ts": 1793105871.0,
+          "published": "2026-10-29T02:51:45+00:00",
+          "published_ts": 1793242305.0,
           "category": "embodied"
         },
         {
-          "title": "2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕",
-          "link": "https://www.qbitai.com/2026/10/505615.html",
-          "summary": "GDPS全球开发者先锋大会将持续推动应用成果落地转化和国际产业交流合作。",
+          "title": "这机器人从嘴里钻进人体，居然是来救命的",
+          "link": "https://www.ifanr.com/1686368?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "当所有人都在讨论 AI 时，机械工程同样可以给世界带来变化。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-10-28T10:21:02+00:00",
+          "published_ts": 1793182862.0,
+          "category": "embodied"
+        },
+        {
+          "title": "威卡：用数据集链接具身智能和工程机械",
+          "link": "https://www.qbitai.com/2026/10/506063.html",
+          "summary": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
           "source": "量子位",
-          "published": "2026-10-27T07:25:51+00:00",
-          "published_ts": 1793085951.0,
+          "published": "2026-10-28T09:01:27+00:00",
+          "published_ts": 1793178087.0,
           "category": "embodied"
         },
         {
-          "title": "iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题；宇树机器人侧空翻表演甩断腿，前一天刚演示「踢凹车门」",
-          "link": "https://www.leiphone.com/category/zaobao/owgP45BwczuhdF3j.html",
-          "summary": "要闻提示 1.iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题 2.00后美女经理玩梗“老登”遭吐槽：小鹏总裁悬赏100万澄清 3.宇树机器人侧空翻表演甩断腿，前一天刚演示「踢凹车门」 4.字节商业化GenAI负责人文石磊离职，团队或面临调整 5.周鸿祎大动作！拟2.19亿底价转让10人公司 6.马斯克称乌曾违规使用“星链”发动进攻 7.特斯拉确认正自研 AI 地图，将随 FSD v15 逐步推送 国内资讯 iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题 10月25日消息，近日，“iPhoneDuo屏幕开裂”登上热搜，引发热议。据多名用户反馈，苹果iPhone Duo屏幕存在不小的问题，开箱即出现屏幕亮线、开裂等问题。从用户发布的照片来看，相关故障多集中在铰链正上方，主要表现为屏幕一侧出现一条亮像素线。 一名澳洲用户称设备到手约6小时、开合不到20次，向朋友展",
-          "source": "雷峰网",
-          "published": "2026-10-27T00:20:00+00:00",
-          "published_ts": 1793060400.0,
+          "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+          "link": "https://www.qbitai.com/2026/10/506042.html",
+          "summary": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱",
+          "source": "量子位",
+          "published": "2026-10-28T08:55:26+00:00",
+          "published_ts": 1793177726.0,
           "category": "embodied"
         },
         {
@@ -663,39 +699,12 @@
           "category": "embodied"
         },
         {
-          "title": "LTM在钦奈推出BlueVerse工业人工智能实验室",
-          "link": "https://analyticsindiamag.com/ai-news/ltm-launches-blueverse-industrial-ai-lab-in-chennai",
-          "summary": "该设施将支持工业人工智能、机器人和数字双胞胎的测试，包括为具有传统设备和有限连接的工厂提供解决方案。",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-23T11:09:48+00:00",
-          "published_ts": 1792753788.0,
-          "category": "embodied"
-        },
-        {
-          "title": "前OpenAI Exec筹集2.15 $ Mn用于建立人工智能药物研究实验室",
-          "link": "https://analyticsindiamag.com/ai-news/former-openai-exec-raises-215-mn-to-build-ai-powered-drug-research-labs",
-          "summary": "Warp Sciences最初将专注于合成候选药物的分子变异，结合化学家、机器人和在实验室实验中训练的人工智能模型。",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-23T06:54:47+00:00",
-          "published_ts": 1792738487.0,
-          "category": "embodied"
-        },
-        {
           "title": "Meta在人工智能反弹后从其商业TOS中删除了“火车”一词",
           "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
           "summary": "Meta更改了AI抓取策略，但不会添加有关robots.txt的语言。",
           "source": "Ars Technica AI",
           "published": "2026-10-20T20:07:58+00:00",
           "published_ts": 1792526878.0,
-          "category": "embodied"
-        },
-        {
-          "title": "乌克兰无人机救援受伤士兵将大肆吹捧的想法付诸实践",
-          "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-          "summary": "乌克兰最新的无人机创新可能会增加疏散伤亡人员的惨淡可能性。",
-          "source": "Ars Technica AI",
-          "published": "2026-10-20T18:22:54+00:00",
-          "published_ts": 1792520574.0,
           "category": "embodied"
         }
       ]
@@ -707,336 +716,336 @@
       "count": 37,
       "items": [
         {
-          "title": "Jio平台内部：其技术押注、亏损子公司和隐藏风险",
-          "link": "https://analyticsindiamag.com/ai-features/inside-jio-platforms-its-tech-bets-loss-making-subsidiaries-and-hidden-risks",
-          "summary": "由于投资者希望Jio的上市能够在低迷的市场中重振市场情绪，以下是有关其业务、财务、合作伙伴关系和",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-28T03:52:09+00:00",
-          "published_ts": 1793159529.0,
-          "category": "general"
-        },
-        {
-          "title": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
-          "link": "https://sspai.com/post/115533",
-          "summary": "短短几年，罗永浩和锤子科技在国产手机的红海中留下了浓墨重彩的一笔。 查看全文",
+          "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
+          "link": "https://sspai.com/prime/story/zhuanglesha-261030",
+          "summary": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
           "source": "少数派",
-          "published": "2026-10-28T02:22:57+00:00",
-          "published_ts": 1793154177.0,
+          "published": "2026-10-30T03:30:43+00:00",
+          "published_ts": 1793331043.0,
           "category": "general"
         },
         {
-          "title": "风险投资公司将在Anthropic的首次公开募股中赚取数十亿美元，但亚马逊将赚取更多（更多）",
-          "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-          "summary": "大量音符转换揭示了亚马逊在Anthropic所有权的真实程度。",
-          "source": "TechCrunch AI",
-          "published": "2026-10-28T01:15:28+00:00",
-          "published_ts": 1793150128.0,
-          "category": "general"
-        },
-        {
-          "title": "苹果终于对「摇一摇」广告动手了！",
-          "link": "https://www.ifanr.com/1686157?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "众生苦摇一摇广告久矣 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "title": "CMF Speaker 系列体验：好听的牛奶盒，还能自己做外壳",
+          "link": "https://www.ifanr.com/1686140?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "如牛奶般醇厚 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "source": "爱范儿",
-          "published": "2026-10-28T00:55:32+00:00",
-          "published_ts": 1793148932.0,
+          "published": "2026-10-30T03:00:59+00:00",
+          "published_ts": 1793329259.0,
           "category": "general"
         },
         {
-          "title": "派早报苹果发布M6 版 iMac 和 MacBook Pro 等",
-          "link": "https://sspai.com/post/117684",
-          "summary": "小米发布 REDMI K100 等新品，广电总局发布有线电视与 IPTV 运营服务新规等。 查看全文",
+          "title": "你不需要相信上帝就能获得在工作中使用人工智能的宗教豁免",
+          "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+          "summary": "肯塔基大学管理员大卫·杜尔曼（ David Durman ）最近获得了在工作场所使用人工智能的宗教豁免。",
+          "source": "TechCrunch AI",
+          "published": "2026-10-30T01:20:48+00:00",
+          "published_ts": 1793323248.0,
+          "category": "general"
+        },
+        {
+          "title": "早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
+          "link": "https://www.ifanr.com/1686790?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "· 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万 · 美国计算机专业入学人数再降，本科两年减少 18.4% · 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-10-30T00:14:13+00:00",
+          "published_ts": 1793319253.0,
+          "category": "general"
+        },
+        {
+          "title": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
+          "link": "https://sspai.com/post/117827",
+          "summary": "腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。 查看全文",
           "source": "少数派",
-          "published": "2026-10-28T00:37:25+00:00",
-          "published_ts": 1793147845.0,
+          "published": "2026-10-30T00:13:38+00:00",
+          "published_ts": 1793319218.0,
           "category": "general"
         },
         {
-          "title": "数据中心热潮有一个好处：美国电网的创新",
-          "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-          "summary": "业内人士表示，随着人工智能热潮对现有电网的压力，电网现代化的各种新机遇也随之出现。",
+          "title": "Jassy说， AWS将是一项$ 1T的业务。但首先，它将花费巨大。",
+          "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+          "summary": "亚马逊希望成为人工智能云计算之王，并成为首个营收达1万$的业务。但其首席执行官周四表示，要做到这一点，它将不得不继续其资本支出狂潮。",
           "source": "TechCrunch AI",
-          "published": "2026-10-27T22:55:41+00:00",
-          "published_ts": 1793141741.0,
+          "published": "2026-10-29T23:42:22+00:00",
+          "published_ts": 1793317342.0,
           "category": "general"
         },
         {
-          "title": "刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来",
-          "link": "https://www.ifanr.com/1686234?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "AI 的下一个目标是模拟现实 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-10-27T22:37:04+00:00",
-          "published_ts": 1793140624.0,
-          "category": "general"
-        },
-        {
-          "title": "首次公开募股后， Anthropic的真正负责人是谁？",
-          "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-          "summary": "以下是对Anthropic极其复杂的治理结构的清晰解释。",
-          "source": "TechCrunch AI",
-          "published": "2026-10-27T21:38:28+00:00",
-          "published_ts": 1793137108.0,
-          "category": "general"
-        },
-        {
-          "title": "Anthropic IPO警告其人工智能可能会勒索人们，变得有知觉，终结人类",
-          "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-          "summary": "从《人类学》93页的《风险因素》一书中摘录了七个潜在的人工智能噩梦。",
-          "source": "Ars Technica AI",
-          "published": "2026-10-27T21:31:14+00:00",
-          "published_ts": 1793136674.0,
-          "category": "general"
-        },
-        {
-          "title": "研究人员厌倦了OpenAI的突破",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-          "summary": "周一， OpenAI宣布了数学、计算机科学和物理学领域令人印象深刻的突破，以及该公司所说的不断发展的沟通方法。但是，尽管有明显的方向修正，但与The Verge交谈的研究人员越来越厌倦该公司的滑稽动作。OpenAI之间经历了动荡的几个月[…]",
+          "title": "人工智能已经来到了亚利桑那州的水源",
+          "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+          "summary": "一个巨大的灰色巨人从沙漠中升起。在内部，工程师为我们的手机、电脑和电器、流媒体服务、搜索引擎和聊天机器人以及氛围编码的应用程序和网站创造了力量。这个建筑群既庞大又矮小，与周围的山脉相形见绌，而且是无穷无尽的。我开车经过一个[…]",
           "source": "The Verge AI",
-          "published": "2026-10-27T20:51:04+00:00",
-          "published_ts": 1793134264.0,
+          "published": "2026-10-29T23:03:22+00:00",
+          "published_ts": 1793315002.0,
           "category": "general"
         },
         {
-          "title": "颠覆性筹集$ 100亿资金，对至少10家公司进行大赌注",
-          "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-          "summary": "近年来，在向芯片初创公司Groq和人工智能语音生成初创公司ElevenLabs等公司投入资金方面，颠覆性新闻成为头条新闻。",
+          "title": "随着搜索流量的枯竭， Reddit宣布将转向登录体验",
+          "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+          "summary": "随着人工智能改变人们在网上查找信息的方式， Reddit正在重新思考其开放网络根源，以保护其受众和业务。",
           "source": "TechCrunch AI",
-          "published": "2026-10-27T18:55:35+00:00",
-          "published_ts": 1793127335.0,
+          "published": "2026-10-29T20:08:31+00:00",
+          "published_ts": 1793304511.0,
           "category": "general"
         },
         {
-          "title": "Vibe基因？自然（ ISH ）语言涉及蛋白质、基因组设计软件",
-          "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-          "summary": "显然，现在你可以告诉人工智能工具你想要它们制造什么样的蛋白质。",
-          "source": "Ars Technica AI",
-          "published": "2026-10-27T18:49:08+00:00",
-          "published_ts": 1793126948.0,
+          "title": "Meta悄悄推出名为Style Sketch的AI时尚应用程序",
+          "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+          "summary": "应用程序会连接到Instagram ，根据您已分享的照片构建虚拟衣柜，或通过拍摄照片、录制快速视频或上传相机胶卷中的图片，手动添加物品。",
+          "source": "TechCrunch AI",
+          "published": "2026-10-29T19:14:36+00:00",
+          "published_ts": 1793301276.0,
           "category": "general"
         },
         {
-          "title": "Firefox的智能窗口增加了AI表单填写和网页监控功能",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-          "summary": "Mozilla正在更新智能窗口（ Firefox的人工智能浏览体验） ，其新功能可以帮助您根据打开的标签页填写在线表单。例如， Mozilla表示，智能窗口可以从您的在线投资组合或LinkedIn页面中提取信息，将您的工作历史记录粘贴到求职申请中。你[…]",
+          "title": "您现在可以直接在Gemini聊天中生成和编辑Google文档文件",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+          "summary": "现在，您可以直接在Google Gemini中生成、预览和编辑PDF、Google文档、Google表格、幻灯片、Markdown文件、TXT文件和代码。从今天开始，所有Gemini用户都可以使用新的文件编辑功能，虽然PDF预览/编辑可在网络和移动设备上使用，但所有其他文件格式仅适用于[…]",
           "source": "The Verge AI",
-          "published": "2026-10-27T16:14:18+00:00",
-          "published_ts": 1793117658.0,
+          "published": "2026-10-29T18:45:31+00:00",
+          "published_ts": 1793299531.0,
           "category": "general"
         },
         {
-          "title": "日本互联网巨头GMO称黑客发布被盗客户数据",
-          "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-          "summary": "日本的GMO互联网正在核实涉嫌黑客在云服务泄露后发布的涉嫌客户数据。",
+          "title": "Granola推出听写功能，与Wispr展开竞争",
+          "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+          "summary": "UNO REVERSE ！在Wispr向其听写应用程序添加会议笔记后， Granola正在向其会议笔记员添加听写。语音人工智能战争变得越来越有趣。",
           "source": "TechCrunch AI",
-          "published": "2026-10-27T13:32:57+00:00",
-          "published_ts": 1793107977.0,
+          "published": "2026-10-29T17:54:38+00:00",
+          "published_ts": 1793296478.0,
           "category": "general"
         },
         {
-          "title": "Cent筹集了1500万美元$来扩展人工智能驱动的预防性医疗保健",
-          "link": "https://analyticsindiamag.com/ai-news/cent-raises-15-million-to-expand-ai-powered-preventive-healthcare",
-          "summary": "这家初创公司还收购了人工智能驱动的放射学报告平台Medsee ，因为它扩展了其医学成像和临床研究能力。",
+          "title": "微软的人工智能未来工作岗位减少",
+          "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+          "summary": "对于任何密切关注微软首席执行官萨蒂亚·纳德拉（ Satya Nadella ）过去几年所说的话的人来说，本周似乎是人工智能即将从根本上改变微软员工规模的最明显迹象。微软现在向美国、英国、加拿大和[…]的约6万名员工提供自愿收购。",
+          "source": "The Verge AI",
+          "published": "2026-10-29T16:48:16+00:00",
+          "published_ts": 1793292496.0,
+          "category": "general"
+        },
+        {
+          "title": "美国调查了针对英伟达首席执行官的中国间谍阴谋",
+          "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+          "summary": "消息人士告诉《纽约时报》，一家被指控向中国非法出售英伟达芯片的新加坡人工智能云公司的高管也可能是中国间谍。",
+          "source": "TechCrunch AI",
+          "published": "2026-10-29T16:42:32+00:00",
+          "published_ts": 1793292152.0,
+          "category": "general"
+        },
+        {
+          "title": "谷歌承认人工智能搜索赚的钱更少，但它正在通过更多的广告来解决这个问题",
+          "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+          "summary": "谷歌的负现金流激增至-90.6亿美元，第三季度盈利后股价暴跌。",
+          "source": "Ars Technica AI",
+          "published": "2026-10-29T16:24:55+00:00",
+          "published_ts": 1793291095.0,
+          "category": "general"
+        },
+        {
+          "title": "纽约时报烹饪应用程序正在测试AI食谱修改",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "summary": "《纽约时报》正在为其烹饪应用程序测试一项新的人工智能功能，该功能可帮助用户修改食谱，并在用户中引发了一些戏剧性事件。上周五，《纽约时报》烹饪资深编辑Genevieve Ko宣布了这一功能，该功能可用于推荐食材和烹饪设备的替代品，并将食谱扩展到任何[…]",
+          "source": "The Verge AI",
+          "published": "2026-10-29T16:02:16+00:00",
+          "published_ts": 1793289736.0,
+          "category": "general"
+        },
+        {
+          "title": "13.98 万元起！小鹏 MONA L05 正式上市，大五座 SUV 市场的卷王来了",
+          "link": "https://www.ifanr.com/1686761?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "属于 MONA 的家庭用车。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-10-29T14:17:14+00:00",
+          "published_ts": 1793283434.0,
+          "category": "general"
+        },
+        {
+          "title": "亚马逊在最新备忘录中警告工程师防范人工智能生产力陷阱",
+          "link": "https://analyticsindiamag.com/ai-news/amazon-warns-engineers-against-ai-productivity-traps-in-latest-memo",
+          "summary": "该公司表示，经常引起注意的指标，如代币使用量、使用的人工智能工具数量、代码更改、评论数量等，都是“",
           "source": "Analytics India Magazine",
-          "published": "2026-10-27T11:36:38+00:00",
-          "published_ts": 1793100998.0,
+          "published": "2026-10-29T14:16:19+00:00",
+          "published_ts": 1793283379.0,
           "category": "general"
         },
         {
-          "title": "工业智能：制造业的下一个增长机会",
-          "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-          "summary": "每个制造商都有自己的工业智能。有些是有记录的，有些则是经验丰富的工人所掌握的知识。考虑一位经验丰富的操作人员准备在切换后重新启动生产线。机器设置很重要，但知道特定材料的行为、上一班发生了什么，以及什么时候出现明显的次要……",
-          "source": "MIT Tech Review AI",
-          "published": "2026-10-27T11:19:18+00:00",
-          "published_ts": 1793099958.0,
-          "category": "general"
-        },
-        {
-          "title": "印奇把4D雷达也端到端了",
-          "link": "https://www.qbitai.com/2026/10/505852.html",
-          "summary": "毫米波雷达，AI算力10TOPS",
-          "source": "量子位",
-          "published": "2026-10-27T10:40:12+00:00",
-          "published_ts": 1793097612.0,
-          "category": "general"
-        },
-        {
-          "title": "Rokid Glasses 2 首发体验：让不戴眼镜的我，习惯戴它出门",
-          "link": "https://www.ifanr.com/1686154?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "让日常不戴眼镜的我习惯戴着眼镜出门，Rokid Glasses 2 做到了。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "title": "取消四缸插混，3.0T 六缸回归！全新 AMG GLC 53 售 59.9 万元",
+          "link": "https://www.ifanr.com/1686672?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "没有「63」的年代，它成了性能天花板。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "source": "爱范儿",
-          "published": "2026-10-27T10:23:36+00:00",
-          "published_ts": 1793096616.0,
+          "published": "2026-10-29T14:04:12+00:00",
+          "published_ts": 1793282652.0,
           "category": "general"
         },
         {
-          "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-          "link": "https://www.qbitai.com/2026/10/505830.html",
-          "summary": "顶尖智能汽车玩家的终局，不会停在智能汽车",
-          "source": "量子位",
-          "published": "2026-10-27T09:54:51+00:00",
-          "published_ts": 1793094891.0,
+          "title": "Anthropic的商业计划：建立上帝或尝试死亡",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+          "summary": "",
+          "source": "The Verge AI",
+          "published": "2026-10-29T13:20:35+00:00",
+          "published_ts": 1793280035.0,
           "category": "general"
         },
         {
-          "title": "长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求；Anthropic公开上市申请，最快11月中旬上市；周畅被曝离职？接近字节人士回应",
-          "link": "https://www.leiphone.com/category/zaobao/9LHYVcJC8iwgwnhk.html",
-          "summary": "要闻提示 1.长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求 2.Seedance 核心研发负责人周畅被曝离职？接近字节人士否认 3.李楠谈iPhone Duo屏幕开裂问题：本质是苹果和供应链生疏了 4.道歉也翻车？小鹏经理Etta道歉视频疑似用AI生成 5.奥迪中国四环标和字母标正式分家 6.会员使用K3.1 Pro时出现限流及不必要的额度消耗，Kimi致歉并宣布补偿 7.突发！Anthropic公开上市申请：半年净亏807亿美元，最快 11 月中旬上市 8.起售价5499元，苹果发布新款iPad mini 今日头条 长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求 10月26日消息，据媒体报道，长鑫近期拒绝与外国客户达成交易，旨在实现中国存储行业的自给自足。长鑫不仅拒绝向苹果提供内存供应，一家中国台湾服务器制造商也同样被拒绝。究其原因，主要是当前国内客户订单密集，现有产能正全力以赴满",
-          "source": "雷峰网",
-          "published": "2026-10-27T09:34:00+00:00",
-          "published_ts": 1793093640.0,
+          "title": "Deepgram收购Pipecat制造商Daily ，以加强其语音人工智能基础设施",
+          "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+          "summary": "",
+          "source": "TechCrunch AI",
+          "published": "2026-10-29T13:00:00+00:00",
+          "published_ts": 1793278800.0,
           "category": "general"
         },
         {
-          "title": "7.69 万元起，第三代秦 PLUS DM-i 上市，内饰颜值大提升！",
-          "link": "https://www.ifanr.com/1686110?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "比亚迪的内饰设计师该加鸡腿了。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-10-27T09:19:00+00:00",
-          "published_ts": 1793092740.0,
+          "title": "亚马逊更新Alexa ，帮助您管理购物清单和订阅，并更新派送说明",
+          "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+          "summary": "",
+          "source": "TechCrunch AI",
+          "published": "2026-10-29T13:00:00+00:00",
+          "published_ts": 1793278800.0,
           "category": "general"
         },
         {
-          "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
-          "link": "https://sspai.com/post/117633",
-          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ... 查看全文",
+          "title": "Venttup融资300万$以扩大精密制造业",
+          "link": "https://analyticsindiamag.com/ai-news/venttup-raises-3-million-to-expand-precision-manufacturing",
+          "summary": "",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T11:39:58+00:00",
+          "published_ts": 1793273998.0,
+          "category": "general"
+        },
+        {
+          "title": "Anthropic在计算上每花费1美元可赚取2.08美元的收入—以下是完整的IPO故事",
+          "link": "https://analyticsindiamag.com/global-tech/anthropic-makes-208-in-revenue-for-every-1-spent-on-compute-heres-the-full-ipo-story",
+          "summary": "",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T11:36:54+00:00",
+          "published_ts": 1793273814.0,
+          "category": "general"
+        },
+        {
+          "title": "印度IT新员工面临利润挑战",
+          "link": "https://analyticsindiamag.com/it-services/indian-its-new-workforces-come-with-a-margin-challenge",
+          "summary": "",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T11:18:00+00:00",
+          "published_ts": 1793272680.0,
+          "category": "general"
+        },
+        {
+          "title": "Sarvam AI向2,500名马哈拉施特拉邦政府官员推出Indus Cowork",
+          "link": "https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials",
+          "summary": "",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T10:13:36+00:00",
+          "published_ts": 1793268816.0,
+          "category": "general"
+        },
+        {
+          "title": "新玩意 254｜少数派的编辑们最近买了啥？",
+          "link": "https://sspai.com/post/117791",
+          "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ... 查看全文",
           "source": "少数派",
-          "published": "2026-10-27T09:02:00+00:00",
-          "published_ts": 1793091720.0,
+          "published": "2026-10-29T09:26:58+00:00",
+          "published_ts": 1793266018.0,
           "category": "general"
         },
         {
-          "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
-          "link": "https://www.qbitai.com/2026/10/505799.html",
-          "summary": "无人在环进店实测啃下长尾场景",
-          "source": "量子位",
-          "published": "2026-10-27T08:46:12+00:00",
-          "published_ts": 1793090772.0,
-          "category": "general"
-        },
-        {
-          "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
-          "link": "https://www.qbitai.com/2026/10/505773.html",
-          "summary": "OCR 3.0时代，来了",
-          "source": "量子位",
-          "published": "2026-10-27T08:35:33+00:00",
-          "published_ts": 1793090133.0,
-          "category": "general"
-        },
-        {
-          "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
-          "link": "https://www.qbitai.com/2026/10/505687.html",
-          "summary": "破解绿电直连项目落地僵局",
-          "source": "量子位",
-          "published": "2026-10-27T07:44:41+00:00",
-          "published_ts": 1793087081.0,
-          "category": "general"
-        },
-        {
-          "title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
-          "link": "https://www.qbitai.com/2026/10/505635.html",
-          "summary": "开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐",
-          "source": "量子位",
-          "published": "2026-10-27T07:41:02+00:00",
-          "published_ts": 1793086862.0,
-          "category": "general"
-        },
-        {
-          "title": "Apple Sports：不看新闻、不聊球，只看我关心的比赛",
-          "link": "https://sspai.com/post/117557",
-          "summary": "作为一个从小看CCTV-5体育频道下饭的「体育迷」，在互联网时代我一般都看新浪门户网站的体育板块来获取最新的体育资讯，在智能手机逐渐普及后，百度贴吧、虎扑、懂球帝等平台又是我获取体育资讯以及和网友们吹 ... 查看全文",
-          "source": "少数派",
-          "published": "2026-10-27T07:27:57+00:00",
-          "published_ts": 1793086077.0,
-          "category": "general"
-        },
-        {
-          "title": "10月28日见！华为畅享 100 系列三款新品蓄势待发：满分配置抢先看",
-          "link": "https://www.leiphone.com/category/industrynews/GABZR4IV17tSEHlt.html",
-          "summary": "距离10月28日华为双十一焕新季·全场景新品发布会越来越近，华为畅享系列的新一代产品也逐渐揭开面纱。10月27日，随着华为畅享 100 系列三款单品海报陆续释出，这一系列在外观设计、核心配置与日常体验方面的看点进一步明朗。据了解，华为畅享 100 系列已于10月23日开启预订，此次新品包括华为畅享 100、华为畅享 100 Pro及华为畅享 100 Pro Max三款机型，围绕麒麟8系芯片、华为巨鲸大电池与鸿蒙星盾防诈等核心配置展开布局，全方位满足消费者的多元化需求。 流畅耐用体验，是华为畅享 100 系列最核心的升级主线，其根基在于麒麟芯片与鸿蒙系统的软硬协同。根据官方信息，华为畅享 100 系列搭载麒麟8系芯片，这意味着三款机型都将拥有领先同档位的硬核算力，可以从容应对社交、影音、游戏等主流日常场景，带来更稳定的运行体验；配合鸿蒙7.0的系统级深度调优，应用启动、页面滑动、多任务切换、",
+          "title": "抖音李亮发文：希望同行在阳光下竞争，专家自媒体要遵守基本道德规范",
+          "link": "https://www.leiphone.com/category/industrynews/poaG1T65huOcWV91.html",
+          "summary": "抖音李亮就短剧发展再发声，全文如下： 最近大家谈论短剧比较多，我也说一下我个人看法。短剧和传统的影视剧没有本质区别，只是载体不同，表现形式不同，没有哪个好，哪个不好。试想如果短剧改成45分钟一集，或90分钟一集，与电视剧、电影的区别大吗？我觉得核心是内容质量，短剧这个形态发展比较晚，在社会各界的关注和批评下，内容提升质量非常快，特别是大量的有知识有文化的创作者的加入，使整个短剧的创作质量有了非常大的提升。最近，红果上线了名为《鱼皮穿出新花样》的短剧，讲的就是在严寒下过冬的智慧 —— 国家级非遗赫哲族鱼皮制作技艺：一件鱼皮衣要用约五十张冷水鱼皮，经阴干、木槌捶打熟软、鱼皮线拼缝，再缀上云纹、浪花纹，挡风隔潮，能陪猎人在深雪里过夜。剧中，手艺人尤可欣带着返乡年轻人做鱼皮画、开直播，最后把旧鱼皮刀交给了徒弟。推荐一看。 此外，随着AI的发展，短剧为主的视频创作将得到空前的发展，特别是在历史剧、科",
           "source": "雷峰网",
-          "published": "2026-10-27T06:25:00+00:00",
-          "published_ts": 1793082300.0,
+          "published": "2026-10-29T09:18:00+00:00",
+          "published_ts": 1793265480.0,
           "category": "general"
         },
         {
-          "title": "国家人工智能应用中试基地（家居家电方向）在青启动",
-          "link": "https://www.leiphone.com/category/industrynews/4Q531t2z54a5Bvqs.html",
-          "summary": "10月27日，家居家电方向的国家人工智能应用中试基地（以下简称“中试基地”），在青岛举行建设启动仪式。该基地由海尔智家承建，来自家居家电企业、人工智能技术相关企业、高校院所的200多位行业专家代表出席活动。 据了解，该基地的目标是打造全球引领的“新一代智慧家电”中试基地，让家居家电行业的AI创新从过去的“单打独斗”走向全行业的“联合攻坚”，破解行业共性难题，沉淀可复用的公共能力，推动人工智能规模化、标准化应用，探索将我国丰富的家庭场景优势转化为技术与标准优势。 破解三大共性难题，加速AI规模化落地 当前，人工智能技术快速演进，正在深刻改变全球产业发展模式。对家居家电行业而言，AI正加速融入产品、场景和产业链，但从技术创新到产业应用之间，仍面临技术转化、互联协同和规模推广等多重挑战。 在产品层面，AI技术真正应用到家电产品和家庭场景，需要经历硬件适配、功能开发、场景验证、可靠性测试等多个环节",
-          "source": "雷峰网",
-          "published": "2026-10-27T05:55:00+00:00",
-          "published_ts": 1793080500.0,
-          "category": "general"
-        },
-        {
-          "title": "Protectt.ai持有博世孵化的AIShield的多数股权",
-          "link": "https://analyticsindiamag.com/ai-news/protecttai-takes-majority-stake-in-bosch-incubated-aishield",
-          "summary": "AIShield的平台涵盖人工智能安全评估、红色分组、运行时保护和安全护栏。它旨在识别和解决AI AP中的风险",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-27T05:53:09+00:00",
-          "published_ts": 1793080389.0,
-          "category": "general"
-        },
-        {
-          "title": "Sarvam签署为期5年的国防人工智能协议，涵盖陆军、海军和空军",
-          "link": "https://analyticsindiamag.com/ai-news/sarvam-signs-5-year-defence-ai-deal-covering-army-navy-and-air-force",
-          "summary": "该协议涵盖决策支持、目标采集和数据融合，由Sarvam的Chanakya部门领导这项工作。",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-27T05:51:00+00:00",
-          "published_ts": 1793080260.0,
-          "category": "general"
-        },
-        {
-          "title": "印孚瑟斯52亿美元的交易未能提振27财年的前景",
-          "link": "https://analyticsindiamag.com/it-services/infosyss-52-billion-deal-wins-fail-to-lift-fy27-outlook",
-          "summary": "尽管大型交易金额为52亿美元，人工智能占收入的10.5% ，但印孚瑟斯将27财年的预期下调至1% -2% ，因为其最大的新交易仅在明年增加。",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-27T05:36:55+00:00",
-          "published_ts": 1793079415.0,
-          "category": "general"
-        },
-        {
-          "title": "Anthropic在2026年第二季度IPO前报告利润$ 9.74亿",
-          "link": "https://analyticsindiamag.com/ai-news/anthropic-reports-974-million-profit-in-q2-2026-ahead-of-ipo",
-          "summary": "公司不断增长的企业业务，包括采用Claude Code ，推动了收入增长。收入同比增长1,368%。",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-27T05:18:57+00:00",
-          "published_ts": 1793078337.0,
-          "category": "general"
-        },
-        {
-          "title": "王的猜想，被 AI 一夜通关",
-          "link": "https://www.ifanr.com/1686064?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "AI 已经开始陆续交卷了，但人类可能连阅卷都快来不及了。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-10-27T04:57:02+00:00",
-          "published_ts": 1793077022.0,
-          "category": "general"
-        },
-        {
-          "title": "微软向6万名员工提供收购",
-          "link": "https://analyticsindiamag.com/ai-news/microsoft-offers-buyouts-to-60000-employees",
-          "summary": "Microsoft的自愿退出计划涵盖四个国家/地区的合格员工，提供财务支持和职业规划资源。",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-27T04:40:26+00:00",
-          "published_ts": 1793076026.0,
-          "category": "general"
-        },
-        {
-          "title": "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
-          "link": "https://sspai.com/post/115855",
-          "summary": "借助 NUT 网络 UPS 协议，我们只需要一台 UPS，就可以驱动局域网中多台设备协同断电保护。 查看全文",
+          "title": "如何成为不吃压力的「大心脏」？",
+          "link": "https://sspai.com/post/117244",
+          "summary": "适合别人的抗压方式为什么不适合自己？你也该知道的抗压方法论 查看全文",
           "source": "少数派",
-          "published": "2026-10-27T03:02:18+00:00",
-          "published_ts": 1793070138.0,
+          "published": "2026-10-29T09:05:38+00:00",
+          "published_ts": 1793264738.0,
           "category": "general"
         },
         {
-          "title": "iPhone Duo 拆解：最好修的折叠 iPhone，就是别撕膜",
-          "link": "https://www.ifanr.com/1685935?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "自己动手修折叠屏，需要勇气和实力 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "title": "SAP印度的目标是到2030年人工智能技能培训人数达到200万",
+          "link": "https://analyticsindiamag.com/ai-news/sap-india-targets-2-million-people-for-ai-skilling-by-2030",
+          "summary": "",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T08:39:59+00:00",
+          "published_ts": 1793263199.0,
+          "category": "general"
+        },
+        {
+          "title": "7500 元！第一副安卓 XR 眼镜来了，比苹果更轻更好戴",
+          "link": "https://www.ifanr.com/1686636?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "未来，真的近了！ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "source": "爱范儿",
-          "published": "2026-10-27T02:30:40+00:00",
-          "published_ts": 1793068240.0,
+          "published": "2026-10-29T08:00:04+00:00",
+          "published_ts": 1793260804.0,
+          "category": "general"
+        },
+        {
+          "title": "不认字的 AI，却很会说话",
+          "link": "https://www.ifanr.com/1686124?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "机器为什么不能先说话，再认字？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-10-29T07:03:36+00:00",
+          "published_ts": 1793257416.0,
+          "category": "general"
+        },
+        {
+          "title": "Ropes & Gray如何开发用于交易尽职调查的人工智能",
+          "link": "https://openai.com/index/ropes-gray-ai-diligence",
+          "summary": "",
+          "source": "OpenAI Blog",
+          "published": "2026-10-29T07:00:00+00:00",
+          "published_ts": 1793257200.0,
+          "category": "general"
+        },
+        {
+          "title": "随着谷歌云翻倍和搜索增长放缓， Alphabet收入增长25%",
+          "link": "https://analyticsindiamag.com/ai-news/alphabet-revenue-jumps-25-as-google-cloud-doubles-search-growth-slows",
+          "summary": "",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T05:51:52+00:00",
+          "published_ts": 1793253112.0,
+          "category": "general"
+        },
+        {
+          "title": "Databricks首席执行官告诉Snowflake ： “你不会做这种人工智能事情。”",
+          "link": "https://analyticsindiamag.com/ai-news/youre-not-doing-this-ai-stuff-databricks-ceo-tells-snowflake",
+          "summary": "",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T05:47:11+00:00",
+          "published_ts": 1793252831.0,
+          "category": "general"
+        },
+        {
+          "title": "微软Azure 9月季度营收增长48%",
+          "link": "https://analyticsindiamag.com/ai-news/microsofts-azure-revenue-grows-48-in-september-quarter",
+          "summary": "",
+          "source": "Analytics India Magazine",
+          "published": "2026-10-29T04:28:57+00:00",
+          "published_ts": 1793248137.0,
+          "category": "general"
+        },
+        {
+          "title": "实测即梦短剧工作室，这可能是 Seedance 2.5 最有性价比的用法",
+          "link": "https://www.ifanr.com/1686343?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "给创作者好的工具，他们就能做出精彩的作品 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-10-29T04:02:26+00:00",
+          "published_ts": 1793246546.0,
+          "category": "general"
+        },
+        {
+          "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+          "link": "https://www.qbitai.com/2026/10/506281.html",
+          "summary": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+          "source": "量子位",
+          "published": "2026-10-29T03:27:50+00:00",
+          "published_ts": 1793244470.0,
           "category": "general"
         }
       ]

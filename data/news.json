@@ -2,7 +2,7 @@
   "title": "AI 日报",
   "subtitle": "大模型 · 智能体 · 具身智能",
   "description": "每天自动聚合大模型、智能体与具身智能领域的AI资讯",
-  "generated_at": "2026-11-01T04:39:08+00:00",
+  "generated_at": "2026-11-02T04:40:49+00:00",
   "total": 258,
   "source_count": 17,
   "error_count": 1,
@@ -14,8 +14,80 @@
       "key": "llm",
       "label": "大模型",
       "color": "#2563eb",
-      "count": 35,
+      "count": 37,
       "items": [
+        {
+          "title": "2026 全球 AI 新云 NeoCloud：考验基本功的时候到了",
+          "link": "https://www.leiphone.com/category/industrynews/uZRzXBZy6pdl88Uf.html",
+          "summary": "10月19日，一张全球AI新云（NeoCloud）产业图谱引发行业关注。 CoreWeave、Nebius以GPU云服务为核心；Lambda、Together AI与九章云极 DataCanvas则在算力供给之上，跨入“训练・推理・Token工厂”交叉赛道；AI 工程与AIDC运营，则作为底层底座贯穿整条产业链。在这场全球竞争中，九章云极是为数不多跻身第一梯队的中国厂商。 2026全球顶级AI新云NeoCloud图谱 这张图谱提供了观察行业的窗口：全球NeoCloud服务商正在告别单一算力售卖模式，走向商业模式分化、能力边界持续延伸的专业化赛道。 资本对头部标的的评估标尺也随之迭代，算力规模、硬件跑分等浅层指标逐步失效，行业核心评判标准收敛至四项：总体拥有成本（TCO）、训推交付稳定性、Token服务效率、AI基础设施工程成熟度。四项指标共同锚定技术底盘、履约能力、客户价值与长期经营质量，",
+          "source": "雷峰网",
+          "published": "2026-11-02T01:54:00+00:00",
+          "published_ts": 1793584440.0,
+          "category": "llm"
+        },
+        {
+          "title": "一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了",
+          "link": "https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "全球基模大战，疯狂 11 月正式开场 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-02T01:51:47+00:00",
+          "published_ts": 1793584307.0,
+          "category": "llm"
+        },
+        {
+          "title": "早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力",
+          "link": "https://www.ifanr.com/1687043?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "· 多家车企公布 10 月成绩单 · 奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用 · 西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-02T00:03:03+00:00",
+          "published_ts": 1793577783.0,
+          "category": "llm"
+        },
+        {
+          "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+          "link": "https://www.qbitai.com/2026/11/507076.html",
+          "summary": "西湖世界模型研究中心成立",
+          "source": "量子位",
+          "published": "2026-11-01T13:28:10+00:00",
+          "published_ts": 1793539690.0,
+          "category": "llm"
+        },
+        {
+          "title": "Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成",
+          "link": "https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html",
+          "summary": "近日，Pika 发布 MiniMax H3 衍生模型 Pika H3 Flex，并开放适配器权重与推理代码。该模型通过六步去噪联合生成画面和声音，支持文本、首尾帧和多模态参考输入，供创作者进行镜头设计、参考生成和视频编辑。 本次发布包含两套 LoRA 适配器，分别用于文本及首尾帧条件生成、多模态参考生成，同时提供 MiniMax H3 基础组件和本地推理工具。模型原生支持 480P、768P 输出，可生成约 5 至 15 秒的视频及同步立体声音频。Pika 提供 ComfyUI 工作流和 Hugging Face Diffusers 接入方式，方便开发者将其加入现有创作工具。 在本地生成之外，Pika 可通过 API 提供 1080P、2K 和 4K 视频增强，以及音频分轨功能。创作者可以先以较低分辨率生成和筛选草稿，再对选定版本进行高分辨率处理；同步生成的声音则可拆分为对白、配乐、音效、",
+          "source": "雷峰网",
+          "published": "2026-11-01T09:46:00+00:00",
+          "published_ts": 1793526360.0,
+          "category": "llm"
+        },
+        {
+          "title": "Nace AI开源 Drex Max v1 ：在苹果硅上本地运行的27B决策模型",
+          "link": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
+          "summary": "",
+          "source": "MarkTechPost",
+          "published": "2026-11-01T08:10:07+00:00",
+          "published_ts": 1793520607.0,
+          "category": "llm"
+        },
+        {
+          "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+          "link": "https://www.qbitai.com/2026/11/507031.html",
+          "summary": "让AI像牛顿一样思考",
+          "source": "量子位",
+          "published": "2026-11-01T08:02:37+00:00",
+          "published_ts": 1793520157.0,
+          "category": "llm"
+        },
+        {
+          "title": "班加罗尔创始人建造通往旧金山的桥梁",
+          "link": "https://analyticsindiamag.com/ai-startups/the-bengaluru-founder-building-a-bridge-to-san-francisco",
+          "summary": "印度工程师发现，复制旧金山的模型不足以扩大规模。成功需要更深入地了解用户的行为和参与度，",
+          "source": "Analytics India Magazine",
+          "published": "2026-11-01T06:23:32+00:00",
+          "published_ts": 1793514212.0,
+          "category": "llm"
+        },
         {
           "title": "了解Factory Droid 1.0 ：基于脚本模式构建的独立于模型的编码代理线束",
           "link": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
@@ -50,6 +122,15 @@
           "source": "雷峰网",
           "published": "2026-10-31T03:31:00+00:00",
           "published_ts": 1793417460.0,
+          "category": "llm"
+        },
+        {
+          "title": "商汤开源 SenseNova Loop-9B-Preview：探索以计算深度释放模型潜力",
+          "link": "https://www.leiphone.com/category/industrynews/f9tAHG0kPopK1Nnw.html",
+          "summary": "商汤开源日日新 SenseNova Loop-9B-Preview 。这是商汤面向下一代模型架构的一项前沿探索：它采用创新 Looped Transformer 架构，引入循环计算、扩展模型的有效计算深度，并探索更充分的信息交互机制，提升模型在复杂任务上的处理能力，在仅 9B 的有限参数规模下，媲美 27B 参数大小模型。 从参数规模到计算深度 随着大模型能力持续演进，模型能力提升不再只有扩大参数规模一条路径。如何在控制参数规模的同时，通过增加有效计算深度进一步释放模型潜力，正成为值得探索的方向。近期，循环计算正成为大模型架构研究的重点方向，国内外研究社区围绕 Looped Transformer 展开了攻关探索。但目前的探索多停留在学术研究层面，社区尚缺乏可直接面向日常使用的 Looped Transformer 模型。 此次开源的 SenseNova Loop-9B-Preview，为",
+          "source": "雷峰网",
+          "published": "2026-10-31T02:51:00+00:00",
+          "published_ts": 1793415060.0,
           "category": "llm"
         },
         {
@@ -161,33 +242,6 @@
           "category": "llm"
         },
         {
-          "title": "科大讯飞董事长与总裁主动降薪，两人均少领超2000万；阿维塔回应会议视频被吐槽「演的太尬」：是摆拍，但事是真的；百度副总裁吴甜已离职",
-          "link": "https://www.leiphone.com/category/zaobao/zRRabO7xif7QiyjK.html",
-          "summary": "要闻提示 1.科大讯飞回应高管薪资质疑：董事长与总裁主动降薪，两人均少领超2000万 2.内部会议视频被吐槽演的太尬！阿维塔副总裁：是摆拍，但事是真的 3.华为“天才少年”杨玉雯加盟南京大学 4.百度确认吴甜已离职，文心模型下周将发布新进展 5.王腾创业首秀感谢小米和雷军！回应蹭流量质疑：真心感激过往经历 6.国产3A《影之刃零》登顶全球畅销榜，评分超《黑神话：悟空》 7.智元彭志辉：公司2026年上半年营收近20亿元 8.突发！英伟达遭调查：GPU捆绑销售成焦点 今日头条 科大讯飞回应高管薪资质疑：董事长与总裁主动降薪，两人均少领超2000万 10月29日消息，近日，有投资者在互动平台向科大讯飞提问，关注公司高管薪酬集体上涨与同行接轨等问题。科大讯飞就此作出回应，披露了公司高管主动大幅降薪的细节。 科大讯飞表示，公司高管薪酬严格依据2026年5月修订的《董事、高级管理人员薪酬管理制度》执",
-          "source": "雷峰网",
-          "published": "2026-10-30T08:42:00+00:00",
-          "published_ts": 1793349720.0,
-          "category": "llm"
-        },
-        {
-          "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-          "link": "https://www.qbitai.com/2026/10/506743.html",
-          "summary": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
-          "source": "量子位",
-          "published": "2026-10-30T07:31:11+00:00",
-          "published_ts": 1793345471.0,
-          "category": "llm"
-        },
-        {
-          "title": "具身的数据管线，到底应该怎么做？",
-          "link": "https://www.leiphone.com/category/robot/espiC5FlGhRbSj1b.html",
-          "summary": "数据规模不断扩大，有效性却没有跟上。 作者丨向 欣 编辑丨高景辉 雷峰网：一家具身数据厂商告诉我们，他们向模型厂商交付了几万小时数据之后，对方反过来问了一句：能不能顺便帮忙把模型也训练出来，好让他们“交个差”，原因是模型厂商自己心里也没底，不知道这批数据喂进去能训出什么结果。 这种焦虑与无力，是当下不少模型厂商的真实状态，他们面临的真实困境是：虽然在不断花钱采集、购买数据，数据规模不断扩大，但数据的有效性却没有跟上。钱花出去了，效果却像打了水漂。 年初，不少具身公司声称今年要采集百万级别的数据。大半年过去，确实有公司宣称已经积累了百万数据，但模型能力上似乎没有看到对应的提升，反而被 GPT 的 Astra 抢了风头。 问题不仅在于数量，还在于数据管线。数据被大量采集回来，但从采集到进训练之间那段加工链路存在大量问题：筛选没有细粒度标准，数据难以跨本体迁移，数据质量至今没有公认的评测机制。具",
-          "source": "雷峰网",
-          "published": "2026-10-30T07:11:00+00:00",
-          "published_ts": 1793344260.0,
-          "category": "llm"
-        },
-        {
           "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
           "link": "https://sspai.com/post/116435",
           "summary": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。 查看全文",
@@ -294,42 +348,6 @@
           "published": "2026-10-29T09:00:00+00:00",
           "published_ts": 1793264400.0,
           "category": "llm"
-        },
-        {
-          "title": "谷歌发布专注于网络安全和编码的Gemini 4 Carbon",
-          "link": "https://analyticsindiamag.com/ai-news/google-announces-gemini-4-carbon-with-focus-on-cybersecurity-and-coding",
-          "summary": "了解Google Gemini 4 Carbon在网络安全和编码方面的能力，包括其基准分数和软件漏洞检测的高级功能",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-29T08:22:12+00:00",
-          "published_ts": 1793262132.0,
-          "category": "llm"
-        },
-        {
-          "title": "Block推出DESSA ，这是一种全双工语音模型，仅受过语音训练",
-          "link": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
-          "summary": "Block的人工智能实验室发布了Dessa ，这是一种仅在人类对话音频上训练的全双工语音到语音模型。它在MacBook Pro M4 Max上本地运行，但Block没有发布任何尺寸、基准或重量。POST Block Unveils DESSA是一种只在语音上训练的全双工语音模型，首次出现在MarkTechPost上。",
-          "source": "MarkTechPost",
-          "published": "2026-10-29T07:50:39+00:00",
-          "published_ts": 1793260239.0,
-          "category": "llm"
-        },
-        {
-          "title": "HCLTech借助AWS推出Nano GCC模型以构建人工智能运营",
-          "link": "https://analyticsindiamag.com/ai-news/hcltech-launches-nano-gcc-model-with-aws-to-build-ai-operations",
-          "summary": "该产品面向现有海湾合作委员会的企业和中端市场公司，寻求在印度建立以人工智能为中心的团队，并在亚太地区首次推出",
-          "source": "Analytics India Magazine",
-          "published": "2026-10-29T05:13:08+00:00",
-          "published_ts": 1793250788.0,
-          "category": "llm"
-        },
-        {
-          "title": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
-          "link": "https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "· OpenAI拟采购GoogleTPU，已招聘工程师适配前沿模型 · 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相 · 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目 期项目 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-10-29T00:00:32+00:00",
-          "published_ts": 1793232032.0,
-          "category": "llm"
         }
       ]
     },
@@ -337,7 +355,7 @@
       "key": "agent",
       "label": "智能体",
       "color": "#7c3aed",
-      "count": 33,
+      "count": 31,
       "items": [
         {
           "title": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
@@ -346,6 +364,15 @@
           "source": "爱范儿",
           "published": "2026-10-31T13:59:57+00:00",
           "published_ts": 1793455197.0,
+          "category": "agent"
+        },
+        {
+          "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+          "link": "https://www.qbitai.com/2026/10/506904.html",
+          "summary": "AI已经自己找到Bug并提交PR",
+          "source": "量子位",
+          "published": "2026-10-31T13:49:44+00:00",
+          "published_ts": 1793454584.0,
           "category": "agent"
         },
         {
@@ -421,15 +448,6 @@
           "category": "agent"
         },
         {
-          "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
-          "link": "https://www.leiphone.com/category/industrynews/7pQrGMmdsjx5dOSR.html",
-          "summary": "10 月 30 日，百度 APP 在北京举办产品升级沟通会。百度搜索实现递归自我进化，并全新升级搜索 AI API，活动期间最低价仅需 4.9 元/千次，低于 DeepSeek 搜索 API。同时围绕搜索框、AI 镜头、GUI 可视化、AI 互动应用等方向推出重大升级，给用户带来更智能、更聪明、更好玩的体验，在助力用户“搞定一切”上更进一步。 升级后的百度 APP，文心助手让搜索从「一次问答」走向「一份交付」，复杂问题和高频事务可直接交付成果物，长期任务则持续跟踪、主动提醒，目前已覆盖 170 余种场景。AI 镜头从「定格」走向「流动」，支持多目标同步识别与动态追踪，并可用东北话、四川话、粤语等 9 种方言实时对话。搜索结果页 GUI 互动场景提升 5 倍，接入政务、民生、央行等超 50 亿数据资源；AI 互动剧与互动应用同步上线。",
-          "source": "雷峰网",
-          "published": "2026-10-30T07:30:00+00:00",
-          "published_ts": 1793345400.0,
-          "category": "agent"
-        },
-        {
           "title": "Articul8推出Bivia帮助企业人工智能代理做出决策",
           "link": "https://analyticsindiamag.com/ai-news/articul8-launches-bivia-to-help-enterprise-ai-agents-make-decisions",
           "summary": "该公司推出了Bivia ，这是一种多模态决策模型，旨在帮助企业AI代理做出特定领域的决策并验证跨差异的证据",
@@ -463,24 +481,6 @@
           "source": "Analytics India Magazine",
           "published": "2026-10-29T10:00:21+00:00",
           "published_ts": 1793268021.0,
-          "category": "agent"
-        },
-        {
-          "title": "Infini-AI-Lab发布面向人工智能代理的开源线束适配器框架Hermit",
-          "link": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
-          "summary": "Infini-AI-Lab发布了Hermit ，这是一个Apache-2.0线束适配器框架，可从任务反馈中训练指令、技能、内存和工具的外部层，使代理的模型和线束保持不变。后Infini-AI-Lab发布了Hermit ，这是一个用于AI代理的开源线束适配器框架，首次出现在MarkTechPost上。",
-          "source": "MarkTechPost",
-          "published": "2026-10-29T08:24:52+00:00",
-          "published_ts": 1793262292.0,
-          "category": "agent"
-        },
-        {
-          "title": "让 Agent 读懂你的身体：数据处理篇",
-          "link": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
-          "summary": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
-          "source": "少数派",
-          "published": "2026-10-29T03:29:46+00:00",
-          "published_ts": 1793244586.0,
           "category": "agent"
         },
         {
@@ -642,33 +642,15 @@
       "key": "embodied",
       "label": "具身智能",
       "color": "#059669",
-      "count": 6,
+      "count": 4,
       "items": [
         {
-          "title": "让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026",
-          "link": "https://www.leiphone.com/category/robot/sRmmVes4DwBoIeRm.html",
-          "summary": "FlexiTac压阻式传感器可兼顾柔性、低成本与一致性。 作者丨 向欣 编辑丨岑峰 机器人的视觉能力正快速增强，但 触觉仍然是具身智能系统中的薄弱环节 。尤其是在精细操作场景中，当 物体被遮挡、透明、易碎，或需要精确判断接触力与手内姿态 时，仅靠视觉往往难以确认机器人是否真正抓稳了物体、是否发生了滑移，也难以实现可靠的力控与顺从交互。 与图像领域已经形成相对统一的传感器和数据体系相比，触觉研究尚未形成类似的「收敛」。不同实验室往往使用不同类型的触觉传感器，但它们都面临 寿命、柔性、多维信息感知、分辨率、成本与一致性 难以同时兼顾的困境。这使得触觉数据采集、算法研究以及不同系统之间的复现都变得更加困难。 如何 让触觉像视觉一样 ，成为一种可以被更多机器人使用、被大量采集、被算法反复利用的基础感知能力？ 针对这个问题，哥伦比亚大学李昀烛团队提出了开源柔性压阻式触觉传感器平台 FlexiTac ",
-          "source": "雷峰网",
-          "published": "2026-10-30T08:13:00+00:00",
-          "published_ts": 1793347980.0,
-          "category": "embodied"
-        },
-        {
-          "title": "IROS 2026 观察：从 Demo 到生产力工具，灵巧手还要跨过几道坎？",
-          "link": "https://www.leiphone.com/category/robot/jv4zJUmQr2wkoN0i.html",
-          "summary": "灵巧手的设计逻辑，要由落地需求反推。 作者丨向 欣 编辑丨高景辉 今年 IROS，灵巧操作和触觉的热度比以往更盛，串珠子、插 USB、给帆布袋烫 logo、手内转笔、转球、调酒，各种演示在现场轮番上演。 从 ICRA，到 WRC，再到 IROS，我们追踪了今年几乎所有机器人领域的顶会，一个越来越清晰的感受是：对灵巧手而言，完成复杂动作已经越来越不是难事。 展示不再局限于简单的抓取和搬运，变得更强调 复杂接触（contact-rich）、动态调整、长时序操作 以及 可变形物体处理 等接近真实作业的任务。 整体来看，厂商对落地的需求越来越高，心态也更加务实。过去大家追求参数丰富、指标极致，如今 不少参数反而开始回 调，有的是自由度做了减法，有的是传感器配置更加务实。 长期可靠 性、稳定使用、易维护，以及交付后能否真正用起来被放到更优先的位置。 这也是今年我们在源升智能展台看到的一个有意思的变化",
-          "source": "雷峰网",
-          "published": "2026-10-30T07:23:00+00:00",
-          "published_ts": 1793344980.0,
-          "category": "embodied"
-        },
-        {
-          "title": "伯牙智能刘欣：GPT-6 之后，轮到硬件拖机器人后腿了 | 物理AI 50人",
-          "link": "https://www.leiphone.com/category/robot/EnKFLg1RRmN9SaHJ.html",
-          "summary": "灵巧手去年出货近 2 万只，大部分在「吃灰」 作者丨 向 欣 编辑丨 高景辉 去年，国内灵巧手公开可查的出货量是约两万只。在伯牙智能创始人刘欣的观察里，其中大部分灵巧手的归宿是跟着人形机器人表演几场，然后被搁在角落里， 「表演完就吃灰」 。 便宜的低自由度灵巧手多用于表演；操作能力更强的高自由度产品又容易损坏，有的因为贵，买回来供着不敢用，有的用一星期到两三个月就坏了——这是刘欣看到的灵巧手市场的现状。 在他看来，灵巧手行业连目标客户是谁、要解决什么问题、客户愿意为什么买单，都还没有明确答案。行业需要开辟 第三个市场 ：以可接受的成本，将科研级操作能力带入实际应用。 而这样的产品至今仍未出现，目前最顶尖的灵巧手，离人手能力都相差甚远。这就是伯牙的机会。 刘欣在阿里工作近十年，曾任阿里巴巴操作系统事业部技术总监、斑马智行产品负责人，业务涉及手机、汽车、IoT 和机器人。2023 年，他加入蔚",
-          "source": "雷峰网",
-          "published": "2026-10-30T07:13:00+00:00",
-          "published_ts": 1793344380.0,
+          "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+          "link": "https://www.qbitai.com/2026/11/506990.html",
+          "summary": "这事还是想得太简单了",
+          "source": "量子位",
+          "published": "2026-11-01T07:50:57+00:00",
+          "published_ts": 1793519457.0,
           "category": "embodied"
         },
         {
@@ -706,6 +688,96 @@
       "color": "#64748b",
       "count": 39,
       "items": [
+        {
+          "title": "Xnip 十周年：长截图的新生，也是新的起点",
+          "link": "https://sspai.com/post/115662",
+          "summary": "十年是一个里程碑，也是新的起点。 查看全文",
+          "source": "少数派",
+          "published": "2026-11-02T03:00:41+00:00",
+          "published_ts": 1793588441.0,
+          "category": "general"
+        },
+        {
+          "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+          "link": "https://sspai.com/post/118191",
+          "summary": "Apple 智能将随 iOS 27.3 登陆中国 苹果对闪存的议价权受到压制 Claude Code 官方扩展被植入后门 美国 FCC 禁止中国实验室认证输美电子产品 百度网盘通过磁力计数据规避「摇一摇」广告权限 币安 63 亿美元资产被盗 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+          "source": "少数派",
+          "published": "2026-11-01T23:22:45+00:00",
+          "published_ts": 1793575365.0,
+          "category": "general"
+        },
+        {
+          "title": "OpenAI可能会将其数据中心重新命名为“AI计算园区”",
+          "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+          "summary": "数据中心非常不受欢迎。但是，如果我们称之为其他东西呢？",
+          "source": "TechCrunch AI",
+          "published": "2026-11-01T21:55:23+00:00",
+          "published_ts": 1793570123.0,
+          "category": "general"
+        },
+        {
+          "title": "人工智能可以让科技CEO的生活更轻松。其他人呢？",
+          "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+          "summary": "在Equity上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。",
+          "source": "TechCrunch AI",
+          "published": "2026-11-01T20:57:58+00:00",
+          "published_ts": 1793566678.0,
+          "category": "general"
+        },
+        {
+          "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+          "link": "https://www.qbitai.com/2026/11/507038.html",
+          "summary": "",
+          "source": "量子位",
+          "published": "2026-11-01T13:09:55+00:00",
+          "published_ts": 1793538595.0,
+          "category": "general"
+        },
+        {
+          "title": "极氪10月交付同比增长51.6%，“海外最贵中国车”9X首销售罄",
+          "link": "https://www.leiphone.com/category/transportation/oDbG4KXJpt7KOOqy.html",
+          "summary": "11月1日，极氪公布销量数据：10月交付新车32483辆，同比增长51.6%，1-10月交付超32万辆，同比增94.4%，平均客单价近37万元，已完成年度30万辆销售目标，是主流车企中量价齐升且唯一提前超额完成全年目标的品牌。其中，极氪7X连续4个月月销过万。同时，旗舰车型极氪9X在国内的热销也为海外开拓打下坚实基础，其欧洲售价折合人民币超100万元，被外媒称为“最贵中国车”，是首款在当地站稳百万级价位并实现规模化销售的中国车。据悉，有约700辆9X正陆续发运欧洲，预计2027年1月开启交付。 今年以来，汽车市场整体承压，而极氪销量逆势连创新高、品牌势能稳步向上，本月官方海报文案的“不畏浮云遮望眼”，点明了极氪在喧嚣的市场环境中，不参与价格战和口水战，专注极致产品打造和用户服务提升。当前中国豪华市场，ZAN（Zeekr、AITO、NIO）各具优势，已形成对垒BBA为代表的传统海外品牌的国产",
+          "source": "雷峰网",
+          "published": "2026-11-01T07:13:00+00:00",
+          "published_ts": 1793517180.0,
+          "category": "general"
+        },
+        {
+          "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+          "link": "https://sspai.com/post/116991",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+          "source": "少数派",
+          "published": "2026-11-01T07:02:46+00:00",
+          "published_ts": 1793516566.0,
+          "category": "general"
+        },
+        {
+          "title": "吉利Q3营收近千亿，在英国跨过新手期",
+          "link": "https://www.leiphone.com/category/transportation/rLaJDB8ySePtzPT2.html",
+          "summary": "2025 年 11 月，从中国出发的 1000 辆 EX5 停靠在布里斯托港口，等待PDI 检测。这是英国进口车的法定动作：检查运输损伤、激活车机软件、补齐随车配件以及充电测试。然后装上板车，分拨发往英国的各大经销商。 EX5 还要多一道程序 —— 英国路特斯工程（莲花工程）对EX5的底盘，悬架，动力系统进行了动态评估 ，以及港口的交车前检测服务，以适配英国市场的驾驶需求。 跑车品牌为家用车调校底盘，是吉利切入英国市场时辨识度最高的一张牌。效果很明显，截至目前，吉利在英国的销量累计超过 1.2 万辆， 9 月销量达到 5155 辆。 在昨天吉利汽车第三季度业绩说明会上，吉利管理层也强调了吉利在英国月销已超过 5 000 辆，这个数据背后， 比亚迪大概花了 24 个月的时间 ；奇瑞同样 花了 19 个月的时间 ， 而吉利只 用 了不到 12 个月 。 销量快速爬坡，吉利英国团队的业务边界也同",
+          "source": "雷峰网",
+          "published": "2026-11-01T06:36:00+00:00",
+          "published_ts": 1793514960.0,
+          "category": "general"
+        },
+        {
+          "title": "小米汽车10月交付超5万辆，澎程首个完整交付月持续上量",
+          "link": "https://www.leiphone.com/category/industrynews/aRPnyq1gaAiV8dcQ.html",
+          "summary": "11月1日，小米汽车公布10月交付数据，单月交付量首次突破5万辆大关。其中，新系列小米澎程迎来上市后首个完整交付月，交付持续爬坡，助力小米汽车整体销量再上新台阶。这标志着小米汽车“纯电加增程”的产品矩阵正式全面铺开，双系列稳步推进。 小米澎程作为小米汽车旗下智能可变大空间SUV系列，自9月7日上市以来，凭借智能可变大空间与大电池增程的组合，精准切入用户核心痛点——10月首个完整交付月交付稳步爬坡，上市两个月展现出的势头超出市场预期。从媒体拆车、深度评测到车主真实使用体验，澎程的口碑持续破圈，后劲十足。随着四季度澎程产能继续爬坡，小米汽车四季度的交付曲线有望再上一个台阶。 同时，小米汽车同步推出“3年0息”金融方案，首付7.99万元起。 2026年11月1日0点至11月30日24点期间下定，小米澎程N70全系享首付7.99万元起、3年0息，或可在“3年0息”、“5年分期3年0息”、“6000",
+          "source": "雷峰网",
+          "published": "2026-11-01T06:29:00+00:00",
+          "published_ts": 1793514540.0,
+          "category": "general"
+        },
+        {
+          "title": "Jev新成果，再次引爆开源",
+          "link": "https://www.qbitai.com/2026/11/506922.html",
+          "summary": "再次“性价比屠夫”",
+          "source": "量子位",
+          "published": "2026-11-01T04:18:37+00:00",
+          "published_ts": 1793506717.0,
+          "category": "general"
+        },
         {
           "title": "苹果首席执行官表示，该公司“不想为人工智能出货”",
           "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -965,96 +1037,6 @@
           "source": "雷峰网",
           "published": "2026-10-30T14:20:00+00:00",
           "published_ts": 1793370000.0,
-          "category": "general"
-        },
-        {
-          "title": "跳过闲聊：与Braindate在TechCrunch创始人峰会上建立改变游戏规则的联系",
-          "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-          "summary": "在11月4日在波士顿SoWa发电站举行的2026年TechCrunch创始人峰会上，由Braindate提供支持的网络旨在使这些对话更容易找到，无论是在一对一会议还是小团体现场会议中。在活动开始前注册，您的通行证最多可节省$ 100 ，还可免费获得一秒钟的通行证。",
-          "source": "TechCrunch AI",
-          "published": "2026-10-30T14:00:00+00:00",
-          "published_ts": 1793368800.0,
-          "category": "general"
-        },
-        {
-          "title": "山姆·奥尔特曼（ Sam Altman ）同情数学家，但表示OpenAI的数学冲击不会停止",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-          "summary": "OpenAI首席执行官萨姆·奥尔特曼（ Sam Altman ）表示，经过数月的轰炸，数学家获得了源源不断的人工智能结果，他同情那些努力理解这一切的研究人员。但他无意停下来-并暗示公司的发现库存可能会有更多的东西。“我想，在网上， […]",
-          "source": "The Verge AI",
-          "published": "2026-10-30T13:30:14+00:00",
-          "published_ts": 1793367014.0,
-          "category": "general"
-        },
-        {
-          "title": "汽车工业的下一条流水线，开始由 AI 来安排",
-          "link": "https://www.ifanr.com/1686953?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "从司机乘客，到汽车工厂，再到整个产业。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-10-30T13:03:59+00:00",
-          "published_ts": 1793365439.0,
-          "category": "general"
-        },
-        {
-          "title": "还剩5天：在2026年TechCrunch创始人峰会上建立联系、扩展规模并享受优惠的最后机会",
-          "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-          "summary": "5天可节省高达100 $ ， 11月4日在波士顿举行的2026年TechCrunch创始人峰会还可免费获得第二张通行证。立即注册。",
-          "source": "TechCrunch AI",
-          "published": "2026-10-30T13:00:00+00:00",
-          "published_ts": 1793365200.0,
-          "category": "general"
-        },
-        {
-          "title": "人工智能数据中心能像汽车一样大规模生产吗？这家初创公司旨在了解",
-          "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-          "summary": "Runware正在建造一个工厂，在装配线上生产预制AI数据中心。真正的考验将是它是否能够以这样的规模交付。",
-          "source": "TechCrunch AI",
-          "published": "2026-10-30T13:00:00+00:00",
-          "published_ts": 1793365200.0,
-          "category": "general"
-        },
-        {
-          "title": "进击中的影石：攻击性强，血条太脆 ？",
-          "link": "https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html",
-          "summary": "影石并不缺成功故事。 十一年前，年轻的影石以破局者的姿态，切入全景相机这片无人区，打了一场漂亮的仗。 它的成绩单也够耀眼，成立11年，影石相机全球累计出货量已经突破1000万台，其中470万台来自过去一年。在其最擅长的全景相机市场，2026年二季度的全球出货份额约73%。 手机影像从业者许衡评价：“影石能做到今天这个市场，核心是善于洞察一些被巨头遗忘的需求，并以此开拓成新市场。” 此后，影石也一直在证明自己并非只能做好全景相机。 2026年6月，首款云台相机Luna Ultra上市，不足一个月便接近全球云台相机出货份额的6%。在许多后起之秀的商业故事里，这是一个不错的成绩。 但有另一组数字，却反映了另一种事实。 2026年前三季度，影石营收同比增长42.73%至94.36亿元，归母净利润却下降93.96%至4783.56万元，扣非归母净利润仅513.44万元，合并净利润亏损1.67亿元。同",
-          "source": "雷峰网",
-          "published": "2026-10-30T11:12:00+00:00",
-          "published_ts": 1793358720.0,
-          "category": "general"
-        },
-        {
-          "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
-          "link": "https://www.qbitai.com/2026/10/506785.html",
-          "summary": "之前还连登昇腾三榜第一",
-          "source": "量子位",
-          "published": "2026-10-30T11:05:06+00:00",
-          "published_ts": 1793358306.0,
-          "category": "general"
-        },
-        {
-          "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
-          "link": "https://www.qbitai.com/2026/10/506779.html",
-          "summary": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。",
-          "source": "量子位",
-          "published": "2026-10-30T10:44:01+00:00",
-          "published_ts": 1793357041.0,
-          "category": "general"
-        },
-        {
-          "title": "红魔 12 Pro+ 体验：水冷加上 RGB 灯，游戏性能全面升级",
-          "link": "https://www.ifanr.com/1686916?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "水冷，必须有 RGB 灯。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-10-30T10:06:37+00:00",
-          "published_ts": 1793354797.0,
-          "category": "general"
-        },
-        {
-          "title": "盖伦奖提名一年后，希格生科的边界、验证与野心",
-          "link": "https://www.leiphone.com/category/aihealth/BseLhlDzaWQ8XrWr.html",
-          "summary": "“五年前我们把这页PPT放出来，很多人都说这是在‘画饼’。但现在我们和晶泰合作研发的全球首款弥漫性胃癌靶向药，已迈向关键临床验证。” 作者丨 周蕾 编辑丨岑峰 【编者按】被誉为\"医药界诺贝尔奖\"的美国盖伦奖（Prix Galien USA），于10月29日公布了2026年度获奖名单。 值得注意的是，晶泰科技孵化的创新企业已连续两年入围该奖项提名。去年，希格生科凭借全球首款弥漫性胃癌靶向药SIGX1094获得\"最佳生物技术产品\"提名；今年，莱芒生物与默达生物双双入围“最佳初创公司”提名——前者在晶泰研发助力下，以千分之一常规剂量的代谢增强型CAR-T疗法获得提名，后者则与晶泰合作研发了全球首款口服LDH抑制剂MP-5342，瞄准全球超千亿美元的自免市场。 在奖项揭晓之后，雷峰网AI科技评论先后与希格生科、莱芒生物、默达生物进行了深度对话，以下是 希格生科篇。 2025年，希格生科凭借与晶泰科",
-          "source": "雷峰网",
-          "published": "2026-10-30T10:03:00+00:00",
-          "published_ts": 1793354580.0,
           "category": "general"
         }
       ]

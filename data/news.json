@@ -2,8 +2,8 @@
   "title": "AI 日报",
   "subtitle": "大模型 · 智能体 · 具身智能",
   "description": "每天自动聚合大模型、智能体与具身智能领域的AI资讯",
-  "generated_at": "2026-11-07T04:50:44+00:00",
-  "total": 271,
+  "generated_at": "2026-11-08T04:42:20+00:00",
+  "total": 270,
   "source_count": 17,
   "error_count": 1,
   "errors": [
@@ -14,7 +14,7 @@
       "key": "llm",
       "label": "大模型",
       "color": "#2563eb",
-      "count": 32,
+      "count": 31,
       "items": [
         {
           "title": "百图生科与11家伙伴战略合作，AI生物计算覆盖医药研发及农业育种",
@@ -26,12 +26,30 @@
           "category": "llm"
         },
         {
+          "title": "为什么关于人择自动化人工智能开发的新报告令研究人员感到震惊",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "summary": "Anthropic 正在利用 AI 来构建更强大的 AI。而且它似乎运行得非常好，该公司的模型改进速度大约是一年前的两倍，几乎没有放缓的迹象。这是根据人工智能安全研究组织 METR 在经过为期 11 周的调查后于周四发布的一份新报告得出的结论 [...]",
+          "source": "The Verge AI",
+          "published": "2026-11-06T21:48:06+00:00",
+          "published_ts": 1794001686.0,
+          "category": "llm"
+        },
+        {
           "title": "“梅塔认为我们不识字吗？” Meta 放弃粗略的商业条款更新。",
           "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
           "summary": "Meta 不会强迫 Facebook 页面所有者允许对链接内容进行人工智能训练。",
           "source": "Ars Technica AI",
           "published": "2026-11-06T17:43:02+00:00",
           "published_ts": 1793986982.0,
+          "category": "llm"
+        },
+        {
+          "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+          "link": "https://www.qbitai.com/2026/11/508184.html",
+          "summary": "Dario刚喊减速…",
+          "source": "量子位",
+          "published": "2026-11-06T15:21:56+00:00",
+          "published_ts": 1793978516.0,
           "category": "llm"
         },
         {
@@ -116,15 +134,6 @@
           "category": "llm"
         },
         {
-          "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
-          "link": "https://www.qbitai.com/2026/11/507967.html",
-          "summary": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
-          "source": "量子位",
-          "published": "2026-11-06T02:00:11+00:00",
-          "published_ts": 1793930411.0,
-          "category": "llm"
-        },
-        {
           "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
           "link": "https://sspai.com/post/118587",
           "summary": "",
@@ -176,15 +185,6 @@
           "source": "OpenAI Blog",
           "published": "2026-11-05T17:00:00+00:00",
           "published_ts": 1793898000.0,
-          "category": "llm"
-        },
-        {
-          "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
-          "link": "https://www.qbitai.com/2026/11/507834.html",
-          "summary": "走向“智能体化世界模型”。",
-          "source": "量子位",
-          "published": "2026-11-05T09:37:40+00:00",
-          "published_ts": 1793871460.0,
           "category": "llm"
         },
         {
@@ -294,15 +294,6 @@
           "published": "2026-11-04T06:01:57+00:00",
           "published_ts": 1793772117.0,
           "category": "llm"
-        },
-        {
-          "title": "腾讯WeVisOne-VL 统一检测、OCR、分割和抠图",
-          "link": "https://www.marktechpost.com/2026/11/03/tencent-wevisone-vl-vision-language-model/",
-          "summary": "腾讯微信视觉团队发布了WeVisOne-VL，这是一个2B和4B大小的Apache 2.0视觉语言模型。它在一个模型中处理检测、OCR、计数、分割和 Alpha 抠图，并具有 960 万参数像素解码器。腾讯 WeVisOne-VL 统一检测、OCR、分割和抠图的帖子首先出现在 MarkTechPost 上。",
-          "source": "MarkTechPost",
-          "published": "2026-11-04T04:39:27+00:00",
-          "published_ts": 1793767167.0,
-          "category": "llm"
         }
       ]
     },
@@ -310,8 +301,35 @@
       "key": "agent",
       "label": "智能体",
       "color": "#7c3aed",
-      "count": 37,
+      "count": 38,
       "items": [
+        {
+          "title": "纽约时报烹饪的人工智能助手救了我的周末鸡肉，但差点毁了我的蛋糕",
+          "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+          "summary": "每个工作日晚上 7 点左右，我发现自己站在冰箱前，试图决定晚餐吃什么，以免让我丈夫抱怨，“又是鸡肉？”是的，我应该更多地制定膳食计划，但我没有，所以这就是我现在的处境。一场夜间的战斗，通常是鸡获胜。最近，我最好的[…]",
+          "source": "The Verge AI",
+          "published": "2026-11-07T15:47:15+00:00",
+          "published_ts": 1794066435.0,
+          "category": "agent"
+        },
+        {
+          "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+          "link": "https://www.qbitai.com/2026/11/508264.html",
+          "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
+          "source": "量子位",
+          "published": "2026-11-07T05:01:17+00:00",
+          "published_ts": 1794027677.0,
+          "category": "agent"
+        },
+        {
+          "title": "AGENTS.MD，危险危险危险！！！",
+          "link": "https://www.qbitai.com/2026/11/508244.html",
+          "summary": "全新的电脑病毒",
+          "source": "量子位",
+          "published": "2026-11-07T03:43:55+00:00",
+          "published_ts": 1794023035.0,
+          "category": "agent"
+        },
         {
           "title": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间”",
           "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
@@ -331,21 +349,21 @@
           "category": "agent"
         },
         {
-          "title": "亚马逊将允许你向 Alexa 发送购物清单短信",
-          "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-          "summary": "亚马逊正在为 Alexa for Shopping 添加一项新功能，允许客户通过向人工智能购物助手发送短信来购买商品。用户可以描述他们想要购买的产品和/或提供该商品的照片，Alexa for Shopping 将在亚马逊列表中搜索匹配结果，回复短信推荐，并 [...]",
-          "source": "The Verge AI",
-          "published": "2026-11-06T13:56:32+00:00",
-          "published_ts": 1793973392.0,
+          "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+          "link": "https://www.qbitai.com/2026/11/508174.html",
+          "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+          "source": "量子位",
+          "published": "2026-11-06T09:25:59+00:00",
+          "published_ts": 1793957159.0,
           "category": "agent"
         },
         {
-          "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
-          "link": "https://www.qbitai.com/2026/11/508143.html",
-          "summary": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
+          "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+          "link": "https://www.qbitai.com/2026/11/508170.html",
+          "summary": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
           "source": "量子位",
-          "published": "2026-11-06T06:43:14+00:00",
-          "published_ts": 1793947394.0,
+          "published": "2026-11-06T09:21:51+00:00",
+          "published_ts": 1793956911.0,
           "category": "agent"
         },
         {
@@ -400,24 +418,6 @@
           "source": "TechCrunch AI",
           "published": "2026-11-05T16:16:45+00:00",
           "published_ts": 1793895405.0,
-          "category": "agent"
-        },
-        {
-          "title": "Dropbox 以 3.5 亿美元收购 Tigris Data，以加强其人工智能基础设施",
-          "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-          "summary": "该交易预计将支持 DBX Agent Cloud 的开发，这是一个新的存储平台，旨在帮助开发人员构建人工智能模型和代理。",
-          "source": "TechCrunch AI",
-          "published": "2026-11-05T15:19:05+00:00",
-          "published_ts": 1793891945.0,
-          "category": "agent"
-        },
-        {
-          "title": "Aina 的智能戒指有一个屏幕、一个操纵杆和一个麦克风，因此您可以与人工智能代理交谈",
-          "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-          "summary": "Aina 的戒指还可以接听电话并帮助您在 Mac 上听写笔记。",
-          "source": "TechCrunch AI",
-          "published": "2026-11-05T14:42:00+00:00",
-          "published_ts": 1793889720.0,
           "category": "agent"
         },
         {
@@ -767,8 +767,107 @@
       "key": "general",
       "label": "综合",
       "color": "#64748b",
-      "count": 39,
+      "count": 40,
       "items": [
+        {
+          "title": "别再拿《影之刃零》对比《黑神话》了",
+          "link": "https://www.ifanr.com/1688282?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "《影之刃》有自己的江湖。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-08T04:00:31+00:00",
+          "published_ts": 1794110431.0,
+          "category": "general"
+        },
+        {
+          "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原",
+          "link": "https://www.ifanr.com/1688364?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "磁带在 AI 时代迎来了第二春。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-08T03:35:42+00:00",
+          "published_ts": 1794108942.0,
+          "category": "general"
+        },
+        {
+          "title": "苹果产品那些不够颠覆，却值得被学习的细节",
+          "link": "https://sspai.com/post/118114",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+          "source": "少数派",
+          "published": "2026-11-08T03:18:54+00:00",
+          "published_ts": 1794107934.0,
+          "category": "general"
+        },
+        {
+          "title": "中期选举之后，埃隆·马斯克和数据中心的情况看起来并不乐观",
+          "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+          "summary": "在股票方面，我们解析了中期选举对科技行业的意义。",
+          "source": "TechCrunch AI",
+          "published": "2026-11-07T22:07:22+00:00",
+          "published_ts": 1794089242.0,
+          "category": "general"
+        },
+        {
+          "title": "根据美国情报备忘录，Megaspeed 高管被招募来监视 Nvidia 首席执行官",
+          "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+          "summary": "据报道，今年早些时候流传的一份备忘录声称，中国国家安全部招募了一名女性技术高管来监视英伟达首席执行官。",
+          "source": "TechCrunch AI",
+          "published": "2026-11-07T21:17:08+00:00",
+          "published_ts": 1794086228.0,
+          "category": "general"
+        },
+        {
+          "title": "最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元",
+          "link": "https://www.ifanr.com/1688312?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "性能和豪华，仰望说它全都要。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-07T16:50:33+00:00",
+          "published_ts": 1794070233.0,
+          "category": "general"
+        },
+        {
+          "title": "美国允许英伟达向中国空置办公室出售芯片",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+          "summary": "人们担心美国商务部和英伟达在审查获准处理该公司 H200 人工智能芯片的中国公司时都没有尽职调查。据《纽约时报》报道，New Matrix 已列入获批公司名单，但其办公室却是空的，“一个空心的灰色外壳 […]",
+          "source": "The Verge AI",
+          "published": "2026-11-07T15:43:45+00:00",
+          "published_ts": 1794066225.0,
+          "category": "general"
+        },
+        {
+          "title": "冲刺狂欢日！抖音商城双11高光品牌有哪些？",
+          "link": "https://www.leiphone.com/category/industrynews/Fk2MojO1XgLVidbM.html",
+          "summary": "双11大促进入最后冲刺期，品牌增长持续提速。11月7日，抖音商城双11高光品牌TOP20正式出炉，覆盖服饰穿搭、运动户外、美妆个护、品质生活四大赛道，集中呈现大促开门红至第二阶段，各赛道标杆品牌的爆发表现。 01运动户外 “轻户外”生活方式加速普及，叠加秋冬出行场景增多，运动户外赛道热度持续攀升。Fila/斐乐、CAMEL/骆驼、adidas/阿迪达斯占据运动户外榜前三。其中，消费者对运动装备的需求也正向日常场景延伸，Fila/斐乐、adidas/阿迪达斯、ANTA/安踏位列服饰运动榜前三，“既能通勤又能进山”的多场景装备成为消费共识。 与此同时，硬核户外场景的热度也在持续走高，CAMEL/骆驼、THE NORTH FACE/北面、pelliot/伯希和位列服饰户外榜TOP3。冲锋衣、徒步、垂钓等细分场景装备需求集中释放，专业性能与质价比成为选购的两条主线。 02服饰穿搭 秋冬换季叠加降温",
+          "source": "雷峰网",
+          "published": "2026-11-07T10:54:00+00:00",
+          "published_ts": 1794048840.0,
+          "category": "general"
+        },
+        {
+          "title": "一个 05 后的个人数码编年史",
+          "link": "https://sspai.com/post/116750",
+          "summary": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。 查看全文",
+          "source": "少数派",
+          "published": "2026-11-07T09:05:06+00:00",
+          "published_ts": 1794042306.0,
+          "category": "general"
+        },
+        {
+          "title": "人工智能打破了网络安全世界。接下来是什么？",
+          "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+          "summary": "今天，我将与 Cognition 首席安全官、长期网络安全专家亚历克斯·斯塔莫斯 (Alex Stamos) 讨论目前的网络安全状况有多混乱。本集是探讨现实生活中人工智能的特别系列的一部分。我一直很喜欢和亚历克斯交谈，因为他非常直接，你会听到他说[...]",
+          "source": "The Verge AI",
+          "published": "2026-11-07T05:43:11+00:00",
+          "published_ts": 1794030191.0,
+          "category": "general"
+        },
+        {
+          "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+          "link": "https://www.qbitai.com/2026/11/508196.html",
+          "summary": "RSI不可能无限快",
+          "source": "量子位",
+          "published": "2026-11-07T03:23:29+00:00",
+          "published_ts": 1794021809.0,
+          "category": "general"
+        },
         {
           "title": "Crusoe 将陷入困境的怀俄明州数据中心项目出售给谷歌",
           "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -869,15 +968,6 @@
           "category": "general"
         },
         {
-          "title": "Akai 和 Moog 如何拥抱振动编码模组",
-          "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-          "summary": "inMusic 是 Akai、Moog、Native Instruments 等公司的母公司，已决定拥抱改装社区。 inMusic 首席执行官 Jack O'Donnell 在接受 The Verge 采访时表示：“我们将向社区提供一个工具箱，我们将提供 MPC 或 Sample 等的内部工作原理，以便人们可以 [...]",
-          "source": "The Verge AI",
-          "published": "2026-11-06T16:34:39+00:00",
-          "published_ts": 1793982879.0,
-          "category": "general"
-        },
-        {
           "title": "GTA VI 的潜在 AI 克隆能否迫使官方移植更快？",
           "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
           "summary": "一位前 Rockstar 技术总监认为开发商正面临新的时间压力。",
@@ -905,15 +995,6 @@
           "category": "general"
         },
         {
-          "title": "抗议者闯入阿姆斯特丹的微软数据中心",
-          "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-          "summary": "今天早上，抗议者闯入阿姆斯特丹微软新数据中心的建筑工地。 Geef Tegengas 团体的成员帮助组织了抗议活动，反对在阿姆斯特丹郊区建造三座 85 米高的数据中心塔楼。路透社报道称，大约有 100 人进入了建筑工地，其中一些 […]",
-          "source": "The Verge AI",
-          "published": "2026-11-06T12:01:25+00:00",
-          "published_ts": 1793966485.0,
-          "category": "general"
-        },
-        {
           "title": "本周看什么 | 最近值得一看的 9 部作品",
           "link": "https://sspai.com/post/118623",
           "summary": "📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲。由法国百代公司出品，制作成本高达7520万欧元。作 ... 查看全文",
@@ -929,6 +1010,15 @@
           "source": "爱范儿",
           "published": "2026-11-06T09:25:33+00:00",
           "published_ts": 1793957133.0,
+          "category": "general"
+        },
+        {
+          "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+          "link": "https://www.qbitai.com/2026/11/508165.html",
+          "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+          "source": "量子位",
+          "published": "2026-11-06T09:19:00+00:00",
+          "published_ts": 1793956740.0,
           "category": "general"
         },
         {
@@ -977,24 +1067,6 @@
           "category": "general"
         },
         {
-          "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-          "link": "https://www.qbitai.com/2026/11/508107.html",
-          "summary": "一举刷新「AI安全世界杯」CyberGym世界纪录",
-          "source": "量子位",
-          "published": "2026-11-06T05:01:47+00:00",
-          "published_ts": 1793941307.0,
-          "category": "general"
-        },
-        {
-          "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
-          "link": "https://www.qbitai.com/2026/11/507988.html",
-          "summary": "香港金融科技周 x StartmeupHK 2026踏入第11届",
-          "source": "量子位",
-          "published": "2026-11-06T03:36:34+00:00",
-          "published_ts": 1793936194.0,
-          "category": "general"
-        },
-        {
           "title": "解读丨王腾创业一年，正把小米模式搬进卧室",
           "link": "https://www.leiphone.com/category/weiwu/93Xb1SiXL97SxUkH.html",
           "summary": "手机行业过去的最强“话题制造机”，这次没聊手机。 作者丨陈玘凡 编辑丨吴优 2026年10月29日，北京嘉瑞文化中心二楼。 王腾站在台上，手里拿着一枚戒指。这一天，距离他正式离开小米，刚过去一年零五十天。 手机行业曾经最会制造话题的市场操盘手之一，这次没有讲手机，而是以今日宜休之名发布了两个最\"安静\"的产品：一枚智能戒指，一张以床笠形态加装在床上的温控系统。 但问题是：在智能戒指已经杀成红海、智能床罩由Eight Sleep占据先机的赛道里，这两款售价1799元起的戒指和9999元起的床笠，到底有什么不一样？ 01 比 Oura 有更多传感器，比 8Sleep 更便宜 今日宜休发布的智能戒指ISHO Ring有两个版本：标准版售价1799元，Pro版售价2199元。 跟市面上其他智能戒指相比，它有几个不太一样的地方。 首先是基础硬件配置。ISHO Ring首发了目前穿戴设备里性能最强的Ap",
@@ -1010,15 +1082,6 @@
           "source": "雷峰网",
           "published": "2026-11-06T03:21:00+00:00",
           "published_ts": 1793935260.0,
-          "category": "general"
-        },
-        {
-          "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
-          "link": "https://www.qbitai.com/2026/11/507972.html",
-          "summary": "",
-          "source": "量子位",
-          "published": "2026-11-06T03:20:05+00:00",
-          "published_ts": 1793935205.0,
           "category": "general"
         },
         {
@@ -1049,15 +1112,6 @@
           "category": "general"
         },
         {
-          "title": "OpenAI 退出数据中心项目的保密协议",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-          "summary": "继本周的中期选举后，选民强烈反对数据中心扩建，OpenAI 今天宣布对其正在开展数据中心项目的社区做出新的承诺，包括不会与公职人员签订保密协议 (NDA)。许多数据中心项目因依赖保密协议来隐藏讨论而受到审查 [...]",
-          "source": "The Verge AI",
-          "published": "2026-11-06T00:37:56+00:00",
-          "published_ts": 1793925476.0,
-          "category": "general"
-        },
-        {
           "title": "埃及语和尼日利亚英语加入 Open ASR 排行榜",
           "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
           "summary": "",
@@ -1073,51 +1127,6 @@
           "source": "Ars Technica AI",
           "published": "2026-11-05T21:40:36+00:00",
           "published_ts": 1793914836.0,
-          "category": "general"
-        },
-        {
-          "title": "Cult.fit 通过 Codex 增强运营能力",
-          "link": "https://openai.com/index/cultfit-builds-with-codex",
-          "summary": "Cult.fit 正在使用 Codex 帮助跨职能团队构建工具、加快行动速度并改变工作完成方式。",
-          "source": "OpenAI Blog",
-          "published": "2026-11-05T20:00:00+00:00",
-          "published_ts": 1793908800.0,
-          "category": "general"
-        },
-        {
-          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
-          "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-          "summary": "Meta 警告说，随着社区抵制大规模基础设施项目，对数据中心日益增长的政治反对可能会威胁到未来的人工智能投资。",
-          "source": "TechCrunch AI",
-          "published": "2026-11-05T19:12:39+00:00",
-          "published_ts": 1793905959.0,
-          "category": "general"
-        },
-        {
-          "title": "OpenAI 总裁 Greg Brockman 表示公司可能会在 2027 年做好 IPO 的准备",
-          "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-          "summary": "周三，这位高管在《华尔街日报》科技会议上发表讲话时，吹捧了该公司如何在企业市场取得进展，而竞争对手 Anthropic 已经成功进军该市场。",
-          "source": "TechCrunch AI",
-          "published": "2026-11-05T18:02:27+00:00",
-          "published_ts": 1793901747.0,
-          "category": "general"
-        },
-        {
-          "title": "克劳德现在可以使用新的个人理财工具分析您的支出",
-          "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-          "summary": "借助 Claude 中的个人财务，用户可以通过 Plaid 连接他们的银行和卡帐户，并询问有关他们财务的问题。",
-          "source": "TechCrunch AI",
-          "published": "2026-11-05T18:00:00+00:00",
-          "published_ts": 1793901600.0,
-          "category": "general"
-        },
-        {
-          "title": "Gemini Omni 1.2 Flash：快速、经济高效，具有更长的剪辑",
-          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-          "summary": "文字“Gemini Introducing Gemini Omni 1.2 Flash”，周围环绕着蜂巢、对话中的动物、鱿鱼和走在街上的女人的图像",
-          "source": "Google AI Blog",
-          "published": "2026-11-05T17:00:00+00:00",
-          "published_ts": 1793898000.0,
           "category": "general"
         }
       ]

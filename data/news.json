@@ -2,7 +2,7 @@
   "title": "AI 日报",
   "subtitle": "大模型 · 智能体 · 具身智能",
   "description": "每天自动聚合大模型、智能体与具身智能领域的AI资讯",
-  "generated_at": "2026-11-14T05:09:23+00:00",
+  "generated_at": "2026-11-15T05:00:36+00:00",
   "total": 276,
   "source_count": 17,
   "error_count": 1,
@@ -16,6 +16,42 @@
       "color": "#2563eb",
       "count": 36,
       "items": [
+        {
+          "title": "斯坦福大学研究开源 Memorilla，用于冻结法学硕士的潜在内存模块",
+          "link": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+          "summary": "斯坦福大学的研究人员发布了 Memorilla，这是一个开源存储系统，可将文档集合压缩为冻结的 Qwen3-8B 的 16 个存储令牌。使用比完整上下文少 108 倍的文档标记，在 FactKG 上达到 84.33%。斯坦福大学研究开源备忘录（一种用于 Frozen LLM 的潜在内存模块）首先出现在 MarkTechPost 上。",
+          "source": "MarkTechPost",
+          "published": "2026-11-14T10:21:21+00:00",
+          "published_ts": 1794651681.0,
+          "category": "llm"
+        },
+        {
+          "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+          "link": "https://www.qbitai.com/2026/11/510232.html",
+          "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+          "source": "量子位",
+          "published": "2026-11-14T09:58:22+00:00",
+          "published_ts": 1794650302.0,
+          "category": "llm"
+        },
+        {
+          "title": "百度词元所发布首日：供应商暴增超100家，客户新增超1000家",
+          "link": "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html",
+          "summary": "11月14日，从百度获悉，百度词元所发布首日，新增申请入驻的供应商已超过100家，新增超过1000家客户接入。 词元所在11月12日举行的百度世界2026上正式发布，百度创始人李彦宏将其称为“大模型的交易所”。据介绍，词元所一端汇聚模型和模型提供商，另一端服务企业和个人，让用户便捷地找到、购买和使用可信的模型Token。 词元所主打验真与征信两大能力：模型入平台前需通过模型指纹比对、模型能力测试、性能指标与可用性测试等准入核验，上线后接受定期抽检拨测与全链路实时监测，相关结果沉淀为供应商的信用评级。 李彦宏提到，今年前9个月几乎每天都有不止一款新模型发布，调用需求同步爆发，而市面上的词元中转站不对模型效果、服务稳定性、响应速度负责，连模型真实性也无从考证，词元所要解决的是这一环节的信任问题。 试运行期间，词元所入驻供应资源已经超过100个，日均调用次数突破5000万次。目前平台已上架40余",
+          "source": "雷峰网",
+          "published": "2026-11-14T05:45:00+00:00",
+          "published_ts": 1794635100.0,
+          "category": "llm"
+        },
+        {
+          "title": "OpenAI 推出用于代理主导支付的 ChatGPT 钱包",
+          "link": "https://analyticsindiamag.com/ai-news/openai-introduces-chatgpt-wallet-for-agent-led-payments",
+          "summary": "该功能要求用户通过安全检查（例如面容 ID 或指纹身份验证）批准每笔交易",
+          "source": "Analytics India Magazine",
+          "published": "2026-11-14T05:25:04+00:00",
+          "published_ts": 1794633904.0,
+          "category": "llm"
+        },
         {
           "title": "被禁止出口的英伟达芯片是支撑中国最强大人工智能模型的基础——哎呀，Jensen！",
           "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
@@ -143,24 +179,6 @@
           "category": "llm"
         },
         {
-          "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
-          "link": "https://www.qbitai.com/2026/11/509663.html",
-          "summary": "数据不出域、本地可部署",
-          "source": "量子位",
-          "published": "2026-11-13T07:06:32+00:00",
-          "published_ts": 1794553592.0,
-          "category": "llm"
-        },
-        {
-          "title": "独家丨腾讯 AI 李牧青离职，出任 AI 公司联席 CEO",
-          "link": "https://www.leiphone.com/category/industrynews/xfpQo71RiPDWJHvS.html",
-          "summary": "雷峰网独家获悉，近日，腾讯云 AI 全球业务负责人李牧青，正式出任教育 AI 科技公司启鸣达人联席 CEO。 雷峰网了解到，李牧青本科、硕士毕业于上海交通大学，曾任 UCLA 访问学者。2016 年，他加入依图科技，主导早期 AI 产业化体系的建设，亲历「AI 四小龙」从初创走向鼎盛。 2018 年，李牧青加入腾讯优图，出任首席方案架构师，负责计算机视觉技术的落地。此后分别担任腾讯云智能总架构师、腾讯云智能副总经理、腾讯云 AI 全球业务负责人。在腾讯期间，他带领团队在二十多个行业的一线推进大模型与 AI 落地，从零搭建海外业务，推动 AI 产品与解决方案深度契合当地需求，实现本地化。 他于今年九月正式离开腾讯，随后出任教育 AI 科技公司启鸣达人联席 CEO。 一位 AI 资深从业者告诉雷峰网，90 年前后出生的李牧青，是少有完整经历过巅峰 AI 四小龙、大厂计算机视觉实验室、大模型商业",
-          "source": "雷峰网",
-          "published": "2026-11-13T03:43:00+00:00",
-          "published_ts": 1794541380.0,
-          "category": "llm"
-        },
-        {
           "title": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
           "link": "https://www.ifanr.com/1689292?utm_source=rss&utm_medium=rss&utm_campaign=",
           "summary": "· 接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线 · 张雪：今年已经挣到了「一个小目标」 · Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -221,15 +239,6 @@
           "source": "TechCrunch AI",
           "published": "2026-11-12T18:39:23+00:00",
           "published_ts": 1794508763.0,
-          "category": "llm"
-        },
-        {
-          "title": "研究发现人工智能聊天机器人正在推荐虚假零售网站",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-          "summary": "一项新研究发现，使用人工智能聊天机器人研究产品或寻找购买地点的购物者可能会被引导至冒名顶替者和其他有风险的网站。这项由知识产权保护公司 Podqi 进行并与 The Verge 独家分享的研究促使 ChatGPT、Gemini 和 Perplexity 提出了一些与购物相关的问题，涉及一系列 [...]",
-          "source": "The Verge AI",
-          "published": "2026-11-12T18:35:54+00:00",
-          "published_ts": 1794508554.0,
           "category": "llm"
         },
         {
@@ -330,15 +339,6 @@
           "published": "2026-11-10T10:00:00+00:00",
           "published_ts": 1794304800.0,
           "category": "llm"
-        },
-        {
-          "title": "新加坡航空利用 OpenAI 技术提升旅行和工作水平",
-          "link": "https://openai.com/index/singapore-airlines-travel-work",
-          "summary": "了解新加坡航空如何使用 OpenAI 模型和 API 来增强客户支持、旅行发现和员工工作效率，从而将 Kris 聊天机器人的 CSAT 提高一倍。",
-          "source": "OpenAI Blog",
-          "published": "2026-11-10T08:00:00+00:00",
-          "published_ts": 1794297600.0,
-          "category": "llm"
         }
       ]
     },
@@ -348,6 +348,15 @@
       "color": "#7c3aed",
       "count": 33,
       "items": [
+        {
+          "title": "Vercel 发布 UI SDK：AI 编码代理的 50 多种 UI 行为",
+          "link": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+          "summary": "Vercel Labs 发布了 Vercel UI SDK，这是一个包含 50 多种 UI 行为的 Apache-2.0 beta 库。编码代理将它们组合成 React、Vue、Svelte、Solid 和 Web 组件的可访问组件，并具有直接 UI 控制的桥梁。 Vercel 发布 UI SDK：AI 编码代理的 50 多种 UI 行为一文首先出现在 MarkTechPost 上。",
+          "source": "MarkTechPost",
+          "published": "2026-11-14T06:38:14+00:00",
+          "published_ts": 1794638294.0,
+          "category": "agent"
+        },
         {
           "title": "AI代理初创公司LangChain估值达30亿美元",
           "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
@@ -454,15 +463,6 @@
           "source": "MarkTechPost",
           "published": "2026-11-12T17:26:08+00:00",
           "published_ts": 1794504368.0,
-          "category": "agent"
-        },
-        {
-          "title": "美国联合航空公司以网络安全风险为由，阻止人工智能代理预订航班",
-          "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-          "summary": "该航空公司表示，不会允许客户使用人工智能代理来预订航班和管理预订。",
-          "source": "TechCrunch AI",
-          "published": "2026-11-12T17:17:58+00:00",
-          "published_ts": 1794503878.0,
           "category": "agent"
         },
         {
@@ -651,7 +651,7 @@
       "key": "embodied",
       "label": "具身智能",
       "color": "#059669",
-      "count": 7,
+      "count": 6,
       "items": [
         {
           "title": "使用SimReady资产构建机器人拾取和放置模拟",
@@ -669,15 +669,6 @@
           "source": "雷峰网",
           "published": "2026-11-13T10:00:00+00:00",
           "published_ts": 1794564000.0,
-          "category": "embodied"
-        },
-        {
-          "title": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
-          "link": "https://www.qbitai.com/2026/11/509614.html",
-          "summary": "信息少传80%，准确率反而提高",
-          "source": "量子位",
-          "published": "2026-11-13T06:29:23+00:00",
-          "published_ts": 1794551363.0,
           "category": "embodied"
         },
         {
@@ -722,15 +713,105 @@
       "key": "general",
       "label": "综合",
       "color": "#64748b",
-      "count": 40,
+      "count": 39,
       "items": [
         {
-          "title": "黄仁勋丑闻还没有结束",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-          "summary": "在黄仁勋第二次婚外情的故事曝光之前，我确信黄是刀枪不入的。毕竟，他为什么不呢？他将自己置于人工智能行业不可或缺的中心地位，并且众所周知，他在英伟达没有继任计划。事实上，他是英伟达有史以来唯一的首席执行官。 L'état c'est moi。然后 […]",
+          "title": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
+          "link": "https://www.ifanr.com/1689501?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "再创历史 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-15T02:47:36+00:00",
+          "published_ts": 1794710856.0,
+          "category": "general"
+        },
+        {
+          "title": "Nvidia 的安全团队在哪里？",
+          "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+          "summary": "Nvidia 的安全主管于 8 月悄然离职，现在首席执行官黄仁勋因他的关系而辞职，其中包括与一家涉嫌向中国输送芯片的公司高管的关系，一名前情报官员表示，这种泄密行为存在于日常对话中，而大多数公司安全团队都没有足够的能力来捕捉这种泄密情况。",
+          "source": "TechCrunch AI",
+          "published": "2026-11-15T00:08:07+00:00",
+          "published_ts": 1794701287.0,
+          "category": "general"
+        },
+        {
+          "title": "埃隆·马斯克 (Elon Musk) 和其他科技高管签署请愿书，呼吁 Nvidia 恢复黄仁勋 (Jensen Huang) 的职位",
+          "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "summary": "截至周六下午，请愿书已吸引超过 115,000 个签名。",
+          "source": "TechCrunch AI",
+          "published": "2026-11-14T21:41:22+00:00",
+          "published_ts": 1794692482.0,
+          "category": "general"
+        },
+        {
+          "title": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
+          "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "summary": "从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。",
+          "source": "TechCrunch AI",
+          "published": "2026-11-14T17:30:00+00:00",
+          "published_ts": 1794677400.0,
+          "category": "general"
+        },
+        {
+          "title": "亚洲各国政府对英伟达首席执行官黄仁勋的退出做出反应",
+          "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "summary": "一些政府已采取行动确认芯片供应承诺，而另一些政府则正在监测对当地项目的影响或解决正在进行的调查。",
+          "source": "TechCrunch AI",
+          "published": "2026-11-14T16:34:15+00:00",
+          "published_ts": 1794674055.0,
+          "category": "general"
+        },
+        {
+          "title": "黄仁勋与富有远见的表演家创始人CEO的衰落",
+          "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+          "summary": "2025 年 1 月 6 日，Nvidia 首席执行官黄仁勋终于迎来了他的摇滚明星时刻。当他穿着黑色皮夹克登场时，他胜利地大步走上舞台，举起手来，在 14,000 名观众和粉丝的掌声和欢呼声中，他们的脸沐浴在蓝色的光芒中。",
           "source": "The Verge AI",
-          "published": "2026-11-14T04:51:44+00:00",
-          "published_ts": 1794631904.0,
+          "published": "2026-11-14T15:12:19+00:00",
+          "published_ts": 1794669139.0,
+          "category": "general"
+        },
+        {
+          "title": "黄仁勋的退出为 AMD 和谷歌带来了最大的人工智能机会",
+          "link": "https://analyticsindiamag.com/global-tech/jensen-huangs-exit-just-gave-amd-and-google-their-biggest-ai-opening",
+          "summary": "就在黄仁勋辞去 NVIDIA 首席执行官职务的同一天，他执掌了他共同创立的另一家半导体公司 CE 33 年。",
+          "source": "Analytics India Magazine",
+          "published": "2026-11-14T11:01:30+00:00",
+          "published_ts": 1794654090.0,
+          "category": "general"
+        },
+        {
+          "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+          "link": "https://www.qbitai.com/2026/11/510297.html",
+          "summary": "马斯克也签名了",
+          "source": "量子位",
+          "published": "2026-11-14T10:08:08+00:00",
+          "published_ts": 1794650888.0,
+          "category": "general"
+        },
+        {
+          "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+          "link": "https://www.qbitai.com/2026/11/510150.html",
+          "summary": "童年的纸飞机，现在终于飞回我手里～",
+          "source": "量子位",
+          "published": "2026-11-14T09:48:34+00:00",
+          "published_ts": 1794649714.0,
+          "category": "general"
+        },
+        {
+          "title": "绿电进Token出！联想重新定义词元工厂",
+          "link": "https://www.qbitai.com/2026/11/510094.html",
+          "summary": "年产2000万亿Token，成本狂降70%",
+          "source": "量子位",
+          "published": "2026-11-14T09:41:02+00:00",
+          "published_ts": 1794649262.0,
+          "category": "general"
+        },
+        {
+          "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+          "link": "https://sspai.com/post/118276",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+          "source": "少数派",
+          "published": "2026-11-14T07:40:21+00:00",
+          "published_ts": 1794642021.0,
           "category": "general"
         },
         {
@@ -740,6 +821,33 @@
           "source": "Analytics India Magazine",
           "published": "2026-11-14T04:37:52+00:00",
           "published_ts": 1794631072.0,
+          "category": "general"
+        },
+        {
+          "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+          "link": "https://www.qbitai.com/2026/11/510013.html",
+          "summary": "狂揽3000万播放量",
+          "source": "量子位",
+          "published": "2026-11-14T02:59:35+00:00",
+          "published_ts": 1794625175.0,
+          "category": "general"
+        },
+        {
+          "title": "解雇萨姆·奥尔特曼 (Sam Altman) 的 OpenAI 董事会成员表示，我们仍然不能信任人工智能首席执行官",
+          "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "summary": "今天，我正在与乔治城大学安全与新兴技术中心执行主任海伦·托纳进行交谈。本集是我们现实生活中的人工智能系列的第二部分。海伦是人工智能安全和政策界的知名人物，尽管她最出名的可能是曾在 [...]",
+          "source": "The Verge AI",
+          "published": "2026-11-14T00:06:40+00:00",
+          "published_ts": 1794614800.0,
+          "category": "general"
+        },
+        {
+          "title": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
+          "link": "https://www.ifanr.com/1689450?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "· 两部门公布新型储能方案，提出到 2030 年平均储能约 3 小时 · LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元 · 荣耀 700 系列定档 11 月 23 日，背屏可贴 GIF、看通知 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-14T00:00:42+00:00",
+          "published_ts": 1794614442.0,
           "category": "general"
         },
         {
@@ -956,132 +1064,6 @@
           "source": "雷峰网",
           "published": "2026-11-13T08:43:00+00:00",
           "published_ts": 1794559380.0,
-          "category": "general"
-        },
-        {
-          "title": "黄仁勋自嘲是「人渣」，英伟达员工集体喊话求回归",
-          "link": "https://www.ifanr.com/1689360?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "没有黄仁勋的英伟达会怎样？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-13T08:31:36+00:00",
-          "published_ts": 1794558696.0,
-          "category": "general"
-        },
-        {
-          "title": "解读丨不插电的宠物梳毛器，凭什么拿下三千家海外门店？",
-          "link": "https://www.leiphone.com/category/weiwu/Hxr2CvehePVKjS4m.html",
-          "summary": "用专利，PawSwing 在宠物梳毛器品类画了一个大圈。 作者丨陈玘凡 编辑丨吴优 雷峰网·鲸犀获悉，宠物智能硬件公司「橘猫宇宙」近日完成数千万元Pre-A轮融资，高秉强教授及旗下高锋耐心基金、前海创新投资、常垒创投等持续加注， 并同步开启新一轮融资 。资金将主要用于技术创新、产品迭代、专利体系建设以及全球线下渠道网络拓展。 橘猫宇宙（PawSwing）的核心产品 PawSwing Neo 是一款被动式猫窝梳毛收集器，利用猫喜欢钻洞的天性，在进出猫窝时，通过机械结构直接梳毛，把脱掉的毛进行回收，从而解决梳毛和掉毛给用户带来的需求痛点。定价 200 美元，累计销量超过两万台。 有意思的是， 这款被高秉强教授连投三轮的宠物梳毛器，是一款不带电的产品 。且在其他国内宠物用具品牌难以敲开海外渠道之门时，公司已与欧洲最大的线下宠物用品渠道签约，预计铺货门店将超过 3000 家。 PawSwing创始",
-          "source": "雷峰网",
-          "published": "2026-11-13T08:29:00+00:00",
-          "published_ts": 1794558540.0,
-          "category": "general"
-        },
-        {
-          "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
-          "link": "https://www.qbitai.com/2026/11/509827.html",
-          "summary": "12.9 北京，来MEET2027现场",
-          "source": "量子位",
-          "published": "2026-11-13T07:51:08+00:00",
-          "published_ts": 1794556268.0,
-          "category": "general"
-        },
-        {
-          "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
-          "link": "https://www.qbitai.com/2026/11/509796.html",
-          "summary": "250名国内顶尖三甲医院医生联合评测",
-          "source": "量子位",
-          "published": "2026-11-13T07:43:03+00:00",
-          "published_ts": 1794555783.0,
-          "category": "general"
-        },
-        {
-          "title": "猫粮要保鲜，饮水要恒温，淘宝出海宠物智能用品跑出新增长",
-          "link": "https://www.leiphone.com/category/industrynews/Fs1xk6Oh4bie2guE.html",
-          "summary": "这个双11，宠物品牌出海提速。据统计，淘宝天猫宠物行业已有超半数宠物品牌进入海外市场，其中宠物智能设备海外成交增速领跑全行业，智能喂食器、智能饮水机、智能储粮桶和宠物可穿戴设备等品类的海外成交额均实现两位数同比增长，全球宠物行业跑步进入“智能时代”。 对于养宠物的家庭来说，宠物智能设备并不是一个时髦的“概念产品”，而是可以解决实实在在的养宠痛点。真空保鲜桶可以让宠粮开封后长期防潮保鲜，带有加热功能的自动饮水机能让家里的“主子”在冬天喝上温水，同时养了多只猫狗的家庭，智能喂食器还可以通过“面部识别”等技术，精确针对每一只“毛孩子”出粮，让主人掌握宠物的饮食健康。有调研显示，得益于中国强大的供应链基础，在全球智能宠物设备行业，中国品牌已经占据了三分之一的市场份额，不少品牌也将淘宝作为低成本试水出海的首选平台。 “喵享家”就是成长于淘宝、热销于海外的典型品牌代表。2024年，喵享家加入了淘宝天猫",
-          "source": "雷峰网",
-          "published": "2026-11-13T07:29:00+00:00",
-          "published_ts": 1794554940.0,
-          "category": "general"
-        },
-        {
-          "title": "高德推出AutoSDK国际版，海外司机也能体验到中国导航了！",
-          "link": "https://www.leiphone.com/category/industrynews/1QHwFdkqb0nSgOjV.html",
-          "summary": "近年来，中国汽车产业全球化进程显著加速。中国汽车工业协会数据显示，2024年中国汽车出口量达585.9万辆，同比增长19.3%，稳居全球首位。 然而，在硬件实力大步“走出去”的同时，海外用户的车载导航体验却成为中国车企提升品牌软实力和用户满意度的关键瓶颈。一直以来，车企在全球导航市场面临着产品定义不够灵活、体验一致性差、工程支持薄弱等问题。相关产品的迭代速度远落后于国内，难以快速响应海外市场变化和用户反馈的同时，也难以满足中国车企品牌高质量全球化的期望。 针对中国车企的出海痛点，11月3日，阿里巴巴旗下高德基于其在国内市场的成功经验，正式发布AutoSDK国际版。该产品集成了定位、搜索、地图渲染、路线规划、基础导航信息等全链路在线导航能力，以及离线导航、ISA信息播发等核心数据应用功能，为中国汽车品牌在海外市场构建差异化竞争优势，提供关键支撑。 目前，高德AutoSDK国际版已覆盖欧洲、东",
-          "source": "雷峰网",
-          "published": "2026-11-13T07:25:00+00:00",
-          "published_ts": 1794554700.0,
-          "category": "general"
-        },
-        {
-          "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
-          "link": "https://www.qbitai.com/2026/11/509730.html",
-          "summary": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
-          "source": "量子位",
-          "published": "2026-11-13T07:17:54+00:00",
-          "published_ts": 1794554274.0,
-          "category": "general"
-        },
-        {
-          "title": "据报道，Kalshi将开发计算期货交易平台",
-          "link": "https://analyticsindiamag.com/ai-news/kalshi-to-develop-trading-platform-for-compute-futures-report",
-          "summary": "随着美国监管机构推迟批准与计算相关的期货，这家预测市场初创公司正在超越事件合约，与CME集团竞争。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-13T07:15:59+00:00",
-          "published_ts": 1794554159.0,
-          "category": "general"
-        },
-        {
-          "title": "谷歌的遗憾，被高德弥补了",
-          "link": "https://www.leiphone.com/category/industrynews/VKIfDDIJRVZxJZR7.html",
-          "summary": "谷歌曾在I/O 开发者大会上展示了一段令外界惊叹的演示：用户可以从高空“飞入”3D地图，沉浸式感受城市街景。 不过，这项被称为“沉浸式视图”的功能，至今仍未在谷歌地图中规模化落地。反倒是在今年，国内的高德后来居上，用更前沿的技术，将飞行视角从街道延伸至了店铺，并且真正实现了规模化应用。 2026 年 1 月 7 日，高德正式发布全球首个“飞行街景”，并面向所有商家免费开放。 高德飞行街景首次实现高拟真、连续动态的实景还原。它让用户可提前沉浸式俯瞰店内外实景，并在出发前即可以第一视角“飞越”城市街区，从高空俯瞰街道全貌，精准识别店铺门头，甚至穿门入室，获得接近实地探访的视觉感知。 这背后，是科技公司之间一场关于技术、生态与执行力的深层较量。它揭示了AI 行业的一个关键趋势：在AI 驱动空间智能的时代，技术的前瞻性不再等同于市场的领先性，规模化的落地能力与更加完善的生态支撑，正在成为决定胜负的",
-          "source": "雷峰网",
-          "published": "2026-11-13T07:15:00+00:00",
-          "published_ts": 1794554100.0,
-          "category": "general"
-        },
-        {
-          "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
-          "link": "https://www.qbitai.com/2026/11/509716.html",
-          "summary": "比亚迪正在把规模优势转化为技术与品牌价值",
-          "source": "量子位",
-          "published": "2026-11-13T07:12:42+00:00",
-          "published_ts": 1794553962.0,
-          "category": "general"
-        },
-        {
-          "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
-          "link": "https://www.qbitai.com/2026/11/509710.html",
-          "summary": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
-          "source": "量子位",
-          "published": "2026-11-13T07:09:05+00:00",
-          "published_ts": 1794553745.0,
-          "category": "general"
-        },
-        {
-          "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
-          "link": "https://sspai.com/post/118153",
-          "summary": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。 查看全文",
-          "source": "少数派",
-          "published": "2026-11-13T07:00:00+00:00",
-          "published_ts": 1794553200.0,
-          "category": "general"
-        },
-        {
-          "title": "特斯拉和SpaceX最快下月合并",
-          "link": "https://www.qbitai.com/2026/11/509613.html",
-          "summary": "马斯克帝国终极形态。",
-          "source": "量子位",
-          "published": "2026-11-13T06:43:06+00:00",
-          "published_ts": 1794552186.0,
-          "category": "general"
-        },
-        {
-          "title": "AI 时代，公司的「新厂房」长什么样？",
-          "link": "https://www.ifanr.com/1689182?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "真正决定公司未来十年身位的，是谁先动手重建那座名叫「智能组织」的新厂房。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-13T06:34:19+00:00",
-          "published_ts": 1794551659.0,
           "category": "general"
         }
       ]

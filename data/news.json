@@ -2,8 +2,8 @@
   "title": "AI 日报",
   "subtitle": "大模型 · 智能体 · 具身智能",
   "description": "每天自动聚合大模型、智能体与具身智能领域的AI资讯",
-  "generated_at": "2026-11-15T05:00:36+00:00",
-  "total": 276,
+  "generated_at": "2026-11-16T04:59:20+00:00",
+  "total": 278,
   "source_count": 17,
   "error_count": 1,
   "errors": [
@@ -14,8 +14,26 @@
       "key": "llm",
       "label": "大模型",
       "color": "#2563eb",
-      "count": 36,
+      "count": 34,
       "items": [
+        {
+          "title": "AI公司转型最难的一步：如何构建AI Native的产品体系",
+          "link": "https://www.leiphone.com/category/ai/pzBYjjLW3Cjb6AAO.html",
+          "summary": "企业把大模型接进产品之后，新的经营问题才刚刚展开。客户提出一项任务，系统能拿到哪些信息，由谁核准结果，出现例外时如何处理，都会影响AI能否持续投入使用。产品演示中的能力，需要经由完整的服务过程才能转化为客户价值。 王强宇出任百望股份首席执行官（CEO），为观察这项变化提供了一个具体切口：王强宇如何将百望的财税场景积累转化为专业模型与智能体产品，并让研发、交付和组织能力共同支撑商业化。 产品的交付单位开始发生变化 在传统软件服务中，功能上线、接口联通与流程配置，是重要的交付内容。AI进一步参与工作后，客户会关心一次任务能否可靠完成，以及整个过程需要多少人工干预。 以交易核对为例，系统可能要在授权范围内读取发票、合同和付款记录，找到差异，列出依据，再把需要确认的事项交给相关岗位。对客户而言，价值取决于问题是否被准确识别、后续处理是否顺畅，以及投入的时间是否减少。 这改变了产品设计的起点。团队需",
+          "source": "雷峰网",
+          "published": "2026-11-16T02:12:00+00:00",
+          "published_ts": 1794795120.0,
+          "category": "llm"
+        },
+        {
+          "title": "派早报：逾十万人次联署要求黄仁勋复职",
+          "link": "https://sspai.com/post/119119",
+          "summary": "逾十万人次联署要求黄仁勋复职 Microsoft 365 服务在 19 小时全球宕机后恢复 国产前沿模型携带 Blackwell GPU 特征 线缆更换导致全美飞机停飞 流媒体用户抱怨更难找到想看作品 特斯拉 Cybercab 订阅协议包含苛刻条款 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+          "source": "少数派",
+          "published": "2026-11-15T23:24:34+00:00",
+          "published_ts": 1794785074.0,
+          "category": "llm"
+        },
         {
           "title": "斯坦福大学研究开源 Memorilla，用于冻结法学硕士的潜在内存模块",
           "link": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
@@ -136,7 +154,7 @@
         {
           "title": "谷歌推出Gemini 4 Hydrogen，以加快编码和人工智能工作流程",
           "link": "https://analyticsindiamag.com/ai-news/google-launches-gemini-4-hydrogen-for-faster-coding-and-ai-workflows",
-          "summary": "了解 Google 的 Gemini 4 Hydrogen 如何提高编码效率和 AI 工作流程，在关键基准测试中超越了之前的模型。",
+          "summary": "",
           "source": "Analytics India Magazine",
           "published": "2026-11-13T09:24:56+00:00",
           "published_ts": 1794561896.0,
@@ -206,15 +224,6 @@
           "category": "llm"
         },
         {
-          "title": "谷歌新的 Gemini 模型更擅长理解复杂问题",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-          "summary": "谷歌表示，其新的 Gemini 4 Hydrogen 模型可以为复杂的问题提供更有帮助的答案，包括“包含多个部分的问题、难以理解的拼写错误或高度具体的请求”。新模型可以分解您的问题并解决其回答中的每个部分。从今天开始，它可以在搜索、Gemini 应用程序、Google 的所有层级中使用 [...]",
-          "source": "The Verge AI",
-          "published": "2026-11-12T21:55:32+00:00",
-          "published_ts": 1794520532.0,
-          "category": "llm"
-        },
-        {
           "title": "Nebius 计划支出 400 亿美元测试 Neocloud 策略",
           "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
           "summary": "Nebius 计划通过客户预付款和贷款为其 400 亿美元的人工智能基础设施扩张提供资金，尽管微软数据中心的延误引发了对其融资模式的质疑。",
@@ -233,15 +242,6 @@
           "category": "llm"
         },
         {
-          "title": "黄仁勋的退出让英伟达对开源的支持受到质疑",
-          "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-          "summary": "黄仁勋的辞职引发了人们对英伟达在领导层过渡期间对开源人工智能的承诺的质疑，包括收购 Hugging Face、开放权重模型以及反对限制的倡导。",
-          "source": "TechCrunch AI",
-          "published": "2026-11-12T18:39:23+00:00",
-          "published_ts": 1794508763.0,
-          "category": "llm"
-        },
-        {
           "title": "Gondola 团队利用 Codex 打造更多产品，收入翻倍",
           "link": "https://openai.com/business/customer-stories/gondola",
           "summary": "Gondola 帮助创意人员获得认可并获得聘用，Codex 将其首席工程师的产出提高了 50%，而 ChatGPT 则简化了日常工作。",
@@ -253,7 +253,7 @@
         {
           "title": "Chariot 推出多语言 TTS 模型，支持 11 种印度语言",
           "link": "https://analyticsindiamag.com/ai-news/chariot-launches-multilingual-tts-model-with-support-for-11-indian-languages",
-          "summary": "Chariot-1-TTS-Multilingual 支持代码混合、即时语音克隆和上下文语音生成，这家由 IndiaAI Mission 支持的初创公司正在开发语音模型",
+          "summary": "",
           "source": "Analytics India Magazine",
           "published": "2026-11-12T09:37:13+00:00",
           "published_ts": 1794476233.0,
@@ -321,24 +321,6 @@
           "published": "2026-11-10T12:00:00+00:00",
           "published_ts": 1794312000.0,
           "category": "llm"
-        },
-        {
-          "title": "Gartner推出首席信息官确定人工智能成果的框架",
-          "link": "https://analyticsindiamag.com/ai-news/gartner-introduces-framework-for-cios-to-determine-ai-outcomes",
-          "summary": "Gartner表示，其Value-Risk Flywheel将帮助首席信息官利用势头和阻力将人工智能价值与风险保持一致，并以州长为中心。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-10T10:44:29+00:00",
-          "published_ts": 1794307469.0,
-          "category": "llm"
-        },
-        {
-          "title": "在ChatGPT中介绍企业",
-          "link": "https://openai.com/index/introducing-businesses-chatgpt",
-          "summary": "管理您的业务信息，深入了解您的业务展示方式，并在ChatGPT中将兴趣转化为行动。",
-          "source": "OpenAI Blog",
-          "published": "2026-11-10T10:00:00+00:00",
-          "published_ts": 1794304800.0,
-          "category": "llm"
         }
       ]
     },
@@ -346,8 +328,17 @@
       "key": "agent",
       "label": "智能体",
       "color": "#7c3aed",
-      "count": 33,
+      "count": 32,
       "items": [
+        {
+          "title": "会畅科技发布任务管理原生 Agent 矩阵 软硬件协同深耕企业执行场景",
+          "link": "https://www.leiphone.com/category/industrynews/vBMqo9G7ViFbsPER.html",
+          "summary": "2026 年 11 月 12 日，“会联运营・畅享执行 ——2026 会畅科技任务管理原生 Agent 发布会” 在上海举办。会畅科技现场推出白泽任务管理 OS 与会畅超光桌面 AI 助理终端两大核心产品，首次提出 “以任务为 AI 原生组织最小协作单元” 的产业判断，通过 “软件中枢 + 硬件入口” 一体化布局，打通战略到执行的全链路闭环，为企业从流程数字化迈向执行智能化提供落地方案。 一、AI 落地进入深水区：从工具叠加到组织重构，任务成为核心破局点 回顾产业演进，历次技术革命最终都指向组织协作方式的重塑：工业革命降低物理生产成本，催生流水线分工与层级制组织;信息革命降低信息传递成本，催生 SaaS 软件与跨地域协作模式;当下的 AI 革命正降低认知与执行成本，推动企业组织形态发生本质变化。 会畅科技总经理方艺霖在致辞中指出：“当前绝大多数企业的 AI 应用，仍停留在‘原有流程叠加 A",
+          "source": "雷峰网",
+          "published": "2026-11-16T02:39:00+00:00",
+          "published_ts": 1794796740.0,
+          "category": "agent"
+        },
         {
           "title": "Vercel 发布 UI SDK：AI 编码代理的 50 多种 UI 行为",
           "link": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
@@ -439,30 +430,12 @@
           "category": "agent"
         },
         {
-          "title": "不，人工智能代理没有发现以前未知的玛雅遗址",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-          "summary": "谷歌研究员 Pietro Miotti 本周早些时候声称，在人工智能代理团队的帮助下，他们在墨西哥发现了一个可能未绘制地图的玛雅遗址。只有一个问题：该网站已于去年被发现并发表在一份学术期刊上。这一事件在网上引发了考古学家的批评，强调了[...]",
-          "source": "The Verge AI",
-          "published": "2026-11-12T19:42:40+00:00",
-          "published_ts": 1794512560.0,
-          "category": "agent"
-        },
-        {
-          "title": "Nectar 推出人工智能代理，以自动化创作者发现和品牌推广",
-          "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-          "summary": "Nectar 的新 AI 代理可自动执行影响力营销，帮助品牌发现创作者、管理外展和合作伙伴关系，并跟踪营销活动结果。",
-          "source": "TechCrunch AI",
-          "published": "2026-11-12T19:11:00+00:00",
-          "published_ts": 1794510660.0,
-          "category": "agent"
-        },
-        {
-          "title": "AWS 发布 AWS 模拟器：由 AI 代理构建的 200 多项 AWS 服务的本地副本",
-          "link": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
-          "summary": "AWS 发布了 AWS Emulator，这是一个免费的、经过 CC0 许可的 AWS API 本地模拟器，由 438 个 API 模型构建。自治代理编写了所有代码。它在发布时通过了 42,857 项已发布的保真度测试中的 56.6%。 AWS 发布 AWS 模拟器：由 AI 代理构建的 200 多个 AWS 服务的本地副本首先出现在 MarkTechPost 上。",
-          "source": "MarkTechPost",
-          "published": "2026-11-12T17:26:08+00:00",
-          "published_ts": 1794504368.0,
+          "title": "Exponentia.ai 被评为数据科学家最佳公司",
+          "link": "https://analyticsindiamag.com/ai-highlights/exponentia-certified-as-best-firm-for-data-scientists",
+          "summary": "",
+          "source": "Analytics India Magazine",
+          "published": "2026-11-12T11:45:00+00:00",
+          "published_ts": 1794483900.0,
           "category": "agent"
         },
         {
@@ -713,8 +686,53 @@
       "key": "general",
       "label": "综合",
       "color": "#64748b",
-      "count": 39,
+      "count": 29,
       "items": [
+        {
+          "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
+          "link": "https://sspai.com/post/119012",
+          "summary": "能切换老设备音质的媒体播放器。 查看全文",
+          "source": "少数派",
+          "published": "2026-11-16T02:52:11+00:00",
+          "published_ts": 1794797531.0,
+          "category": "general"
+        },
+        {
+          "title": "超 16 万人请愿，黄仁勋准备「回宫」",
+          "link": "https://www.ifanr.com/1689559?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "辞职三天，想回来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-16T01:11:22+00:00",
+          "published_ts": 1794791482.0,
+          "category": "general"
+        },
+        {
+          "title": "反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」",
+          "link": "https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "黄仁勋的故事还没有结束 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-16T00:56:45+00:00",
+          "published_ts": 1794790605.0,
+          "category": "general"
+        },
+        {
+          "title": "早报｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时",
+          "link": "https://www.ifanr.com/1689521?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "· 余承东：华为大折叠已成千万人主力机 · 苹果 HomeView 发售，首批实测遇到语音和账户切换问题 · 微软服务故障持续超 30 小时，官方宣布恢复 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-15T23:55:30+00:00",
+          "published_ts": 1794786930.0,
+          "category": "general"
+        },
+        {
+          "title": "六年磨一「球」，好听、好看、好贵｜HomePod mini 2 体验",
+          "link": "https://www.ifanr.com/1689473?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "小身材，大嗓门 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-15T10:00:17+00:00",
+          "published_ts": 1794736817.0,
+          "category": "general"
+        },
         {
           "title": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
           "link": "https://www.ifanr.com/1689501?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -817,10 +835,19 @@
         {
           "title": "人工智能聊天机器人与儿童：印度是否应监管机器人的言论？",
           "link": "https://analyticsindiamag.com/ai-features/ai-chatbots-and-children-should-india-regulate-what-bots-say",
-          "summary": "随着儿童寻求情感支持和陪伴，探索对人工智能聊天机器人进行监管的必要性，并遵循全球趋势和立法。",
+          "summary": "",
           "source": "Analytics India Magazine",
           "published": "2026-11-14T04:37:52+00:00",
           "published_ts": 1794631072.0,
+          "category": "general"
+        },
+        {
+          "title": "原厂宽体+碳纤大尾翼！用 13.38 万，买到一辆「领克 03+」",
+          "link": "https://www.ifanr.com/1689570?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "领克 03 找到了燃油车在新时代的活法。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-14T04:02:40+00:00",
+          "published_ts": 1794628960.0,
           "category": "general"
         },
         {
@@ -887,15 +914,6 @@
           "category": "general"
         },
         {
-          "title": "让我们来聊聊黄仁勋的众多绯闻！",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-          "summary": "通常，我们会主动回答您关于新闻事件的问题，但坦白说，对于英伟达到底发生了什么，我们真的没有任何答案。我不能代表尼莱（Nilay）说话，但以黄仁勋的新情妇不断减少的速度来看，我担心我们正接近一场情事奇点。如果……",
-          "source": "The Verge AI",
-          "published": "2026-11-13T19:07:12+00:00",
-          "published_ts": 1794596832.0,
-          "category": "general"
-        },
-        {
           "title": "余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元",
           "link": "https://www.ifanr.com/1689432?utm_source=rss&utm_medium=rss&utm_campaign=",
           "summary": "新 M8 的升级，主打「实用主义」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -929,141 +947,6 @@
           "source": "TechCrunch AI",
           "published": "2026-11-13T15:58:00+00:00",
           "published_ts": 1794585480.0,
-          "category": "general"
-        },
-        {
-          "title": "iPhone 20 爆料汇总：一整块玻璃，藏着苹果下一个十年",
-          "link": "https://www.ifanr.com/1689409?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "iPhone 20 会是一台伟大的产品吗？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-13T15:44:48+00:00",
-          "published_ts": 1794584688.0,
-          "category": "general"
-        },
-        {
-          "title": "ElevenLabs 的新应用程序将团队会议笔记和听写功能相结合",
-          "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-          "summary": "ElevenAI是一款面向团队和企业的新型会议记录和听写应用程序。",
-          "source": "TechCrunch AI",
-          "published": "2026-11-13T14:44:48+00:00",
-          "published_ts": 1794581088.0,
-          "category": "general"
-        },
-        {
-          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-          "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "summary": "",
-          "source": "Hugging Face Blog",
-          "published": "2026-11-13T14:05:22+00:00",
-          "published_ts": 1794578722.0,
-          "category": "general"
-        },
-        {
-          "title": "以色列的风险投资机构认为，英伟达的动荡为挑战者带来了机会",
-          "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-          "summary": "鉴于Nvidia在人工智能领域的强势地位及其在以色列的重要性，该国初创企业生态系统中的许多人对他的离职所带来的影响感到担忧。",
-          "source": "TechCrunch AI",
-          "published": "2026-11-13T12:52:19+00:00",
-          "published_ts": 1794574339.0,
-          "category": "general"
-        },
-        {
-          "title": "据报道，黄仁勋对他的继任者并不抱有信心",
-          "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-          "summary": "黄仁勋在夏季的一次会议上将克雷斯形容为“被车灯照到的鹿”。",
-          "source": "TechCrunch AI",
-          "published": "2026-11-13T12:28:23+00:00",
-          "published_ts": 1794572903.0,
-          "category": "general"
-        },
-        {
-          "title": "玛氏与杰迈斯合作在海得拉巴开设全球能力中心，以拓展数字化和人工智能能力",
-          "link": "https://analyticsindiamag.com/ai-news/mars-opens-hyderabad-gcc-with-genpact-to-expand-digital-ai-capabilities",
-          "summary": "这座占地6万平方英尺的设施最初将有400多名源讯员工，玛氏的目标是随着时间的推移将员工人数增加到1000人。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-13T11:46:52+00:00",
-          "published_ts": 1794570412.0,
-          "category": "general"
-        },
-        {
-          "title": "Shield AI开设班加罗尔工程办事处，以开发国防自主软件",
-          "link": "https://analyticsindiamag.com/ai-news/shield-ai-opens-bengaluru-engineering-office-to-build-defence-autonomy-software",
-          "summary": "这家美国国防技术公司计划聘用印度工程师来开发和测试其Hivemind自主平台，并将业务扩展到德里以外的地区。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-13T10:53:14+00:00",
-          "published_ts": 1794567194.0,
-          "category": "general"
-        },
-        {
-          "title": "卡纳塔克邦的人工智能中心能否为女性领导的初创企业降低计算成本？",
-          "link": "https://analyticsindiamag.com/ai-startups/can-karnatakas-ai-hub-ease-compute-costs-for-women-led-startups",
-          "summary": "女性企业家敦促卡纳塔克邦提供价格实惠的计算资源，以促进人工智能发展并降低初创企业的运营成本。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-13T10:30:00+00:00",
-          "published_ts": 1794565800.0,
-          "category": "general"
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 10 部作品",
-          "link": "https://sspai.com/post/118999",
-          "summary": "📅本周新预告《银翼杀手2099》终极预告11月10日，剧集《银翼杀手2099》发布了终极预告，将于11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ... 查看全文",
-          "source": "少数派",
-          "published": "2026-11-13T09:39:22+00:00",
-          "published_ts": 1794562762.0,
-          "category": "general"
-        },
-        {
-          "title": "9.99万的ID.ERA 5X，大众开始用中国效率打价格战",
-          "link": "https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html",
-          "summary": "从过去全球技术导入中国，转向中国本土研发定义产品，并反哺全球，大众在华的研发模式迎来的关键转身，集中在一款新车型中。 11月12日，上汽大众ID.ERA 5X正式上市，限时权益价9.99万起，共推出四款配置。定位都市纯电SUV，瞄准年轻用户与家庭市场。 作为一款主打高性价比的紧凑型纯电SUV，上汽大众ID.ERA 5X是德系品质与中国智能共同发力的代表。 新车车长4560mm，但轴距达到 2815mm ，采用短前后悬设计，把车轮推向四角，主打“小车身、大空间”，后排腿部空间比较宽裕。 德系车的安全品质也严格呈现。全系标配 83%高强度钢 的笼式车身，关键受力部位采用热成型钢补强。在上市发布会的压力测试中，车辆承受了 12吨冲击力 压顶后，乘员舱保持完整，车门仍可正常开启。 全系单电机前驱，最大功率155kW。提供 415km （45.8kWh）和 520km （58.5kWh）两种CLTC",
-          "source": "雷峰网",
-          "published": "2026-11-13T09:38:00+00:00",
-          "published_ts": 1794562680.0,
-          "category": "general"
-        },
-        {
-          "title": "独家丨港大孵化的半导体材料公司，融资数千万",
-          "link": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
-          "summary": "一个发表于《Nature》的技术，能在三步剥出晶圆级薄膜，公司获耀途独家投资。 作者丨陈玘凡 编辑 丨吴优 雷峰网 ·鲸犀独家获悉， 半导体材料公司钻耐科思科技（DiamNEX）已完成 数千万元 新一轮融资，由耀途资本独家投资。 钻耐科思（DiamNEX）成立于2025年，由 香港大学孵化 ，专注于金刚石半导体和量子技术的研发、生产与商业化应用。创始人褚智勤是港大电机与计算机工程系副教授、副系主任，在金刚石方向论文超80篇、专利17项；科学顾问来自港大、港科大、南方科技大学，具备学术产业化落地能力 。 金刚石被誉为“ 终极半导体材料” ，具有超宽禁带、高击穿场强、高热导率等优势特性，是帮助突破当前AI算力散热天花板、赋能量子科技与第四代超宽禁带半导体的关键材料。 传统半导体散热大多通过铜基风冷的方式进行，但伴随token消耗量剧增和对AI算力需求的不断提升，传统半导体材料散热愈发捉襟见肘。",
-          "source": "雷峰网",
-          "published": "2026-11-13T09:22:00+00:00",
-          "published_ts": 1794561720.0,
-          "category": "general"
-        },
-        {
-          "title": "海尔热水器双11战报：京东天猫双平台销量TOP1",
-          "link": "https://www.leiphone.com/category/industrynews/pDERNZsb2r8U4vS5.html",
-          "summary": "随着双11落幕，热水器市场也结束了新一轮换新热潮。从近两年的用户需求来看，热水器不再只看重热水供给，而是更加关注使用安全、沐浴水质与维保省心，家庭用水的健康化、场景化、智能化成为选购核心标尺。激烈角逐之中，海尔热水器脱颖而出，拿下京东、天猫双平台热水器销量 TOP1，电热、燃热双线领跑，用亮眼战绩印证市场对海尔全屋用水方案的认可。 这份成绩的背后，是海尔持续深耕AI智慧用水场景，瞄准家庭用水隐忧，将创新科技落地到日常洗浴带来的成果。 使用传统金属胆电热水器时，要定期预约师傅上门更换镁棒、清洗内胆；内胆维护不及时，水垢、镁渣、细菌就容易积存在内胆中，混在水中流出，皮肤容易发痒、敏感。海尔无镁棒小蓝瓶热水器以AI净护芯代替镁棒，无镁渣0水垢，内胆免维护，同时搭载五效合一净化系统，实现100%滤杂、99.3% 除余氯、99.5%阻垢、99.99%抑菌，出水含锶元素，家人每次沐浴都是洁净温润的活水",
-          "source": "雷峰网",
-          "published": "2026-11-13T09:17:00+00:00",
-          "published_ts": 1794561420.0,
-          "category": "general"
-        },
-        {
-          "title": "独家丨一家主动灭火的智慧消防公司，融资超千万",
-          "link": "https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html",
-          "summary": "把 AI 用在“水火之间”——菲思拓的整体方案，已接入超三万家单位。 作者丨 陈玘凡 编辑 丨吴优 雷峰网·鲸犀独家获悉，做主动灭火的智慧消防公司菲思拓已完成千万级天使轮融资，投资方为北京国润智投科技有限公司。 菲思拓 已经开启新一轮融资， 投前估值 3 亿元，本轮资金意在进行产品研发、市场拓展和推动产能落地。 创始人兼 CEO 顾永峰有 20 年消防行业经验，曾任喜利得中国区域经理、STI 中国全国销售总监；团队拥有消防、材料、loT 等复合背景，2025 年公司 营收超 4000 万元。 2025 年全国电气火灾约有 25.9 万起；2024 年一家云厂商数据中心火灾直接损失超8 亿欧元。AI 算力、储能电站把火灾代价越推越高，传统主流自动灭火装置的完整链路一般需要 10–40s，在浓烟、明火出现时才能进行干预，往往会错过电气设备热失控黄金窗口。 菲思拓的消防产品矩阵包括防火封堵材料、",
-          "source": "雷峰网",
-          "published": "2026-11-13T09:04:00+00:00",
-          "published_ts": 1794560640.0,
-          "category": "general"
-        },
-        {
-          "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
-          "link": "https://www.qbitai.com/2026/11/509995.html",
-          "summary": "一个时代结束了",
-          "source": "量子位",
-          "published": "2026-11-13T09:02:39+00:00",
-          "published_ts": 1794560559.0,
-          "category": "general"
-        },
-        {
-          "title": "美团陈一方：2026洗浴行业线上化率超20%",
-          "link": "https://www.leiphone.com/category/industrynews/reILtCnNdcvKB3fi.html",
-          "summary": "11月13日，2027美团洗浴指南在沈阳发布。美团服务零售乐生活业务部负责人陈一方介绍，中国洗浴行业正呈现出新发展气象，2026年洗浴行业线上化率已超20%。越来越多洗浴商户把美团作为承接多元消费需求的主阵地，更多门店特色服务、多种供需组合产品在线上同步首发。",
-          "source": "雷峰网",
-          "published": "2026-11-13T08:43:00+00:00",
-          "published_ts": 1794559380.0,
           "category": "general"
         }
       ]

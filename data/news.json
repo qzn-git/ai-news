@@ -2,7 +2,7 @@
   "title": "AI 日报",
   "subtitle": "大模型 · 智能体 · 具身智能",
   "description": "每天自动聚合大模型、智能体与具身智能领域的AI资讯",
-  "generated_at": "2026-11-21T05:49:17+00:00",
+  "generated_at": "2026-11-22T05:20:54+00:00",
   "total": 296,
   "source_count": 17,
   "error_count": 1,
@@ -14,8 +14,35 @@
       "key": "llm",
       "label": "大模型",
       "color": "#2563eb",
-      "count": 34,
+      "count": 33,
       "items": [
+        {
+          "title": "OpenAI 发布面向语音助手的 GPT-Live-1.1，将空闲成本降至 0.02 美元/分钟",
+          "link": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+          "summary": "OpenAI 已在 API 中发布 GPT-Live-1.1。全双工语音模型改进了多语言口音和转录，新的待机模式将闲置 WebRTC 时间的计费从每分钟 0.05 美元降至 0.02 美元。文章“OpenAI 发布适用于语音代理的 GPT-Live-1.1，将空闲成本降至 0.02 美元/分钟”最初发表于 MarkTechPost。",
+          "source": "MarkTechPost",
+          "published": "2026-11-21T11:46:17+00:00",
+          "published_ts": 1795261577.0,
+          "category": "llm"
+        },
+        {
+          "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+          "link": "https://www.qbitai.com/2026/11/511779.html",
+          "summary": "还实现可变形物体操控全球首通",
+          "source": "量子位",
+          "published": "2026-11-21T06:35:59+00:00",
+          "published_ts": 1795242959.0,
+          "category": "llm"
+        },
+        {
+          "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+          "link": "https://www.qbitai.com/2026/11/511757.html",
+          "summary": "还透露了不少训练背后的秘诀",
+          "source": "量子位",
+          "published": "2026-11-21T06:30:55+00:00",
+          "published_ts": 1795242655.0,
+          "category": "llm"
+        },
         {
           "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
           "link": "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html",
@@ -35,6 +62,15 @@
           "category": "llm"
         },
         {
+          "title": "米哈游发了个VLA论文",
+          "link": "https://www.qbitai.com/2026/11/511740.html",
+          "summary": "8B参数，50小时自主运行",
+          "source": "量子位",
+          "published": "2026-11-20T16:25:26+00:00",
+          "published_ts": 1795191926.0,
+          "category": "llm"
+        },
+        {
           "title": "NVIDIA AI 发布 Nemotron-Labs-Sigma，这是一款具有 14 个检查点的 3B/8B 连续扩散语言模型",
           "link": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
           "summary": "NVIDIA 发布了 Nemotron-Labs-Sigma，这是 14 个开放的 3B 和 8B 连续扩散语言模型检查点。Sigma 在一个经过学习的 16 维嵌入空间中对文本进行去噪，提炼为几步采样器，解码速度比自回归解码快 4.20 倍。这篇题为《NVIDIA AI发布Nemotron-Labs-Sigma，一种具有14个检查点的3B/8B连续扩散语言模型》的文章最早发表在MarkTechPost上。",
@@ -50,6 +86,15 @@
           "source": "Analytics India Magazine",
           "published": "2026-11-20T13:22:38+00:00",
           "published_ts": 1795180958.0,
+          "category": "llm"
+        },
+        {
+          "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+          "link": "https://www.qbitai.com/2026/11/511722.html",
+          "summary": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
+          "source": "量子位",
+          "published": "2026-11-20T12:18:01+00:00",
+          "published_ts": 1795177081.0,
           "category": "llm"
         },
         {
@@ -206,15 +251,6 @@
           "category": "llm"
         },
         {
-          "title": "深度实测 GPT-6.2：强是真强，难用也是真难用",
-          "link": "https://www.ifanr.com/1690130?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "希望国模也快快跟上啊 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-18T10:01:23+00:00",
-          "published_ts": 1794996083.0,
-          "category": "llm"
-        },
-        {
           "title": "住友生命保险的领导者如何帮助团队采用 ChatGPT Enterprise",
           "link": "https://openai.com/business/customer-stories/sumitomo-life",
           "summary": "三井住友海上使用 ChatGPT Enterprise 研究保险公司、编制提案以及起草投资分析代码。高管的早期使用有助于推动采用。",
@@ -239,15 +275,6 @@
           "source": "OpenAI Blog",
           "published": "2026-11-18T06:00:00+00:00",
           "published_ts": 1794981600.0,
-          "category": "llm"
-        },
-        {
-          "title": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
-          "link": "https://www.ifanr.com/1690103?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "最聪明的模型，未必是最好用的模型；最好用的模型，也未必需要证明自己最聪明。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-18T02:39:15+00:00",
-          "published_ts": 1794969555.0,
           "category": "llm"
         },
         {
@@ -285,42 +312,6 @@
           "published": "2026-11-17T16:50:10+00:00",
           "published_ts": 1794934210.0,
           "category": "llm"
-        },
-        {
-          "title": "HCLTech与Transformer共同作者领导的Cohere合作，瞄准主权人工智能市场",
-          "link": "https://analyticsindiamag.com/ai-news/hcltech-partners-with-cohere-to-target-sovereign-ai-markets",
-          "summary": "HCLTech和Cohere最初将专注于保险、金融服务和制造业，提供旨在满足数据驻留和监管要求的解决方案。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-17T12:17:02+00:00",
-          "published_ts": 1794917822.0,
-          "category": "llm"
-        },
-        {
-          "title": "OpenAI任命Pragya Misra负责印度和南亚业务拓展",
-          "link": "https://analyticsindiamag.com/ai-news/openai-names-pragya-misra-to-head-india-and-south-asia-business-expansion",
-          "summary": "Pragya Misra是OpenAI聘用的第一位印度员工，她将专注于商业合作，并致力于在全球范围内拓展这家尖端人工智能公司技术的应用。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-17T08:32:17+00:00",
-          "published_ts": 1794904337.0,
-          "category": "llm"
-        },
-        {
-          "title": "隆重推出面向销售的 ChatGPT",
-          "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-          "summary": "探索 ChatGPT 中的全新销售插件以及 30 多款全新和升级的合作伙伴插件，用于调研潜在客户、准备推介、更新您的 CRM 并推进交易。",
-          "source": "OpenAI Blog",
-          "published": "2026-11-17T08:00:00+00:00",
-          "published_ts": 1794902400.0,
-          "category": "llm"
-        },
-        {
-          "title": "他离开埃森哲，打造嵌入式SLM——如今已跻身全球最佳之列",
-          "link": "https://analyticsindiamag.com/ai-features/he-left-accenture-to-build-an-embedded-slmnow-it-ranks-among-the-worlds-best",
-          "summary": "Anuj Gupta 创立了 KiteFishAI，致力于为企业应用、人工智能治理和多模态技术开发紧凑型语言和嵌入式模型。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-17T04:13:32+00:00",
-          "published_ts": 1794888812.0,
-          "category": "llm"
         }
       ]
     },
@@ -330,6 +321,24 @@
       "color": "#7c3aed",
       "count": 34,
       "items": [
+        {
+          "title": "以下是可以存在于您的短信中的顶级AI代理",
+          "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "summary": "我们创建了一个列表，列出了可以在短信中出现的最著名的人工智能客服代表，从一般助理到专为家庭、旅行和工作而设计的客服代表。",
+          "source": "TechCrunch AI",
+          "published": "2026-11-21T17:00:00+00:00",
+          "published_ts": 1795280400.0,
+          "category": "agent"
+        },
+        {
+          "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+          "link": "https://www.qbitai.com/2026/11/511570.html",
+          "summary": "专为本地部署而生",
+          "source": "量子位",
+          "published": "2026-11-21T06:32:31+00:00",
+          "published_ts": 1795242751.0,
+          "category": "agent"
+        },
         {
           "title": "RadixArk发布DaisyRose-27B，一款仅使用强化学习进行训练的270亿参数智能体编码模型",
           "link": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
@@ -439,30 +448,12 @@
           "category": "agent"
         },
         {
-          "title": "Mac 上的 Gemini 现在可以使用您的计算机",
-          "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-          "summary": "谷歌的 macOS Gemini 应用程序现在可以在计算机上使用，这意味着它可以帮助你“跨本地文件、桌面应用程序和网络完成多步骤任务”，该公司表示。谷歌表示，该功能可能对加快工作流程、填写表格、进行演示和列出待售商品等有用。用户将[...]",
-          "source": "The Verge AI",
-          "published": "2026-11-19T19:07:41+00:00",
-          "published_ts": 1795115261.0,
-          "category": "agent"
-        },
-        {
           "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据",
           "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
           "summary": "员工表示，在其中一些情况下，Muse 会显示有关他们从未提出过的儿童保育请求、他们从未要求过的职业建议、他们从未下过的产品订单以及不属于他们的银行账户余额的信息。",
           "source": "TechCrunch AI",
           "published": "2026-11-19T17:38:40+00:00",
           "published_ts": 1795109920.0,
-          "category": "agent"
-        },
-        {
-          "title": "Super human 将其 Go 助手推广到各地",
-          "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-          "summary": "Superhuman 正在将 Go 作为其中央代理，并使其在 Docs 和 Mail 中可用。",
-          "source": "TechCrunch AI",
-          "published": "2026-11-19T14:00:00+00:00",
-          "published_ts": 1795096800.0,
           "category": "agent"
         },
         {
@@ -481,15 +472,6 @@
           "source": "OpenAI Blog",
           "published": "2026-11-19T00:00:00+00:00",
           "published_ts": 1795046400.0,
-          "category": "agent"
-        },
-        {
-          "title": "全新 LoRA 适配器将 Qwen3.8 的编码成功率从 39% 提升至 65%",
-          "link": "https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/",
-          "summary": "Hugging Face发布了Qwen3.8-27B-pi-adapted，这是一个使用强化学习对pi编码代理进行训练的Apache-2.0 LoRA适配器。它将SWE-bench Pro hard-51 pass@1从39.2%提升至64.7%，将Terminal-Bench 2.1从39.5%提升至55.8%。这篇题为《全新LoRA适配器将Qwen3.8的编码成功率从39%提升至65%》的文章首次发布在MarkTechPost上。",
-          "source": "MarkTechPost",
-          "published": "2026-11-18T16:07:50+00:00",
-          "published_ts": 1795018070.0,
           "category": "agent"
         },
         {
@@ -635,6 +617,15 @@
           "published": "2026-11-05T00:00:00+00:00",
           "published_ts": 1793836800.0,
           "category": "agent"
+        },
+        {
+          "title": "减少一千条通往根的路径",
+          "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "summary": "OpenAI 构建了一个自主管道，可以发现、验证并生成 Linux 内核中 948 个本地权限提升漏洞的补丁。",
+          "source": "OpenAI Blog",
+          "published": "2026-11-04T08:00:00+00:00",
+          "published_ts": 1793779200.0,
+          "category": "agent"
         }
       ]
     },
@@ -645,21 +636,21 @@
       "count": 7,
       "items": [
         {
+          "title": "联合国未能就“杀人机器人”的监管规则达成一致",
+          "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+          "summary": "本周在日内瓦举行的联合国外交官会议的议程之一是制定关于使用自主武器（即所谓的“杀手机器人”）的规则。经过一周基本毫无成果的谈判后，代表们最终在离开会议时同意“开始讨论各种方案”。据NPR报道：在谈判开始之前， […]",
+          "source": "The Verge AI",
+          "published": "2026-11-21T20:03:37+00:00",
+          "published_ts": 1795291417.0,
+          "category": "embodied"
+        },
+        {
           "title": "灵掌机器人太空灵巧手亮相世界智能制造博览会",
           "link": "https://www.leiphone.com/category/industrynews/leaIWtsEkg58zaCy.html",
           "summary": "11月19日至21日，第十一届世界智能制造博览会（以下简称“智博会”）在南京国际博览中心举办。无锡灵掌机器人科技有限公司（以下简称“灵掌机器人”）携全系列共9款灵巧手产品参展，重点展示了灵巧手在工业制造、太空任务、特种作业、科研与人形机器人等行业领域的落地场景及解决方案。 灵掌机器人创始人兼首席执行官张超介绍，灵巧手是具身智能走向真实操作的重要一环，也是连接智能决策与物理执行的关键末端。当前灵巧手行业正进入快速发展期，逐步进入真实应用场景中，市场需求也在持续释放。从工业产线上的重物抓取搬运，到危险环境中的远程防爆作业，再到太空航天器维修，灵巧手的市场应用空间广阔。 在张超看来，机器人发展的重要价值之一，是帮助人类承担那些危险、艰难、紧急或高风险的工作，解放人类创造力。 （图示：灵掌机器人联合创始人、硬件总工程师许钦桓交流会发言） 灵掌机器人联合创始人、硬件总工程师许钦桓在现场表示：“灵掌机",
           "source": "雷峰网",
           "published": "2026-11-20T10:27:00+00:00",
           "published_ts": 1795170420.0,
-          "category": "embodied"
-        },
-        {
-          "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-          "link": "https://www.qbitai.com/2026/11/511426.html",
-          "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
-          "source": "量子位",
-          "published": "2026-11-20T01:07:38+00:00",
-          "published_ts": 1795136858.0,
           "category": "embodied"
         },
         {
@@ -713,8 +704,80 @@
       "key": "general",
       "label": "综合",
       "color": "#64748b",
-      "count": 39,
+      "count": 40,
       "items": [
+        {
+          "title": "哥伦比亚大学和CertiK的研究人员团队推出用于GPU内核形式化验证的TensorLean",
+          "link": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
+          "summary": "哥伦比亚大学和CertiK的TensorLean使用Lean在PTX级别对生产GPU内核进行形式化验证。它检查了149个内核实例，证明了83个是正确的，并在FlashAttention、DeepGEMM等中发现了38个漏洞。这篇文章《哥伦比亚大学和CertiK的研究团队推出用于GPU内核形式化验证的TensorLean》最初发表在MarkTechPost上。",
+          "source": "MarkTechPost",
+          "published": "2026-11-22T01:51:43+00:00",
+          "published_ts": 1795312303.0,
+          "category": "general"
+        },
+        {
+          "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+          "link": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "AI 恐怖如斯 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-22T01:35:14+00:00",
+          "published_ts": 1795311314.0,
+          "category": "general"
+        },
+        {
+          "title": "伟大的 GTA 6，「不好玩」的 GTA 6",
+          "link": "https://www.ifanr.com/1690801?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "我都遵纪守法了，还能叫 GTA 吗？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-22T01:34:09+00:00",
+          "published_ts": 1795311249.0,
+          "category": "general"
+        },
+        {
+          "title": "从深圳到上海，少数派的共创故事还在继续",
+          "link": "https://sspai.com/post/119318",
+          "summary": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ... 查看全文",
+          "source": "少数派",
+          "published": "2026-11-22T01:05:44+00:00",
+          "published_ts": 1795309544.0,
+          "category": "general"
+        },
+        {
+          "title": "Signal限制移动端截屏，以应对人工智能监控带来的“生存威胁”",
+          "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+          "summary": "Signal 正在限制用户在其 Android 和 iOS 应用中截屏的能力。",
+          "source": "TechCrunch AI",
+          "published": "2026-11-21T21:37:10+00:00",
+          "published_ts": 1795297030.0,
+          "category": "general"
+        },
+        {
+          "title": "两个英伟达的故事",
+          "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+          "summary": "我们看到了有关英伟达的两种截然不同的景象：一份是该公司最新的财报，另一份则是科技高管们大声疾呼黄仁勋回归。",
+          "source": "TechCrunch AI",
+          "published": "2026-11-21T21:07:42+00:00",
+          "published_ts": 1795295262.0,
+          "category": "general"
+        },
+        {
+          "title": "将自己面孔的AI版本卖给这家微短剧初创公司，是好莱坞的未来吗？",
+          "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+          "summary": "一位演员将自己的面部形象授权给了一家微短剧初创公司——这在中国已经成为一种流行趋势。专家们对如果这也成为好莱坞的趋势，会带来哪些长期后果表示质疑。",
+          "source": "TechCrunch AI",
+          "published": "2026-11-21T16:00:00+00:00",
+          "published_ts": 1795276800.0,
+          "category": "general"
+        },
+        {
+          "title": "Anthropic 是否有能力将安全放在首位？",
+          "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+          "summary": "今天，我将与The Verge的高级人工智能记者Hayden Field就Anthropic的IPO进行对话，这是我们关于人工智能在现实生活中的系列的第三期也是最后一期节目。Claude背后的这家人工智能实验室于上周四在纳斯达克上市。这些数字非常庞大，但对于本次谈话来说并不太重要，除了……",
+          "source": "The Verge AI",
+          "published": "2026-11-21T13:29:45+00:00",
+          "published_ts": 1795267785.0,
+          "category": "general"
+        },
         {
           "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
           "link": "https://sspai.com/post/119291",
@@ -731,6 +794,24 @@
           "source": "雷峰网",
           "published": "2026-11-21T03:47:00+00:00",
           "published_ts": 1795232820.0,
+          "category": "general"
+        },
+        {
+          "title": "美股一夜崩盘，AI 泡沫真要破了？",
+          "link": "https://www.ifanr.com/1690789?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "AI 泡沫要破了吗 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-21T03:30:42+00:00",
+          "published_ts": 1795231842.0,
+          "category": "general"
+        },
+        {
+          "title": "刚刚，曝黎曼猜想被证明，Claude 立大功",
+          "link": "https://www.ifanr.com/1690750?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "AI 恐怖如斯 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-21T01:29:09+00:00",
+          "published_ts": 1795224549.0,
           "category": "general"
         },
         {
@@ -812,6 +893,15 @@
           "source": "The Verge AI",
           "published": "2026-11-20T16:57:47+00:00",
           "published_ts": 1795193867.0,
+          "category": "general"
+        },
+        {
+          "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+          "link": "https://www.qbitai.com/2026/11/511727.html",
+          "summary": "",
+          "source": "量子位",
+          "published": "2026-11-20T16:07:39+00:00",
+          "published_ts": 1795190859.0,
           "category": "general"
         },
         {
@@ -914,6 +1004,15 @@
           "category": "general"
         },
         {
+          "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
+          "link": "https://www.qbitai.com/2026/11/511679.html",
+          "summary": "联合华为昇腾，五年冲刺十万卡",
+          "source": "量子位",
+          "published": "2026-11-20T08:59:15+00:00",
+          "published_ts": 1795165155.0,
+          "category": "general"
+        },
+        {
           "title": "享界V8正式上市售价31.98万元起，鸿蒙智行首款纯电MPV瞄准高端家用",
           "link": "https://www.leiphone.com/category/industrynews/Tjsd07j74heQpJKc.html",
           "summary": "11月20日，在“鸿蒙智行享界V8及星芒品牌发布会”现场，鸿蒙智行首款“家庭智慧旗舰MPV”享界V8正式上市，售价31.98-42.98万元，下定享界V8，享至高93000元购车权益，首批交付已于上市当日开启。作为鸿蒙智行切入家用MPV市场的首款产品，享界V8围绕家庭出行真实场景带来为家而生的100个设计，并以“8系价格、9系配置”重新定义家用标准，成为今年下半年家用车市场的强势黑马。目前，享界V8新车已在全国147城399店同步到店，消费者可就近体验实车或预约试驾。 对一台家用MPV而言，内部空间是需求的第一入口。享界V8车身尺寸为5335mm×2005mm×1805mm，轴距长达3250mm，采用1:1:1黄金空间配比与真三排平权设计，为第三排提供更大的乘坐空间，使其不再只承担短途临时乘坐功能，让每一排家庭成员都享有同等的舒适；730mm超大侧滑门、380mm超低地台配合340mm超长",
@@ -965,105 +1064,6 @@
           "source": "少数派",
           "published": "2026-11-20T07:34:26+00:00",
           "published_ts": 1795160066.0,
-          "category": "general"
-        },
-        {
-          "title": "当AI影视遇上文化出海：优秀作品亮相第47届美国电影市场",
-          "link": "https://www.leiphone.com/category/industrynews/sFbtCLZ06plyUxPF.html",
-          "summary": "当地时间11月10日至15日，第47届美国电影市场（AFM）在洛杉矶举行。AI影视平台携中国传统文化题材作品亮相展会并达成多项海外合作，为中华文化国际传播探索技术赋能的新实践。 本届展会以“全球影视经济新图景”为主题，聚焦全球影视产业融资、制作、发行领域的新机遇，吸引来自全球超85个国家的数千名制片人、发行商、投资者及业界代表参会。中国电影联合展台、法国电影联盟、美国银行等机构平台，美国狮门影业、法国高蒙电影公司等全球领军影视企业亮相展会。 11月12日，美国电影市场（AFM）创新交流空间（Innovation Hub）现场。 人工智能与影视产业融合是本届展会的核心议题之一，主办方通过创新交流空间（Innovation Hub）等专项板块，推动AI等新兴技术与影视产业的深度对接。 期间，由反向时钟（Reverse Clock Entertainment）、兆原文化集团联合出品的AI电影项目",
-          "source": "雷峰网",
-          "published": "2026-11-20T06:40:00+00:00",
-          "published_ts": 1795156800.0,
-          "category": "general"
-        },
-        {
-          "title": "在存储器需求飙升之际，三星电子重振芯片领导地位",
-          "link": "https://analyticsindiamag.com/ai-news/samsung-electronics-names-new-heads-for-memory-system-lsi-and-mobile-businesses",
-          "summary": "此次领导层变动正值三星电子寻求加强其半导体业务，并在人工智能时代提升其竞争力之际。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-20T06:36:10+00:00",
-          "published_ts": 1795156570.0,
-          "category": "general"
-        },
-        {
-          "title": "据报道，台积电在分配芯片之前会查看客户的资产负债表",
-          "link": "https://analyticsindiamag.com/ai-news/tsmc-reportedly-weighs-ai-customers-financial-health-before-allocating-chip-capacity",
-          "summary": "对于超出已报告客户信用额度的订单，台积电可能会要求以现金支付或预付款方式支付，以预留代工产能。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-20T06:32:48+00:00",
-          "published_ts": 1795156368.0,
-          "category": "general"
-        },
-        {
-          "title": "美国同意向中国出售87.9万块NVIDIA和AMD芯片",
-          "link": "https://analyticsindiamag.com/ai-news/us-lawmakers-disclose-approvals-for-879000-nvidia-and-amd-chips-to-china",
-          "summary": "英伟达的申请包括一项涉及61万枚芯片的申请，该申请是为阿里巴巴集团提出的，并已获批准，其中将中国列为最终目的地。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-20T06:21:47+00:00",
-          "published_ts": 1795155707.0,
-          "category": "general"
-        },
-        {
-          "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
-          "link": "https://www.qbitai.com/2026/11/511603.html",
-          "summary": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
-          "source": "量子位",
-          "published": "2026-11-20T06:16:06+00:00",
-          "published_ts": 1795155366.0,
-          "category": "general"
-        },
-        {
-          "title": "大二「天才少女」刚拿下 ACM 最佳论文，立陷造假疑云，通讯作者独家回应",
-          "link": "https://www.leiphone.com/category/private/fTZ8RbFMcD34HieP.html",
-          "summary": "事件全貌梳理 + 当事人独家回应 作者丨 邓哲敏 编辑丨 齐铖湧 近日，一场疑似“学术造假”事件，在国内学术圈掀起了轩然大波。 事件的暴风眼，来自刚刚结束的顶级学术会议 ACM MM 2026，这场国际多媒体领域顶会上的一篇 Best Paper，被指出诸多疑点，质疑它可能存在的造假行为和国际顶会最佳论文这个 title 的含金量。 AI科技评论（雷峰网）梳理了事情的来龙去脉，并独家联系到这篇论文的通讯作者。 01 缘起 11 月 14 日，ACM MM 2026 于巴西闭幕，因为 AI 时代的来到，这个会议备受学界关注。 这次疑云的主角，是 17 篇最佳论文中的一篇，题目为《Clifford-Algebra-Based Geometric Feature Fusion for Real-Time UHD Low-Light Image Enhancement》。 这是一篇关于如何用 AI",
-          "source": "雷峰网",
-          "published": "2026-11-20T06:03:00+00:00",
-          "published_ts": 1795154580.0,
-          "category": "general"
-        },
-        {
-          "title": "支付宝小荷包联合蚂蚁庄园上线爱心插件，近50万用户共同守护流浪动物",
-          "link": "https://www.leiphone.com/category/industrynews/Xe1FWkNUk4IQr4kx.html",
-          "summary": "冬天的寒风一点点钻进街巷，街边的毛孩子该如何度过一年里最难捱的季节？ 近日，支付宝小荷包宣布联合蚂蚁庄园发起“守护流浪动物”计划。该计划以小荷包的共同管账能力为基础，联动蚂蚁庄园的公益互动玩法，让普通用户也能顺手做公益，陪小流浪们温暖过冬，目前已吸引近50万用户参与。 用小荷包管理救助花销 账目公开透明 记者从支付宝小荷包的荷包圈发现，大量救助群体在用小荷包管理流浪动物的公益救助花销。作为支持多人共同管账的工具，小荷包具备账单公开透明、收支实时共享的特性：多个人可以同时参与一本账，每一笔收入与支出都实时同步、有据可查。 更进一步，用户还能将账单公开到小荷包荷包圈，支持公众访问、查看，相当于零成本搭建起一个面向社会的财务公示窗口。对于长期依赖社会捐赠的流浪动物救助而言，这种“看得见”的透明，正是信任的基础。 图说：大量用户用支付宝小荷包管理流浪动物救助花销 公益博主入驻荷包圈 公开流浪猫暖冬",
-          "source": "雷峰网",
-          "published": "2026-11-20T05:40:00+00:00",
-          "published_ts": 1795153200.0,
-          "category": "general"
-        },
-        {
-          "title": "触屏只是它最不起眼的升级｜MacBook PROLED 评测",
-          "link": "https://www.ifanr.com/1690404?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "summary": "触屏不是她的全部 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-20T04:00:17+00:00",
-          "published_ts": 1795147217.0,
-          "category": "general"
-        },
-        {
-          "title": "独家丨荣耀、腾讯背景团队创业做 AI 交互吊坠，已获李泽湘早期投资",
-          "link": "https://www.leiphone.com/category/weiwu/cmj50XKwCB4drkus.html",
-          "summary": "创始人肖裕炜曾在荣耀工作五年，经历横跨 GPU 底层技术与 AI 终端设备。 作者丨黄艳冰 编辑丨 姚单 雷峰网·鲸犀独家获悉， 荣耀前高级算法工程师肖裕炜已离职创业，于今年年中创立 AI 交互硬件公司 KnowVoice。 其目前正在李泽湘教授的下深圳科创学院孵化，已获得早期投资支持。 创始人兼 CEO 肖裕炜生于 1998 年，本科毕业于广东工业大学，为广工大 Robomaster 战队 DynamicX 联创。毕业后就职于荣耀，职业经历横跨底层技术与战略业务。 肖裕炜早期担任 GPU-Turbo-X SE 系统工程师，负责渲染技术与端侧高性能优化，他主导的 AI 渲显分离项目“荣耀幻影引擎”，主要解决游戏偶尔掉帧、突然卡顿的问题。此外，他还拥有数十项国内外专利，并代表荣耀参与图形行业的标准制定。 此后，肖裕炜调任总裁办公室研究员，转向游戏与 AI 终端设备方向，主导 Z 时代游戏玩家",
-          "source": "雷峰网",
-          "published": "2026-11-20T03:22:00+00:00",
-          "published_ts": 1795144920.0,
-          "category": "general"
-        },
-        {
-          "title": "独家｜前京东健康市场营销部总经理王丁虓加入面壁智能，担任品牌公关负责人",
-          "link": "https://www.leiphone.com/category/industrynews/r1chb5ofkWYaKjMn.html",
-          "summary": "雷峰网独家获悉，原京东健康市场营销部总经理王丁虓（九虎）已于近期加入面壁智能，担任品牌公关负责人。 公开资料显示，2010 年，王丁虓从天津师范大学广告学专业本科毕业，先后在电通数码、奥美广告任策略经理和策略总监，是根正苗红的广告人。2017年9月，王丁虓加入字节，开始了从广告人到营销人的转变。 加入字节后，王丁虓先后担任商业化华北营销中心总经理、巨量引擎营销中心策略负责人、大力教育清北网校市场负责人。教育业务遇政策调整后转入抖音生活服务，负责市场与招商传播，后续统筹华北、华东、华南三大区域市场团队，直接向浦燕子汇报。 2024 年 9 月 10 日，王丁虓从字节离职。同日，其在个人微信发布了“Goodbye，Goodbye”的朋友圈。地址标记是位于时尚万科的抖音大厦。 2025 年 3 月，王丁虓开始以京东健康市场部营销部总经理一职，出现在少数公开活动。 不过，这段任职仅维持数月，随着原",
-          "source": "雷峰网",
-          "published": "2026-11-20T02:58:00+00:00",
-          "published_ts": 1795143480.0,
-          "category": "general"
-        },
-        {
-          "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
-          "link": "https://sspai.com/post/118879",
-          "summary": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。 查看全文",
-          "source": "少数派",
-          "published": "2026-11-20T02:47:52+00:00",
-          "published_ts": 1795142872.0,
           "category": "general"
         }
       ]

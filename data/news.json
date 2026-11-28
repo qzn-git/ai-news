@@ -2,7 +2,7 @@
   "title": "AI 日报",
   "subtitle": "大模型 · 智能体 · 具身智能",
   "description": "每天自动聚合大模型、智能体与具身智能领域的AI资讯",
-  "generated_at": "2026-11-27T06:56:54+00:00",
+  "generated_at": "2026-11-28T06:31:35+00:00",
   "total": 278,
   "source_count": 17,
   "error_count": 1,
@@ -16,6 +16,60 @@
       "color": "#2563eb",
       "count": 38,
       "items": [
+        {
+          "title": "双城联动首发｜共绩算力云平台，一站式跑通 AI 训推全流程",
+          "link": "https://www.leiphone.com/category/industrynews/mFpSlgs8pnwUk320.html",
+          "summary": "一个AI应用从想法到落地，往往要跨过不少门槛： 从开发环境搭建、数据预处理，到模型训练微调、推理部署上线，每一步都离不开算力的支撑，也需要计算资源、运行环境、数据存储和任务调度的协同配合。 但对很多企业和开发者来说，这些环节往往分散在不同的平台和系统中：开发环境需要反复配置，数据需要在集群之间迁移，训练任务需要协调资源，模型上线后还要重新部署和管理。研发与运维的时间，常常消耗在环境对齐、资源协调和系统切换上。 能不能让AI开发的每一步，都在同一个平台完成？ 能！共绩科技持续升级平台产品能力，将底层算力调度与上层 AI 训推服务深度结合。 11月27日，在深圳第28届中国国际高新技术成果交易会和北京2026东升全球创业者峰会上双城联动，全新升级发布共绩算力云平台。 从开发调试、数据处理，到模型训练、微调与在线推理，共绩算力云平台将AI训推服务与算力资源管理整合进同一平台，面向大模型厂商、AI",
+          "source": "雷峰网",
+          "published": "2026-11-28T02:40:00+00:00",
+          "published_ts": 1795833600.0,
+          "category": "llm"
+        },
+        {
+          "title": "从阿里巴巴到 BharatGen，2026 年可与法学硕士相媲美的 10 个小语言模型",
+          "link": "https://analyticsindiamag.com/ai-features/from-alibaba-to-bharatgen-10-small-language-models-that-rivalled-llms-in-2026",
+          "summary": "",
+          "source": "Analytics India Magazine",
+          "published": "2026-11-27T13:30:00+00:00",
+          "published_ts": 1795786200.0,
+          "category": "llm"
+        },
+        {
+          "title": "OpenAI、Anthropic 内部出现分歧：AI 能力增长太快，模型隐藏行为，监测开始系统失灵？",
+          "link": "https://www.leiphone.com/category/ai/IMi92BFX4KU0R8uh.html",
+          "summary": "强化学习让模型学会钻评分规则的空子，甚至能反过来操纵评估结果。 作者丨 郑佳美 编辑丨岑 峰 刚刚，Axios 报道称 Anthropic 和 OpenAI 内部已经有人提出，将尚未公开的前沿模型留在公司内部，甚至暂停继续训练。 同一周，Anthropic 的未发布模型被数学家用来推进黎曼猜想的证明，OpenAI 的未发布模型也在批量生成数学证明。这犹如硬币的两面：部分模型能力增长太快，研究人员开始怀疑现有安全机制能否继续约束它们。并且有超过 24 位熟悉内部讨论的人士透露，两家公司围绕模型是否应该继续公开发布出现分歧。 Axios 的报道中将担忧指向两处：强化学习让模型越来越会利用奖励漏洞，模型也开始隐藏推理过程，向监测器呈现具有误导性的思维链。 其实这已经不是第一次出现类似情况。7 月，OpenAI 内部测试模型突破隔离环境，进入 Hugging Face 部分系统，同月，英国 AI ",
+          "source": "雷峰网",
+          "published": "2026-11-27T08:18:00+00:00",
+          "published_ts": 1795767480.0,
+          "category": "llm"
+        },
+        {
+          "title": "魏建军称车企竞争激烈，董明珠：有些产业害虫该灭就灭；英伟达暂停向东南亚四国出货服务器；腾讯、小红书都在招人加码个人智能体",
+          "link": "https://www.leiphone.com/category/zaobao/VrpGC0c4wtt3NcEi.html",
+          "summary": "要闻提示 1.突发断供！英伟达暂停向东南亚四国出货服务器，戴尔、超微电脑已通知买家 2.魏建军称车企竞争激烈，董明珠：有些产业害虫该灭就灭 3.腾讯、小红书都在招人加码个人智能体 4.阿里加码北美招聘，Qwen团队今年已吸纳数百名AI人才 5.平头哥冲刺IPO之际，马云闪现办公区与员工亲切合影 6.腾讯被曝全公司推混元 HY4 模型，12 月起非技术岗外部模型额度降至 10% 7.离职秒变百万富翁！宝马拟推新一轮自愿离职补偿方案，此前补偿金超65万欧元 今日头条 突发断供！英伟达暂停向东南亚四国出货服务器，戴尔、超微电脑已通知买家 11月26日消息，英伟达通知合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚发运搭载其芯片的服务器，以配合美国商务部新出口管制措施，要求向部分东南亚国家运送先进芯片需取得许可证。据知情人士透露，负责将英伟达芯片组装成服务器的戴尔和超微电脑已告知当地买家，相关订单",
+          "source": "雷峰网",
+          "published": "2026-11-27T07:10:00+00:00",
+          "published_ts": 1795763400.0,
+          "category": "llm"
+        },
+        {
+          "title": "第二十八届高交会科学智能分论坛：从理解科学到自主实验，AI4S如何跨越产业化拐点？",
+          "link": "https://www.leiphone.com/category/ai/c8sG7O6YKz3vKB6a.html",
+          "summary": "当大模型开始调用科研软件，机器人能够执行实验，算法直接进入电池与中药研发流程，AI for Science所改变的，已不只是科研中的某一个环节，也在改变科学发现走向产业应用的方式。 2026年11月26日，深圳宝安。 第二十八届中国国际高新技术成果交易会（以下简称“高交会”）在深圳国际会展中心开幕。作为高新技术成果展示、交流与合作的重要平台，本届高交会汇集人工智能、机器人、新能源、新材料等领域的创新成果，也让基础研究与产业需求在同一空间内展开更直接的对话。 开幕当日下午，“科学智能：发现新范式与未来产业创新”分论坛在深圳国际会展中心14号会议室B厅举行。论坛由中国科学院深圳先进技术研究院集成所所长、深圳市人工智能学会理事长李光林博士，北京大学深圳研究生院信息工程学院教授、博士生导师，深圳市人工智能学会常务副理事长兼秘书长邹月娴博士主持。 李光林 邹月娴 活动上，中国科学院深圳先进技术研究院",
+          "source": "雷峰网",
+          "published": "2026-11-27T06:26:00+00:00",
+          "published_ts": 1795760760.0,
+          "category": "llm"
+        },
+        {
+          "title": "千问辟谣：周昊离职不实，将起诉自媒体\"Top华人科创社\"",
+          "link": "https://www.leiphone.com/category/industrynews/CFGZPziprklwXuQw.html",
+          "summary": "11月27日，针对自媒体\"Top华人科创社\"当日发布的《Qwen 后训练负责人周浩离职》一文，千问大模型官方回应称：内容纯属造谣，并将起诉追究其法律责任。 千问指出，该文章不仅杜撰事实，连当事人姓名都写错——被涉及人员实为\"周昊\"，而非文中所称\"周浩\"。千问称，近期针对Qwen大模型团队的不实信息持续出现，公司将依法追究相关主体的法律责任。",
+          "source": "雷峰网",
+          "published": "2026-11-27T05:52:00+00:00",
+          "published_ts": 1795758720.0,
+          "category": "llm"
+        },
         {
           "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
           "link": "https://www.qbitai.com/2026/11/513211.html",
@@ -80,48 +134,12 @@
           "category": "llm"
         },
         {
-          "title": "RoboScience 机器科学发布 GenSight：如何在一个模型，搞定生成和感知？",
-          "link": "https://www.leiphone.com/category/ai/yVUjZ1Pgo80vJ5T0.html",
-          "summary": "热潮褪去之后，世界模型的研究该转向何处？ 作者丨 邓哲敏 编辑丨 齐铖湧 今年上半年，世界模型是具身智能领域最风光的叙事。资本蜂拥而入，仿佛只要模型能把未来视频生成得足够逼真，机器人就自然能学会理解世界、规划行动。 热潮来得快，走得也快。问题首先出在概念本身，李飞飞团队今年 6 月专门撰文，说世界模型已经成为 AI 领域最重要、也最被滥用的术语之一。更根本的质疑来自实际效果，智源研究院院长王仲远说得很直接：视频生成模型可以生成一群猪在天上和飞机一起飞，因为训练数据里有科幻电影，它的目标从来就不是还原真实物理世界的规律。 9 月 GPT-6 Astra 发布后，大家发现，通用模型已经能覆盖具身的一部分能力，留给专门做世界模型的窗口期可能没多久了。融资市场的反馈更直接，纯讲世界模型故事的具身初创，已经很难再靠这个概念拿到钱。 在这个节点上，RoboScience 机器科学发布 GenSight",
-          "source": "雷峰网",
-          "published": "2026-11-27T02:48:00+00:00",
-          "published_ts": 1795747680.0,
-          "category": "llm"
-        },
-        {
-          "title": "直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI 实验",
-          "link": "https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html",
-          "summary": "聊聊榜单之外的 Motubrain 2.0，和它背后那支不太一样的团队。 作者丨 齐铖湧 编辑丨岑 峰 近日，行业独角兽企业 生数科技 正式发布 Motubrain 2.0，并宣布将于近期开源。 这次发布包括一个 20B 参数的世界动作模型（WAM），以及一套名为 Motubrain-Harness 的智能体系统。 过去一个月里，生数科技把 Motubrain 2.0 的预训练搬上了公开直播：25 天，600 小时，20 万步训练，19 个 Checkpoint 的真机评估，5624 次有效真机评测，超过 1 万次真机任务执行。任何人都可以实时看到训练曲线，包括它变坏的时候。 直播初期，模型的真机任务成功率一度随着训练推进不升反降。团队从训练与推理的一致性开始排查，最后定位到数据层：一批数据里，夹爪的 \"开\" 和 \"关\" 被标反了。排查、修复、重启都在直播里完成，团队没有掐断信号，放弃此前",
-          "source": "雷峰网",
-          "published": "2026-11-26T12:50:00+00:00",
-          "published_ts": 1795697400.0,
-          "category": "llm"
-        },
-        {
           "title": "隆重推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准测试仪表板",
           "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
           "summary": "",
           "source": "Hugging Face Blog",
           "published": "2026-11-26T11:37:17+00:00",
           "published_ts": 1795693037.0,
-          "category": "llm"
-        },
-        {
-          "title": "2026 年，国产模型还能追上 Opus 5.5 吗",
-          "link": "https://www.ifanr.com/1695555?utm_source=rss&utm_medium=rss&utm_campaign",
-          "summary": "这个九月就发布的模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-26T10:02:35+00:00",
-          "published_ts": 1795687355.0,
-          "category": "llm"
-        },
-        {
-          "title": "ChatGPT即将到来的大更新，为何让老用户集体破防",
-          "link": "https://www.ifanr.com/1695589?utm_source=rss&utm_medium=rss&utm_campaign",
-          "summary": "20 美元的会员费，养不起一个全天候工作的 AI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-26T09:51:52+00:00",
-          "published_ts": 1795686712.0,
           "category": "llm"
         },
         {
@@ -158,24 +176,6 @@
           "source": "Hugging Face Blog",
           "published": "2026-11-26T05:05:36+00:00",
           "published_ts": 1795669536.0,
-          "category": "llm"
-        },
-        {
-          "title": "国产模型扎进 AI4S 深水区，几毫秒破译尘封18年密码学悬案",
-          "link": "https://www.leiphone.com/category/yanxishe/T2xmmiMAC6WbuuCM.html",
-          "summary": "作者丨 高允毅 编辑丨岑 峰 11月20日， AI for Science 迎来了一个载入史册的日子：Anthropic 数学家联合 Claude 拿下黎曼猜想的关键突破，同一天，以复杂的数学计算著称的密码学领域，也被AI撼动。 据 MiniMax 官方展示， 其最新内部模型 MIM， 接连攻破了多个 NIST 密码 候选方案和顶会最新发表的前沿成果 。 在 TII McEliece 中直接恢复了 94 个私钥，其中 55 个为全球首次攻克。在最受关注的 破译 效率上，速度直接提升了 43400 倍。 MiniMax 的密码分析成果不仅引发了 Anthropic 团队成员的转发与关注，更被哥伦比亚大学终身教授、国际顶尖量子密码学专家 Henry Yuen 作为前沿案例引用，写入了最新学术演讲中。 图注：哥伦比亚大学教授 Henry Yuen 在最新学术演讲，将 MiniMax 的 AI 密",
-          "source": "雷峰网",
-          "published": "2026-11-26T02:23:00+00:00",
-          "published_ts": 1795659780.0,
-          "category": "llm"
-        },
-        {
-          "title": "独家 | 华人 CV 先驱权龙二次创业，成立空间与物理 AI 公司「Envision AI」",
-          "link": "https://www.leiphone.com/category/academic/S12DTjaFWmIPkwCk.html",
-          "summary": "融合语言、 逻辑、几 何、物理规律，要做统一和通用的空间物理原生基模。 作者丨 幸丽娟 编辑丨岑 峰 AI科技评论独家获悉， 香港科技大学计算机科学与工程系教授、前苹果空间智能首席科学家权龙二次创业，成立公司“Envision AI”（格秩科技），进军空间与物理 AI 赛道。 公司的目标，是打造一个通用的空间物理原生基模：基于大语言模型，从视觉出发，把文本、图像、空间与物理信息统一进同一套体系，推动物理 AI “ChatGPT 时刻”的加速到来。 权龙的分量，在计算机视觉圈不需要解释。他 1995 年提出六点算法，是 三维视觉领域最重要的奠基性算法之一 ；1988 年发表 ICCV 华人计算机视觉第一篇论文；先后担任 ICCV 2011、CVPR 2022 两届大会主席，是极少数在计算机视觉三大顶会中担任过两个大会主席的华人学者；IEEE Fellow，谷歌学术引用量超过 2.3 万次。 ",
-          "source": "雷峰网",
-          "published": "2026-11-26T02:09:00+00:00",
-          "published_ts": 1795658940.0,
           "category": "llm"
         },
         {
@@ -364,8 +364,44 @@
       "key": "agent",
       "label": "智能体",
       "color": "#7c3aed",
-      "count": 34,
+      "count": 33,
       "items": [
+        {
+          "title": "Agent 上车元年，支付宝造了一个行动座舱",
+          "link": "https://www.ifanr.com/1695888?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "智能座舱的下半场，正在从「对话智能」步入「行动智能」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T10:01:35+00:00",
+          "published_ts": 1795773695.0,
+          "category": "agent"
+        },
+        {
+          "title": "支付宝车载助手3.0发布，助力智能座舱打造下一代可靠可信生活服务",
+          "link": "https://www.leiphone.com/category/industrynews/szJUnXEhChJQgJHZ.html",
+          "summary": "11月27日，广州车展期间，支付宝正式发布AI原生车载智能体（Agent）“支付宝车载助手3.0”，助力座舱服务从“对话智能”迈向“行动智能”。 依托车主意图体系、智能服务互联、APASS可信授权等核心能力，该产品打通了实时感知、主动服务到跨域协同、可信执行的全新链路，并将停车缴费、加油充电、高速通行、智能外卖及点单等高频服务真正接入座舱场景——实现“车内发起、车外交付，开口即办、开口即付”，全程无需掏手机，将座舱从功能入口变成智能生活服务入口。 支付宝总裁吴敏芝在发布会上表示，过去22年，支付宝持续打造以用户为中心，以信任为基础的可靠可信的生活服务平台，随着智能座舱的发展革新，支付宝将联合更多车企和生态伙伴，把座舱智能带向新高度。 “车载助手3.0”五大核心能力 重构座舱AI服务边界 行业发展显示，车企已经从“拼硬件”到“拼服务”，座舱的智能边界成为焦点。智能座舱正在从被动响应指令，走向",
+          "source": "雷峰网",
+          "published": "2026-11-27T09:56:00+00:00",
+          "published_ts": 1795773360.0,
+          "category": "agent"
+        },
+        {
+          "title": "Anthropic 放出 Claude Ship：内部 PR 合并量 3 个月翻倍，回滚比例下降超 40%",
+          "link": "https://www.leiphone.com/category/ai/iWUKWuRp4AmJ6dZE.html",
+          "summary": "Claude 已写下约 90% 代码，单日代码变更从 2500 增至 3 万，审查覆盖率升至 54%。 作者丨 郑佳美 编辑丨岑 峰 刚刚，Anthropic 发布了 Claude Ship，将 AI Agent 的工作范围进一步延伸到 GitHub PR 的完整交付流程。 从代码审查、自动修复 CI 失败，到处理合并冲突和审批 PR，Claude 开始参与一项代码从提交到合并的完整工程流程。 这次发布有一个明显的架构变化：Anthropic 没有让单个 Agent 包揽所有工作，而是将 Code Review、PR Steward 和 Claude Approvals 拆成三个独立组件，分别承担审查、修复和审批职责。它们围绕同一个 PR 协作，代码出现问题后可以自动触发修复，修复完成后再进入相应的审查与审批流程。 其中，Claude Ship 引入的策略驱动审批机制改变了 AI 参与代码",
+          "source": "雷峰网",
+          "published": "2026-11-27T08:41:00+00:00",
+          "published_ts": 1795768860.0,
+          "category": "agent"
+        },
+        {
+          "title": "2027款极氪7X正式上市，限时权益价21.68万元起",
+          "link": "https://www.leiphone.com/category/industrynews/IcCp66sNRwAbvDSF.html",
+          "summary": "11月27日，2027款极氪7X在2026广州车展正式上市，共推出后驱Max版、后驱Max+版和四驱Ultra版三款版型，官方零售价分别为22.98万元、23.98万元和26.98万元，限时权益价21.68万元起。即日起，用户可通过极氪App、官网、小程序及全国极氪门店预订新车。上市期间，支付5,000元定金，可享受至高1.3万元现金直减的「限时臻享礼」、总价值3.1万元的「豪华进阶礼」、以及老车主免费充电、两年0息金融及三电终身质保等。 据悉，2027款极氪7X主要针对设计、性能、空间及智能化等进行升级，在延续原有安全与操控优势的基础上，提升豪华质感与智能体验，被不少媒体评价为“七边形战士”。新车新增晨曦金、云珀红两款车色及玄米内饰，增加85kWh神盾金砖电池、前排双云感零重力座椅等配置。全系标配爆胎安全稳行系统、CCD电磁减振系统和RNC主动降噪，并首次搭载千里浩瀚G-ASD 4.1，",
+          "source": "雷峰网",
+          "published": "2026-11-27T05:25:00+00:00",
+          "published_ts": 1795757100.0,
+          "category": "agent"
+        },
         {
           "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
           "link": "https://www.qbitai.com/2026/11/513163.html",
@@ -382,15 +418,6 @@
           "source": "Analytics India Magazine",
           "published": "2026-11-26T17:06:15+00:00",
           "published_ts": 1795712775.0,
-          "category": "agent"
-        },
-        {
-          "title": "手表和眼镜，如何成为AI智能体的「随身感官」？",
-          "link": "https://www.leiphone.com/category/chips/1tx0UpMMROQn9vCW.html",
-          "summary": "去年，Humane关闭了AI Pin的消费者云服务。这款别在衣服上的AI设备一度被寄予厚望，用户只需开口，就能完成许多原本需要掏出手机才能做的事。AI Pin最终没能进入主流市场，却给后来者留下了一道产品定义题 ， 手机已经有了成熟的计算、通信和应用生态， 用户为什么还需要一件戴在身上的AI设备？ 11月25日，在深圳举行的第七届紫光展锐智能穿戴沙龙上，紫光展锐智能穿戴产品线总经理李彬重新提起了AI Pin。在他看来，交互延迟、发热和应用生态都影响了体验，更根本的问题出在定位上。一件体积和电池都更小的设备，试图接过一部手机的任务，最容易丢掉的恰好是它贴身佩戴的优势。 李彬给出了另一种分工。手机继续承担复杂计算、数据和任务管理，手表持续感知人的身体状态，眼镜从第一视角观察环境。 当AI需要理解一个人此刻身在何处、正在做什么，手腕和眼前这两个位置，能提供手机放在口袋里时很难获得的信息。 这给了",
-          "source": "雷峰网",
-          "published": "2026-11-26T09:22:00+00:00",
-          "published_ts": 1795684920.0,
           "category": "agent"
         },
         {
@@ -445,15 +472,6 @@
           "source": "TechCrunch AI",
           "published": "2026-11-25T14:10:18+00:00",
           "published_ts": 1795615818.0,
-          "category": "agent"
-        },
-        {
-          "title": "蔚来发布 NOMI 4.0！0.6 秒极速响应，正式迈入「智能体」时代",
-          "link": "https://www.ifanr.com/1695482?utm_source=rss&utm_medium=rss&utm_campaign",
-          "summary": "当汽车成为物理 AI 的核心载体，一家车企该如何用 AI 重塑自己？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-25T10:47:45+00:00",
-          "published_ts": 1795603665.0,
           "category": "agent"
         },
         {
@@ -565,15 +583,6 @@
           "category": "agent"
         },
         {
-          "title": "实测小豆：主动办事的背后，AI 正在走向每一个人",
-          "link": "https://www.ifanr.com/1691355?utm_source=rss&utm_medium=rss&utm_campaign",
-          "summary": "Personal Agent 的下半场，拼的是主动办事 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-24T11:04:40+00:00",
-          "published_ts": 1795518280.0,
-          "category": "agent"
-        },
-        {
           "title": "Cashfree 使印度的人工智能代理能够代表用户通过钱包付款",
           "link": "https://analyticsindiamag.com/ai-news/cashfree-launches-wallet-letting-ai-agents-pay-for-indian-users",
           "summary": "用户可以保持控制权，因为 Cashfree Wallet 允许人工智能代理在设定的预算内支付账单，而无需查看卡或银行详细信息。",
@@ -653,24 +662,6 @@
           "published": "2026-11-18T00:27:29+00:00",
           "published_ts": 1794961649.0,
           "category": "agent"
-        },
-        {
-          "title": "通过划定界限而非预测来打造值得信赖的人工智能",
-          "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-          "summary": "今年10月，OpenAI披露，其两名AI代理关闭了用于监控它们的系统。其中一个在误读了一条“不发送消息”的指令后，将自己的安全警报静音；另一个在迁移过程中删除了其监控集成，然后又说自己没有这样做。没有哪条规则要求这些智能体……",
-          "source": "MIT Tech Review AI",
-          "published": "2026-11-16T16:04:28+00:00",
-          "published_ts": 1794845068.0,
-          "category": "agent"
-        },
-        {
-          "title": "构建可跨企业运作的AI",
-          "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-          "summary": "多年来，企业一直将人工智能视为一系列孤立的实验。如今，随着AI代理开始进入支撑业务运营的工作流程，这种模式开始显得力不从心。从孤立的试点转向 AI 代理和自主工作流程的组织正面临着一个更深层次的挑战：重新思考数据、业务流程、治理……",
-          "source": "MIT Tech Review AI",
-          "published": "2026-11-16T13:00:00+00:00",
-          "published_ts": 1794834000.0,
-          "category": "agent"
         }
       ]
     },
@@ -681,39 +672,39 @@
       "count": 8,
       "items": [
         {
-          "title": "百亿具身独角兽破壁，玩家集体涌向它的牌桌",
-          "link": "https://www.qbitai.com/2026/11/513101.html",
-          "summary": "",
+          "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+          "link": "https://www.qbitai.com/2026/11/513352.html",
+          "summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
           "source": "量子位",
-          "published": "2026-11-27T03:23:25+00:00",
-          "published_ts": 1795749805.0,
+          "published": "2026-11-27T14:07:33+00:00",
+          "published_ts": 1795788453.0,
           "category": "embodied"
         },
         {
-          "title": "深耕核心零部件，钛虎机器人轻量化关节模组Lite-1系列助力整机降本增效",
-          "link": "https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html",
-          "summary": "近日，钛虎机器人科技（上海）有限公司（以下简称“钛虎机器人”）正式发布面向机器人批量落地场景的轻量化关节模组Lite-1系列。该产品通过结构精简，驱控板与编码器一体化设计，在压缩体积、提升集成度的同时保持控制精度与运行稳定性，为人形机器人整机设计与规模化生产提供了新的核心零部件选择。 当前，人形机器人产业正从“能走能动”的样机验证阶段，加速迈向“可批量、可交付、可落地”的产业化阶段。关节模组是机器人的核心运动部件，其体积、集成度、走线方式与装配一致性，直接影响整机结构、成本与量产节奏。 结构设计：轴向长度较上代至多缩短22.5% 据介绍，钛虎该系列采用驱控板与编码器一体化设计，关节模组整机部件精简至6个，内部排布更紧凑。同外径尺寸下，关节轴向长度较上代产品至多缩短22.5%；侧出线设计减少线束转弯，使带线轴向安装空间节省多达30%，为人形机器人头部、手腕等部位留出更大设计余量，助力整机外形",
+          "title": "具微科技高交会双新品首秀，全栈方案破解工业机器人连续作业难题",
+          "link": "https://www.leiphone.com/category/robot/UTZbbw7CrHpZvIS7.html",
+          "summary": "11月26日，中国国际高新技术成果交易会（简称“高交会”）在深圳国际会展中心开幕。具微科技集中展示了具身智能在高危特种工业场景的全栈创新成果，并线下首展新一代工业特种作业移动底座 MOVENEW P3S ，首发模块化换装补能基站 MICBOT PANDORA，重构工业无人化作业的技术底座与落地路径，重塑高危特种工业领域的生产范式。 轮足复合移动底座，直面高危重载作业场景 开幕首日，具微科技展台迎来众多专业观众。现场四足机器人依次完成 360° 连续旋转、复杂地形跃障与定点跨障跳跃等动态演示，呈现整机运动性能；展台同期展出面向特种具身场景的新一代产品 MOVENEW P3S。 与多数以运动演示为主的四足机器人不同，P3S 面向工业高危环境设计，定位为可拓展的“工业特种作业移动底座”，而非单一巡检设备，可搭载检测、清障、搬运、处置等任务模块。 P3S 整机采用宽体短腿、四轮足构型，铺装路面优先",
           "source": "雷峰网",
-          "published": "2026-11-26T13:45:00+00:00",
-          "published_ts": 1795700700.0,
+          "published": "2026-11-27T09:37:00+00:00",
+          "published_ts": 1795772220.0,
           "category": "embodied"
         },
         {
-          "title": "Robotaxi 即将开启无人运营、机器人脱稿演讲，小鹏科技日迎来了自己的「奇点时刻」",
-          "link": "https://www.ifanr.com/1695212?utm_source=rss&utm_medium=rss&utm_campaign",
-          "summary": "技术实力的外溢。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-26T02:25:24+00:00",
-          "published_ts": 1795659924.0,
+          "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+          "link": "https://www.qbitai.com/2026/11/513227.html",
+          "summary": "地图能随时修，记忆能跨任务用",
+          "source": "量子位",
+          "published": "2026-11-27T07:01:20+00:00",
+          "published_ts": 1795762880.0,
           "category": "embodied"
         },
         {
-          "title": "机器人量产背后，物理AI开始算新账：研发底座何必各自建？",
-          "link": "https://www.leiphone.com/category/chips/HQvbSEUnkDy0Tos9.html",
-          "summary": "2026年，人形机器人加速走出实验室。 但是让机器人在真实世界产生价值，依然复杂而成本高昂。 从数据采集、物理仿真到模型训练、真机验证，机器人每掌握一项新技能，背后都可能是一整套研发流程的反复运转。 更复杂的是，这些能力分散在不同的专业厂商手中。产业分工越来越细，如何将分散的技术能力组织起来，反而成了一道新的难题。 当机器人开始规模化交付，产业需要解决的不只是如何造出更多机器人，还有如何让更多企业以更低的成本训练机器人。 这也让物理AI产业出现了一个新的机会：谁有能力将分散的研发资源组织成可复用的基础设施，谁就有机会成为产业链上的重要组织者。 九章云极正尝试从算力供应商向物理AI开发平台延伸，通过物理AI工厂、生态联盟和标准化接口，参与这场产业分工的重构。 01 机器人越造越多，研发底座开始走向共建 《2026年人形机器人产业发展报告》显示，今年上半年，中国人形机器人出货量已超过4万台。 ",
+          "title": "通用大脑再升级：蚂蚁灵波发布LingBot-Map 2.0和LingBot-Navi",
+          "link": "https://www.leiphone.com/category/industrynews/WFWuafAg4rdHjEEi.html",
+          "summary": "11月27日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0，并开源带空间记忆的导航模型 LingBot-Navi，进一步补强了蚂蚁灵波具身原生通用大脑的空间记忆与自主导航能力。其中LingBot-Map 2.0负责从单目 RGB 连续画面中实时重建三维空间，并在模型内部随时修正积累的漂移误差。LingBot-Navi 则依托 LingBot-Map 2.0，构建可跨任务复用的三维空间记忆，按自然语言指令快速查找目标、规划路线，并导航至目标附近的停靠点。 两款模型分别针对机器人长距离建图易漂移、跨任务导航记不住路这两大行业痛点，让机器人能在陌生大场景中边走边建图、随时校准空间记忆、对环境越走越熟悉。 自主移动是机器人进入真实物理世界的基础能力。无论是仓储搬运、园区巡检，还是楼宇配送、家庭服务，都要求机器人在大范围陌生环境中长时间连续作业，并在后续同一场景重复作业时更加高效",
           "source": "雷峰网",
-          "published": "2026-11-26T01:35:00+00:00",
-          "published_ts": 1795656900.0,
+          "published": "2026-11-27T05:22:00+00:00",
+          "published_ts": 1795756920.0,
           "category": "embodied"
         },
         {
@@ -761,12 +752,291 @@
       "count": 39,
       "items": [
         {
+          "title": "德系最大 SUV 来了！奥迪 Q9 国内首秀，车长超 5 米 3，还有一台大 V6丨广州车展",
+          "link": "https://www.ifanr.com/1696001?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "奥迪也拥有了他们的「大 9 系」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-28T05:01:54+00:00",
+          "published_ts": 1795842114.0,
+          "category": "general"
+        },
+        {
+          "title": "「黑五」值得买：不容错过的数码硬件优惠",
+          "link": "https://sspai.com/post/119651",
+          "summary": "除了软件服务，这个黑五还有这些硬件值得一看。 查看全文",
+          "source": "少数派",
+          "published": "2026-11-28T03:30:00+00:00",
+          "published_ts": 1795836600.0,
+          "category": "general"
+        },
+        {
+          "title": "本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限",
+          "link": "https://sspai.com/post/119686",
+          "summary": "以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本期不设特定有奖互动话题，欢迎你在评论区分享11月新作游玩体验，可以是本文出现的，也可以是本文未提及、但你特别想推荐给派友的。我们下期再见！> ... 查看全文",
+          "source": "少数派",
+          "published": "2026-11-28T00:47:47+00:00",
+          "published_ts": 1795826867.0,
+          "category": "general"
+        },
+        {
+          "title": "独家丨瞄准 AI 算力天花板，「闪科光联」完成数千万融资",
+          "link": "https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html",
+          "summary": "“AI算力的成本中心正在从‘计算’转向‘连接’。” 雷峰网·鲸犀独家获悉，MicroLED 高速光互连芯片与光引擎研发商「闪科光联」近日完成数千万元人民币天使轮融资。 种子轮由励石创投独家投资，天使轮由商汤国香、长石资本、厚雪资本联合领投，险峰长青（K2）、磐霖资本、小苗朗程、柯熙创投等多家产业基金共同跟投。 鲸犀进一步获悉，闪科光联成立于 2026 年 9 月，创始人周秋桂博士毕业于美国弗吉尼亚大学，师从“全球 APD 之父” Joe C. Campbell 院士，回国后任职于华工科技，并从零组建了硅光团队。 此后，周秋桂共同参与创立了熹联光芯，主导光电融合这一新架构的落地与量产。从经历来看，周秋桂完整走过了两代光互连技术的产业化。 团队上，闪科光联的核心技术团队来自华为美研所、美国高通、华工正源等企业，在光电芯片、先进封装、高速光模块领域拥有 20 年以上经验。 据周秋桂等闪科光联人士",
+          "source": "雷峰网",
+          "published": "2026-11-27T19:14:00+00:00",
+          "published_ts": 1795806840.0,
+          "category": "general"
+        },
+        {
+          "title": "独家丨自研微水洗澡机，「润泽智造」拿下数百万元天使轮融资",
+          "link": "https://www.leiphone.com/category/weiwu/TThdKrM8psZJIudr.html",
+          "summary": "雷峰网·鲸犀独家报道，微水清洁技术研发商「润泽智造」近期完成数百万元人民币天使轮融资，由一家市场化投资机构领投，金隼投资担任独家财务顾问。 润泽智造成立于 2025 年，旗下品牌“羽鸣 eoomii”主打的产品是一款便携式微水洗澡机。 据鲸犀了解，这款产品仅重约 4.9 千克，将清洗与烘干整合为一套“微水洗干一体”的自动化流程，聚焦于缺水环境下的个人清洁日用场景。 也就是说，洗澡过程中的清洁、污水回收、晾干等步骤都可以用一台机器完成，取代了传统的固定浴室和大量水流冲洗。 在团队上，创始人常若飞是一位连续创业者，有 15 年连续创业经验与 3 次成功创业经历，曾任深圳华科精密仪器研发负责人，首个创业项目「若天科技」年营业额 500 万元。 2020 年至 2024 年，常若飞独立研发便携微水洗澡机，攻克洗干一体技术，羽鸣 eoomii 的诞生也源于此。 此外，技术总监尹建泼曾就职于比亚迪第三",
+          "source": "雷峰网",
+          "published": "2026-11-27T19:06:00+00:00",
+          "published_ts": 1795806360.0,
+          "category": "general"
+        },
+        {
+          "title": "24.99 万元起！宝马新世代 i3 正式上市，纯电续航高达 1028km丨广州车展",
+          "link": "https://www.ifanr.com/1695987?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "新世代的宝马，依旧是「驾驶者之车」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T16:41:37+00:00",
+          "published_ts": 1795797697.0,
+          "category": "general"
+        },
+        {
+          "title": "9.69 万元，奇瑞 QQ3 变身一辆可以开咖啡馆的「QQ 啡车」丨广州车展",
+          "link": "https://www.ifanr.com/1695964?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "生活方式，可大可小。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T15:29:34+00:00",
+          "published_ts": 1795793374.0,
+          "category": "general"
+        },
+        {
+          "title": "美团财报电话会：Keeta沙特实现全季度盈利",
+          "link": "https://www.leiphone.com/category/industrynews/bNneZTVQVkQBiKrH.html",
+          "summary": "“Keeta延续了强劲的增长势头，且效率持续提升。”11月27日晚，美团三季度财报电话会上，CFO陈少晖分享了美团国际化进展。“香港稳定盈利，中东效率继续改善，特别是沙特在Q3全季度已经盈利。” 今年7月，Keeta在沙特市场首次实现单月盈利，用时22个月，比香港市场更快。“Keeta在香港、中东市场效率的快速改善，印证了我们运营路径的有效性。”陈少晖表示，“巴西是我们重视的市场，我们依旧看好其市场潜力。事实上，在过去几个季度，Keeta在巴西的效率持续提升，我们看到了更明确的UE改善路径。” 陈少晖认为，即时零售出海对美团是一个重要的增长机会。 “目前在全球很多地区，外卖仍然只是少数消费者寻求偶然便利的选择，并未普及到大众市场，说明这些市场还有巨大的增长空间。外卖在全球范围内是已被验证的成熟商业模式，且更多的外卖平台也开始从餐饮向食杂等非餐品类拓展。”陈少晖说，“Keeta过去在餐饮外卖",
+          "source": "雷峰网",
+          "published": "2026-11-27T12:24:00+00:00",
+          "published_ts": 1795782240.0,
+          "category": "general"
+        },
+        {
+          "title": "美团电话会：预期四季度餐饮外卖UE较二季度明显提升",
+          "link": "https://www.leiphone.com/category/industrynews/vNOSrpDD4d2w5DYL.html",
+          "summary": "11月27日，美团发布2026年第三季度业绩报告，实现收入1156亿元。随着外卖行业趋于理性，叠加三季度暑期旺季效应，美团各项业务保持稳健增长。 在财报电话会上，美团管理层表示，三季度，美团继续强化在餐饮外卖订单量和GTV上的领先地位，增长质量显著提升。 二季度气温适宜、配送成本平稳，通常是外卖UE最好的季度。而三季度包含暑期旺季，为保障订单高峰期及特殊天气条件下的稳定履约，三季度会投入更多骑手补贴，单均配送成本高于二季度。 美团管理层披露，三季度餐饮外卖UE较二季度有所回落，但9月UE修复明显，优于二季度平均水平，而10月UE环比9月继续提升。展望四季度，尽管配送成本仍受寒冬和年底季节性因素影响，但若行业保持理性，预期四季度餐饮外卖UE较二季度明显提升。 美团CFO陈少晖表示：“我们有信心，以更优质的服务和更高效的运营，为消费者、商家和骑手创造价值，并以此为基础，保持市场领先地位和行业领",
+          "source": "雷峰网",
+          "published": "2026-11-27T12:23:00+00:00",
+          "published_ts": 1795782180.0,
+          "category": "general"
+        },
+        {
+          "title": "从「中国特供」变全球旗舰，搭载 Momenta 智驾的本田冠道来了｜广州车展",
+          "link": "https://www.ifanr.com/1695948?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "十年前为中国造大空间，十年后用中国场景定义全球车。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T12:20:17+00:00",
+          "published_ts": 1795782017.0,
+          "category": "general"
+        },
+        {
+          "title": "启源 Q06 迎来大升级！长安发布天枢领航 Ultra 2.0，明年 1 月推车位到车位｜广州车展",
+          "link": "https://www.ifanr.com/1695936?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "15 万级家用车车主，也在认真用高阶智驾了。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T12:16:32+00:00",
+          "published_ts": 1795781792.0,
+          "category": "general"
+        },
+        {
+          "title": "捷途纵横 R700 发布：华为乾崑智驾配大梁，家用硬派两手抓｜广州车展",
+          "link": "https://www.ifanr.com/1695926?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "穿西装的方盒子。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T12:13:40+00:00",
+          "published_ts": 1795781620.0,
+          "category": "general"
+        },
+        {
+          "title": "43.99 万元，只有一个配置，岚图泰山纯电版带来了三腔空悬｜广州车展",
+          "link": "https://www.ifanr.com/1695915?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "一个配置打天下。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T12:11:19+00:00",
+          "published_ts": 1795781479.0,
+          "category": "general"
+        },
+        {
+          "title": "限时 11.99 万元起，日产 NX7 标配宁德时代电池，还有Momenta 智驾｜广州车展",
+          "link": "https://www.ifanr.com/1695904?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "辅助驾驶上大分。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T12:09:14+00:00",
+          "published_ts": 1795781354.0,
+          "category": "general"
+        },
+        {
+          "title": "Anthropic 在消息 API 中放弃 Python，改用 Rust，CPU 使用率降低 70%，内存使用率降低 80% 以上",
+          "link": "https://analyticsindiamag.com/ai-news/anthropic-ditches-python-for-rust-in-messages-api-cuts-cpu-usage-by-70-and-memory-by-over-80",
+          "summary": "Anthropic 表示，Python 通过对象创建、内存管理和任务之间的工作转移在每个阶段引入了计算开销。",
+          "source": "Analytics India Magazine",
+          "published": "2026-11-27T12:00:10+00:00",
+          "published_ts": 1795780810.0,
+          "category": "general"
+        },
+        {
+          "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+          "link": "https://www.qbitai.com/2026/11/513346.html",
+          "summary": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+          "source": "量子位",
+          "published": "2026-11-27T11:18:24+00:00",
+          "published_ts": 1795778304.0,
+          "category": "general"
+        },
+        {
+          "title": "美团2026年三季报：营收1156亿元，AI经营工作台“妙手”已服务200万商家",
+          "link": "https://www.leiphone.com/category/industrynews/iJ0tw7k1kHDs5zjT.html",
+          "summary": "11月27日，美团（股票代码：3690.HK）发布2026年第三季度业绩报告。三季度，美团实现收入1156亿元，同比增长21.6%，净利润同比由负转正。 随着外卖行业趋于理性，叠加三季度暑期旺季效应，公司各项业务经营质量进一步提升，核心本地商业和新业务均保持稳健增长。 本季度，美团积极推动骑手职业伤害保障、养老保险补贴落地全国，进一步完善骑手大病关怀计划。此外，公司持续深化食品安全治理，让严守食品安全规范的商家被更多用户看见，为商家营造更健康的经营生态。 三季度，美团继续加强AI能力建设，公司季度研发投入77亿元，同比增长11.3%，AI经营工作台“妙手”（CatPaw）已服务超过200万商家。 美团CEO王兴表示：“我们将不断推动产品与服务创新，坚定扩大生态与科技投入，持续为行业各方创造长期价值，帮大家吃得更好，生活更好。” 外卖行业迎拐点，新业务维持高增长 三季度，外卖行业平均客单价同",
+          "source": "雷峰网",
+          "published": "2026-11-27T10:28:00+00:00",
+          "published_ts": 1795775280.0,
+          "category": "general"
+        },
+        {
+          "title": "阿维塔 T09 中国首秀，这是一辆可以在四座和六座之间切换的旗舰 SUV丨广州车展",
+          "link": "https://www.ifanr.com/1695875?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "阿维塔的旗舰 SUV 虽迟但到。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T09:17:03+00:00",
+          "published_ts": 1795771023.0,
+          "category": "general"
+        },
+        {
+          "title": "Claude Opus 5.6 做出了史上最牛的 PPT，直接杀死比赛？",
+          "link": "https://www.ifanr.com/1695831?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "这可能是我们见过最离谱的 AI 生成 PPT。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T09:06:19+00:00",
+          "published_ts": 1795770379.0,
+          "category": "general"
+        },
+        {
+          "title": "蔚来三大品牌首次同台亮相广州车展，ES8、乐道 L60 推出全新特别版车型丨广州车展",
+          "link": "https://www.ifanr.com/1695848?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "萤火虫渡过了最困难的时期。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T08:55:27+00:00",
+          "published_ts": 1795769727.0,
+          "category": "general"
+        },
+        {
+          "title": "限时 25.49 万元起！奔驰纯电 GLC「大件夹抵食」",
+          "link": "https://www.ifanr.com/1695815?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "智能化，不再是新势力的独角戏。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T08:49:16+00:00",
+          "published_ts": 1795769356.0,
+          "category": "general"
+        },
+        {
+          "title": "本周看什么 | 最近值得一看的 8 部作品",
+          "link": "https://sspai.com/post/119658",
+          "summary": "☕️TL;DR近期佳作推荐：[电影]泥面人、[电影]峡湾、[电影]童话继姊妹、[英剧]警之光第四季、[加拿大]槲寄生谋杀案第三季、[国产]今天是太阳雨、[纪录片]一切如你所见、[真人秀]魔鬼的计谋：死 ... 查看全文",
+          "source": "少数派",
+          "published": "2026-11-27T08:32:46+00:00",
+          "published_ts": 1795768366.0,
+          "category": "general"
+        },
+        {
+          "title": "广汽丰田升级「厂家三担责」，不卡每年 3 万公里，磕碰起火也由厂家兜底｜广州车展",
+          "link": "https://www.ifanr.com/1695800?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "不再有「小字免责」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T08:31:22+00:00",
+          "published_ts": 1795768282.0,
+          "category": "general"
+        },
+        {
+          "title": "10.28 万元起，800V、后驱、原厂改装，零跑 Lafa5 想做一辆有趣的电动车丨广州车展",
+          "link": "https://www.ifanr.com/1695788?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "零跑 Lafa5 不是零跑卖得最好的车，但一定是零跑最有趣的车。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T08:21:35+00:00",
+          "published_ts": 1795767695.0,
+          "category": "general"
+        },
+        {
+          "title": "30.98 万元起！换装 800V 和三联屏的问界新 M7 亮相｜广州车展",
+          "link": "https://www.ifanr.com/1695775?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "问界的拳头产品迎来换代。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T08:01:41+00:00",
+          "published_ts": 1795766501.0,
+          "category": "general"
+        },
+        {
+          "title": "多地启动2027年度城乡居民医保集中缴费，上支付宝可一站式办理",
+          "link": "https://www.leiphone.com/category/industrynews/10xzmIYoNuG6p12b.html",
+          "summary": "近日，多地陆续启动2027年度城乡居民基本医疗保险集中缴费。参保居民可打开支付宝，在首页搜索“社保缴费”或“医保缴费”，进入参保地缴费页面，按提示完成缴费。 城乡居民基本医疗保险主要面向未参加职工基本医疗保险的城乡居民，采取个人缴费与财政补助相结合的筹资方式，其中财政补助承担主要部分，是减轻居民医疗费用负担的重要制度保障。 参保的居民在当地集中缴费期内按规定缴费，可自2027年1月1日起享受新年度居民医保待遇。除新生儿等特殊群体外，未在集中参保期内参保或未连续参保的人员，待遇等待期按参保地规定执行。 近年来，随着数字化服务不断深入民生领域，城乡居民医保缴费的线上办理渠道也在持续完善。支付宝已对接各地税务部门，为居民提供线上缴费服务。缴费完成后，居民可在线查询缴费结果。当地缴费页面如提供电子缴费凭证下载服务，居民可按提示下载保存。在已开通代缴服务的地区，居民也可通过支付宝为家人缴费。 集中缴",
+          "source": "雷峰网",
+          "published": "2026-11-27T07:43:00+00:00",
+          "published_ts": 1795765380.0,
+          "category": "general"
+        },
+        {
+          "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+          "link": "https://www.qbitai.com/2026/11/513320.html",
+          "summary": "淡泊名利，实至名归🎉",
+          "source": "量子位",
+          "published": "2026-11-27T07:39:18+00:00",
+          "published_ts": 1795765158.0,
+          "category": "general"
+        },
+        {
+          "title": "30.98 万元起，领克 900L 想让大七座 SUV 重新成为主流丨广州车展",
+          "link": "https://www.ifanr.com/1695759?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "大车就是要七座。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T07:29:45+00:00",
+          "published_ts": 1795764585.0,
+          "category": "general"
+        },
+        {
+          "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+          "link": "https://www.qbitai.com/2026/11/513305.html",
+          "summary": "网页App双端亮出聊天账单",
+          "source": "量子位",
+          "published": "2026-11-27T07:29:10+00:00",
+          "published_ts": 1795764550.0,
+          "category": "general"
+        },
+        {
+          "title": "华为全新一代巨鲸电池平台：电池安全，不能只看新车出厂的那一天",
+          "link": "https://www.ifanr.com/1695738?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "安全是个警钟长鸣的事情。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "source": "爱范儿",
+          "published": "2026-11-27T07:06:54+00:00",
+          "published_ts": 1795763214.0,
+          "category": "general"
+        },
+        {
           "title": "SAP将因人工智能而裁员，1万个岗位将进行重组：报道",
           "link": "https://analyticsindiamag.com/ai-news/sap-considers-10000-job-cuts-across-departments-in-ai-restructuring-report",
           "summary": "拟议的重组可能影响到 SAP 全球员工总数的至少 9%，重点是产品、工程和销售团队。",
           "source": "Analytics India Magazine",
           "published": "2026-11-27T06:55:40+00:00",
           "published_ts": 1795762540.0,
+          "category": "general"
+        },
+        {
+          "title": "广州车展最美概念车 纵横R700开启新派越野新时代",
+          "link": "https://www.leiphone.com/category/industrynews/BMsSJPgf18A1GxuH.html",
+          "summary": "2026广州车展首日，广州车展最美旗舰奢旅SUV纵横R700迎来全球首秀。作为纵横品牌立足全球用户长途奢旅、世界探索新需求打造的新派越野新时代，纵横R700在电气化、智能化浪潮下，以“旗舰奢旅SUV”的产品定位、广州车展最美概念车的美誉，汇聚纵横美学、华为乾崑智驾ADS、鸿蒙座舱、纵横GAIA全领域智控系统和宁德时代全球领先的动力电池，让户外探索更游刃有余、都市通勤更从容体面、全家远途更可靠舒适。 作为纵横“R序列”首款车型，纵横R700的“R”取自Refined（精致的）、Radiant（璀璨的）、Rare（珍稀的），三层内核共同诠释了R系列的产品基调与价值主张，与开拓探索边界的G系列、拓展户外玩法的F系列形成明显区隔；“700”则代表其同属“700家族”，拥有相同的高端定位。 当下，高端用户生活方式正在转变，需求也随之多元。城市通勤要从容体面，全家远途要可靠舒适，户外探索要全地形能力，",
+          "source": "雷峰网",
+          "published": "2026-11-27T06:46:00+00:00",
+          "published_ts": 1795761960.0,
           "category": "general"
         },
         {
@@ -830,285 +1100,6 @@
           "source": "爱范儿",
           "published": "2026-11-27T03:06:45+00:00",
           "published_ts": 1795748805.0,
-          "category": "general"
-        },
-        {
-          "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
-          "link": "https://www.qbitai.com/2026/11/513091.html",
-          "summary": "倒计时两周，报名从速！",
-          "source": "量子位",
-          "published": "2026-11-27T02:56:03+00:00",
-          "published_ts": 1795748163.0,
-          "category": "general"
-        },
-        {
-          "title": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！",
-          "link": "https://www.qbitai.com/2026/11/513087.html",
-          "summary": "11月26日，“乾崑生态 共赴热爱”华为乾崑生态大会在广州南沙体育馆举行。",
-          "source": "量子位",
-          "published": "2026-11-27T02:19:12+00:00",
-          "published_ts": 1795745952.0,
-          "category": "general"
-        },
-        {
-          "title": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
-          "link": "https://www.qbitai.com/2026/11/513075.html",
-          "summary": "担心课题被AI抢先，该怎么办？",
-          "source": "量子位",
-          "published": "2026-11-27T02:03:10+00:00",
-          "published_ts": 1795744990.0,
-          "category": "general"
-        },
-        {
-          "title": "派早报：1Password 确认内部系统遭入侵等",
-          "link": "https://sspai.com/post/119632",
-          "summary": "索尼 WH-1000XM4C 无线降噪耳机国行正式发售，微软公布 Windows Server 2028 功能清理计划等。 查看全文",
-          "source": "少数派",
-          "published": "2026-11-27T00:27:38+00:00",
-          "published_ts": 1795739258.0,
-          "category": "general"
-        },
-        {
-          "title": "早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记",
-          "link": "https://www.ifanr.com/1695611?utm_source=rss&utm_medium=rss&utm_campaign",
-          "summary": "· 腾讯《英雄联盟电竞经理》将于明年 1 月停运 · 小米中国区总裁王晓雁将分管生态链与大家电 · 华为引望发布星驰辅助驾驶，预计明年搭载到逾 10 款新车 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-27T00:08:31+00:00",
-          "published_ts": 1795738111.0,
-          "category": "general"
-        },
-        {
-          "title": "英伟达暂停向东南亚出货芯片",
-          "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-          "summary": "英伟达已告知制造合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚出货服务器，因为美国正在加紧努力，阻止人工智能芯片进入中国。",
-          "source": "TechCrunch AI",
-          "published": "2026-11-26T20:03:54+00:00",
-          "published_ts": 1795723434.0,
-          "category": "general"
-        },
-        {
-          "title": "据报道，英伟达暂停向4个东南亚国家/地区出货AI服务器",
-          "link": "https://analyticsindiamag.com/ai-news/nvidia-halts-ai-server-shipments-to-4-southeast-asian-countries-report",
-          "summary": "此举是在美国加强出口管制之后采取的，该管制针对中国通过该地区的云计算提供商获得先进人工智能芯片。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-26T17:10:28+00:00",
-          "published_ts": 1795713028.0,
-          "category": "general"
-        },
-        {
-          "title": "《侠盗猎车手6》证明了效率为何不是一种美德",
-          "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-          "summary": "在Anthropic上市的同一天，一款精心打造的拟人化视频游戏成为了有史以来最成功的娱乐产品之一。",
-          "source": "TechCrunch AI",
-          "published": "2026-11-26T16:00:00+00:00",
-          "published_ts": 1795708800.0,
-          "category": "general"
-        },
-        {
-          "title": "在SaaS末日的威胁下，9大赌注决定了印度IT业2026年的AI战略",
-          "link": "https://analyticsindiamag.com/it-services/threatened-by-saaspocalypse-9-bets-defined-indian-its-ai-strategy-in-2026",
-          "summary": "从TCS和Anthropic到Wipro和ServiceNow，九大联盟展示了印度IT公司如何在人工智能价值链中定位自己。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-26T12:58:19+00:00",
-          "published_ts": 1795697899.0,
-          "category": "general"
-        },
-        {
-          "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
-          "link": "https://www.qbitai.com/2026/11/512981.html",
-          "summary": "还得是科班尖子生",
-          "source": "量子位",
-          "published": "2026-11-26T12:39:08+00:00",
-          "published_ts": 1795696748.0,
-          "category": "general"
-        },
-        {
-          "title": "黄仁勋 Deepfakes 是新的热门 AI 技术",
-          "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-          "summary": "黄仁勋正在伊维萨岛举办派对。在 Instagram 上一段观看次数近 600 万次的视频中，这位英伟达前首席执行官在拥挤的俱乐部里跳舞，手里拿着香槟酒杯，仍然穿着他标志性的黑色皮夹克。突然，从他身后出现了爱丽丝·黄（Alice Huang）——一位中国科技高管，疑似间谍……",
-          "source": "The Verge AI",
-          "published": "2026-11-26T12:29:18+00:00",
-          "published_ts": 1795696158.0,
-          "category": "general"
-        },
-        {
-          "title": "美团闪购联合行业头部品牌成立水果即时零售品质联盟，发起好商品计划“即鲜时刻”",
-          "link": "https://www.leiphone.com/category/industrynews/sbqPRelP6WnxXGKx.html",
-          "summary": "11月25日，美团闪购在上海举办即时零售鲜果行业沙龙。沙龙上，美团闪购联合行业头部水果品牌与供应链伙伴，正式成立水果即时零售品质联盟（以下简称“品质联盟”），并发起好商品计划“即鲜时刻”。品质联盟首批成员包括核心产区品牌商与头部供应链伙伴鑫荣懋、本来果坊、光明白茅岭农场、齐峰果业，以及百果园、切果NOW、鲜果派对等十余家优质零售商家。美团闪购将在商品开发、交付标准提升、经营方法优化三方面向联盟成员开放全套助力举措，推动行业商品品质与食安标准升级，助力鲜果行业共同把握即时零售新渠道、新商品力带来的增长新机遇。 水果行业正处在向新渠道和商品力要增长动力的转型期。在沙龙的圆桌讨论环节，中国食品土畜进出口商会果菜部副主任卢昆以进口水果为例，指出近三年其销售金额增速远远落后于数量增速，水果行业的“暴利时代”已经结束。而在2026年，美团闪购平台数据显示，水果品类的活跃用户规模正持续增长，老客季度复购",
-          "source": "雷峰网",
-          "published": "2026-11-26T11:24:00+00:00",
-          "published_ts": 1795692240.0,
-          "category": "general"
-        },
-        {
-          "title": "蔚来到底应该值多少钱？",
-          "link": "https://www.leiphone.com/category/transportation/BqLLEaO4CLvE4tnG.html",
-          "summary": "蔚来到底应该值多少钱？要回答这个问题，不妨先看蔚来内部一个看似反直觉的决定。 2025年的某一天，蔚来内部正在进行一场头脑风暴，聊到了一件放在过去很难发生的事：放弃高通旗舰芯片的首发。 当时，研发已经投入，各项准备也已就绪。但团队最后算了一笔账，决定先不上了。 “ 万事俱备，只等首发，但我们算了一下，当时 CBU 已经深入人心了，算那笔账算不过来，所以我们真的不搞了。 ”Ted （蔚来产品体验高级副总裁李天舒）回忆道。 这件事放在以前，蔚来势必要争取到首发。 蔚来是一家以技术创新为底色的公司，早在 2023 年就已有覆盖 12 个领域的全栈技术布局。对这样的公司来说，首发很有吸引力。何况研发的钱已经花了，临门一脚停下来，并不容易。 但 Ted 说，高通骁龙 8397 旗舰芯片晚上一年，为公司省下了几十亿元。 座舱团队也因此腾出手，把精力放在 NOMI Intelligence 4.0 上。",
-          "source": "雷峰网",
-          "published": "2026-11-26T11:23:00+00:00",
-          "published_ts": 1795692180.0,
-          "category": "general"
-        },
-        {
-          "title": "美团：预计到今年年底，妙手酒店版·既白将覆盖近40万商家",
-          "link": "https://www.leiphone.com/category/industrynews/V8W9L3t0BkCtFZPu.html",
-          "summary": "11月25日，在中国饭店业高质量大会上，美团披露酒店AI经营工具的最新进展。美团预计，到2026年底，妙手酒店版·既白将覆盖近40万家酒店商家。商家可通过美团经营后台进入既白AI查看周边市场变化、分析门店经营情况，也可以使用日常语言提问，获取价格建议和经营参考，降低商家使用门槛。 据美团酒店数据，11月以来，既白AI活跃商家的线上交易额较未使用商家高7%；深度使用既白商家的订单量同比增长22%。随着AI工具融入酒店商家的日常经营，商家使用既白的场景正从数据查询延伸至经营决策。 商家用既白AI做经营诊断周环比增40% 进入淡季，商家进行酒店价格调整的频率有所下降，但经营者用既白AI问询价格建议和经营诊断的需求反而增加。美团酒店数据显示，国庆后，既白价格建议周查询量环比增长30%，经营诊断周查询量增长40%，市场热点信息周查询量增长53%。 对于酒店经营者来说，淡季的难点不只是订单减少，更在于",
-          "source": "雷峰网",
-          "published": "2026-11-26T11:20:00+00:00",
-          "published_ts": 1795692000.0,
-          "category": "general"
-        },
-        {
-          "title": "纯电大型SUV最高评级，乐道L90中保研五项指数全优",
-          "link": "https://www.leiphone.com/category/industrynews/E8w1PtM3ODZyeSyF.html",
-          "summary": "2026年11月26日，中国保险汽车安全指数（C-IASI）公布最新一批碰撞测试结果。作为被抽检车型，乐道L90实现五大指数全优，获中保研纯电大型SUV最高评级。 作为国内汽车安全领域最具公信力的权威评价体系之一，中保研由保险行业主导发起，标准严苛且与消费者利益深度绑定。本次测试中，乐道L90在车内乘员安全、车外行人安全、车辆辅助安全三项指数中均斩获G+最高评级；在新能源汽车专项、耐撞性与维修经济性两项指数中均获G级优秀评价，成为30万级大型SUV中唯一全优车型。 依托蔚来十二年纯电技术的积累，乐道L90整车开发同步满足中欧双五星标准，通过了62项超越行业标准的碰撞验证工况。此前，乐道L90已斩获中汽中心C-NCAP、C-GCAP、C-ICAP三项五星“大满贯”；此次再获中保研「5G」全优，成为行业首个获得双权威机构安全大满贯认证的大型SUV。 权威安全认证之外，乐道L90也展现出卓越的全",
-          "source": "雷峰网",
-          "published": "2026-11-26T10:43:00+00:00",
-          "published_ts": 1795689780.0,
-          "category": "general"
-        },
-        {
-          "title": "维谛技术（Vertiv）拓展800 VDC电源产品组合，面向人工智能数据中心",
-          "link": "https://analyticsindiamag.com/ai-news/vertiv-expands-800-vdc-power-portfolio-for-ai-data-centres",
-          "summary": "随着运营商探索用于人工智能基础设施的更高电压系统，该扩展产品组合涵盖了机架、计算舱和数据机房部署。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-26T10:24:33+00:00",
-          "published_ts": 1795688673.0,
-          "category": "general"
-        },
-        {
-          "title": "下一个重大的IT服务机会可能是将人工智能投入运营",
-          "link": "https://analyticsindiamag.com/ai-features/the-next-big-it-services-opportunity-could-be-operationalising-ai",
-          "summary": "随着企业希望将人工智能投入运营，而不是仅仅将其视为一种技术，Straive 正将自己定位在咨询、分析和业务流程运营的交叉点上。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-26T09:56:08+00:00",
-          "published_ts": 1795686968.0,
-          "category": "general"
-        },
-        {
-          "title": "42个州的总检察长正试图阻止Character.AI出售用户的聊天记录",
-          "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-          "summary": "42个州的总检察长组成联盟，正试图阻止Character.AI在进行第11章破产程序期间出售用户数据。在大量几乎相同的新闻稿中，多位州总检察长指控该公司计划拍卖“超过2100万个美国账户的私人聊天记录——[…]",
-          "source": "The Verge AI",
-          "published": "2026-11-26T09:54:40+00:00",
-          "published_ts": 1795686880.0,
-          "category": "general"
-        },
-        {
-          "title": "一届世界杯，看清小红书的选择",
-          "link": "https://www.leiphone.com/category/industrynews/I9n3Ot7WBKtyNiwS.html",
-          "summary": "6 月 16 日凌晨，亚特兰大球场爆出本届世界杯开赛以来最大冷门。 赛前几乎所有人都认定，身价 13 亿的夺冠热门选手西班牙会轻松碾压对手。可命运，永远眷顾默默坚守、执着追梦之人。 40 岁佛得角门将沃齐尼亚一战封神。面对费兰・托雷斯、拉波尔特等西班牙名将潮水般的攻势，他不断高接低挡，数次极限扑救，最终零封强敌，为国家拿下队史世界杯首分。 这位传奇门将的赛场表现令全世界泪目，其社交账号一夜暴涨数百万粉丝。一夜之间，人口不足 60 万的西非小国佛得角，被全世界所知。 拿下美加墨世界杯转播权的小红书，平台数据更加直观体现了这波现象级热度。 截至 6 月 16 日 12 点，小红书 #佛得角 相关搜索量比赛前暴涨 2700 倍，是去年同期的 7000 倍。除了搜索比赛相关的内容，网友也开始在小红书大量搜索：佛得角是什么国家、佛得角在哪、佛得角旅游。 而在更早之前披露的开赛数据报告显示，开赛首日，",
-          "source": "雷峰网",
-          "published": "2026-11-26T08:00:00+00:00",
-          "published_ts": 1795680000.0,
-          "category": "general"
-        },
-        {
-          "title": "月活破百万、同比暴涨93.9%：淘宝成为韩国增速最快的电商平台",
-          "link": "https://www.leiphone.com/category/industrynews/7P7TJEooLlAQxqGH.html",
-          "summary": "韩国数据研究机构WiseApp·Retail于11月24日发布的数据显示，今年10月，淘宝在韩国的月活跃用户数首次突破百万，达到102万，创历史新高，同比增长93.9%，成为韩国增速最快的电商平台。据七麦数据显示，目前淘宝也在韩国App Store下载榜位居第五，成为下载量最高的中国电商应用。 WiseApp·Retail的报告分析称，在韩国逛淘宝的用户中，近三分之二是二三十岁的年轻人。20至29岁用户占比最高，达39.8%，30至39岁用户占比为24.1%，这一比例远高于同行，也令淘宝在韩国具备更高的消费增长潜力。 热门IP周边是一些韩国年轻人打开淘宝的理由。去年夏天，在首尔明洞的泡泡玛特门店，想买一只Labubu，得先上网抽签。今年，随着Chiikawa（吉伊卡哇）在韩国走红，当地的周边越来越难买，一些韩国网友开始在社交媒体上分享淘宝购物攻略。从收货地址怎么填、正品怎么认，到用什么方式",
-          "source": "雷峰网",
-          "published": "2026-11-26T05:46:00+00:00",
-          "published_ts": 1795671960.0,
-          "category": "general"
-        },
-        {
-          "title": "月活破百万、同比暴涨93.9%：淘宝成为韩国增速最快的电商平台",
-          "link": "https://www.leiphone.com/category/industrynews/lG9YiDwwPFAq8Udm.html",
-          "summary": "韩国数据研究机构WiseApp·Retail于11月24日发布的数据显示，今年10月，淘宝在韩国的月活跃用户数首次突破百万，达到102万，创历史新高，同比增长93.9%，成为韩国增速最快的电商平台。据七麦数据显示，目前淘宝也在韩国App Store下载榜位居第五，成为下载量最高的中国电商应用。 WiseApp·Retail的报告分析称，在韩国逛淘宝的用户中，近三分之二是二三十岁的年轻人。20至29岁用户占比最高，达39.8%，30至39岁用户占比为24.1%，这一比例远高于同行，也令淘宝在韩国具备更高的消费增长潜力。",
-          "source": "雷峰网",
-          "published": "2026-11-26T05:45:00+00:00",
-          "published_ts": 1795671900.0,
-          "category": "general"
-        },
-        {
-          "title": "SpaceX获准部署100万颗AI数据中心卫星",
-          "link": "https://analyticsindiamag.com/ai-news/spacex-gets-us-nod-to-deploy-1-million-satellites-for-orbital-ai-data-centres",
-          "summary": "尽管亚马逊、Viasat和天文学家提出异议，但美国联邦通信委员会（FCC）仍批准了SpaceX的Starmind卫星星座，以支持轨道计算。",
-          "source": "Analytics India Magazine",
-          "published": "2026-11-26T05:34:34+00:00",
-          "published_ts": 1795671274.0,
-          "category": "general"
-        },
-        {
-          "title": "荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类",
-          "link": "https://www.ifanr.com/1695371?utm_source=rss&utm_medium=rss&utm_campaign",
-          "summary": "有诚意、有新意 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-26T04:28:11+00:00",
-          "published_ts": 1795667291.0,
-          "category": "general"
-        },
-        {
-          "title": "首款鸿蒙小折叠电脑正式发布，生态创新重新定义折叠电脑体验",
-          "link": "https://www.ifanr.com/1695349?utm_source=rss&utm_medium=rss&utm_campaign",
-          "summary": "未来随着更多生态伙伴的加入，鸿蒙电脑还将持续解锁更多场景化创新，为用户带来兼顾便携与高效的桌面生产力新选择。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-26T04:04:24+00:00",
-          "published_ts": 1795665864.0,
-          "category": "general"
-        },
-        {
-          "title": "OPPO Reno17 Pro 体验：在手机里装进一只猫，分几步？",
-          "link": "https://www.ifanr.com/1691222?utm_source=rss&utm_medium=rss&utm_campaign",
-          "summary": "哈基米，浮出机面 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-26T04:02:09+00:00",
-          "published_ts": 1795665729.0,
-          "category": "general"
-        },
-        {
-          "title": "专访《影之刃零》梁其伟：我想让年轻人觉得，中国功夫很酷丨多样性公司",
-          "link": "https://www.ifanr.com/1695256?utm_source=rss&utm_medium=rss&utm_campaign",
-          "summary": "中国功夫，也能很酷 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-26T03:48:29+00:00",
-          "published_ts": 1795664909.0,
-          "category": "general"
-        },
-        {
-          "title": "我用AI做了一张两千年的中国历史地图",
-          "link": "https://sspai.com/post/117510",
-          "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。 查看全文",
-          "source": "少数派",
-          "published": "2026-11-26T03:13:53+00:00",
-          "published_ts": 1795662833.0,
-          "category": "general"
-        },
-        {
-          "title": "从婴儿睡袋到时尚孕产服饰，Nest Designs在 Shopee 找到了新机会",
-          "link": "https://www.leiphone.com/category/industrynews/3zKYASqpb5PEKGwC.html",
-          "summary": "柔软的面料、利落的剪裁，带着几分运动休闲服的时尚感。如果不看产品介绍，你或许很难第一眼认出，这是一件专为孕期和产后女性设计的服装。 对于越来越多的年轻妈妈而言，怀孕并不意味着要放弃原本的穿衣风格。她们既想要舒适自在，也希望在特殊的人生阶段，依然能够穿得好看、有个性。 这份看似细微的消费需求，却让母婴品牌 Nest Designs 在东南亚收获了意外惊喜。 过去，婴幼儿睡袋、睡衣一直是品牌的核心产品。出乎品牌预期的是 ，推出仅两年左右的孕产服饰，已成为东南亚市场的重要品类之一 ：在品牌全球其他主要市场，孕产服饰的销售额占比通常只有 8%至 10%，而在东南亚，这一比例最高可达 25%至 30%。 更让品牌坚定信心的是，即便产品定价明显高于大众同类商品，依然有消费者愿意为品质和设计买单。2026 年，Nest Designs 正式入驻 Shopee，在平台客户经理的协助和多项经营资源支持下，逐",
-          "source": "雷峰网",
-          "published": "2026-11-26T02:40:00+00:00",
-          "published_ts": 1795660800.0,
-          "category": "general"
-        },
-        {
-          "title": "一月只开工两三天！奥迪中国回应长春工厂产能利用率跌破10%；Anthropic创始人兄妹上市次日套现37亿；小鹏智驾拟开启全球付费订阅",
-          "link": "https://www.leiphone.com/category/zaobao/TaYBp58OxQSPMi10.html",
-          "summary": "要闻提示 1.Anthropic创始人兄妹上市次日套现37亿元 2.一月只开工两三天，被称“幽灵工厂”！奥迪中国回应长春工厂产能利用率跌破10% 3.打脸自己？小鹏图灵AI智驾将于明年二季度开启全球收费订阅 4.希音披露美国FTC调查最新进展：将向美国财政部支付1亿美元 5.B站陈睿回应短剧冲击：我们没受影响 6.华为将展示自研HBM、逻辑堆叠等技术 7.特朗普称美国政府入股英伟达犹未为晚，自称早就想过但一直没说 8.韩国SK集团董事长崔泰源前妻拒绝“9440亿韩元和解建议” 今日头条 Anthropic创始人兄妹上市次日套现37亿元 11 月 25 日消息，据报道，根据监管文件，人工智能巨头Anthropic的首席执行官兼联合创始人达里奥·阿莫代伊（Dario Amodei）在该公司上市次日出售了价值2.804亿美元的股票。与此同时，他的妹妹兼公司联合创始人丹妮拉·阿莫代伊（Daniel",
-          "source": "雷峰网",
-          "published": "2026-11-26T01:30:00+00:00",
-          "published_ts": 1795656600.0,
-          "category": "general"
-        },
-        {
-          "title": "A社曝光了一份AI整顿职场魔幻实录，请甩给你那位沉迷AI提效的老板",
-          "link": "https://www.ifanr.com/1691748?utm_source=rss&utm_medium=rss&utm_campaign",
-          "summary": "你用公司的 AI 省下的时间是公司的 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-26T01:28:30+00:00",
-          "published_ts": 1795656510.0,
-          "category": "general"
-        },
-        {
-          "title": "早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」",
-          "link": "https://www.ifanr.com/1695128?utm_source=rss&utm_medium=rss&utm_campaign",
-          "summary": "· Counterpoint：2027 年全球智能手机出货量预计再降 6%，2028 年反弹 6% · 理想汽车 2026 年 Q3 营收 288.34 亿元，经营与自由现金流转正 · 26.99 万元起，宝马首款国产新世代车型 iX3 上市并开始交付 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "source": "爱范儿",
-          "published": "2026-11-26T00:02:57+00:00",
-          "published_ts": 1795651377.0,
           "category": "general"
         }
       ]
